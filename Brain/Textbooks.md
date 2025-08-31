@@ -14,8 +14,7 @@ Progit
 
 
 AI:
-Kochenderfer - Algorithms for Decision Making
-[Algorithms ](https://algorithmsbook.com/files/dm.pdf "https://algorithmsbook.com/files/dm.pdf")
+Kochenderfer - [Algorithms for Decision Making](https://algorithmsbook.com/files/dm.pdf "https://algorithmsbook.com/files/dm.pdf")
 
 General:
 Hamming - The Art of Doing Science and Engineering 0/30
