@@ -6,7 +6,7 @@ Robotics:
 Sciavicco - Robotics: Modelling, Planning and Control 0/12
 
 Computer Vision:
-Szeliski - Computer Vision: Algoritms and Applications 2nd Edition
+Szeliski - Computer Vision: Algoritms and Applications 2nd Edition 0/14
 
 Software:
 Progit
