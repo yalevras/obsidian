@@ -22,11 +22,3 @@ Reddi - [Introduction to Machine Learning Systems](https://www.mlsysbook.ai/asse
 
 General:
 Hamming - The Art of Doing Science and Engineering 0/30
-
-hello
-
-
-Aaaaa aaaaa
-
-asdlkjaslkdjalkjdsa
-aaaaa
