@@ -10,7 +10,8 @@ Szeliski - Computer Vision: Algoritms and Applications 2nd Edition 0/14
 
 Software:
 Progit
-Nystrom - [Crafting Interpreters]
+Nystrom - [Crafting Interpreters](https://timothya.com/pdfs/crafting-interpreters.pdf)
+
 
 
 AI:
