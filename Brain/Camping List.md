@@ -27,3 +27,7 @@ Bags for garbage
 Tarp
 Rope
 Clothes
+
+
+
+do i need this anymore???
