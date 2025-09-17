@@ -3,4 +3,3 @@ Proprioceptive sensors acquire data on the internal status of the mechanical sys
 
 Robot manipulator consists of links and joints (rigid bodies and articulations). It has an arm that ensures mobility, a wrist for dexterity, and 
 
-aaa
