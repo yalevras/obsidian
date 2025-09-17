@@ -24,3 +24,6 @@ Huyen - [AI Engineering](https://github.com/chiphuyen/aie-book/blob/main/resourc
 
 General:
 Hamming - The Art of Doing Science and Engineering 0/30!pg.11
+
+
+https://immersivemath.com/ila/index.html
