@@ -4,4 +4,4 @@ https://www.ukrainianlanguage.org.uk/read/index.htm
 Ф І В А П Р О Л Д Ж Є
 Я Ч С М И Т Ь Б Ю
 
-Ґ = alt plus 
+Ґ = alt plus U (Г)
