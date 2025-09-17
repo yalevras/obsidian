@@ -15,7 +15,7 @@ alphabet = алфавіт, аьетка, азбука
 не - not
 ні - no
 па-па - bye! 
-ти - you 
-ха-ха - 
-чи - 
-що - 
+ти - you (informal singular)
+ха-ха - ha-ha!
+чи - whether, if, or
+що - what, that
