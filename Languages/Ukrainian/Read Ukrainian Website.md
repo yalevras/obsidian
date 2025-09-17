@@ -6,4 +6,4 @@ https://www.ukrainianlanguage.org.uk/read/index.htm
 
 Ґ = alt plus U (Г)
 
-alphabet = алфавіт, аьетка
+alphabet = алфавіт, аьетка, аз
