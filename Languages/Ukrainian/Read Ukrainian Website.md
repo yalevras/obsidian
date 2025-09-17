@@ -5,3 +5,5 @@ https://www.ukrainianlanguage.org.uk/read/index.htm
 Я Ч С М И Т Ь Б Ю
 
 Ґ = alt plus U (Г)
+
+alphabet = алфавіт
