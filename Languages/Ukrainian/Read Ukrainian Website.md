@@ -7,3 +7,11 @@ https://www.ukrainianlanguage.org.uk/read/index.htm
 Ґ = alt plus U (Г)
 
 alphabet = алфавіт, аьетка, азбука
+
+та - 
+ва - 
+це - 
+ле - 
+не - 
+ні - 
+па
