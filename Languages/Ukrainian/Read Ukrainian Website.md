@@ -8,14 +8,14 @@ https://www.ukrainianlanguage.org.uk/read/index.htm
 
 alphabet = алфавіт, аьетка, азбука
 
-та - 
-ва - 
-це - 
-ле - 
-не - 
-ні - 
-па-па - 
-ти - 
+та - and
+ва - you (formal and plural)
+це - this
+ле - where
+не - not
+ні - no
+па-па - bye! 
+ти - you 
 ха-ха - 
 чи - 
 що - 
