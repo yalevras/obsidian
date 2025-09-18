@@ -11,13 +11,11 @@ preceded by το, usually end in ο ι or μα
 se (ιν, ον, το, ατ) combines with το to make στο
 
 
-**είμαι**
-είμαι
-είσαι
-είναι
-είμαστε
-είστε
-είναι
+| **είμαι**<br>                                        | εγ  |
+| ---------------------------------------------------- | --- |
+| είμαι<br>είσαι<br>είναι<br>είμαστε<br>είστε<br>είναι |     |
+
+
 
 personal pronoun is omitted unless it is used with the verb to indicate contrast
 
