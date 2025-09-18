@@ -19,3 +19,4 @@ se (in, on, to, at) combines with to to make sto
 είστε
 είναι
 
+personal pronoun is omitted unless it is used with the verb to indicate contrast
