@@ -19,3 +19,5 @@ alphabet = алфавіт, аьетка, азбука
 ха-ха - ha-ha!
 чи - whether, if, or
 що - what, that
+
+Family
