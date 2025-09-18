@@ -20,3 +20,11 @@ se (in, on, to, at) combines with to to make sto
 είναι
 
 personal pronoun is omitted unless it is used with the verb to indicate contrast
+
+έγώ
+έσύ
+αύτος
+αύτή
+αύτό
+έμείς
+έσεί
