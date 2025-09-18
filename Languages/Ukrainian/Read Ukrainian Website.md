@@ -21,16 +21,18 @@ alphabet = алфавіт, аьетка, азбука
 що - what, that
 
 Family
-мама
-тато
-брат
-сестра
+мама - mother
+тато - father
+брат - brother
+сестра - sister
 дружина - wife
 лочка - daughter
 син
-бабуся
-дідусь
+бабуся - grandmother
+дідусь - grandfather
 дітн - children
 онук - grandson
 онука - granddaughter
 чоловік - husband
+дядько - uncle
+тітка - aunt
