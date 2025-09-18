@@ -28,4 +28,8 @@ personal pronoun is omitted unless it is used with the verb to indicate contrast
 αύτό
 έμείς
 έσείς
-αύ
+αύτοί
+αύτές
+αύτά
+
+We ask questions in revers
