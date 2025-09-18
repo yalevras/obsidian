@@ -1,12 +1,12 @@
 
 Greek nouns:
-masculine
+masculine - αρσενικό
 preceded by o, usually end in os, hs, or as
 
-feminine
+feminine - θηλυκό
 preceded by h, usually end in a h or is
 
-neuter
+neuter - ουδέτερο
 preceded by to, usually end in o i or ma
 se (in, on, to, at) combines with to to make sto
 
@@ -17,5 +17,5 @@ se (in, on, to, at) combines with to to make sto
 είναι
 είμαστε
 είστε
-εί
+είναι
 
