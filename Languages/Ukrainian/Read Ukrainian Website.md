@@ -27,7 +27,7 @@ Family
 сестра - sister
 дружина - wife
 лочка - daughter
-син
+син - son
 бабуся - grandmother
 дідусь - grandfather
 дітн - children
