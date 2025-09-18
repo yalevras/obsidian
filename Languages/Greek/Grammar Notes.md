@@ -1,14 +1,14 @@
 
 Greek nouns:
 masculine - αρσενικό
-preceded by o, usually end in os, hs, or as
+preceded by ο, usually end in ος, ης, or ας
 
 feminine - θηλυκό
-preceded by h, usually end in a h or is
+preceded by η, usually end in a η or ις
 
 neuter - ουδέτερο
-preceded by to, usually end in o i or ma
-se (in, on, to, at) combines with to to make sto
+preceded by το, usually end in o i or ma
+se (in, ον, το, ατ) combines with to to make sto
 
 
 **είμαι**
