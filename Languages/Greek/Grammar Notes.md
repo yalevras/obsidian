@@ -27,4 +27,5 @@ personal pronoun is omitted unless it is used with the verb to indicate contrast
 αύτή
 αύτό
 έμείς
-έσεί
+έσείς
+αύ
