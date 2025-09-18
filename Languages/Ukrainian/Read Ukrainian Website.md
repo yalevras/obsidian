@@ -25,11 +25,12 @@ Family
 тато
 брат
 сестра
-дружина
-лочка
+дружина - wife
+лочка - daughter
 син
 бабуся
 дідусь
-дітн
-онук
-онука
+дітн - children
+онук - grandson
+онука - granddaughter
+чоловік - husband
