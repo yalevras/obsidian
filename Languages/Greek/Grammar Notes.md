@@ -7,8 +7,8 @@ feminine - θηλυκό
 preceded by η, usually end in a η or ις
 
 neuter - ουδέτερο
-preceded by το, usually end in o i or ma
-se (in, ον, το, ατ) combines with to to make sto
+preceded by το, usually end in ο ι or μα
+se (ιν, ον, το, ατ) combines with το to make στο
 
 
 **είμαι**
