@@ -32,4 +32,5 @@ personal pronoun is omitted unless it is used with the verb to indicate contrast
 αύτές
 αύτά
 
-We ask questions in revers
+We ask questions in reverse!
+
