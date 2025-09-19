@@ -35,4 +35,15 @@ Family
 онука - granddaughter
 чоловік - husband
 дядько - uncle
-тітка - aunt                                                                                                                                           
+тітка - aunt
+
+
+метро	metro (underground)
+кур'єр	courier (messenger)
+роль	rôle (part)
+букет	bouquet (bunch of flowers)
+альтернатива	alternative (noun)
+нікотин	nicotine
+пірат	pirate
+алгебра	algebra
+шик	chic (style)
