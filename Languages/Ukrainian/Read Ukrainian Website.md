@@ -35,4 +35,4 @@ Family
 онука - granddaughter
 чоловік - husband
 дядько - uncle
-тітка - aunt
+тітка - aunt                                                                                                                                           
