@@ -59,7 +59,7 @@ Family
 суддя	judge
 
 північ North
-північ East
+схід East
 захід West
 південь South
 півдні Southern
