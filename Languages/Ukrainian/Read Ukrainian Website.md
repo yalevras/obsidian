@@ -47,3 +47,13 @@ Family
 пірат	pirate
 алгебра	algebra
 шик	chic (style)
+
+иття	life
+піддашшя	porch
+десятиріччя	decade, tenth anniversary
+волосся	hair
+спання	(process of) sleeping
+весілля	wedding
+лівобережжя	left bank (of river)
+передгроззя	(calm) before the storm
+суддя	judge
