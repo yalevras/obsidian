@@ -84,12 +84,3 @@ Uzhhorod is the center for the Transcarpathian/Zakarpattia oblast
 
 
 
-метро	metro (underground)
-кур'єр	courier (messenger)
-роль	rôle (part)
-букет	bouquet (bunch of flowers)
-альтернатива	alternative (noun)
-нікотин	nicotine
-пірат	pirate
-алгебра	algebra
-шик	chic (style)
