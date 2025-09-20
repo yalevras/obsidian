@@ -1,5 +1,5 @@
 
-Greek nouns:
+[[Greek]] nouns:
 masculine - αρσενικό
 preceded by ο, usually end in ος, ης, or ας
 
