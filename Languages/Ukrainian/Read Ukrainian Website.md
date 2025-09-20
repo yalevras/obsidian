@@ -91,3 +91,8 @@ Uzhhorod is the center for the Transcarpathian/Zakarpattia oblast
 острів	island
 
 стоматолог dentist
+
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+|**я**|**ти**|**він  <br>вона  <br>воно**|**ми**|**ви**|**вони**|
+|**I**|**you  <br>**(informal singular)|**he  <br>she  <br>it**|**we  <br>**|**you  <br>**(formal or plural|**they**|
