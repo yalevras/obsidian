@@ -92,7 +92,16 @@ Uzhhorod is the center for the Transcarpathian/Zakarpattia oblast
 
 стоматолог dentist
 
-|   |   |   |   |   |   |
-|---|---|---|---|---|---|
-|**я**|**ти**|**він  <br>вона  <br>воно**|**ми**|**ви**|**вони**|
-|**I**|**you  <br>**(informal singular)|**he  <br>she  <br>it**|**we  <br>**|**you  <br>**(formal or plural|**they**|
+|       |                                  |                             |              |                                |          |
+| ----- | -------------------------------- | --------------------------- | ------------ | ------------------------------ | -------- |
+| **я** | **ти**                           | **він  <br>вона  <br>воно** | **ми**       | **ви**                         | **вони** |
+| **I** | **you  <br>**(informal singular) | **he  <br>she  <br>it**     | **we  <br>** | **you  <br>**(formal or plural | **they** |
+міняти	change
+читися learn
+обирати choose
+вважати believe
+керувати	lead
+привітати welcome
+створити	будувати
+вирішувати	думати
+дозволяти	починати
