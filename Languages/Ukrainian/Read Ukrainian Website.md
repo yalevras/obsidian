@@ -89,3 +89,5 @@ Uzhhorod is the center for the Transcarpathian/Zakarpattia oblast
 село	village
 столиця	capital
 острів	island
+
+стоматолог dentist
