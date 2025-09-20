@@ -84,3 +84,8 @@ Uzhhorod is the center for the Transcarpathian/Zakarpattia oblast
 
 
 
+країна	country
+місто	town/city
+село	village
+столиця	capital
+острів	island
