@@ -1,5 +1,0 @@
-[[July 6th, 2025]]
-
-Today I woke up and I went to work. I got there at like 8:50. The whole morning was so frustrating because I was a little lost in the cfs code and Nathan was not at work yet (Mariia and Johnathan are on vacation). After he arrived I was taught how to run scripts on the edu rover and I am now doing some testing with the driving script. Mitchell and I had a really good conversation about mental health and he's gonna send me some resources I can use to help with my anxiety and OCD. It was honestly such a good conversation and it was great to be vulnerable about it.
-
-Anyways I had my CAN-RGX meeting today and it went alright but a little late. I then got on call with Matthew and he watched me play persona 5 for a bit and then we went on minecraft in which we went to look for botanica flowers for like an hour. It was fun. I think it is getting better. Him and I had a great conversation through text today. It's tough because I'm trying to move on but he's being extremely nice and it just makes it hurt a little worse. We'll see what happens next.
