@@ -108,3 +108,9 @@ Uzhhorod is the center for the Transcarpathian/Zakarpattia oblast
 думати think
 дозволяти let
 починати begin
+бачити	to see
+працювати	to work 
+читати	to read
+народитися	to be born
+боятися	to be afraid
+відкриватися	to open (as in "the door opened")
