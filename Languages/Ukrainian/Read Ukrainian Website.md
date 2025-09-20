@@ -102,6 +102,9 @@ Uzhhorod is the center for the Transcarpathian/Zakarpattia oblast
 вважати believe
 керувати	lead
 привітати welcome
-створити	будувати
-вирішувати	думати
-дозволяти	починати
+створити	create
+будувати build
+вирішувати decide
+думати think
+дозволяти let
+починати begin
