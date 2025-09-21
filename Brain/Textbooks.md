@@ -20,6 +20,7 @@ AI:
 Kochenderfer - [Algorithms for Decision Making](https://algorithmsbook.com/files/dm.pdf "https://algorithmsbook.com/files/dm.pdf")
 Reddi - [Introduction to Machine Learning Systems](https://www.mlsysbook.ai/assets/downloads/Machine-Learning-Systems.pdf)
 Huyen - [AI Engineering](https://github.com/chiphuyen/aie-book/blob/main/resources.md)
+https://udlbook.github.io/udlbook/
 
 
 General:
