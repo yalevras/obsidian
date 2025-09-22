@@ -37,3 +37,20 @@ Bayer pattern:
 Chromatic aberration:
 ![[Pasted image 20250922113222.png]]![[Pasted image 20250922113227.png]]
 ![[Pasted image 20250922113235.png]]
+
+
+
+
+block diagram of faultry
+
+if it never comes what happens
+
+distance driven not time based
+
+wait until things get updated so things that are yellow don’t get moved into my nimal region of 10 cells in the beginning
+
+60 cm
+
+
+
+![[Pasted image 20250922113342.png]]
