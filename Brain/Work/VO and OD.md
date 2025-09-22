@@ -33,3 +33,7 @@ Pose:
 ROI: region of interest
 
 Bayer pattern:
+![[Pasted image 20250922113212.png]]
+Chromatic aberration:
+![[Pasted image 20250922113222.png]]![[Pasted image 20250922113227.png]]
+![[Pasted image 20250922113235.png]]
