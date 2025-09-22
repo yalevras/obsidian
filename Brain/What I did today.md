@@ -4,3 +4,4 @@
 09-19-2025: npr, SO MUCH UKRAINIAN
 09-20-2025: cleaned my room a bit bruh
 09-21-2025: CAN-RGX proposal, ukrainian present tense and some reading, 1984 1-8
+09-22-2025
