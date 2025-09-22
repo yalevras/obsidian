@@ -4,3 +4,5 @@ my ci_lab stuff is NOT the issue with my asp script stuff there is something wro
 to do:
 - charge rover and pack it up tomorrow
 - rover pause (probably do this wednesday once misst is more open and mitchell is in stratford)
+- msi compression script, msi download script
+- nsp unit tests
