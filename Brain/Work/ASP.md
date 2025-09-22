@@ -1,5 +1,3 @@
-# ASP
-
 Compiling asp:
 
 make cfs like normal
@@ -189,7 +187,7 @@ power cycle cams
 
 ANY NISA COMMAND YOU ARE GOING TO RECEIVE YOU WILL RECEIVE 2 ACKS, have two waits
 
-![image.png](attachment:07bef1e5-12e9-426d-a951-6f9ee15fe4b5:image.png)
+![[Pasted image 20250922111807.png]]
 
 **Summary of Past Two Weeks:**
 
@@ -204,3 +202,5 @@ NISA Bug Fixes:
 - for the drive_lrm.asp script, i have a plan for rearranging the script that should save 7 seconds if od is enabled, 22 seconds if vo is enables, and 2 seconds if both
 - i have helped mitchell a bit with some cfs and yamcs issues he was having with misst
 - the mount for the last camera test with andreas is made, but when i helped mariia do the testing last time, i did not have any of the commands or locations of where i should save data, and was also not 100% sure about the setup as well as how to calibrate the sensors in the curtain room
+
+![[Pasted image 20250922111755.png]]
