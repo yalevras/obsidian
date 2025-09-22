@@ -16,3 +16,6 @@ to do:
 - rover pause (probably do this wednesday once misst is more open and mitchell is in stratford)
 - msi compression script, msi download script
 - nsp unit tests
+
+
+Sept. 23rd
