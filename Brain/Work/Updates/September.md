@@ -17,5 +17,5 @@ to do:
 - msi compression script, msi download script
 - nsp unit tests
 
-
 Sept. 23rd
+helped mitchell debug a bunch, helped ishan debug stuff with the transfer from 49->56, then helped mit
