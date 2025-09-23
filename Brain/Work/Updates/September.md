@@ -18,4 +18,8 @@ to do:
 - nsp unit tests
 
 Sept. 23rd
-helped mitchell debug a bunch, helped ishan debug stuff with the transfer from 49->56, then helped mit
+helped mitchell debug a bunch, helped ishan debug stuff with the transfer from 49->56, then helped mitchell pack up the rover, went through the whole checklist and now moving on to doing stuff on 56
+to do:
+- rover pause -> wednesday
+- msi compression script, msi download script
+- nsp unit tests
