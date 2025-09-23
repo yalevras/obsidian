@@ -4,5 +4,5 @@
 09-19-2025: npr, SO MUCH UKRAINIAN
 09-20-2025: cleaned my room a bit bruh
 09-21-2025: CAN-RGX proposal, ukrainian present tense and some reading, 1984 1-8
-09-22-2025:
-09-23-2025: 50 japanese flashcard
+09-22-2025: 1984 9-15
+09-23-2025: 60 japanese flashcard
