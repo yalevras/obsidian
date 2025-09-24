@@ -27,3 +27,7 @@ to do:
 Sept. 24th
 morning: nsp unit tests, familiarize with rover pause (DONE), msi compression script
 afternoon: try out rover pause in lab
+- IT WORKS I CAN SEE HOW LONG WE HAVE DRIVEN SINCE THE LAST OD CYCLE WHICH IS SO GOOD
+- next steps are to:
+	- try to delay od and make it detect longer
+	- speed up how fast we are going to induce things
