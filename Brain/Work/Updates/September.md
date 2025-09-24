@@ -23,3 +23,6 @@ to do:
 - rover pause -> wednesday
 - msi compression script, msi download script
 - nsp unit tests
+
+Sept. 24th
+morning: nsp unit tests, familiarize with rover pause, msi compression script
