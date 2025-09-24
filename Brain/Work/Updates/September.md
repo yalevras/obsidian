@@ -34,3 +34,4 @@ afternoon: try out rover pause in lab
 	- speed up how fast we are going to induce things
 		- slowed down and still works
 - rover pausing works for distance now, i want to show Johnathan next and talk about the yellow field at the beginning. currently i have a condition in the rover pausing to not look at the other condition right now. curious if they work together
+- ok last thing i did was try to do a final change i think the pause fla
