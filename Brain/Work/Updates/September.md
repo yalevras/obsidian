@@ -25,4 +25,5 @@ to do:
 - nsp unit tests
 
 Sept. 24th
-morning: nsp unit tests, familiarize with rover pause, msi compression script
+morning: nsp unit tests, familiarize with rover pause (DONE), msi compression script
+afternnon: try out rover pause in lab
