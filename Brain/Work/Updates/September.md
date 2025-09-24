@@ -30,4 +30,7 @@ afternoon: try out rover pause in lab
 - IT WORKS I CAN SEE HOW LONG WE HAVE DRIVEN SINCE THE LAST OD CYCLE WHICH IS SO GOOD
 - next steps are to:
 	- try to delay od and make it detect longer
+		- DONE
 	- speed up how fast we are going to induce things
+		- slowed down and still works
+- rover pausing works for distance now, i want to show Johnathan next and talk about the yellow field at the beginning. currently i have a condition in the rover
