@@ -25,7 +25,7 @@ to do:
 - nsp unit tests
 
 Sept. 24th
-morning: nsp unit tests, familiarize with rover pause (DONE), msi compression script
+morning: nsp unit tests (DONE), familiarize with rover pause (DONE), msi compression script
 afternoon: try out rover pause in lab
 - IT WORKS I CAN SEE HOW LONG WE HAVE DRIVEN SINCE THE LAST OD CYCLE WHICH IS SO GOOD
 - next steps are to:
@@ -34,4 +34,6 @@ afternoon: try out rover pause in lab
 	- speed up how fast we are going to induce things
 		- slowed down and still works
 - rover pausing works for distance now, i want to show Johnathan next and talk about the yellow field at the beginning. currently i have a condition in the rover pausing to not look at the other condition right now. curious if they work together
-- ok last thing i did was try to do a final change i think the pause fla
+- ok last thing i did was try to do a final change i think the pause flag was not being set back after a new od result was detected so i added that but when i tried it out i got an invalid ekf out flag error so i'm going to try again tomorrow
+
+Sept. 25th
