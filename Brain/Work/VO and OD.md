@@ -54,3 +54,126 @@ wait until things get updated so things that are yellow don’t get moved into m
 
 
 ![[Pasted image 20250922113342.png]]
+
+
+
+
+THIS WORKS
+
+bool LOC_DriveTask_CheckPauseConditions(void)
+
+{
+
+    OS_MutSemTake(LOC_SharedData.mutex);
+
+    // could add this as a LOC_SharedData maybe should so we don't need to recompute
+
+    //if (od_result_shift != 0){
+
+    //printf("OD_RESULT_SHIFT: %d\n", od_result_shift);
+
+    //}
+
+    //if (LOC_DrvTaskData.OD_Map[10] != 0){
+
+    //printf("OD_MAP: %d\n", LOC_DrvTaskData.OD_Map[10]);
+
+    //}
+
+    //if (LOC_SharedData.pause_flag != 0){
+
+    //printf("PAUSE_FLAG: %d\n", LOC_SharedData.pause_flag);
+
+    //}
+
+    bool od_new = LOC_SharedData.od_new;
+
+    bool donotexecute = 1;
+
+  
+
+    if (od_new){
+
+        printf("!!!!! THERE IS A NEW OD RESULT !!!!!");
+
+    }
+
+    LOC_SharedData.od_new = false;
+
+    //if (od_new)
+
+    //{
+
+        U_Pose image_trigger_pose = LOC_SharedData.od_image_trigger_pose[OD_IMG_TRIGGER_QUEUE_SIZE-1];
+
+        U_Pose current_pose = LOC_SharedData.rover_pose;
+
+        int8_t temp_shift = od_result_shift2;
+
+        od_result_shift2 = (int)(0.5 + LOC_OD_CAM_TO_ROVER_FRONT_DIST + Vec3_DistToPoint(image_trigger_pose.pos, current_pose.pos, Quat_FwdAxis(current_pose.rot))/LOC_OD_MAP_RESOLUTION);
+
+    //}
+
+    if (od_result_shift2 != temp_shift){
+
+        printf("!!!!!!!!!! CURRENT OD RESULT SHIFT: %d", od_result_shift2);
+
+        }
+
+    if (od_result_shift2 > 6) {
+
+        printf("paused because od_result_shift > 6");
+
+        LOC_SharedData.pause_flag = true;
+
+    }
+
+    else if (LOC_DrvTaskData.OD_Map[10] == LOC_OD_MAP_UNKNOWN && donotexecute == 0){
+
+        // Notionally this works??
+
+  
+
+        printf("paused because about to enter path unknown");
+
+        LOC_SharedData.pause_flag = true;
+
+        /* Recenter the OD map on us */
+
+        LOC_DriveTask_RecenterODMap();
+
+  
+
+        /* If there is a new OD output, modify list entries at the corresponding distances based on the safety estimates for roughness, slope, and coverage. */
+
+        if (od_new)
+
+        {
+
+            printf("Updating OD map!!!!\n");
+
+            LOC_Status update_status = LOC_DriveTask_UpdateOdMap(false, 0.0f);
+
+            if (update_status != LOC_STATUS_OK)
+
+            {
+
+                printf("Something aint right chief\n");
+
+                return false;
+
+            }
+
+        } /* End: if(od_new) */
+
+    }
+
+    else {
+
+        LOC_SharedData.pause_flag = false;
+
+    }
+
+    OS_MutSemGive(LOC_SharedData.mutex);
+
+}
