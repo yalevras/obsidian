@@ -69,3 +69,5 @@ Mats
 Propane
 Alcohol?
 Toothbrush
+Garbage bags
+Lots of water
