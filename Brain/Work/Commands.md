@@ -4,6 +4,8 @@ ftpput -u root -p root -P 21 10.0.0.2 /yanni/cpu2.tar.gz /mnt/data/data/yanni/cp
 
 make distclean && make prep && make && make install && cd build/exe && tar -czf cpu1.tar.gz cpu1/ && tar -czf cpu2.tar.gz cpu2/
 
+make distclean && make prep && make ENABLE_UNIT_T && make install && cd build/exe && tar -czf cpu1.tar.gz cpu1/ && tar -czf cpu2.tar.gz cpu2/
+
 make ENABLE_UNIT_TESTS=true prep make make install
 
 ./pcdu_tlm -b 0 -c 2 -t v && ./pcdu_tlm -b 0 -c 3 -t v && ./pcdu_tlm -b 1 -c 3 -t v && ./pcdu_tlm -b 1 -c 4 -t v && ./pcdu_tlm -b 1 -c 5 -t v
