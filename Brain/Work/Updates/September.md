@@ -39,3 +39,5 @@ afternoon: try out rover pause in lab
 Sept. 25th
 - just looking at unit steps until 10, then i'm gonna work on the last bit of rover pausing stuff
 - after that i'll go back to unit testing, and maybe after that work on the msi compression once misst is free
+- okay so it worked!!!!! i have rover pausing working in both cases but it was having some issues so i'll need to make it more robust later but this is a good start for now
+
