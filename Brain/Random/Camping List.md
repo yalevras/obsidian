@@ -71,3 +71,5 @@ Alcohol?
 Toothbrush
 Garbage bags
 Lots of water
+Book
+Olive oil
