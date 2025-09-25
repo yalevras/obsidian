@@ -37,3 +37,5 @@ afternoon: try out rover pause in lab
 - ok last thing i did was try to do a final change i think the pause flag was not being set back after a new od result was detected so i added that but when i tried it out i got an invalid ekf out flag error so i'm going to try again tomorrow
 
 Sept. 25th
+- just looking at unit steps until 10, then i'm gonna work on the last bit of rover pausing stuff
+- after that i'll go back to unit testing, and maybe after that work on the msi compression once misst is free
