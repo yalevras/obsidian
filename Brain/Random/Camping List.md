@@ -55,7 +55,6 @@ Mats
 3 chairs
 Propane
 
-Blanket
-Wipes
+Pillow
 Bug spray
 Toothbrush
