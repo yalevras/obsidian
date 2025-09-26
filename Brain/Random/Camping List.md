@@ -45,19 +45,17 @@ Hotdogs
 Chocolate
 Graham crackers
 Dinner otw up
+Alcohol
+
 Cooler
+
 Coleman
 Tarp
-Flashlight
-Bin with cooking stuff
-Wipes
-Bug spray
-Clothes
 Mats
 3 chairs
 Propane
-Alcohol?
+
+Blanket
+Wipes
+Bug spray
 Toothbrush
-Garbage bags
-Lots of water
-Book
