@@ -65,3 +65,12 @@ change in os-impl-posix-dl-loader.c
 OS_DEBUG(”Error loading shared library: %s\n”, dlerror());
 
 to printf
+
+
+192.168.0.2
+
+ethernet debug port
+telnet 192.168.0.100
+puts me on payload
+telnet 10.0.0.1
+then conf
