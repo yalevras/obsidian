@@ -2,7 +2,7 @@ ftpput -u root -p root -P 21 10.0.0.1 /yanni/cpu1.tar.gz /mnt/data/data/yanni/cp
 
 ftpput -u root -p root -P 21 10.0.0.2 /yanni/cpu2.tar.gz /mnt/data/data/yanni/cpu2.tar.gz
 
-ftpput -u root -p root -P 21 10.0.0.2 /yanni/msi_img_data_
+ftpput -u root -p root -P 21 10.0.0.2 /yanni/msi_img_data_full.aspe /mnt/data/data/yanni/msi_img_data_full.aspe
 
 make distclean && make prep && make && make install && cd build/exe && tar -czf cpu1.tar.gz cpu1/ && tar -czf cpu2.tar.gz cpu2/
 
