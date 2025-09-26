@@ -36,7 +36,7 @@ do i need this anymore???
 
 
 Food:
-Alcohol
+
 
 Coleman
 Tarp
