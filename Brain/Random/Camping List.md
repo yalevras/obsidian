@@ -36,18 +36,7 @@ do i need this anymore???
 
 
 Food:
-Bacon
-Lettuce
-Deli meat
-Potatoes
-Carrots
-Hotdogs
-Chocolate
-Graham crackers
-Dinner otw up
 Alcohol
-
-Cooler
 
 Coleman
 Tarp
