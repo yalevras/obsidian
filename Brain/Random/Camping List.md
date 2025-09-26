@@ -50,7 +50,6 @@ Coleman
 Tarp
 Flashlight
 Bin with cooking stuff
-Paper towel
 Wipes
 Bug spray
 Clothes
@@ -62,4 +61,3 @@ Toothbrush
 Garbage bags
 Lots of water
 Book
-Olive oil
