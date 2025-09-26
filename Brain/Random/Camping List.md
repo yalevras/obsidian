@@ -60,3 +60,4 @@ Bug spray
 Toothbrush
 Orange shoes
 Marshmallow sticks
+Coat
