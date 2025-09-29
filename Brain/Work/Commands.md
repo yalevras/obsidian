@@ -68,14 +68,19 @@ OS_DEBUG(”Error loading shared library: %s\n”, dlerror());
 
 to printf
 
-
+Getting into the rover
 192.168.0.2
 
 ethernet debug port
 telnet 192.168.0.100
 puts me on payload
 telnet 10.0.0.1
-then conf
+then conf files, lrm-comm-app or csys (network canadensys test 2g)
+
+for lrm-comm-app
+next you go onto nuc in lab
+connect to lrm-comm-app, keep laptop on regular network to build
+and then telnet into the rover and run yamcs from the nuc in the lab
 
 
 
