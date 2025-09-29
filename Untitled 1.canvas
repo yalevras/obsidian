@@ -1,13 +1,12 @@
 {
 	"nodes":[
-		{"id":"2745c4d7c9895af0","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""},
 		{"id":"8b476bd1021f6f57","x":20,"y":-100,"width":250,"height":60,"type":"text","text":"POBC"},
 		{"id":"1459e6f40f910dbc","x":-340,"y":-100,"width":250,"height":60,"type":"text","text":"HKOBC"},
-		{"id":"6104fc68b16a2573","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""},
-		{"id":"cb8b1d7a691016f1","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""},
-		{"id":"2e18e801fffa82c0","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""},
-		{"id":"b38021b098a62bdd","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""},
-		{"id":"67c5eccec21a460d","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Starboard Stereo"}
+		{"id":"2745c4d7c9895af0","x":-390,"y":130,"width":250,"height":60,"type":"text","text":"Port Stereo"},
+		{"id":"b38021b098a62bdd","x":-390,"y":200,"width":250,"height":60,"type":"text","text":"Haz Cam"},
+		{"id":"cb8b1d7a691016f1","x":20,"y":60,"width":250,"height":60,"type":"text","text":"Starboard Pano"},
+		{"id":"2e18e801fffa82c0","x":20,"y":130,"width":250,"height":60,"type":"text","text":"Port Pano"},
+		{"id":"67c5eccec21a460d","x":-340,"y":60,"width":250,"height":60,"type":"text","text":"Starboard Stereo"}
 	],
 	"edges":[
 		{"id":"79543f904e0c3d90","fromNode":"1459e6f40f910dbc","fromSide":"right","toNode":"8b476bd1021f6f57","toSide":"left"},
