@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"8b476bd1021f6f57","x":20,"y":-100,"width":250,"height":60,"type":"text","text":"POBC"},
 		{"id":"1459e6f40f910dbc","x":-340,"y":-100,"width":250,"height":60,"type":"text","text":"HKOBC"},
-		{"id":"cb8b1d7a691016f1","x":20,"y":60,"width":250,"height":60,"type":"text","text":"Starboard Pano\n-a 18 -b "},
+		{"id":"cb8b1d7a691016f1","x":20,"y":60,"width":250,"height":60,"type":"text","text":"Starboard Pano\n-a 18 -b 1 -c 5"},
 		{"id":"2e18e801fffa82c0","x":20,"y":130,"width":250,"height":60,"type":"text","text":"Port Pano\n-a 20 -b 0 -c 2"},
 		{"id":"67c5eccec21a460d","x":-340,"y":60,"width":250,"height":60,"type":"text","text":"Starboard Stereo \n-a 16 -b 0 -c 3"},
 		{"id":"2745c4d7c9895af0","x":-340,"y":130,"width":250,"height":60,"type":"text","text":"Port Stereo\n-a 17 -b 1 -c 4"},
