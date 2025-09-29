@@ -81,6 +81,9 @@ for lrm-comm-app
 next you go onto nuc in lab
 connect to lrm-comm-app, keep laptop on regular network to build
 and then telnet into the rover and run yamcs from the nuc in the lab
+the .env file is in ~/yamcs/csysyamcsserver
+
+INSTA
 
 
 
