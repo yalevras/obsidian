@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"2745c4d7c9895af0","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""},
+		{"id":"8b476bd1021f6f57","x":20,"y":-100,"width":250,"height":60,"type":"text","text":"POBC"},
+		{"id":"1459e6f40f910dbc","x":-340,"y":-100,"width":250,"height":60,"type":"text","text":"HKOBC"},
+		{"id":"6104fc68b16a2573","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""},
+		{"id":"cb8b1d7a691016f1","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""},
+		{"id":"2e18e801fffa82c0","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""},
+		{"id":"b38021b098a62bdd","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""},
+		{"id":"67c5eccec21a460d","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Starboard Stereo"}
+	],
+	"edges":[
+		{"id":"79543f904e0c3d90","fromNode":"1459e6f40f910dbc","fromSide":"right","toNode":"8b476bd1021f6f57","toSide":"left"},
+		{"id":"3bd7ce975f293053","fromNode":"8b476bd1021f6f57","fromSide":"left","toNode":"1459e6f40f910dbc","toSide":"right","label":"CAN"}
+	]
+}
