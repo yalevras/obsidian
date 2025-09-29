@@ -83,7 +83,12 @@ connect to lrm-comm-app, keep laptop on regular network to build
 and then telnet into the rover and run yamcs from the nuc in the lab
 the .env file is in ~/yamcs/csysyamcsserver
 
-INSTA
+YAMCS_IP=40.40.40.59
+YAMCS_PORT_TC=1234
+REMOTE_IP=40.40.40.59
+CLPS_MANAGER_IP=40.40.40.3
+
+then telnet 40.40.40.3 into two obcs
 
 
 
