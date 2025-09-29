@@ -12,6 +12,8 @@ make distclean && make ENABLE_UNIT_TESTS=true prep && make install && cd build/e
 
 make ENABLE_UNIT_TESTS=true prep make make install
 
+microcom -s 921600 /dev/ttyUSB0 (port pano)
+
 ./pcdu_tlm -b 0 -c 2 -t v && ./pcdu_tlm -b 0 -c 3 -t v && ./pcdu_tlm -b 1 -c 3 -t v && ./pcdu_tlm -b 1 -c 4 -t v && ./pcdu_tlm -b 1 -c 5 -t v
 
 make distclean && make prep && make && make install && cd build/exe && tar -czf cpu1.tar.gz cpu1/ && tar -czf cpu2.tar.gz cpu2/ && cd .. && cd arm-cortexa8_neon-linux-gnueabi/cpu1_lrm/apps/asp && cp asp_script_api.aspec ~/yanni/scripts/ && cd ~/yanni/scripts/obc && cp messages/* . && aspc asp_script_api.aspec init_script.asp && aspc asp_script_api.aspec load_comms_tbls.asp && aspc asp_script_api.aspec init_cams.asp && aspc asp_script_api.aspec take_img.asp && aspc asp_script_api.aspec take_img_full.asp && aspc asp_script_api.aspec drive_lrm.asp && aspc asp_script_api.aspec waypoint_drive.asp && cp *.aspe ../../cfs_draco/build/exe/cpu1/cf/ && cd ../../cfs_draco/build/exe && tar -czf cpu1.tar.gz cpu1/
