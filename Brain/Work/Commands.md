@@ -76,3 +76,7 @@ telnet 192.168.0.100
 puts me on payload
 telnet 10.0.0.1
 then conf
+
+
+
+![[Pasted image 20250929084419.png]]
