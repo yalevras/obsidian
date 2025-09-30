@@ -1,0 +1,2 @@
+
+gather info about airbnb
