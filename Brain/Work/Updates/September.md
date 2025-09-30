@@ -41,3 +41,9 @@ Sept. 25th
 - after that i'll go back to unit testing, and maybe after that work on the msi compression once misst is free
 - okay so it worked!!!!! i have rover pausing working in both cases but it was having some issues so i'll need to make it more robust later but this is a good start for now
 
+
+September 30th
+OKAY
+failedPOBC
+
+if i run Allen's script by itself it works fine and the txt file is there but when I do it in my script it is not there?!!!
