@@ -25,10 +25,12 @@ Cryostat training
 3 Harnesses
 
 Locomotion Table Fixes
-
+- committed
 OD Data Populating
-
+- committed
 OD Rover Pausing
+- not committed
+- 
 
 CI Lab App Cleanup
 
