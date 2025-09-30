@@ -37,4 +37,4 @@ Download and compress ASP MSI scripts
 NSP Unit Tests
 - not done
 Camera Boot Times
-- complete
+- completed, not sent to Johnathan yet
