@@ -46,4 +46,4 @@ September 30th
 OKAY
 failedPOBC
 
-if i run Allen's script by itself it works fine and the txt file is there but when I do it in my script it is not there?!!!
+if i run Allen's script by itself it works fine and the txt file is there but when I do it in my script it is not there?!!!!! i must be calling it wrong look at that tomorrow
