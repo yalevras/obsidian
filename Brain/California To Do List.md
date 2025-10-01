@@ -20,3 +20,4 @@ Clothes
 - [ ] Toothpaste
 - [ ] Shampoo
 - [ ] Conditioner
+- [ ] Deodorant
