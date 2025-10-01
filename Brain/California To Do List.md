@@ -1,4 +1,5 @@
-
+- [ ] Buy something at YYZ
+- [ ] Buy something at LAX
 
 
 PACK
