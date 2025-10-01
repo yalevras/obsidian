@@ -47,3 +47,13 @@ OKAY
 failedPOBC
 
 if i run Allen's script by itself it works fine and the txt file is there but when I do it in my script it is not there?!!!!! i must be calling it wrong look at that tomorrow
+
+
+
+msi-single.asp
+Max current: 50%
+LED selections: A=4 B=5
+Exposures: [50.0, 100.0, 200.0], total time: 350.000000 ms
+
+*** ERROR ***
+Result 0xFB, pc=0x000066E
