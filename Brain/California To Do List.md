@@ -16,3 +16,7 @@ Clothes
 - [ ] Black small shirt
 - [ ] Other tight fitting shirt
 - [ ] Go shopping thursday
+- [ ] Toothbrush
+- [ ] Toothpaste
+- [ ] Shampoo
+- [ ] Conditioner
