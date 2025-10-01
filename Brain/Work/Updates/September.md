@@ -60,3 +60,6 @@ Result 0xFB, pc=0x000066E
 
 
 ![[Pasted image 20251001134354.png]]
+
+
+check if we modify nisa table to download by commands and not ftp does it work if we go over the usb and not the rs422
