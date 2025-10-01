@@ -57,3 +57,6 @@ Exposures: [50.0, 100.0, 200.0], total time: 350.000000 ms
 
 *** ERROR ***
 Result 0xFB, pc=0x000066E
+
+
+![[Pasted image 20251001134354.png]]
