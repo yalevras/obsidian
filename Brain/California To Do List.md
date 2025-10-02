@@ -22,3 +22,4 @@ Clothes
 - [ ] Shampoo
 - [ ] Conditioner
 - [ ] Deodorant
+- [ ] Flip flops
