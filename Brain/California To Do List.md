@@ -23,3 +23,8 @@ Clothes
 - [ ] Conditioner
 - [ ] Deodorant
 - [ ] Flip flops
+
+Toiletries
+
+Other
+- [ ] book
