@@ -10,6 +10,7 @@ PACK
 - [ ] Flight info gathered on phone
 - [ ] Photos downloaded
 - [ ] Phone cleaned up
+- [ ] Flight outfit
 
 Clothes
 - [ ] Grey shorts
