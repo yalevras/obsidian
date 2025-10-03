@@ -13,19 +13,19 @@ PACK
 - [ ] Flight outfit
 
 Clothes
-- [ ] Grey shorts
-- [ ] Black shorts
-- [ ] Black small shirt
-- [ ] Other tight fitting shirt
-- [ ] Go shopping thursday
-- [ ] Toothbrush
-- [ ] Toothpaste
-- [ ] Shampoo
-- [ ] Conditioner
-- [ ] Deodorant
+- [x] Grey shorts
+- [x] Black shorts
+- [x] Black small shirt
+- [x] Other tight fitting shirt
+- [x] Go shopping thursday
+- [x] Toothbrush
+- [x] Toothpaste
+- [x] Shampoo
+- [x] Conditioner
+- [x] Deodorant
 - [ ] Flip flops
 
 Toiletries
 
 Other
-- [ ] book
+- [x] book
