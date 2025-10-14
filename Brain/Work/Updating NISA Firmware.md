@@ -28,4 +28,8 @@ on dropbox
 
 transfer the update file
 
-set the current time ()
+set the current time (needed for the diff update)
+set the time both on the obc and the camera itself
+date MMDDHHmmYYYY
+then ./nisa-set-time -d /dev/MSICam -a 21
+check date command on nisa
