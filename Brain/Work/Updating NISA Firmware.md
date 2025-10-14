@@ -14,4 +14,4 @@ IPv4
 regulators
 ./pcdu_toggle_channel -b 0 -c 5 -e 1
 diff update to the firmware, not a clean install of the firmware
-diff updates are a binary diff file for all of the things to change in the fi
+diff updates are a binary diff file for all of the things to change in the filesystem to make it the newer version. checks the integreity of the read oply protion of the camera. if you have changed something to be read write and you try to diff update it, it comes up with an issue.
