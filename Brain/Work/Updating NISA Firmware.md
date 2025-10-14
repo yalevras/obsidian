@@ -35,3 +35,5 @@ then ./nisa-set-time -d /dev/MSICam -a 21
 check date command on nisa
 upload the update file to /tmp/(difffile)
 ./nisa-apply-update -d /dev/MSICam -a 21 /tmp/(difffile)
+if it timed out, check update log to see if it update successfully
+do nisa-execute-command reboot instead of power cycle
