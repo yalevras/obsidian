@@ -33,3 +33,5 @@ set the time both on the obc and the camera itself
 date MMDDHHmmYYYY
 then ./nisa-set-time -d /dev/MSICam -a 21
 check date command on nisa
+upload the update file to /tmp/(difffile)
+./nisa-apply-update -d /dev/MSICam -a 21 /tmp/(difffile)
