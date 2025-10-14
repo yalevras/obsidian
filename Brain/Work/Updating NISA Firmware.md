@@ -24,3 +24,8 @@ nisa
 7
 1
 4
+on dropbox
+
+transfer the update file
+
+set the current time ()
