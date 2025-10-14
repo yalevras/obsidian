@@ -37,3 +37,4 @@ upload the update file to /tmp/(difffile)
 ./nisa-apply-update -d /dev/MSICam -a 21 /tmp/(difffile)
 if it timed out, check update log to see if it update successfully
 do nisa-execute-command reboot instead of power cycle
+call ident and see that the revision has updated
