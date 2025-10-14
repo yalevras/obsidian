@@ -34,8 +34,13 @@ Tuesday
 Wednesday
 7:45 Gym
 8:30 Work
-
+6:20 Physio
 
 Thursday
+7:45 Gym
+8:30 Work
+6:15 Haircut at Hairtree
 
 Friday
+7:45 Gym
+8:30 Work
