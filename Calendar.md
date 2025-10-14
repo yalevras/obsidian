@@ -46,3 +46,7 @@ Friday
 8:30 Work
 7:30 Suds say hi to friends
 8:30 Go out with Grace Quinn and Liam
+
+Saturday
+Corn Maze
+Chiara birthday
