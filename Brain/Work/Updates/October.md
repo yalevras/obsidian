@@ -8,4 +8,4 @@ The MSI script now works, I still have to push changes in the nisa.asp in messag
 
 Oct 15th, 2025
 Compression changes pushed.
-MSI script still works, talk to Allen in the morning about the download issue on the MSI because it is acting very weird. Also flatsat having several issues, sbn not really working, constant disconnects between the OBCs. When running my script the flatsat is 
+MSI script still works, talk to Allen in the morning about the download issue on the MSI because it is acting very weird. Also flatsat having several issues, sbn not really working, constant disconnects between the OBCs. When running my script the flatsat is taking forever and the script is taking 7x longer to run.
