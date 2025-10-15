@@ -24,12 +24,12 @@ Stomach issues
 
 To Do
 Tuesday
-7:45 Gym
-8:30 Work
+~~7:45 Gym~~
+~~8:30 Work~~
 5:00 Soccer
-7:00 EB Games
-7:45 Dinner
-8:00 Games with Matthew
+~~7:00 EB Games~~
+~~7:45 Dinner~~
+~~8:00 Games with Matthew~~
 
 Wednesday
 7:45 Gym
