@@ -16,4 +16,7 @@ Run my entire script from yamcs and see if i am still getting long wait times
 
 Oct 16th, 2025
 
-having two yamcs open was making th
+having two yamcs open was making the flatsat all laggy
+
+fix button on gui
+add nisa table to load button on gui and fix in js script
