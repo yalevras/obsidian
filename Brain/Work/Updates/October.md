@@ -13,3 +13,5 @@ MSI script still works, talk to Allen in the morning about the download issue on
 Run someone elses cfs and see if ur still getting the sbn issue
 
 Run my entire script from yamcs and see if i am still getting long wait times
+
+Oct 16th, 2025
