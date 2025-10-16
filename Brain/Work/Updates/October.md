@@ -20,3 +20,5 @@ having two yamcs open was making the flatsat all laggy
 
 fix button on gui
 add nisa table to load button on gui and fix in js script
+
+then join Allen in debugging nisa app
