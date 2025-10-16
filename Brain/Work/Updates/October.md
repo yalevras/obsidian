@@ -15,3 +15,5 @@ Run someone elses cfs and see if ur still getting the sbn issue
 Run my entire script from yamcs and see if i am still getting long wait times
 
 Oct 16th, 2025
+
+having two yamcs open was making th
