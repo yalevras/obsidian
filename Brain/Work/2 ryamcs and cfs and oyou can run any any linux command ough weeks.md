@@ -55,3 +55,9 @@ max 15 measures at a time 10 hz (should be getting 12.5 per second)
 
 
 
+locomotion when you run with nsp
+error enqueing packet -9
+nsp has queue depth from other apps to dump on the bus. has a timeout period. time to talk to the mcu
+
+we are sending small command, should be round trip exceedingly quick so we shouldnt be dropping packets on that front
+i think the queue depth is 10 command and at 10 hz we do all these things we a re probably sending like 12 commands to it at a
