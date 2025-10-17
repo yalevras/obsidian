@@ -34,3 +34,5 @@ Rust
 Compilers and Interpreters
 
 Clean Room
+- clean back dresser
+- clean two drawers
