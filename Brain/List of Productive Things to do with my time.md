@@ -2,6 +2,7 @@
 Piano
 - rude buster
 - eterna city
+- rustboro city
 - rachmaninoff prelude no 5 in g minor
 - rachmaninoff prelude no 2 in c sharp minor
 - chopin nocturne no 20 in c sharp minor
