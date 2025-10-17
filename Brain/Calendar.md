@@ -41,7 +41,9 @@ Thursday
 Friday
 7:45 Gym
 8:30 Work
-
+12:00 Service Ontario
+6:15 Park Downtown
+6:30 Meet up with Matthe
 7:00 Suds say hi to friends
 8:30 Go out with Grace Quinn and Liam
 
