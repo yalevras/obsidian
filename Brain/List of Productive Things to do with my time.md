@@ -31,6 +31,7 @@ French
 
 Rust
 - rust book online
+Java
 Compilers and Interpreters
 
 Clean Room
