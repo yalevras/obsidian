@@ -41,4 +41,17 @@ imu currently supports a bunch of different data rates. we run it at the slowed 
 
 we were reading slower than it would output and there would be issues
 
-it should be fine now which is why we picked this. it would be good to know or just support the sensor if theres any problems using a new data rate. check the imu cfs code, potentially change the rate at which things are read or buffer sizes, does it overwhelm imu cpu usage, serial drivers
+it should be fine now which is why we picked this. it would be good to know or just support the sensor if theres any problems using a new data rate. check the imu cfs code, potentially change the rate at which things are read or buffer sizes, does it overwhelm imu cpu usage, serial drivers?
+max 15 measures at a time 10 hz (should be getting 12.5 per second)
+
+
+
+
+
+
+
+
+
+
+
+
