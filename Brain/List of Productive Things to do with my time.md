@@ -27,3 +27,9 @@ Ukrainian
 French
 - read news articles
 - watch youtube
+
+Rust
+
+Compilers and Interpreters
+
+Clean Room
