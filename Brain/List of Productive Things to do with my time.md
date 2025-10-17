@@ -18,11 +18,11 @@ Bass
 Music Production
 - find a production software to use
 Greek
-- 
+- pdf
 Japanese
 - migaku
 Ukrainian
-
+- ukrainian online textbook
 Korean 
 - korean lessons online
 French
