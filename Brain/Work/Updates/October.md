@@ -27,4 +27,3 @@ Oct 16th
 To Do:
 - try running download image off of POBC
 - push gui changes
-- add compress and download image scripts to gui
