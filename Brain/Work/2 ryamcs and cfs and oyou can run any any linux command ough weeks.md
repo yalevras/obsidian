@@ -14,3 +14,6 @@ maxfilesize and maxfileage, once you reach either that size in bytes or has been
 
 app called deb (debug app) it is one file, it runs a bash session th
 
+through hamcs you can run anything like from nisa-execute-command.
+
+make it so that this bash shell is running as a different user, so that any time we are trying to run a certain com
