@@ -11,6 +11,8 @@ Piano
 - chopin nocturne no 20 in c sharp minor
 - chopin nocturne no 19 in e minor
 - debussy la plus que lente
+- debussy reverie
+- debussy reflets dans leau
 Bass
 - go get bass from Uncle Frank
 Music Production
