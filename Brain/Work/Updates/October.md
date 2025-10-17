@@ -27,3 +27,10 @@ Oct 16th
 To Do:
 - try running download image off of POBC
 - push gui changes
+
+
+
+push gui changes
+
+figure out asp in two directories in why its not working
+write instruction manual for msi scripts
