@@ -71,3 +71,16 @@ i think the queue depth is 10 command and at 10 hz we do all these things we a r
 
 
 nisa-app
+
+
+
+
+nisa camera interruption script
+what the nisa raw command structure is gonna look like 
+talk to allen
+how fclose to the end of the fixed time bootup cn we iterrupt that. if we can get that script written so we can acgtually do that
+
+
+
+
+
