@@ -30,7 +30,7 @@ French
 - watch youtube
 
 Rust
-
+- rust book online
 Compilers and Interpreters
 
 Clean Room
