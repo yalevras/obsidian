@@ -1,6 +1,5 @@
-
 Saturday Oct 18th corn maze
-Saturday Oct 25th Matthew and Naomi store
+Saturday Oct 25th Matthew and Naomi store, club in evening?
 Thursday October 30 Pinkpantheress concert
 Thursday October 30 Jenny’s Bday
 Friday Oct 31 HALLOWEEN
@@ -31,18 +30,19 @@ Tuesday
 
 Wednesday
 7:45 Gym
-8:30 Work
-6:20 Physio
+~~8:30 Work~~
+~~6:20 Physio~~
 
 Thursday
 7:45 Gym
-8:30 Work
-6:15 Haircut at Hairtree
+~~8:30 Work~~
+~~6:15 Haircut at Hairtree~~
 
 Friday
 7:45 Gym
 8:30 Work
-7:30 Suds say hi to friends
+
+7:00 Suds say hi to friends
 8:30 Go out with Grace Quinn and Liam
 
 Saturday
