@@ -16,4 +16,14 @@ app called deb (debug app) it is one file, it runs a bash session th
 
 through hamcs you can run anything like from nisa-execute-command.
 
-make it so that this bash shell is running as a different user, so that any time we are trying to run a certain com
+make it so that this bash shell is running as a different user, so that any time we are trying to run a certain command, put you into a different mode so that you are able to run the command
+OR a table with restricted command
+
+
+
+
+
+
+
+
+fm unit tests are DOEN but we dont know if they work (we think they do)
