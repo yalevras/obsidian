@@ -17,13 +17,14 @@ Bass
 - go get bass from Uncle Frank
 Music Production
 - find a production software to use
-
 Greek
-
+- 
 Japanese
-
+- migaku
 Ukrainian
 
+Korean 
+- korean lessons online
 French
 - read news articles
 - watch youtube
