@@ -22,3 +22,12 @@ fix button on gui
 add nisa table to load button on gui and fix in js script
 
 then join Allen in debugging nisa app
+
+Oct 16th
+To Do:
+- add nisa table to load button on gui
+- js changes
+- try running download image off of POBC
+- push science xls changes
+- push gui changes
+- add compress and download image scripts to gui
