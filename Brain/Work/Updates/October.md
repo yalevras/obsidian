@@ -34,3 +34,7 @@ push gui changes
 
 figure out asp in two directories in why its not working
 write instruction manual for msi scripts
+
+
+
+![[Pasted image 20251017160738.png]]
