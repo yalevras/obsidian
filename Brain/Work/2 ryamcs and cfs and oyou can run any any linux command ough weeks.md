@@ -38,3 +38,7 @@ cf ds and fm we have made changes to, check all of the nasa app unit tests and s
 
 
 imu currently supports a bunch of different data rates. we run it at the slowed data rate. there exists a  command to set a data rate.. currently we run at 125 hz?
+
+we were reading slower than it would output and there would be issues
+
+it should be fine now which is why we picked this. it would be good to know or just support the sensor if theres any problems using a new data rate. check the imu cfs code, potentially change the rate at which things are read or buffer sizes, does it overwhelm imu cpu usage, serial drivers
