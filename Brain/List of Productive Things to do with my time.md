@@ -17,3 +17,13 @@ Bass
 - go get bass from Uncle Frank
 Music Production
 - find a production software to use
+
+Greek
+
+Japanese
+
+Ukrainian
+
+French
+- read news articles
+- watch youtube
