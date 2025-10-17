@@ -28,3 +28,13 @@ OR a table with restricted command
 
 fm unit tests are DOEN but we dont know if they work (we think they do)
 cf ds and fm we have made changes to, check all of the nasa app unit tests and see if they are all good
+
+
+
+
+
+
+
+
+
+imu currently supports a bunch of different data rates. we run it at the slowed data rate. there exists a  command to set a data rate.. currently we run at 125 hz?
