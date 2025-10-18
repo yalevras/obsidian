@@ -38,3 +38,6 @@ personal pronoun is omitted unless it is used with the verb to indicate contrast
 We ask questions in reverse!
 
 **Lesson 4**
+the neuter article το becomes τα when plural
+
+if ends in :
