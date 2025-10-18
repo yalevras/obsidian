@@ -40,4 +40,4 @@ We ask questions in reverse!
 **Lesson 4**
 the neuter article το becomes τα when plural
 
-if ends in :
+if ends in:
