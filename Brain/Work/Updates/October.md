@@ -52,3 +52,8 @@ i started on debug changes
 i am trying to figure out how to change the user we run the shell with instead of being root but another user so we cannot run certain commands. i also want to get a table with commands we shouldn't be allowed to run
 
 we should run debug through es_start_app
+
+
+
+
+look a little into jenkins
