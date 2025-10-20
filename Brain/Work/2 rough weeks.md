@@ -1,21 +1,12 @@
 
-configuratble rolling buffers for telemetry being saved in ds (data storage app).
-
-table entries have pathname basename extension etc.....
-maxfilesize and maxfileage, once you reach either that size in bytes or has been opened for this many sections, it will close, wirte to the fiole system and close it. and open a new one. WE WANT A TABLE PARAMETER AND PER ENTRY TO BE ABLE TO SPECIFY a length of time maybe a number of bytes for after so long delete the older data (probably anumber of btes).for each app and science instrument you have this many megabytes in space. each gets a certain block of bugger space for telemetry
-
-
-
-
-
-
-
-
-
-app called deb (debug app) it is one file, it runs a bash session through yamcs and cfs and oyou can run any any linux command
-through hamcs you can run anything like from nisa-execute-command.
-
-make it so that this bash shell is running as a different user, so that any time we are trying to run a certain command, put you into a different mode so that you are able to run the command
+- DS app "rolling buffer" functionality
+	- configuratble rolling buffers for telemetry being saved in ds (data storage app).
+	- table entries have pathname basename extension etc.....
+	- maxfilesize and maxfileage, once you reach either that size in bytes or has been opened for this many sections, it will close, wirte to the fiole system and close it. and open a new one. WE WANT A TABLE PARAMETER AND PER ENTRY TO BE ABLE TO SPECIFY a length of time maybe a number of bytes for after so long delete the older data (probably anumber of btes).for each app and science instrument you have this many megabytes in space. each gets a certain block of bugger space for telemetry
+- debug application "extra safety" for certain commands? Maybe making the user not operate as "root" so they can't accidentally break things?
+	- app called deb (debug app) it is one file, it runs a bash session through yamcs and cfs and oyou can run any any linux command
+	- through hamcs you can run anything like from nisa-execute-command.
+	- make it so that this bash shell is running as a different user, so that any time we are trying to run a certain command, put you into a different mode so that you are able to run the command
 OR a table with restricted command
 
 
