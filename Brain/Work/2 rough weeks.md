@@ -19,26 +19,15 @@
 	- cf ds and fm we have made changes to, check all of the nasa app unit tests and see if they are all good
 - Test OBC cpu usage when setting the IMU to higher output rates
 	- imu currently supports a bunch of different data rates. we run it at the slowed data rate. there exists a  command to set a data rate.. currently we run at 125 hz?
-	- we were reading slower than it would output and there would be issuesit should be fine now which is why we picked this. it would be good to know or just support the sensor if theres any problems using a new data rate. check the imu cfs code, potentially change the rate at which things are read or buffer sizes, does it overwhelm imu cpu usage, serial drivers?
-max 15 measures at a time 10 hz (should be getting 12.5 per second)
-
-
-
-
-
-
-
-
-
-
-
-
-locomotion when you run with nsp
-error enqueing packet -9
-nsp has queue depth from other apps to dump on the bus. has a timeout period. time to talk to the mcu
-
-we are sending small command, should be round trip exceedingly quick so we shouldnt be dropping packets on that front
-i think the queue depth is 10 command and at 10 hz we do all these things we a re probably sending like 12 commands to it at a time and they are just dropping a few every few seconds
+	- we were reading slower than it would output and there would be issues
+	- it should be fine now which is why we picked this. it would be good to know or just support the sensor if theres any problems using a new data rate. check the imu cfs code, potentially change the rate at which things are read or buffer sizes, does it overwhelm imu cpu usage, serial drivers?
+	- max 15 measures at a time 10 hz (should be getting 12.5 per second)
+- Locomotion app dropped NSP packet when talking to the MCU
+	- locomotion when you run with nsp
+	- error enqueing packet -9
+	- nsp has queue depth from other apps to dump on the bus. has a timeout period. time to talk to the mcu
+	- we are sending small command, should be round trip exceedingly quick so we shouldnt be dropping packets on that front
+	- i think the queue depth is 10 command and at 10 hz we do all these things we a re probably sending like 12 commands to it at a time and they are just dropping a few every few seconds
 
 
 
