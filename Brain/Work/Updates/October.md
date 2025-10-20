@@ -38,3 +38,10 @@ write instruction manual for msi scripts
 
 
 ![[Pasted image 20251017160738.png]]
+
+
+
+
+Oct 20th
+Pull GUI changes to verify
+Get setup on 56
