@@ -28,24 +28,10 @@
 	- nsp has queue depth from other apps to dump on the bus. has a timeout period. time to talk to the mcu
 	- we are sending small command, should be round trip exceedingly quick so we shouldnt be dropping packets on that front
 	- i think the queue depth is 10 command and at 10 hz we do all these things we a re probably sending like 12 commands to it at a time and they are just dropping a few every few seconds
-
-
-
-
-
-
-
-
-
-nisa-app
-
-
-
-
-nisa camera interruption script
-what the nisa raw command structure is gonna look like 
-talk to allen
-how fclose to the end of the fixed time bootup cn we iterrupt that. if we can get that script written so we can actually do that
+- nisa camera interruption script
+	- what the nisa raw command structure is gonna look like 
+	- talk to allen
+	- how fclose to the end of the fixed time bootup cn we iterrupt that. if we can get that script written so we can actually do that
 
 
 
