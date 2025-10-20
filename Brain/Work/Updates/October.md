@@ -45,3 +45,10 @@ write instruction manual for msi scripts
 Oct 20th
 Pull GUI changes to verify
 Get setup on 56
+
+did those
+
+i started on debug changes
+i am trying to figure out how to change the user we run the shell with instead of being root but another user so we cannot run certain commands. i also want to get a table with commands we shouldn't be allowed to run
+
+we should run debug through es_start_app
