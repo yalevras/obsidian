@@ -1,1 +1,1 @@
-CFE_APP, 
+CFE_APP, /cf/deb.so, DEB_AppMain, DEB, 70, 
