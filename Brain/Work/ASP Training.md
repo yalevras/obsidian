@@ -11,4 +11,5 @@ symbols in python
 
 subset test
 
-python mu
+python multidimensional arrays
+
