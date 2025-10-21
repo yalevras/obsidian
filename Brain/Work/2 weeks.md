@@ -7,7 +7,7 @@
 	- app called deb (debug app) it is one file, it runs a bash session through yamcs and cfs and oyou can run any any linux command
 	- through hamcs you can run anything like from nisa-execute-command.
 	- make it so that this bash shell is running as a different user, so that any time we are trying to run a certain command, put you into a different mode so that you are able to run the command
-	- OR a table with restricted command
+	- ~~OR a table with restricted command~~
 - Look at making some of the apps that already have unit tests written "comprehensive" or see if they run in general  
 	- CF app  
 	- Data storage app  
