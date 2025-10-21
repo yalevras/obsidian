@@ -10,6 +10,7 @@
 	- ~~OR a table with restricted command~~
 		- CURRENT SOLUTION:
 			- table filters list of dangerous commands
+		- su?
 - Look at making some of the apps that already have unit tests written "comprehensive" or see if they run in general  
 	- CF app  
 	- Data storage app  
