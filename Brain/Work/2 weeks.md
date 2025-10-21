@@ -11,6 +11,8 @@
 		- CURRENT SOLUTION:
 			- table filters list of dangerous commands
 		- su?
+		- run it as a different user
+		- su can specify root user
 - Look at making some of the apps that already have unit tests written "comprehensive" or see if they run in general  
 	- CF app  
 	- Data storage app  
