@@ -8,6 +8,8 @@
 	- through hamcs you can run anything like from nisa-execute-command.
 	- make it so that this bash shell is running as a different user, so that any time we are trying to run a certain command, put you into a different mode so that you are able to run the command
 	- ~~OR a table with restricted command~~
+		- CURRENT SOLUTION:
+			- table filters list of dangerous commands
 - Look at making some of the apps that already have unit tests written "comprehensive" or see if they run in general  
 	- CF app  
 	- Data storage app  
