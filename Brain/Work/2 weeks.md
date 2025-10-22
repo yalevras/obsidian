@@ -10,6 +10,7 @@
 	- ~~OR a table with restricted command~~
 		- CURRENT SOLUTION:
 			- table filters list of dangerous commands
+			- WE log in as a debug user
 		- su?
 		- run it as a different user
 		- su can specify root user
