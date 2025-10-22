@@ -11,6 +11,7 @@
 		- CURRENT SOLUTION:
 			- table filters list of dangerous commands
 			- log in as debuguser and are unable to run root commands, not sure if we want multiple logins
+			- still need to add LogEvents for debugging
 		- su?
 		- run it as a different user
 		- su can specify root user
