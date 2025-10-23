@@ -12,6 +12,8 @@
 			- table filters list of dangerous commands
 			- log in as debuguser and are unable to run root commands, not sure if we want multiple logins
 			- still need to add LogEvents for debugging
+			- maybe do yamcs login command or something
+			- make it able to start a new shell with a new user without r
 		- su?
 		- run it as a different user
 		- su can specify root user
