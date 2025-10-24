@@ -34,6 +34,13 @@
 	- max 15 measures at a time 10 hz (should be getting 12.5 per second)
 		- so the max that i am getting is 19-20 measures at a time both with 250hz and 500hz which makes sense, despite increasing the maximum amount of measures to 500
 			- now going to try increasing the reading_buffer size
+	tried:
+	
+
+| MU_MAX_NUM_READINGS_PER_PACKET |     |
+| ------------------------------ | --- |
+|                                |     |
+
 - Locomotion app dropped NSP packet when talking to the MCU
 	- locomotion when you run with nsp
 	- error enqueing packet -9
