@@ -43,7 +43,7 @@
 | 2. IMU_RATE_MAX                        | 2000 | 3000    | 1        | 12  |     | 19  |
 | 3. IMU_SERIAL_MAX_PATH_LENGTH          | 20   | 40      | 1 2      |     |     | 19  |
 | 4. IMU_BUFFER_TIME                     | 5    | 10      | 1 2      | -   |     | -   |
-| 5. IMU_TASK_DELAY_MS                   | 5    | 2       | 1 2      | 12  |     |     |
+| 5. IMU_TASK_DELAY_MS                   | 5    | 2       | 1 2      | 12  |     | 47  |
 |                                        |      |         |          |     |     |     |
 |                                        |      |         |          |     |     |     |
 |                                        |      |         |          |     |     |     |
