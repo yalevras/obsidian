@@ -37,9 +37,10 @@
 	tried:
 	
 
-| MU_MAX_NUM_READINGS_PER_PACKET |     |
-| ------------------------------ | --- |
-|                                |     |
+|                                    | ORIG | CHANGED | RAN WITH | 125 |
+| ---------------------------------- | ---- | ------- | -------- | --- |
+| 1. IMU_MAX_NUM_READINGS_PER_PACKET |      |         |          |     |
+|                                    |      |         |          |     |
 
 - Locomotion app dropped NSP packet when talking to the MCU
 	- locomotion when you run with nsp
