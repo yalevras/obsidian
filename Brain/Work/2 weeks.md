@@ -45,7 +45,7 @@
 | 4. IMU_BUFFER_TIME                     | 5    | 10      | 1 2      | -   |     | -                                          |
 | 5. IMU_TASK_DELAY_MS                   | 5    | 2       | 1 2      | 12  | 25  | 47                                         |
 |                                        |      |         |          |     |     | ^ but reading array is not being populated |
-|                                        |      |         |          |     |     |                                            |
+| 6. IMU_TASK_DELAY_MS                   | 5    | 1       | 1 2      | 12  | 25  | 50                                         |
 |                                        |      |         |          |     |     |                                            |
 |                                        |      |         |          |     |     |                                            |
 |                                        |      |         |          |     |     |                                            |
