@@ -45,6 +45,10 @@
 |                                        |      |         |          |     |     |     |
 |                                        |      |         |          |     |     |     |
 |                                        |      |         |          |     |     |     |
+|                                        |      |         |          |     |     |     |
+|                                        |      |         |          |     |     |     |
+|                                        |      |         |          |     |     |     |
+|                                        |      |         |          |     |     |     |
 
 - Locomotion app dropped NSP packet when talking to the MCU
 	- locomotion when you run with nsp
