@@ -68,3 +68,5 @@ Turning camera on, sleep in script, send a message to nisa-app, *nisa-raw-comman
 
 Pas set parameter command
 Set scalar parameter value 9.8.2
+
+crc lib
