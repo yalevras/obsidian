@@ -63,5 +63,5 @@
 
 
 
-
+Turning camera on, sleep in script, send a message to nisa-app, *nisa-raw-command, get format*
 
