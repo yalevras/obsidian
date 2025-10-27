@@ -70,3 +70,5 @@ Pas set parameter command
 Set scalar parameter value 9.8.2
 
 crc lib
+
+check if nisa app raw has crc
