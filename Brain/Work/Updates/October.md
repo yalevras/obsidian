@@ -62,4 +62,4 @@ look a little into jenkins
 
 
 Oct 28th
-okay so the script and command are working for nisa boot interrupt a little bit for now, BUT 
+okay so the script and command are working for nisa boot interrupt a little bit for now, BUT it is not sending the raw command on asp correcly i am getting malformed function call at nisa.asp:107:12
