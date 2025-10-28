@@ -57,3 +57,9 @@ we should run debug through es_start_app
 
 
 look a little into jenkins
+
+
+
+
+Oct 28th
+okay so the script and command are working for nisa boot interrupt a little bit for now, BUT 
