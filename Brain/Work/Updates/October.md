@@ -65,4 +65,6 @@ Oct 28th
 okay so the script and command are working for nisa boot interrupt a little bit for now, BUT it is not sending the raw command on asp correctly i am getting malformed function call at nisa.asp:107:12
 
 Oct 30th
-We can choose our username and send commands through that, currently figuring out how to close stuff and reopen with the new credentials without restarting CFS
+We can choose our username and send commands through that, currently figuring out how to close stuff and reopen with the new credentials without restarting CFs.
+
+Script figure out what is wrong. Keep in back of head about how to do this without turning on the camera normally.
