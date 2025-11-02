@@ -24,6 +24,8 @@ Ukrainian
 - ukrainian online textbook
 Korean 
 - korean lessons online
+German
+- german textbook
 French
 - read news articles
 - watch youtube
