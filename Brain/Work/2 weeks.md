@@ -37,18 +37,18 @@
 	tried:
 	
 
-|                                        | ORIG | CHANGED | RAN WITH | 125 | 250 | 500                                        | 1000            |
-| -------------------------------------- | ---- | ------- | -------- | --- | --- | ------------------------------------------ | --------------- |
-| 1. IMU_MAX_NUM_<br>READINGS_PER_PACKET | 15   | 500     | -        | 12  | 19  | 19                                         |                 |
-| 2. IMU_RATE_MAX                        | 2000 | 3000    | 1        | 12  |     | 19                                         |                 |
-| 3. IMU_SERIAL_MAX_PATH_LENGTH          | 20   | 40      | 1 2      |     |     | 19                                         |                 |
-| 4. IMU_BUFFER_TIME                     | 5    | 10      | 1 2      | -   |     | -                                          |                 |
-| 5. IMU_TASK_DELAY_MS                   | 5    | 2       | 1 2      | 12  | 25  | 47                                         |                 |
-|                                        |      |         |          |     |     | ^ but reading array is not being populated |  same for below |
-| 6. IMU_TASK_DELAY_MS                   | 5    | 1       | 1 2      | 12  | 25  | 50                                         | 89/90           |
-|                                        |      | 0       |          |     |     |                                            |                 |
-|                                        |      |         |          |     |     |                                            |                 |
-|                                        |      |         |          |     |     |                                            |                 |
+|                                        | ORIG | CHANGED | RAN WITH | 125 | 250 | 500                                        | 1000           |
+| -------------------------------------- | ---- | ------- | -------- | --- | --- | ------------------------------------------ | -------------- |
+| 1. IMU_MAX_NUM_<br>READINGS_PER_PACKET | 15   | 500     | -        | 12  | 19  | 19                                         |                |
+| 2. IMU_RATE_MAX                        | 2000 | 3000    | 1        | 12  |     | 19                                         |                |
+| 3. IMU_SERIAL_MAX_PATH_LENGTH          | 20   | 40      | 1 2      |     |     | 19                                         |                |
+| 4. IMU_BUFFER_TIME                     | 5    | 10      | 1 2      | -   |     | -                                          |                |
+| 5. IMU_TASK_DELAY_MS                   | 5    | 2       | 1 2      | 12  | 25  | 47                                         |                |
+|                                        |      |         |          |     |     | ^ but reading array is not being populated | same for below |
+| 6. IMU_TASK_DELAY_MS                   | 5    | 1       | 1 2      | 12  | 25  | 50                                         | 89/90          |
+|                                        |      | 0       |          |     |     |                                            |                |
+|                                        |      |         |          |     |     |                                            |                |
+|                                        |      |         |          |     |     |                                            |                |
 
 - Locomotion app dropped NSP packet when talking to the MCU
 	- locomotion when you run with nsp
