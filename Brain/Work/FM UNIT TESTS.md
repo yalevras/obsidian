@@ -5,6 +5,7 @@ fm_app_tests.c - CallCount CFE_MSG_Init() (0)
 fm_cmd_utils-testrunner
 
 fm_dispatch-testrunner
+71 failed, anything with fm_dispatch_tests.
 
 fm_tbl-testrunner
 
