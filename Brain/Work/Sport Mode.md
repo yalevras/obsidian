@@ -34,7 +34,9 @@ Making the drive script faster where we can
 		1. (3)
 	2. Turn on Haz OD
 7. Turn on VO
-	1.  (5)
+	1. Turn on VO
+		1. (5)
+
 8. Drive
 9. Stop VO, OD, disconnect from IMU and turn it off
 10. Stop EKF
