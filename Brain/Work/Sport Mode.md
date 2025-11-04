@@ -2,6 +2,8 @@
 Making the drive script faster where we can put things to sleep to resume after
 In gnc_nisa_mgr.c, add a new mode for waiting/pause.
 
+VO_Enable enables vo cycles to start running while VO_Single just runs one VO capture
+
 case GNC_NISA_MGR_VO_PAUSE:
 
 1. Power on the MCU and arm it
