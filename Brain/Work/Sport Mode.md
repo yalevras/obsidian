@@ -29,8 +29,12 @@ Making the drive script faster where we can
 	3. Enable sampling on the IMU
 5. Turn on the EKF and wait until the bias is updated
 	1. Start EKF
-6. Turn on VO
-7. Turn on OD
+6. Turn on OD
+	1. Turn on OD
+		1. (3)
+	2. Turn on Haz OD
+7. Turn on VO
+	1.  (5)
 8. Drive
 9. Stop VO, OD, disconnect from IMU and turn it off
 10. Stop EKF
