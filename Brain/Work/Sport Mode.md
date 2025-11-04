@@ -11,7 +11,9 @@ Making the drive script faster where we can
 	2. Turn on 3 cams
 	3. Load camera table
 		1. (2)
-	4. Validate camera tab
+	4. Validate camera table
+		1. (18)
+	5. Activate camera table
 3. Configure the cameras if we're using VO or OD
 4. Turn on the IMU and start sampling
 5. Turn on the EKF and wait until the bias is updated
