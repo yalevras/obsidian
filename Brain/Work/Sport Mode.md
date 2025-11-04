@@ -9,4 +9,6 @@ Turn on the EKF and wait until the bias is updated
 Turn on VO
 Turn on OD
 Drive
-Stop
+Stop VO, OD, disconnect from IMU and turn it off
+Stop EKF
+Take a navigation image on Port Steroe
