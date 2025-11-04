@@ -204,3 +204,21 @@ NISA Bug Fixes:
 - the mount for the last camera test with andreas is made, but when i helped mariia do the testing last time, i did not have any of the commands or locations of where i should save data, and was also not 100% sure about the setup as well as how to calibrate the sensors in the curtain room
 
 ![[Pasted image 20250922111755.png]]
+
+
+
+Regression testing
+Fuzz testing
+
+Calling C from Python
+
+Libaspe.so is the engine
+
+kwargs
+
+symbols in python
+
+subset test
+
+python multidimensional arrays
+
