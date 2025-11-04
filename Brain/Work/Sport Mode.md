@@ -38,7 +38,7 @@ Making the drive script faster where we can
 		1. (5)
 8. Drive
 							43 TOTAL SECONDS?!!!!! (nuh uh)
-							-18 from leaving camera
+							-18 from leaving cameras on
 9. Stop VO, OD, disconnect from IMU and turn it off
 10. Stop EKF
 11. Take a navigation image on Port Stereo, if needed
