@@ -14,6 +14,12 @@ Making the drive script faster where we can
 	4. Validate camera table
 		1. (18)
 	5. Activate camera table
+		1. (2)
+	6. Set time
+		1. (2)
+	7. Set autoexp
+		1. (2)
+	8. Send query health
 3. Configure the cameras if we're using VO or OD
 4. Turn on the IMU and start sampling
 5. Turn on the EKF and wait until the bias is updated
