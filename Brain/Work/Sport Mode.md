@@ -11,4 +11,5 @@ Turn on OD
 Drive
 Stop VO, OD, disconnect from IMU and turn it off
 Stop EKF
-Take a navigation image on Port Steroe
+Take a navigation image on Port Stereo, if needed
+Turn off the cameras
