@@ -6,6 +6,8 @@ VO_Enable enables vo cycles to start running while VO_Single just runs one VO ca
 
 Add a parameter in GNC_NISA_MGR_SharedData to know if we want to pause after
 
+When do we actually want to induce this pausing? Be able to VO_disable and reenable without returning things on
+
 case GNC_NISA_MGR_VO_PAUSE:
 
 1. Power on the MCU and arm it
