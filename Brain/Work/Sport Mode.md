@@ -4,6 +4,8 @@ In gnc_nisa_mgr.c, add a new mode for waiting/pause.
 
 VO_Enable enables vo cycles to start running while VO_Single just runs one VO capture
 
+Add a parameter in GNC_NISA_MGR_SharedData to know if we want to pause after
+
 case GNC_NISA_MGR_VO_PAUSE:
 
 1. Power on the MCU and arm it
