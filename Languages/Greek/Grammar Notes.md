@@ -1,3 +1,4 @@
+https://www.greekgrammar.eu/pdffiles/adjectives.pdf
 
 [[Greek]] nouns:
 masculine - αρσενικό
