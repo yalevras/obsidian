@@ -1,5 +1,5 @@
 
-Making the drive script faster where we can
+Making the drive script faster where we can put things to sleep t oresume after.
 
 1. Power on the MCU and arm it
 	1. Power on MCU
