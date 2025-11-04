@@ -21,12 +21,18 @@ Making the drive script faster where we can
 	5. Set autoexp
 		1. (2)
 	6. Send query health
-5. Turn on the IMU and start sampling
-6. Turn on the EKF and wait until the bias is updated
-7. Turn on VO
-8. Turn on OD
-9. Drive
-10. Stop VO, OD, disconnect from IMU and turn it off
-11. Stop EKF
-12. Take a navigation image on Port Stereo, if needed
-13. Turn off the cameras
+4. Turn on the IMU and start sampling
+	1. Power on the IMU
+		1. (1)
+	2. Open connection to the IMU
+		1. (5)
+	3. Enable sampling on the IMU
+5. Turn on the EKF and wait until the bias is updated
+	1. Start EKF
+6. Turn on VO
+7. Turn on OD
+8. Drive
+9. Stop VO, OD, disconnect from IMU and turn it off
+10. Stop EKF
+11. Take a navigation image on Port Stereo, if needed
+12. Turn off the cameras
