@@ -1,6 +1,6 @@
 
 Making the drive script faster where we can put things to sleep to resume after
-
+In gnc_nisa_mgr.c, add a new mode for 
 
 1. Power on the MCU and arm it
 	1. Power on MCU
