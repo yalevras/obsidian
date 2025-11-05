@@ -12,23 +12,23 @@ case GNC_NISA_MGR_VO_PAUSE:
 
 1. Power on the MCU and arm it
 	1. Power on MCU
-		1. <mark style="background: #FF5582A6;">(2)</mark>
+		1. (2)
 	2. Enable motor commands
 2. Power cycle Haz Cam, Star Stereo, and Port Stereo if we're using VO or OD
 	1. Turn off 3 cams
-		1. <mark style="background: #BBFABBA6;">(1)</mark>
+		1. (1)
 	2. Turn on 3 cams
 3. Configure the cameras if we're using VO or OD
 	1. Load camera table
-		1. (2)
+		1. (2) -> (1)
 	2. Validate camera table
 		1. (18)
 	3. Activate camera table
-		1. (2)
+		1. (2) -> (1)
 	4. Set time
-		1. (2)
+		1. (2) -> (1)
 	5. Set autoexp
-		1. (2)
+		1. (2) -> (1)
 	6. Send query health
 4. Turn on the IMU and start sampling
 	1. Power on the IMU
