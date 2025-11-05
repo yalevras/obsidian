@@ -16,7 +16,7 @@ case GNC_NISA_MGR_VO_PAUSE:
 	2. Enable motor commands
 2. Power cycle Haz Cam, Star Stereo, and Port Stereo if we're using VO or OD
 	1. Turn off 3 cams
-		1. (1)
+		1. ==(1)==
 	2. Turn on 3 cams
 3. Configure the cameras if we're using VO or OD
 	1. Load camera table
