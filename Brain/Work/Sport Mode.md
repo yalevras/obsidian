@@ -12,11 +12,11 @@ case GNC_NISA_MGR_VO_PAUSE:
 
 1. Power on the MCU and arm it
 	1. Power on MCU
-		1. (2)
+		1. <mark style="background: #FF5582A6;">(2)</mark>
 	2. Enable motor commands
 2. Power cycle Haz Cam, Star Stereo, and Port Stereo if we're using VO or OD
 	1. Turn off 3 cams
-		1. ==(1)==
+		1. <mark style="background: #BBFABBA6;">(1)</mark>
 	2. Turn on 3 cams
 3. Configure the cameras if we're using VO or OD
 	1. Load camera table
