@@ -10,6 +10,16 @@ When do we actually want to induce this pausing? Be able to VO_disable and reena
 
 case GNC_NISA_MGR_VO_PAUSE:
 
+
+
+GNC_NISA_MGR_VOTask_Main(void)
+
+
+
+
+case GNC_NISA_MGR_TASK_STATUS_PAUSE:
+
+
 1. Power on the MCU and arm it
 	1. Power on MCU
 		1. (2)
