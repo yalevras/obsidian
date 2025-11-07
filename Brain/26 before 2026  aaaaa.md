@@ -1,7 +1,7 @@
 1. book therapy
 2. figure out this saga
 3. unpack uni
-4. clean out closet
+4. clean out closet -> going very well
 5. gym twice a week
 	1. 3-7 nov✅
 	2. 10-14 nov
