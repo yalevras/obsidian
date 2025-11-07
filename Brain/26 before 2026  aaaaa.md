@@ -19,7 +19,7 @@
 11. make some progress on a book
 12. go on a date
 13. play piano twice a week
-	1. nov 2-8
+	1. nov 2-8✅
 	2. nov 9-15
 	3. nov 16-22
 	4. nov 23-29
@@ -35,7 +35,8 @@
 15. go have a mall christmas shopping trip
 16. make a soup
 17. buy some clothes
-	1. jeans
+	1. jeans✅
+	2. sweater
 18. decorate desk for christmas
 19. get to grammar 50 in greek
 	1. nov 3 3 4 5
