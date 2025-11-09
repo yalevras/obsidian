@@ -19,7 +19,7 @@ GNC_NISA_MGR_VOTask_Main(void)
 
 case GNC_NISA_MGR_TASK_STATUS_PAUSE:
 
-
+![[Pasted image 20251107170055.png]]
 
 
 GNC NISA Manager msut be enabled in VO Single mode to execute single commands, GNC_VO_STATE_SINGLE
