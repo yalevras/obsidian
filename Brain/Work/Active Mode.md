@@ -25,6 +25,8 @@ vo_enabled:
 0 = not enabled
 1
 
+next test
+
 
 case GNC_NISA_MGR_TASK_STATUS_PAUSE:
 
