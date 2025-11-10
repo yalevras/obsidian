@@ -23,8 +23,7 @@ vo_task_state:
 
 vo_enabled:
 0 = not enabled
-1 = loop
-2 = single
+1
 
 
 case GNC_NISA_MGR_TASK_STATUS_PAUSE:
