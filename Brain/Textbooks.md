@@ -28,3 +28,17 @@ Hamming - The Art of Doing Science and Engineering 0/30!pg.11
 
 Math:
 Random Website - [Beginner Linear Algebra](https://immersivemath.com/ila/index.html)
+
+
+
+
+
+
+
+
+
+
+
+
+Electronics
+Optocoupler, an LED and a phototransistor, light based signal gets transferred over
