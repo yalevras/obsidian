@@ -7,3 +7,4 @@ HKOBC:
 MISST
 NISA UTILITIES:
 HKOBC:
+	microcom -s 921600 /dev/ttyUSB0     <- Port Pano
