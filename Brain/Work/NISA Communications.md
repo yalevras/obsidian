@@ -11,5 +11,7 @@ HKOBC:
 	microcom -s 921600 /dev/ttyUSB1     <- Port Stereo
 	microcom -s 921600 /dev/ttyUSB2     <- Starboard Stereo     <----- doesn't work
 	./nisa-ident -d /dev/StarboardStereoCam
+	./nisa-execute-command -d /dev/StarboardStereoCam "ls -l /data/upload"
+
 	camera version 54.3
 	
