@@ -32,6 +32,7 @@ case GNC_NISA_MGR_TASK_STATUS_PAUSE:
 
 ![[Pasted image 20251107170055.png]]
 
+CANNOT ISSUE DRIVE TASK WITH 0 VELOCITY so i gotta be in the room now to test it!
 
 GNC NISA Manager msut be enabled in VO Single mode to execute single commands, GNC_VO_STATE_SINGLE
 
