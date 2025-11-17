@@ -11,4 +11,8 @@ active mode:
 			vo_reset_new_drive.asp -> runs, unsure if works properly?
 		when testing on lrm, need to upload vo_reset_new_drive.aspe
 rover pause:
-	
+		works but i think it needs more testing, i have not committed it yet
+fm unit tests:
+		fixing up nasa's mess?
+nsp unit tests:
+		 wip
