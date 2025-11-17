@@ -10,3 +10,5 @@ active mode:
 			active_mode_stop_lrm.asp -> untested
 			vo_reset_new_drive.asp -> runs, unsure if works properly?
 		when testing on lrm, need to upload vo_reset_new_drive.aspe
+rover pause:
+	
