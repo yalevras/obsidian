@@ -11,9 +11,17 @@ active mode:
 			vo_reset_new_drive.asp -> runs, unsure if works properly?
 		when testing on lrm, need to upload vo_reset_new_drive.aspe
 		fuck misst for now let's just do the edu
+		cleanup code
+		CHANGES:
+			cfs
+			yamcs excel
+			
 rover pause:
 		works but i think it needs more testing, i have not committed it yet
+		clean up code
 fm unit tests:
 		fixing up nasa's mess?
 nsp unit tests:
 		 wip
+		 
+
