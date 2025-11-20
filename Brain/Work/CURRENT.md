@@ -10,7 +10,7 @@ to_lab messages:
 		initial questions:
 			how do i know
 		other info:
-			kiss encoding, keep it simp
+			kiss encoding, keep it simple, stupid, protocol for emitting through radio or something
 active mode:
 			dev: 49
 			branch: feature/active-mode-vo
