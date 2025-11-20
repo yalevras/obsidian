@@ -12,7 +12,7 @@ to_lab messages:
 		other info:
 			kiss encoding, keep it simple, stupid, protocol for emitting through radio or something
 			ProcId 1 = HKOBC
-			ProcId 2 =P
+			ProcId 2 = POBC
 active mode:
 			dev: 49
 			branch: feature/active-mode-vo
