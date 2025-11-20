@@ -8,7 +8,7 @@ to_lab messages:
 			pobc sends messages through umbilical
 			currently both obcs subscribe to the same things, so if a table is loaded in both, something that the hkobc is supposed to send through wifi
 		initial questions:
-		h
+			how do i know
 active mode:
 			dev: 49
 			branch: feature/active-mode-vo
