@@ -26,5 +26,8 @@ fm unit tests:
 		fixing up nasa's mess?
 nsp unit tests:
 		 wip
+debug app:
+		clean up code
+		demonstrate for johnathan
 		 
 
