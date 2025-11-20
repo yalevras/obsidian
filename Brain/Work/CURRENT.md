@@ -9,6 +9,8 @@ to_lab messages:
 			currently both obcs subscribe to the same things, so if a table is loaded in both, something that the hkobc is supposed to send through wifi
 		initial questions:
 			how do i know
+		other info:
+			kiss encoding, keep it simp
 active mode:
 			dev: 49
 			branch: feature/active-mode-vo
