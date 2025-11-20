@@ -29,6 +29,7 @@ active mode:
 		fuck misst for now let's just do the edu
 		cleanup code
 		ask josh for power consumption for each device on the edu
+		try smaller gaps between commands on asp
 		
 		CHANGES:
 			cfs
