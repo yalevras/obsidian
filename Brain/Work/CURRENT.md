@@ -12,10 +12,13 @@ active mode:
 		when testing on lrm, need to upload vo_reset_new_drive.aspe
 		fuck misst for now let's just do the edu
 		cleanup code
+		ask josh for power consumption for each device on the edu
+		
 		CHANGES:
 			cfs
 			yamcs excel
-			
+			asp
+			messages in asp
 rover pause:
 		works but i think it needs more testing, i have not committed it yet
 		clean up code
