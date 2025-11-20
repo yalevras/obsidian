@@ -3,7 +3,7 @@
 active mode:
 			dev: 49
 			branch: feature/active-mode-vo
-			c
+			committed and pushed: 11-20 11:00 am
 		scripts:
 			active_mode_setup_misst.asp -> works, unstable
 			active_mode_setup_lrm.asp -> untested
