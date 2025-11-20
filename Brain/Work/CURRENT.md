@@ -1,6 +1,8 @@
 
 
 active mode:
+			dev: 49
+			branch: feature/active
 		scripts:
 			active_mode_setup_misst.asp -> works, unstable
 			active_mode_setup_lrm.asp -> untested
