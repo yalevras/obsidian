@@ -1,6 +1,6 @@
 
 **1.1 Robotics**
-Proprioceptive sensors acquire data on the internal status of the mechanical system (like position transducers), Exteroceptive sensors, the external status (force sensors and cameras).
+Proprioceptive sensors acquire data on the internal status of the mechanical system (like position transducers (a transducer converts a physical quantity into an electrical signal, in this case for physical location or movement of an object)), Exteroceptive sensors, the external status (force sensors and cameras).
 
 Robot manipulator consists of links and joints (rigid bodies and articulations). It has an arm that ensures mobility, a wrist for dexterity, and 
 
