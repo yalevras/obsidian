@@ -33,7 +33,7 @@ nsp unit tests:
 debug app:
 		clean up code done
 		demonstrate for johnathan done
-		default to debug
+		default to debug 
 		swap users without restarting app
 
 
