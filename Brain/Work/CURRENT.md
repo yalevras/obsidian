@@ -31,8 +31,10 @@ fm unit tests:
 nsp unit tests:
 		 wip
 debug app:
-		clean up code
-		demonstrate for johnathan
+		clean up code done
+		demonstrate for johnathan done
+		
+		swap users without restarting app
 
 
 
