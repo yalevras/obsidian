@@ -33,8 +33,9 @@ nsp unit tests:
 debug app:
 		clean up code done
 		demonstrate for johnathan done
-		default to debug 
+		default to debug done
 		swap users without restarting app
+			check if shell has already started and usernames are not the same
 
 
 
