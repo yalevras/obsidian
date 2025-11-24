@@ -30,19 +30,24 @@ fm unit tests:
 		fixing up nasa's mess?
 nsp unit tests:
 		 wip
-debug app:
+
+
+
+
+
+
+
+
+
+
+debug app: PULL REQUEST SUBMITTED
 		clean up code done
 		demonstrate for johnathan done
 		default to debug done
 		swap users without restarting app
-			check if shell has already started and usernames are not the same
-
-
-
-
-
-
-to_lab messages:
+			check if shell has already started and usernames are not the same 
+		This is done!
+to_lab messages: PULL REQUEST SUBMITTED
 			dev: 49
 			branch: feature/to_lab_messages
 		what i know:
