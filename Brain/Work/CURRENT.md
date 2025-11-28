@@ -5,6 +5,7 @@ batch imaging:
 	i have figured out where it is just taking index one
 
 		fileMsg->data.statusByRef.index = commStack->nl.hton_u32(1)
+		add a value in NISA_ReferenceParameters_t
 	
 active mode:
 			dev: 49
