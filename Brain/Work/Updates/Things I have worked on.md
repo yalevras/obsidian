@@ -15,7 +15,9 @@ OD Rover Pausing
 CI Lab App Cleanup
 Find Camera Boot Times
 Find IMU Data Rates that can be used
-Rover active mode, 
+Rover active mode, vo switch command
+Debug app allowing other users while app is running
+
 
 
 ASP Scripts:
