@@ -2,6 +2,8 @@
 
 batch imaging:
 	- index for filelists
+	i have figured out where it is just taking index one
+	
 active mode:
 			dev: 49
 			branch: feature/active-mode-vo
