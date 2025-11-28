@@ -3,6 +3,8 @@
 batch imaging:
 	- index for filelists
 	i have figured out where it is just taking index one
+
+		fileMsg->data.statusByRef.index = commStack->nl.hton_u32(1)
 	
 active mode:
 			dev: 49
