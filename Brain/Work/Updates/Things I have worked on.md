@@ -4,20 +4,17 @@
 
 Frequencies and Data Sizes of MIDs
 SBN Recv Polling Task
-Optitrack Camera Data Acquisition
 LHANS CPU Usage
 NISA Camera Fixes
 Download image fixes with using name
+Change download image name to download file
 Double asp acknowledgements
 Locomotion Table Fixes
 OD Data Populating
 OD Rover Pausing
 CI Lab App Cleanup
-- committed
-Download and compress ASP MSI scripts
-- not committed
-Camera Boot Times
-- completed, not sent to Johnathan yet
+Find Camera Boot Times
+Find IMU Data Rates that can be used
 
 
 
@@ -41,3 +38,4 @@ FM Unit Tests
 Other:
 3 Harnesses
 Cryostat training
+Optitrack Camera Data Acquisition
