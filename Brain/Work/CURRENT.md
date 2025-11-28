@@ -1,6 +1,7 @@
 
 
-
+batch imaging:
+	- index for filelists
 active mode:
 			dev: 49
 			branch: feature/active-mode-vo
