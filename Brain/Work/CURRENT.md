@@ -23,6 +23,9 @@ active mode:
 			yamcs excel
 			asp
 			messages in asp
+	funny port pano is having some issues!!!!!
+	in dmesg on pobc
+	
 rover pause:
 		works but i think it needs more testing, i have not committed it yet
 		clean up code
