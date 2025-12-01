@@ -1,11 +1,4 @@
 
-
-batch imaging:
-	- index for filelists
-	i have figured out where it is just taking index one
-
-		fileMsg->data.statusByRef.index = commStack->nl.hton_u32(1)
-		add a value in NISA_ReferenceParameters_t
 	
 active mode:
 			dev: 49
@@ -75,4 +68,9 @@ to_lab messages: PULL REQUEST SUBMITTED
 			ProcId 1 = HKOBC
 			ProcId 2 = POBC
 		This is done!
+batch imaging: PULL REQUEST SUBMITTED
+	- index for filelists
+	i have figured out where it is just taking index one
 
+		fileMsg->data.statusByRef.index = commStack->nl.hton_u32(1)
+		add a value in NISA_ReferenceParameters_t
