@@ -30,6 +30,16 @@ active mode:
 		rndis_host: probe of 1-1.2:1.0 failed with error -71
 		cdc_acm 1-1.2:1.2: ttyACM0: USB ACM device
 	also in /data/upload there is NOTHING????? did it get wiped is the harness just ass i do not know?????
+
+inside SS there is 
+capture_img_autoexposure.aspe
+liblrm-vo-wrapper.so
+liblrm_vo.so
+star_vo.aspe
+vo_close.aspe
+vo_init.aspe
+vo_reload_lib.aspe
+vo_reset_new_drive.aspe
 rover pause:
 		works but i think it needs more testing, i have not committed it yet
 		clean up code
