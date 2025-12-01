@@ -28,7 +28,8 @@ active mode:
 		usb 1-1.2: new high-speed USB device number 3 using musb-hdrc
 		rndis_host 1-1.2:1.0: RNDIS init failed, -71
 		rndis_host: probe of 1-1.2:1.0 failed with error -71
-		cdc_acm
+		cdc_acm 1-1.2:1.2: ttyACM0: USB ACM device
+	also in /data/upload there is NOTHING????? did it get wiped is the harness just ass i do not know?????
 rover pause:
 		works but i think it needs more testing, i have not committed it yet
 		clean up code
