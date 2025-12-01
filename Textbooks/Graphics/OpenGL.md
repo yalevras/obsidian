@@ -8,3 +8,5 @@ gcc examplemain.c -o app.exe -lglfw3 -lglew32 -lopengl32 -lgdi32
 
 in MINGW64
 cd /c/Users/thatg/Documents/GitHub/big-tree/src
+g++ main.cpp glad.c -I../include -o app.exe \
+    -lglfw3 -lopengl32 -lgdi32
