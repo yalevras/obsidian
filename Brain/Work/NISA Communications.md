@@ -1,4 +1,4 @@
-![[Pasted image 20251028095859.png]]
+![[Pasted image 20251201170317.png]]
 Flatsat
 NISA UTILITIES:
 HKOBC:
