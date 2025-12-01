@@ -40,6 +40,8 @@ vo_close.aspe
 vo_init.aspe
 vo_reload_lib.aspe
 vo_reset_new_drive.aspe
+
+I PUT THREE OF THESE ON PORT PANO GET RID OF THEM I NEED PORT STEREO IM JUST STUPID
 rover pause:
 		works but i think it needs more testing, i have not committed it yet
 		clean up code
