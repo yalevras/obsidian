@@ -17,4 +17,4 @@ HKOBC:
 
 
 
-PortPano seems to be con
+PortPano seems to be connected to ACM0 when on POBC on EDU
