@@ -14,4 +14,7 @@ HKOBC:
 	./nisa-execute-command -d /dev/StarboardStereoCam "ls -l /data/upload"
 
 	camera version 54.3
-	
+
+
+
+PortPano seems to be con
