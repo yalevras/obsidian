@@ -1,4 +1,6 @@
+importPackage(org.csstudio.opibuilder.scriptUtil);
 
+var selection_widget = display.getWidget("CurrLanderCmd_LHANS").setValue("Connect");
 	
 active mode:
 			dev: 49
