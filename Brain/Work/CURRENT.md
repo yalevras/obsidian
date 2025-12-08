@@ -1,3 +1,4 @@
+
 importPackage(org.csstudio.opibuilder.scriptUtil);
 
 var selection_widget = display.getWidget("CurrLanderCmd_LHANS").setValue("Connect");
@@ -32,18 +33,23 @@ active mode:
 		rndis_host: probe of 1-1.2:1.0 failed with error -71
 		cdc_acm 1-1.2:1.2: ttyACM0: USB ACM device
 	also in /data/upload there is NOTHING????? did it get wiped is the harness just ass i do not know?????
-
-inside SS there is 
-capture_img_autoexposure.aspe
-liblrm-vo-wrapper.so
-liblrm_vo.so
-star_vo.aspe
-vo_close.aspe
-vo_init.aspe
-vo_reload_lib.aspe
-vo_reset_new_drive.aspe
-
-I PUT THREE OF THESE ON PORT PANO GET RID OF THEM I NEED PORT STEREO IM JUST STUPID
+	inside SS there is 
+	capture_img_autoexposure.aspe
+	liblrm-vo-wrapper.so
+	liblrm_vo.so
+	star_vo.aspe
+	vo_close.aspe
+	vo_init.aspe
+	vo_reload_lib.aspe
+	vo_reset_new_drive.aspe
+	
+	I PUT THREE OF THESE ON PORT PANO GET RID OF THEM I NEED PORT STEREO IM JUST STUPID
+	
+	SET VO_SET CORRENTLY IN THE SWITCH MODES FUNCTION
+	SET AUTORUN CORRECTLY IN NISA STATUS
+	IT IS RELYINc CURRENTLY ON THE 10 SECONDS WHICH IS WRONG!
+	UGHHAAAAAAAAA
+	ALSO DETERMINE WHEN IN THE NISA DOWNLOAD VO IMAGES IS IT TAKING A LOT OF TIME PUT SOME PRINTS AND STUFF
 rover pause:
 		works but i think it needs more testing, i have not committed it yet
 		clean up code
@@ -51,23 +57,6 @@ fm unit tests:
 		fixing up nasa's mess?
 nsp unit tests:
 		 wip
-
-
-
-
-
-SET VO_SET CORRENTLY IN THE SWITCH MODES FUNCTION
-SET AUTORUN CORRECTLY IN NISA STATUS
-IT IS RELYINc CURRENTLY ON THE 10 SECONDS WHICH IS WRONG!
-UGHHAAAAAAAAA
-ALSO DETERMINE WHEN IN THE NISA DOWNLOAD VO IMAGES IS IT TAKING A LOT OF TIME PUT SOME PRINTS AND STUFF
-
-
-
-
-
-
-
 debug app: PULL REQUEST SUBMITTED
 		clean up code done
 		demonstrate for johnathan done
