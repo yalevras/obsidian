@@ -4,7 +4,7 @@
 4. notetaking app that is interactive when professor or teacher
 5. calendar that works with friends, events that ur friends can see but u dont need to like work
 6. divisi
-7. [[OpenGL]] OpenGL]]
+7. [[OpenGL]] Graphics
 8. Physics Engine
 
 
