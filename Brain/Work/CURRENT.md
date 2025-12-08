@@ -1,8 +1,8 @@
 GUI stuff:
+	now working on exposure time from us to ms
 	importPackage(org.csstudio.opibuilder.scriptUtil);
 	
 	var selection_widget = display.getWidget("CurrLanderCmd_LHANS").setValue("Connect");
-	
 active mode:
 			dev: 49
 			branch: feature/active-mode-vo
@@ -64,7 +64,7 @@ debug app: PULL REQUEST SUBMITTED
 		swap users without restarting app
 			check if shell has already started and usernames are not the same 
 		This is done!
-to_lab messages: PULL REQUEST SUBMITTED
+to_lab messages: FIX
 			dev: 49
 			branch: feature/to_lab_messages
 		what i know:
