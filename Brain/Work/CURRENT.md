@@ -77,6 +77,8 @@ to_lab messages: FIX
 			kiss encoding, keep it simple, stupid, protocol for emitting through radio or something
 			ProcId 1 = HKOBC
 			ProcId 2 = POBC
+
+![[Pasted image 20251209141923.png]]
 batch imaging: PULL REQUEST SUBMITTED
 	- index for filelists
 	i have figured out where it is just taking index one
