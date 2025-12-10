@@ -1,9 +1,9 @@
 
 Piano
-- rude buster
-- rude buster but kapustin
-- anything kapustin
-- eterna city
+	rude buster
+	rude buster but kapustin
+	anything kapustin
+	eterna city
 - rustboro city
 - rachmaninoff prelude no 5 in g minor
 - rachmaninoff prelude no 2 in c sharp minor
