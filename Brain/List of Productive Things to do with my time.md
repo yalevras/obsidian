@@ -1,40 +1,46 @@
 
+
+
+
+
+
 Piano
-	- rude buster
-	- rude buster but kapustin
-	- anything kapustin
-	- eterna city
-	- rustboro city
-	- rachmaninoff prelude no 5 in g minor
-	- rachmaninoff prelude no 2 in c sharp minor
-	- chopin nocturne no 20 in c sharp minor
-	- chopin nocturne no 19 in e minor
-	- debussy la plus que lente
-	- debussy reverie
-	- debussy reflets dans leau
+- rude buster
+- rude buster but kapustin
+- anything kapustin
+- eterna city
+- rustboro city
+- rachmaninoff prelude no 5 in g minor
+- rachmaninoff prelude no 2 in c sharp minor
+- chopin nocturne no 20 in c sharp minor
+- chopin nocturne no 19 in e minor
+- debussy la plus que lente
+- debussy reverie
+- debussy reflets dans leau
 Bass
-	 - lamp
+- go get bass from Uncle Frank
 Music Production
-	- find a production software to use
+- find a production software to use
 Greek
-	- pdf
+- pdf
 Japanese
-	- migaku
+- migaku
 Ukrainian
-	- ukrainian online textbook
+- ukrainian online textbook
 Korean 
-	- korean lessons online
+- korean lessons online
 German
-	- german textbook
+- german textbook
 French
-	- read news articles
-	- watch youtube
+- read news articles
+- watch youtube
 
 Rust
-	- rust book online
+- rust book online
 Java
-	- Matthew's book
+- Matthew's book
 Compilers and Interpreters
+
 Clean Room
 - clean back dresser
 - clean two drawers
