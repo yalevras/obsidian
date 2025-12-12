@@ -1,4 +1,5 @@
 fix the lhans
+.dat files located in ![[Pasted image 20251212154738.png]]
 
 GUI stuff:
 	now working on exposure time from us to ms
