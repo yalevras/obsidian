@@ -18,36 +18,3 @@ Warm compress get that shit under control
 
 Back burner:
 Stomach issues
-
-To Do
-Tuesday
-~~7:45 Gym~~
-~~8:30 Work~~
-5:00 Soccer
-~~7:00 EB Games~~
-~~7:45 Dinner~~
-~~8:00 Games with Matthew~~
-
-Wednesday
-7:45 Gym
-~~8:30 Work~~
-~~6:20 Physio~~
-
-Thursday
-7:45 Gym
-~~8:30 Work~~
-~~6:15 Haircut at Hairtree~~
-
-Friday
-7:45 Gym
-8:30 Work
-12:00 Service Ontario
-6:15 Park Downtown
-6:30 Meet up with Matthew
-7:00 Suds say hi to friends
-8:30 Go out with Grace Quinn and Liam
-
-Saturday
-Corn Maze
-Chiara birthday
-
