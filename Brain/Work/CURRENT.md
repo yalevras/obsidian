@@ -1,6 +1,12 @@
 fix the lhans
 .dat files located in ~/Johnathan/CSA_Testing_Oct2025/Oct29_OpsRun/lhans/raw$
 
+
+cfdp file transfer progress
+- excel sheet
+- look for parameters
+- all packets go to cfs-de
+
 GUI stuff:
 	now working on exposure time from us to ms
 	importPackage(org.csstudio.opibuilder.scriptUtil);
