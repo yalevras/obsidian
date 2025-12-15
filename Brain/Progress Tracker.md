@@ -33,6 +33,13 @@ GYM
 	22. dec 10 gym run
 	23. dec 10 gym run
 	24. dec 10 gym run
+- weight:
+	1. nov 2, 167.6 and 169.8
+	2. nov 4, 165.6 and 166.6
+	3. nov 7, 166.4 and -----
+	4. nov 13, 164.8
+	5. nov 15, 164.6
+	6. dec 
 INSTRUMENT
 - bass
 	1. nov 2-8✅
