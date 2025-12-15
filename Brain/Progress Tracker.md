@@ -64,6 +64,13 @@ INSTRUMENT
 PROJECT
 - divisi
 	- tuesday 9-wednesday 10, small commit
+- other
+	5. rust
+	6. compilers
+	7. java
+	8. geiger counter and electronics
+	9. crt
+	10. physics engine
 LANGUAGE
 - greek
 	- dec 13, video and anki
