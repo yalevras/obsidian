@@ -65,12 +65,12 @@ PROJECT
 - divisi
 	- tuesday 9-wednesday 10, small commit
 - other
-	5. rust
-	6. compilers
-	7. java
-	8. geiger counter and electronics
-	9. crt
-	10. physics engine
+	1. rust
+	2. compilers
+	3. java
+	4. geiger counter and electronics
+	5. crt
+	6. physics engine
 LANGUAGE
 - greek
 	- dec 13, video and anki

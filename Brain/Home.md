@@ -26,9 +26,6 @@ Fun Todo's:
 - get into music production
 - build some lego
 
-
-
-
 ---
 
 [[Progress Tracker]]
