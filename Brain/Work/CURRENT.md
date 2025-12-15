@@ -67,7 +67,7 @@ debug app: PULL REQUEST SUBMITTED
 		swap users without restarting app
 			check if shell has already started and usernames are not the same 
 		This is done!
-to_lab messages: FIX
+to_lab messages:
 			dev: 49
 			branch: feature/to_lab_messages
 		what i know:
