@@ -57,4 +57,8 @@ INSTRUMENT
 PROJECT
 
 LANGUAGE
-
+- greek
+	- dec 13, video and 
+- ukrainian
+- japanese
+- french
