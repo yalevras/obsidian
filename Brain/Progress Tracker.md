@@ -39,7 +39,7 @@ GYM
 	3. nov 7, 166.4 and -----
 	4. nov 13, 164.8
 	5. nov 15, 164.6
-	6. dec 
+	6. dec 13, 166
 INSTRUMENT
 - bass
 	1. nov 2-8✅
