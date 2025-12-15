@@ -1,5 +1,5 @@
 GYM
-gym session:
+- gym session:
 	1. 3-7 nov✅
 	2. 10-14 nov✅
 	3. 17-21 nov✅
@@ -8,8 +8,7 @@ gym session:
 	6. 8-12 dec✅✅
 	7. 15-19 dec
 	8. 22-26 dec 
-
-5 minute run:
+- 5 minute run:
 	1. nov 3 9pm 5m
 	2. nov 3 10pm 6m
 	3. nov 15 toronto run and walk
@@ -34,7 +33,6 @@ gym session:
 	22. dec 10 gym run
 	23. dec 10 gym run
 	24. dec 10 gym run
-
 INSTRUMENT
 
 PROJECT
