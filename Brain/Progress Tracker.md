@@ -58,7 +58,7 @@ PROJECT
 
 LANGUAGE
 - greek
-	- dec 13, video and 
+	- dec 13, video and anki
 - ukrainian
 - japanese
 - french
