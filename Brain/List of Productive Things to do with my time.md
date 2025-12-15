@@ -22,9 +22,7 @@ Piano
 - rude buster
 - rude buster but kapustin
 - anything kapustin
-- eterna city
-- rustboro city
-- rachmaninoff prelude no 5 in g minor
+- eterna city 
 - rachmaninoff prelude no 2 in c sharp minor
 - chopin nocturne no 20 in c sharp minor
 - chopin nocturne no 19 in e minor
