@@ -6,7 +6,7 @@ cfdp file transfer progress
 - excel sheet
 - look for parameters
 - all packets go to cfs-default and then get sorted into different commands
-- 
+- ![[Pasted image 20251215105742.png]]
 
 GUI stuff:
 	now working on exposure time from us to ms
