@@ -1,5 +1,5 @@
 fix the lhans
-.dat files located in ![[Pasted image 20251212154738.png]]
+.dat files located in ~/Johnathan/CSA_Testing_Oct2025/Oct29_OpsRun/lhans/raw$
 
 GUI stuff:
 	now working on exposure time from us to ms
