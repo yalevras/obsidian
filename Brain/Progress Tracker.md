@@ -55,10 +55,14 @@ INSTRUMENT
 	8. dec 21-27
 	9. dec 28-31
 PROJECT
-
+- divisi
+	- tuesday 9-wednesday 
 LANGUAGE
 - greek
 	- dec 13, video and anki
 - ukrainian
+	- 
 - japanese
+	- 
 - french
+	- 
