@@ -56,7 +56,7 @@ INSTRUMENT
 	9. dec 28-31
 PROJECT
 - divisi
-	- tuesday 9-wednesday 
+	- tuesday 9-wednesday 10, small commit
 LANGUAGE
 - greek
 	- dec 13, video and anki
