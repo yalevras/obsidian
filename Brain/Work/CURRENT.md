@@ -5,7 +5,8 @@ fix the lhans
 cfdp file transfer progress
 - excel sheet
 - look for parameters
-- all packets go to cfs-de
+- all packets go to cfs-default and then get sorted into different commands
+- 
 
 GUI stuff:
 	now working on exposure time from us to ms
