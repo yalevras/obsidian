@@ -3,6 +3,7 @@ Big Todo's:
 2. pack for cottage
 3. figure out this saga
 4. swiss chalet money and security clearance money
+5. magellan
 
 Upcoming Dates:
 Wednesday Dec 17th Terraria with Stuart
