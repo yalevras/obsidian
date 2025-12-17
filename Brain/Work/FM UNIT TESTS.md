@@ -1,8 +1,11 @@
 failed
 fm_app-testrunner
-fm_app_tests.c - CallCount CFE_MSG_Init() (0)
+PASS 16!!!!!
+PASS 98
 
 fm_cmd_utils-testrunner
+PASS 18
+PASS 182
 
 fm_dispatch-testrunner
 71 failed, anything with fm_dispatch_tests or utstubs
