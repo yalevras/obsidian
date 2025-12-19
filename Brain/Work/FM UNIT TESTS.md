@@ -16,7 +16,7 @@ PASS 1
 PASS 46
 
 fm_child-testrunner
-5 failed out of 1057
+17 failed out of 1057
 
 
 [BEGIN] 76 Test_FM_ChildDirListPktCmd_PathAndEntryLengthGr
