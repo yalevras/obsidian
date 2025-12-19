@@ -8,7 +8,8 @@ PASS 18
 PASS 182
 
 fm_dispatch-testrunner
-71 failed, anything with fm_dispatch_tests or utstubs
+PASS 4
+PAS 108
 
 fm_tbl-testrunner
 
