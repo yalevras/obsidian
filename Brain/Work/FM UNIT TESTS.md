@@ -13,7 +13,7 @@ PAS 108
 
 fm_tbl-testrunner
 PASS 1
-PAS 
+PASS 46
 
 fm_child-testrunner
 5 failed out of 1057
@@ -55,6 +55,8 @@ fm_child-testrunner
 [  END] 33 Test_FM_ChildDeleteAllFilesCmd_PathFilenameLeng TOTAL::15    PASS::14    FAIL::1     MIR::0     TSF::0     TTF::0     WARN::0
 
 fm_cmds-testrunner
+PASS 3
+PASS 234
 
 fm_ftp-testrunner
 still have to do this
