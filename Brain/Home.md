@@ -4,6 +4,7 @@ Big Todo's:
 3. matthew's gift
 4. swiss chalet money and security clearance money
 5. magellan
+6. look at capstones and projects from other people and universities for inspo
 
 Upcoming Dates:
 Tuesday Jan 27th Drom with coworkers
