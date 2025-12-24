@@ -36,7 +36,8 @@ Random Website - [Beginner Linear Algebra](https://immersivemath.com/ila/index.h
 
 
 
-
+Blogs:
+https://lisyarus.github.io/blog/
 
 
 
