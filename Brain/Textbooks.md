@@ -37,7 +37,7 @@ Random Website - [Beginner Linear Algebra](https://immersivemath.com/ila/index.h
 
 
 Blogs:
-https://lisyarus.github.io/blog/
+https://lisyarus.github.io/blog/ - articles about computer graphics, quaternions, physics simulatinetc
 
 
 
