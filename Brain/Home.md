@@ -1,10 +1,8 @@
 Big Todo's:
-1. MOM’S GIFT
-2. 
-3. matthew's gift
-4. swiss chalet money and security clearance money
-5. magellan
-6. look at capstones and projects from other people and universities for inspo
+1. get into toggl track
+2. swiss chalet money and security clearance money
+3. magellan
+4. look at capstones and projects from other people and universities for inspo
 
 Upcoming Dates:
 Tuesday Jan 27th Drom with coworkers
