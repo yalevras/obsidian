@@ -1,3 +1,6 @@
+---
+aliases:
+---
 GYM
 - gym session:
 	1. 3-7 nov✅
@@ -70,7 +73,7 @@ INSTRUMENT
 	4. nov 23-29
 	5. nov 30-dec 6
 	6. dec 7-13
-	7. dec 14-20✅
+	7. dec 14-20✅✅
 	8. dec 21-27
 	9. dec 28-31
 PROJECT
