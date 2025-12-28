@@ -33,6 +33,10 @@ GYM
 	22. dec 10 gym run
 	23. dec 10 gym run
 	24. dec 10 gym run
+	25. dec 25 gym run
+	26. dec 25 gym run
+	27. dec 25 gym run
+	28. dec 25 gym run
 - weight:
 	1. nov 2, 167.6 and 169.8
 	2. nov 4, 165.6 and 166.6
