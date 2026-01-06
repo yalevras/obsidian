@@ -9,7 +9,7 @@ PASS 182
 
 fm_dispatch-testrunner
 PASS 4
-PAS 108
+PASS 108
 
 fm_tbl-testrunner
 PASS 1
