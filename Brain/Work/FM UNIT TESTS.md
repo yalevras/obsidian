@@ -1,22 +1,18 @@
 failed
 fm_app-testrunner
-PASS 16!!!!!
 PASS 98
 
 fm_cmd_utils-testrunner
-PASS 18
 PASS 182
 
 fm_dispatch-testrunner
-PASS 4
 PASS 108
 
 fm_tbl-testrunner
-PASS 1
 PASS 46
 
 fm_child-testrunner
-17 failed out of 1057
+PASS 1062
 
 
 [BEGIN] 76 Test_FM_ChildDirListPktCmd_PathAndEntryLengthGr
