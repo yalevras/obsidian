@@ -10,6 +10,8 @@ export ROVER_TYPE=lrm && make distclean && make prep && make && make install && 
 
 export ASP_INCLUDE=/usr/local/include/asp:/home/canadensys/yanni/scripts/obc/messages:/home/canadensys/yanni/scripts/nisa/msi
 
+export ROVER_TYPE=misst && make distclean && make ENABLE_UNIT_TESTS=true prep && make install && cd build/exe && tar -czf cpu1.tar.gz cpu1/ && tar -czf cpu2.tar.gz cpu2/
+
 export ROVER_TYPE=lrm && make distclean && make ENABLE_UNIT_TESTS=true prep && make install && cd build/exe && tar -czf cpu1.tar.gz cpu1/ && tar -czf cpu2.tar.gz cpu2/
 
 make ENABLE_UNIT_TESTS=true prep make make install
