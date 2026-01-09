@@ -35,7 +35,9 @@ nisa_boot_interrupt.asp
 
 GUI:
 msi scripts implementation
-lhans
+lhans led to indicate device is on
+update lhans health telemetry display
+image displays s
 
 
 Unit Tests:
