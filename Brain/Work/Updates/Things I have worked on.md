@@ -18,6 +18,7 @@ Find IMU Data Rates that can be used
 Rover active mode, vo switch command
 Debug app allowing other users while app is running
 Fix TO_Lab subscriptions
+Debug App Upgrades
 
 
 
