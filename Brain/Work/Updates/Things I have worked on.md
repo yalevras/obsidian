@@ -38,7 +38,7 @@ msi scripts implementation
 lhans led to indicate device is on
 update lhans health telemetry display
 image displays should be ordered based on time
-image display directories should be configurable not hard coded
+image display directories should be configurable not hard coded1
 opi for all camera displays at once
 image exposure time should be input as ms not us
 drive script distance and angle specification organized better
@@ -52,3 +52,5 @@ Other:
 3 Harnesses
 Cryostat training
 Optitrack Camera Data Acquisition
+Training New Interns
+Training Docu
