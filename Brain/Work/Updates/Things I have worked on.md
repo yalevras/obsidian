@@ -37,7 +37,11 @@ GUI:
 msi scripts implementation
 lhans led to indicate device is on
 update lhans health telemetry display
-image displays s
+image displays should be ordered based on time
+i
+opi for all camera displays at once
+image exposure time should be input as ms not us
+drive script distance and angle specification organized better
 
 
 Unit Tests:
