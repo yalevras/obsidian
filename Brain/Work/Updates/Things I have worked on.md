@@ -53,4 +53,5 @@ Other:
 Cryostat training
 Optitrack Camera Data Acquisition
 Training New Interns
-Training Docu
+Training Document Writing
+Rover Cleaning
