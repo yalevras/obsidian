@@ -11,7 +11,6 @@ Side Todo's:
 - book therapy
 - figure out finances
 - start shots
-- clean crab tank
 - finish unpacking uni
 - minecraft world conversions
 
