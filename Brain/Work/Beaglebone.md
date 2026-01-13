@@ -12,3 +12,6 @@ ip is 192.168.8.32
 
 username: debian
 pasword: ya\*\*\*spassword
+
+
+
