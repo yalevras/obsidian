@@ -30,7 +30,7 @@ Hamming - The Art of Doing Science and Engineering 0/30!pg.11
 
 Math:
 Random Website - [Beginner Linear Algebra](https://immersivemath.com/ila/index.html)
-
+Larson/Edwards - Elementary Linear Algebra
 
 
 
