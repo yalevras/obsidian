@@ -1,3 +1,3 @@
 
     git init
-Creates 
+Creates a new subdirectory .git containing repository fi
