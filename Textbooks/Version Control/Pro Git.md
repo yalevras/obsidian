@@ -15,3 +15,24 @@ If you use `git clone` .git is created automatically.
 `$ cat .gitignore`          
 `*.[oa]`                                  tells Git to ignore any files ending in ".o" or ".a"
 `*~`                                         tells Git to ignore any files whose names end with a "~"
+
+EXAMPLE .gitignore FILE:
+```
+# ignore all .a files
+*.a
+
+# but do track lib.a, even though you're ignoring .a files above
+!lib.a
+
+# only ignore the TODO file in the current directory, not subdir/TODO
+/TODO
+
+# ignore all files in any directory named build
+build/
+
+# ignore doc/notes.txt, but not doc/server/arch.txt
+doc/*.txt
+
+# ignore all .pdf files in the doc/ directory and any of its subdirectories
+doc/**/*.pdf
+```
