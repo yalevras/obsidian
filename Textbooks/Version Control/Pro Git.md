@@ -12,4 +12,6 @@ If you use `git clone` .git is created automatically.
 	M represents modified files
 	MM represents files with stages and unstaged changes
 
-`$ cat .gitignore`
+`$ cat .gitignore`          tells Git to ignore any files ending in ".o" or ".a"
+`*.[oa]`
+`*~`
