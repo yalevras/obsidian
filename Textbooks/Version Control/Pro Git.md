@@ -43,4 +43,4 @@ There can be multiple .gitignore files in different subdirectories of the reposi
 
 `git commit -a` allows you to skip the git add and automatically stage every file that is already tracked before doing the commit
 
-`git rm` stages a file for removal, if it 
+`git rm` stages a file for removal, if it was modified or had been added to the staging area already you need to add the `-f`
