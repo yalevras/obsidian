@@ -11,3 +11,5 @@ If you use `git clone` .git is created automatically.
 	A represents new files added to the staging area
 	M represents modified files
 	MM represents files with stages and unstaged changes
+
+`$ cat .gitignore`
