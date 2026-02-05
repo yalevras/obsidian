@@ -10,3 +10,4 @@ If you use `git clone` .git is created automatically.
 	?? represents untracked files
 	A represents new files added to the staging area
 	M represents modified files
+	MM represents files with stages and unstaged changes
