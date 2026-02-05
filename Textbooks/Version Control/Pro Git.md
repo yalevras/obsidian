@@ -6,4 +6,7 @@
 If you use `git clone` .git is created automatically.
 
 
-`git status -s   or   git status --short`
+`git status -s   or   git status --short` displays a simpler output of git status where
+	?? represents untracked files
+	A represents new files added to the staging area
+	M represents modified files
