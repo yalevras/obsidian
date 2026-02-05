@@ -3,4 +3,4 @@
 
 `git init` creates a new subdirectory .git containing repository files.
 
-If you use `git clone`
+If you use `git clone` .git is created automatically.
