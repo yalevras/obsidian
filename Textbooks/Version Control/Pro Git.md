@@ -42,3 +42,5 @@ There can be multiple .gitignore files in different subdirectories of the reposi
 `git diff` is only for your changes that are not staged
 
 `git commit -a` allows you to skip the git add and automatically stage every file that is already tracked before doing the commit
+
+`git rm` stages a file for removal, if it 
