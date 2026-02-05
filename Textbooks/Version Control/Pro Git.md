@@ -40,3 +40,5 @@ There can be multiple .gitignore files in different subdirectories of the reposi
 
 `git diff --staged` compares your staged changes to your last commit
 `git diff` is only for your changes that are not staged
+
+`git commit -a` allows you to skip the 
