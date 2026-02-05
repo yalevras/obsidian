@@ -36,4 +36,5 @@ doc/*.txt
 # ignore all .pdf files in the doc/ directory and any of its subdirectories
 doc/**/*.pdf
 ```
-There can be multiple .gitignore files in different subdirectories of the repository 
+There can be multiple .gitignore files in different subdirectories of the repository
+
