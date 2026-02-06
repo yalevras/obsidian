@@ -10,4 +10,4 @@ $$g(i,j)=h(f(i,j)),$$
 A common point process is adding a constant *a > 0* for multiplication (*gain*) and* *b* for addition 
 (*bias*) often controlling *contrast* and *brightness* 
 $$g(x)=a(x)f(x)+b(x)$$
-
+[[Superposition]] 
