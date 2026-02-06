@@ -18,5 +18,5 @@ $$g(x)=(1-a)f_0(x)+af_1(x)$$
 
 ![[Pasted image 20260206161232.png|350]]
 
-Gamma correction is a non-linear transform, removing the non-linear mapping between input radience and quantized pixel values. To invert the gamma mapping applied by the sensor we use
-$$g(x)=[f(x)]^(1/)
+Gamma correction is a non-linear transform, removing the non-linear mapping between input radience and quantized pixel values. To invert the gamma (γ = 2.2 usually) mapping applied by the sensor we use
+$$g(x)=[f(x)]^{1/γ}$$
