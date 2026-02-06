@@ -7,7 +7,7 @@ Sciavicco - Robotics: Modelling, Planning and Control 0/12
 
 Computer Vision:
 Szeliski - Computer Vision: Algorithms and Applications 2nd Edition 0/14
-[[Szeliski Chapter 3 - Image Processing]]
+	[[Szeliski Chapter 3 - Image Processing]]
 
 Software:
 Progit - [Pro Git](https://git-scm.com/book/en/v2)
