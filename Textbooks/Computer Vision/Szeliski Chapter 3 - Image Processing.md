@@ -12,7 +12,9 @@ $$g(x)=a(x)f(x)+b(x)$$
 These constants get applied to each RGB value of each pixel.
 
 Another *dyadic* (two-input) operator is the *linear blend* operator is below. By varying *a* from 
-*0 -> 1* we can perform a temporal cross-dissolve between tw o images or videos, or as a component of image morphing algorithms.
-![[Pasted image 20260206161232.png|500]]
+*0 -> 1* we can perform a temporal cross-dissolve between two images or videos, or as a component of image morphing algorithms.
 
-aaaaa
+$$g(x)=(1-a)f_0(x)+
+
+![[Pasted image 20260206161232.png|350]]
+
