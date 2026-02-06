@@ -10,6 +10,8 @@ $$g(i,j)=h(f(i,j)),$$
 A common point process is adding a constant *a > 0* for multiplication (*gain*, obeys the *[[Superposition]]* principle ) and *b* for addition (*bias*) often controlling *contrast* and *brightness* 
 $$g(x)=a(x)f(x)+b(x)$$
 These constants get applied to each RGB value of each pixel.
-Another *dyadic* (two-input) operator is the *linear blend* operator is below. By varying *a* from *0 -> 1* 
+
+Another *dyadic* (two-input) operator is the *linear blend* operator is below. By varying *a* from 
+*0 -> 1* we can perform a temporal cross-dissolve between tw o images or videos, or as a component of image morphing algorithms.
 
 
