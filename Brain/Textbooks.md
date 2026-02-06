@@ -9,7 +9,7 @@ Computer Vision:
 Szeliski - Computer Vision: Algoritms and Applications 2nd Edition 0/14
 
 Software:
-Progit
+Progit - https://git-scm.com/book/en/v2
 Nystrom - [Crafting Interpreters](https://timothya.com/pdfs/crafting-interpreters.pdf)
 Aho - [Dragon Book - Compilers](https://faculty.sist.shanghaitech.edu.cn/faculty/songfu/cav/Dragon-book.pdf)
 Appel - Modern Compiler Implementation in ML 0/21
