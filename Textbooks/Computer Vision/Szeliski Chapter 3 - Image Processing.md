@@ -14,7 +14,9 @@ These constants get applied to each RGB value of each pixel.
 Another *dyadic* (two-input) operator is the *linear blend* operator is below. By varying *a* from 
 *0 -> 1* we can perform a temporal cross-dissolve between two images or videos, or as a component of image morphing algorithms.
 
-$$g(x)=(1-a)f_0(x)+
+$$g(x)=(1-a)f_0(x)+af_1(x)$$
 
 ![[Pasted image 20260206161232.png|350]]
 
+Gamma correction is a non-linear transform, removing the non-linear mapping between input radience and quantized pixel values. To invert the gamma mapping applied by the sensor we use
+$$g(x)=[f(x)]^(1/)
