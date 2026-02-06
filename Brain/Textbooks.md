@@ -14,6 +14,7 @@ Progit - [Pro Git](https://git-scm.com/book/en/v2)
 Nystrom - [Crafting Interpreters](https://timothya.com/pdfs/crafting-interpreters.pdf)
 Aho - [Dragon Book - Compilers](https://faculty.sist.shanghaitech.edu.cn/faculty/songfu/cav/Dragon-book.pdf)
 Appel - Modern Compiler Implementation in ML 0/21
+Rust - [The Rust Programming Language](https://rust-book.cs.brown.edu/ch00-00-introduction.html)
 
 Computer Graphics:
 https://math.hws.edu/graphicsbook/
