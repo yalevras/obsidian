@@ -6,10 +6,10 @@ Robotics:
 Sciavicco - Robotics: Modelling, Planning and Control 0/12
 
 Computer Vision:
-Szeliski - Computer Vision: Algoritms and Applications 2nd Edition 0/14
+Szeliski - Computer Vision: Algorithms and Applications 2nd Edition 0/14
 
 Software:
-Progit - [Pro Git]()
+Progit - [Pro Git](https://git-scm.com/book/en/v2)
 Nystrom - [Crafting Interpreters](https://timothya.com/pdfs/crafting-interpreters.pdf)
 Aho - [Dragon Book - Compilers](https://faculty.sist.shanghaitech.edu.cn/faculty/songfu/cav/Dragon-book.pdf)
 Appel - Modern Compiler Implementation in ML 0/21
@@ -46,3 +46,6 @@ https://lisyarus.github.io/blog/ - articles about computer graphics, quaternions
 
 Electronics
 Optocoupler, an LED and a phototransistor, light based signal gets transferred over
+
+Hackathons
+Ludum Dare
