@@ -71,4 +71,6 @@ Integers:
 - signed
 	- i8, i16, i32, i64, i128, isize (4 bytes on a 32 bit target, 8 bytes on a 64 bit target)
 - unsigned
-	- u8, u16, u32, u64, u128, use
+	- u8, u16, u32, u64, u128, usize
+isize and usize are like ptrdiff_t and size_t in C
+Floating-Point: f32 (singled-precision), and f64 (double-precision)
