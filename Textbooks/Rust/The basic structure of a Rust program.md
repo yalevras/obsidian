@@ -95,3 +95,14 @@ fn main() {
 	println!("{}", *r); // 2
 }
 ```
+
+Type Inference:
+The compiler often deduces the type based on context:
+```
+fn main() {
+	let answer = 42;
+	let pi = 3.14159;
+	let active = true;
+	println!()
+}
+```
