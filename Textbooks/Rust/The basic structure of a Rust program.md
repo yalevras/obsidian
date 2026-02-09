@@ -100,9 +100,13 @@ Type Inference:
 The compiler often deduces the type based on context:
 ```
 fn main() {
-	let answer = 42;
-	let pi = 3.14159;
-	let active = true;
-	println!()
+	let answer = 42; // Type i32 inferred by default for integers
+	let pi = 3.14159; // Type f64 inferred by default for floats
+	let active = true; // Type bool inferred
 }
+```
+
+Used a colon after the let and variable name if the compiler needs guidance or if you want a non-default type
+```
+let
 ```
