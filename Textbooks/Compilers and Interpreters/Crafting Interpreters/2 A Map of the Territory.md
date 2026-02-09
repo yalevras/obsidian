@@ -22,4 +22,4 @@ Lexical analysis and parsing are pretty universal across compilers, after this i
 
 	 This semantic insight sometimes get stores back as attributes on the syntax tree, within extra fields in the nodes that aren't initialized during parsing.
 
- a
+	Other times we may store data in a lookup table off to the side
