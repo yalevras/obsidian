@@ -78,3 +78,6 @@ Floating-Point: f32 (singled-precision), and f64 (double-precision)
 	Double precision uses 64 bits of memory, 1 for sign, 11 for exponent and 52 for mantissa
 Boolean: bool (can be true or false)
 Character: char (Unicode scalar value (4 bytes), contrasts with C's char which is usually a single byte)
+
+References:
+For references and pointers, Rust uses & for immutable access and &mut for mutable access.
