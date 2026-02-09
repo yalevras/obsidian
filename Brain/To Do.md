@@ -15,3 +15,4 @@ Sunday Feb 8th - Saturday Feb 14th
 1 instrument playing - 
 3 rust chapters - 
 find a project to do in rust - 
+3 reads before bed - 
