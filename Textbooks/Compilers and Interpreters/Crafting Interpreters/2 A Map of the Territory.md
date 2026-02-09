@@ -17,4 +17,5 @@ Lexical analysis and parsing are pretty universal across compilers, after this i
 		Type checks are at compile-time vs. at run-time
 		Errors are caught by compiler vs. most frequent runtime crashes
 		Variable's type is fixed vs. variables can change data type during runtime
-		
+
+	Binding/resolution, is where
