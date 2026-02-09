@@ -21,4 +21,12 @@ We use {} for code blocks. Rust automatically frees associated memory with local
 
 **2.3 The *main* Function: The Entry Point**
 
-fn
+```
+fn main() {
+	println!("Hello, world!");
+}
+```
+
+*fn main(){
+	println!("Hello, world!");
+}*
