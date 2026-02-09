@@ -91,5 +91,7 @@ fn main() {
 	inc(&mut v);
 	println!("{v}"); // 1
 	let r = &mut v;
+	inc(r);
+	println!("{}", *r); // 2
 }
 ```
