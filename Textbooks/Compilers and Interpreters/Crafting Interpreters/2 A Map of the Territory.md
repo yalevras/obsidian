@@ -32,5 +32,9 @@ Below is the middle end.
 
 The front end is dependent on the source language of the program. The back end is concerned with the final architecture the program will run in. The IR acts as an interface between these two languages.
 
+5. Optimization
+
+Once we understand what a program means, we can swap it out with something similar.
+
 
 
