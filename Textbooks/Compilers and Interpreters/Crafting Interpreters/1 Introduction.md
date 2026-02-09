@@ -1,4 +1,4 @@
-https://timothya.com/pdfs/crafting-interpreters.pdf
+https://craftinginterpreters.com/contents.html
 
 Lox is the language we will be implementing.
 
