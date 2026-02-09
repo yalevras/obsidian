@@ -37,8 +37,14 @@ The front end is dependent on the source language of the program. The back end i
 Once we understand what a program means, we can swap it out with something simpler. For example, constant folding. If an expression evaluates to the same value, we can do the evaluation at compile time a replace the code for that expression.
 
 ```
-pennyArea = 3.14159* (0.75 / 2)
+pennyArea = 3.14159 * (0.75 / 2) * (0.75 / 2);
+
+becomes
+
+pennyArea = 0.4417860938;
 ```
+
+Lua and CPython tend to have few compile-time optimiations, and focus most of their p
 
 
 
