@@ -25,3 +25,8 @@ Lexical analysis and parsing are pretty universal across compilers, after this i
 	Other times we may store data in a lookup table off to the side, with the keys of the table being identifiers (variable names and declarations). This is called a symbol table.
 
 Everything above is considered the front end of the implementation.
+
+Below is the middle end. (There is no back end)
+
+4. Intermediate representations
+
