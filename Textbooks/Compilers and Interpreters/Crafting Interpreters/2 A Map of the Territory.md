@@ -54,4 +54,8 @@ Backend starts.
 
 7. Virtual machine
 
-	Instead of translating bytecode to each chip you support (which is not too difficult), you can write a virtual machine, which emulated the chip at runtie.
+	Instead of translating bytecode to each chip you support (which is not too difficult), you can write a virtual machine, which emulated the chip at runtime.
+
+8. Runtime
+
+	
