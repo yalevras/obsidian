@@ -74,3 +74,5 @@ Integers:
 	- u8, u16, u32, u64, u128, usize
 isize and usize are like ptrdiff_t and size_t in C
 Floating-Point: f32 (singled-precision), and f64 (double-precision)
+	Single precision uses 32 bits of memory, 8 for exponent and 23 for mantissa
+	Double precision uses 64 bits of memory, 
