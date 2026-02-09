@@ -108,5 +108,5 @@ fn main() {
 
 Used a colon after the let and variable name if the compiler needs guidance or if you want a non-default type
 ```
-let
+let temperature: f32 = 21.5; // Explicitly typed as a 32-bit float
 ```
