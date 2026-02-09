@@ -26,8 +26,10 @@ Lexical analysis and parsing are pretty universal across compilers, after this i
 
 Everything above is considered the front end of the implementation.
 
-Below is the middle end. (There is no back end)
+Below is the middle end.
 
 4. Intermediate representations
 
 The front end is dependent on the source language of the program. The back end is concerned with the final architecture the program will run in.
+
+
