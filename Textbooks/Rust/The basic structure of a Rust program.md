@@ -80,4 +80,4 @@ Boolean: bool (can be true or false)
 Character: char (Unicode scalar value (4 bytes), contrasts with C's char which is usually a single byte)
 
 References:
-For references and pointers, Rust uses & for immutable access and &mut for mutable access.
+For references and pointers, Rust uses & for immutable access and &mut for mutable access. * can be used to access (dereference) the value behind a reference.
