@@ -65,4 +65,4 @@ Backend starts.
 
 This is the long way around, and some compilers take a shorter route.
 
-S
+*Single-pass compilers*
