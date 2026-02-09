@@ -8,3 +8,7 @@ var average=(min+max)/2;
 2. Parsing
 	This stage is where the parser reports syntax errors.
 ![[Pasted image 20260209152307.png]]
+
+Lexical analysis and parsing are pretty universal across compilers, after this is when things change based on the compiler.
+
+3. 
