@@ -36,3 +36,9 @@ have a results stack for each type of game
 
 Start off:
 implement user login
+List saved games
+Input result from game
+Print game
+Add user as friend
+List friend's games
+Print friend's game result
