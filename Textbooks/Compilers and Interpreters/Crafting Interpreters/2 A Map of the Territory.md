@@ -66,3 +66,4 @@ Backend starts.
 This is the long way around, and some compilers take a shorter route.
 
 *Single-pass compilers*
+Code is outputted straight from the parser without allocating any syntax tree or IRs, mea
