@@ -17,4 +17,4 @@ Type Defs: custom data structures using struct, enum, or type aliases (type)
 Constants and Statics: immutable (unable to be changed) values known at compile time or globally accessible data
 use Statements: Import items (functions, types, etc.) from other modules or external crates into the current scope.
 
-We use {} for code blocks.
+We use {} for code blocks. Rust automatically frees associated memory a 
