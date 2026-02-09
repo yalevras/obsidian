@@ -78,3 +78,6 @@ Essentially translating your code into another source language to use the existi
 You compile code to native code for the architecture the computer supports.
 
 **Compilers and Interpreters**
+
+Compiling translates a source language to some other -- usually lower-level -- form, like generating bytecode or transpiling.
+
