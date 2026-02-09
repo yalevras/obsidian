@@ -26,3 +26,13 @@ results {
 	time
 	
 }
+
+have a results stack for each type of game
+
+
+
+
+
+
+Start off:
+implement user login
