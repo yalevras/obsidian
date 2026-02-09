@@ -6,3 +6,7 @@ siege and gaming
 some piano 
 clean room
 
+Weekly Checklist
+Sunday Feb 8nd - Saturday 
+5 planks
+3 gyms
