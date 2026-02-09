@@ -69,4 +69,4 @@ In Rust, variables are automatically like const in C.
 
 Integers:
 - signed
-	- 
+	- i8, i16, i32, i64, i128, isize
