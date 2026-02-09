@@ -36,5 +36,9 @@ let local_variable = "argument";
 println!("this is an {local_variable}!");
 ```
 
+Rust's main function returns the unit type (), indicating success, this can be changed later.
+
+**2.4 Variables: Immutability by Default**
+
 
 
