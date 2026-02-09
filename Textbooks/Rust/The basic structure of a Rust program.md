@@ -85,4 +85,11 @@ For references and pointers, Rust uses & for immutable access and &mut for mutab
 fn inc(i: &mut i32) {
 	*i += 1;
 }
+
+fn main() {
+	let mut v = 0;
+	inc(&mut v);
+	println!("{v}"); // 1
+	let r = &mut v;
+}
 ```
