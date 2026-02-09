@@ -18,4 +18,4 @@ Lexical analysis and parsing are pretty universal across compilers, after this i
 		Errors are caught by compiler vs. most frequent runtime crashes
 		Variable's type is fixed vs. variables can change data type during runtime
 
-	Binding/resolution, is where
+	Binding/resolution, is where we wire where an identifier name is and where it is defined together. 
