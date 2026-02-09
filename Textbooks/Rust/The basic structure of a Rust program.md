@@ -81,3 +81,8 @@ Character: char (Unicode scalar value (4 bytes), contrasts with C's char which i
 
 References:
 For references and pointers, Rust uses & for immutable access and &mut for mutable access. * can be used to access (dereference) the value behind a reference.
+```
+fn inc(i: &mut i32) {
+	*i += 1;
+}
+```
