@@ -5,3 +5,4 @@ var average=(min+max)/2;
 
 [var][average][=][(][min][+][max][)][/][2][;]
 ```
+2. 
