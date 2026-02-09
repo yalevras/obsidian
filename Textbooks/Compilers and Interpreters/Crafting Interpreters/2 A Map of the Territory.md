@@ -76,3 +76,5 @@ Essentially translating your code into another source language to use the existi
 
 *Just-in-time compilation*
 You compile code to native code for the architecture the computer supports.
+
+**Compilers and Interpreters**
