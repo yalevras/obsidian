@@ -34,7 +34,11 @@ The front end is dependent on the source language of the program. The back end i
 
 5. Optimization
 
-Once we understand what a program means, we can swap it out with something similar.
+Once we understand what a program means, we can swap it out with something simpler. For example, constant folding. If an expression evaluates to the same value, we can do the evaluation at compile time a replace the code for that expression.
+
+```
+pennyArea = 3.14159* (0.75 / 2)
+```
 
 
 
