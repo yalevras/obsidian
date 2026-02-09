@@ -27,5 +27,12 @@ fn main() {
 }
 ```
 *println!* prints a new line at the end
-*print!* 
+*print!* does not
+
+to print variables
+
+```
+let local_variable = "argument"
+println!(")
+```
 
