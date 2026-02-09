@@ -40,3 +40,6 @@ Rust's main function returns the unit type (), indicating success, this can be c
 
 **2.4 Variables: Immutability by Default**
 
+```
+let variable_name: OptionalType = value; a 
+```
