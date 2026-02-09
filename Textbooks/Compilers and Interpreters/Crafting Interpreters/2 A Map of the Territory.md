@@ -70,3 +70,6 @@ Code is outputted straight from the parser without allocating any syntax tree or
 
 *Tree-walk interpreters*
 Some languages begin executing code right after parsing it to an AST (abstract syntax tree). The interpreter then traverses the syntax tree one branch and leaf at a time, evaluating each node as it goes.
+
+*Transpilers*
+Essentially translating your code into another source language to use the existing compilation tools for that language. Used to be called a source-to-source compiler or transcompiler.
