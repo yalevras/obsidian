@@ -30,11 +30,11 @@ Below is the middle end.
 
 4. Intermediate representations
 
-The front end is dependent on the source language of the program. The back end is concerned with the final architecture the program will run in. The IR acts as an interface between these two languages.
+	The front end is dependent on the source language of the program. The back end is concerned with the final architecture the program will run in. The IR acts as an interface between these two languages.
 
 5. Optimization
 
-Once we understand what a program means, we can swap it out with something simpler. For example, constant folding. If an expression evaluates to the same value, we can do the evaluation at compile time a replace the code for that expression.
+	Once we understand what a program means, we can swap it out with something simpler. For example, constant folding. If an expression evaluates to the same value, we can do the evaluation at compile time a replace the code for that expression.
 
 ```
 pennyArea = 3.14159 * (0.75 / 2) * (0.75 / 2);
@@ -46,4 +46,5 @@ pennyArea = 0.4417860938;
 
 Lua and CPython tend to have few compile-time optimiations, and focus most of their performance efforts on the runtime.
 
-6. Code G
+Backend starts.
+6. Code generation
