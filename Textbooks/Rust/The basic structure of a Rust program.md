@@ -76,3 +76,5 @@ isize and usize are like ptrdiff_t and size_t in C
 Floating-Point: f32 (singled-precision), and f64 (double-precision)
 	Single precision uses 32 bits of memory, 1 for sign, 8 for exponent and 23 for mantissa
 	Double precision uses 64 bits of memory, 1 for sign, 11 for exponent and 52 for mantissa
+Boolean: bool (can be true or false)
+Character: char (Unicode scalar value (4 bytes), contrasts with C's char which is usually a single byte)
