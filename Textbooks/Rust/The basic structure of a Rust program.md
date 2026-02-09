@@ -26,4 +26,6 @@ fn main() {
 	println!("Hello, world!");
 }
 ```
+*println!* prints a new line at the end
+*print!* 
 
