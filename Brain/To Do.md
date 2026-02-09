@@ -14,3 +14,4 @@ Sunday Feb 8th - Saturday Feb 14th
 4 greek anki reviews - 
 1 instrument playing - 
 3 rust chapters - 
+find a project to do in rust - 
