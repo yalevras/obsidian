@@ -49,6 +49,16 @@ Example:
 fn main() {
 	let x: i32 = 5;
 	// x = 6; // This line would cause a compile-time error!
-	println!("The value of x )
+	println!("The value of x is: {}", x);
+}
+```
+
+To enable mutability, we can use the mut keyword.
+```
+fn main() {
+	let mut x = 5;
+	println("The initial value of x is: {}", x);
+	x = 6;
+	println!("The new value of x is: {}", x);
 }
 ```
