@@ -39,7 +39,7 @@ println!("this is an {local_variable}!");
 Rust's main function returns the unit type (), indicating success, this can be changed later.
 
 **2.4 Variables: Immutability by Default**
-
 ```
 let variable_name: OptionalType = value;
 ```
+Variables must be initialized before their first usag
