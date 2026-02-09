@@ -11,4 +11,6 @@ var average=(min+max)/2;
 
 Lexical analysis and parsing are pretty universal across compilers, after this is when things change based on the compiler.
 
-3. Static analysis is when we analyse our parsed data. For example, a + b, we know to add a and b, but what are a and b? Local
+3. Static analysis is when we analyse our parsed data. For example, a + b, we know to add a and b, but what are a and b? Local or global variables, and where are they defined?
+
+	
