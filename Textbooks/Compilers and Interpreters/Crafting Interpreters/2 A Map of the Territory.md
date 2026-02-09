@@ -50,3 +50,4 @@ Backend starts.
 
 6. Code generation
 
+	Compilers produce virtual machine code, instead of instructions for some real chip. This is bytecode and is a 
