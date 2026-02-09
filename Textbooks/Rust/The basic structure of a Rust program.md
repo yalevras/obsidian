@@ -32,7 +32,7 @@ fn main() {
 to print variables
 
 ```
-let local_variable = "argument"
-println!(")
+let local_variable = "argument";
+println!("this is an {local_variable}!");
 ```
 
