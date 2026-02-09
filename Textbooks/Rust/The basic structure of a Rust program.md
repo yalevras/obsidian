@@ -10,3 +10,8 @@ cargo run
 ```
 
 **2.2 Basic Program Structure**
+
+Modules: logical units of code (public/private)
+Functions: same old
+Type Defs: custom data structures using struct, enum, or type aliases (type)
+Constants and Statics: immutable values
