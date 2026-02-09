@@ -20,3 +20,5 @@ use Statements: Import items (functions, types, etc.) from other modules or exte
 We use {} for code blocks. Rust automatically frees associated memory with local variables (according to RAII - Resource Acquisition Is Initialization, which is Rust's resource management). Rust does not require forward declaration of functions or types, you can call a function defined later in the file.
 
 **2.3 The *main* Function: The Entry Point**
+
+fn
