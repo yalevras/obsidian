@@ -42,4 +42,6 @@ Rust's main function returns the unit type (), indicating success, this can be c
 ```
 let variable_name: OptionalType = value;
 ```
-Variables must be initialized before their first usage. Variables are immu
+Variables must be initialized before their first usage. Variables are immutable by default.
+
+Example:
