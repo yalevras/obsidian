@@ -59,4 +59,7 @@ Backend starts.
 8. Runtime
 
 	The runtime is a sort of garbage collector to reclaim unused bits, as well as something that can keep track of the type of each object during execution.
-	
+
+
+**Shortcuts and Alternate Routes**
+
