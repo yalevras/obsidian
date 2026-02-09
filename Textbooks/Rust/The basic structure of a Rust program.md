@@ -62,3 +62,5 @@ fn main() {
 	println!("The new value of x is: {}", x);
 }
 ```
+
+In Rust, variables are automatically like const in C.
