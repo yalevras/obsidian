@@ -52,4 +52,6 @@ Backend starts.
 
 	Compilers produce virtual machine code, instead of instructions for some real chip. This is bytecode and is binary encoding of the language's low-level operations.
 
-7. 
+7. Virtual machine
+
+	Instead of translating bytecode to each chip you support (which is not too difficult), you can write a virtual machine, which emulated the chip at runtie.
