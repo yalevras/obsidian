@@ -64,3 +64,5 @@ fn main() {
 ```
 
 In Rust, variables are automatically like const in C.
+
+**2.5 Data Types and Annotations**
