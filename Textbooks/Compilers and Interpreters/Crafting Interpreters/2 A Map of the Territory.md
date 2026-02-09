@@ -30,6 +30,7 @@ Below is the middle end.
 
 4. Intermediate representations
 
-The front end is dependent on the source language of the program. The back end is concerned with the final architecture the program will run in.
+The front end is dependent on the source language of the program. The back end is concerned with the final architecture the program will run in. The IR acts as an interface between these two languages.
+
 
 
