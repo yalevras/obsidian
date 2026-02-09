@@ -45,3 +45,8 @@ let variable_name: OptionalType = value;
 Variables must be initialized before their first usage. Variables are immutable by default.
 
 Example:
+```
+fn main() {
+	let x: i32 = 5;
+}
+```
