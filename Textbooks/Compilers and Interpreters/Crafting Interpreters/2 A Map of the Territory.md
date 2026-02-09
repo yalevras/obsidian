@@ -1,5 +1,7 @@
 
-Lexical analysis splits up source code into tokens:
+1. Lexical analysis splits up source code into tokens:
 ```
-c
+var average=(min+max)/2;
+
+[var][average][=][(][min][+][max][)][/][2][;]
 ```
