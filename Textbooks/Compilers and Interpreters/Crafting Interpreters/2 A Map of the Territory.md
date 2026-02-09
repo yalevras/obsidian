@@ -14,4 +14,6 @@ Lexical analysis and parsing are pretty universal across compilers, after this i
 3. Static analysis is when we analyse our parsed data. For example, a + b, we know to add a and b, but what are a and b? Local or global variables, and where are they defined?
 
 	Statically typed vs. Dynamically typed language
-		
+		Type checks are at compile-time vs. at run-tie
+		Errors are caught by compiler vs. most frequent runtime crashes
+		Variable's type is fixed vs. variables can change data 
