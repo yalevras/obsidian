@@ -47,4 +47,6 @@ pennyArea = 0.4417860938;
 Lua and CPython tend to have few compile-time optimiations, and focus most of their performance efforts on the runtime.
 
 Backend starts.
+
 6. Code generation
+
