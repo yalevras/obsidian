@@ -48,5 +48,7 @@ Example:
 ```
 fn main() {
 	let x: i32 = 5;
+	// x = 6; // This line would cause a compile-time error!
+	println!("The value of x )
 }
 ```
