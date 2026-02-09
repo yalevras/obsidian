@@ -30,3 +30,4 @@ Below is the middle end. (There is no back end)
 
 4. Intermediate representations
 
+The front end is dependent on the source language of the program. The back end is concerned with the final architecture the program will run in.
