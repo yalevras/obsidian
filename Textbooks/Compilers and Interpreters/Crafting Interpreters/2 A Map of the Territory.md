@@ -22,4 +22,6 @@ Lexical analysis and parsing are pretty universal across compilers, after this i
 
 	 This semantic insight sometimes get stores back as attributes on the syntax tree, within extra fields in the nodes that aren't initialized during parsing.
 
-	Other times we may store data in a lookup table off to the side
+	Other times we may store data in a lookup table off to the side, with the keys of the table being identifiers (variable names and declarations). This is called a symbol table.
+
+Everything above is considered the front end of the implementation.
