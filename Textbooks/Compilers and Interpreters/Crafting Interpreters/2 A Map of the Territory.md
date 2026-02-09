@@ -69,4 +69,4 @@ This is the long way around, and some compilers take a shorter route.
 Code is outputted straight from the parser without allocating any syntax tree or IRs, meaning the compile needs to know enough about an expression to correctly compile it. This is what C was designed for which is why you can't call a function above the code that defines it unless you have some forward declaration of it, since memory used to be limited.
 
 *Tree-walk interpreters*
-Some palgnauge
+Some languages begin executing code right after parsing it to an AST (abstract syntax tree). The interpreter then traverses the syntax tree one branch and leaf at a time, evaluating each node as it goes.
