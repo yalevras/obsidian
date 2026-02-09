@@ -75,3 +75,4 @@ Some languages begin executing code right after parsing it to an AST (abstract s
 Essentially translating your code into another source language to use the existing compilation tools for that language. Used to be called a source-to-source compiler or transcompiler. Nowadays, most languages have a compiler that targets JS, to get your code running in a browser.
 
 *Just-in-time compilation*
+You compile code to native code for the architecture the computer supports.
