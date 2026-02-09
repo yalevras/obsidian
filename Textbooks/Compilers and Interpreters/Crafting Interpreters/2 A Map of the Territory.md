@@ -81,3 +81,4 @@ You compile code to native code for the architecture the computer supports.
 
 Compiling translates a source language to some other -- usually lower-level -- form, like generating bytecode or transpiling.
 
+Interpreting is taking in source code and executing it immediately.
