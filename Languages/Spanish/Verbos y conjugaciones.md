@@ -11,6 +11,11 @@ Estar
 
 Estar
 
-|     | Presente | Pretério | Imperfecto | Condicional | Futuro |
-| --- | -------- | -------- | ---------- | ----------- | ------ |
-| yo  | estoy    | estuve   | estaba     | estarí      |        |
+|     | Presente | Pretério  | Imperfecto | Condicional | Futuro  |
+| --- | -------- | --------- | ---------- | ----------- | ------- |
+| yo  | estoy    | estuve    | estaba     | estaría     | estaré  |
+| tú  | estás    | estuviste | estabas    | estarías    | estarás |
+| él  |          |           |            |             |         |
+|     |          |           |            |             |         |
+|     |          |           |            |             |         |
+|     |          |           |            |             |         |
