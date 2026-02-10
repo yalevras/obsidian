@@ -8,3 +8,5 @@
 \w is equivalent to [A-Za-z0-9_]
 a{3} matches a 3 times
 a{2,3} matches a between 2-3 times
+a+ means at least 1 a but as many as you want
+a* means any number of a including none
