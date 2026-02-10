@@ -1,8 +1,8 @@
 | Presente | Pretério | Imperfecto | Condicional | Futuro |
 | -------- | -------- | ---------- | ----------- | ------ |
-Pres
-
-
+Presente - present tense
+Pretério - past tense
+Imperfecto - habitual past tense, what was going on
 
 Two words for to be:
 Ser
