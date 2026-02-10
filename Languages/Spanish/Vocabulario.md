@@ -19,3 +19,4 @@ Sí - yes
 Aquí - here
 Comer - to eat
 Todo - everything
+Ir - to go

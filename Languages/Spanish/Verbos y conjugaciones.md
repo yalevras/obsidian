@@ -33,3 +33,4 @@ Estar
 | ellos/ellas/ustedes | están    | estuvieron  | estaban    | estarían    | estarán   |
 
 Comer - to eat
+Ir - to go
