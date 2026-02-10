@@ -23,4 +23,5 @@ ab?c matches either "abc" or "ac", the b is optional
  you can use logical OR
  \D any non digit character
  \S any non white character
- \W any non-alphanumeric characte 
+ \W any non-alphanumeric character
+ \b matches the boundary between a word and a non-word character
