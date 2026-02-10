@@ -21,3 +21,6 @@ ab?c matches either "abc" or "ac", the b is optional
  () captures and extracts the information from the expression
  (()) you can next captures
  you can use logical OR
+ \D any non digit character
+ \S any non white character
+ \W any non-alphanumeric characte 
