@@ -7,5 +7,6 @@ Que - that
 Para - for
 Bien - okay
 Yo - I
-Eso - 
-Esto - 
+Esto - this
+Eso - that
+Aquello - that (over there)
