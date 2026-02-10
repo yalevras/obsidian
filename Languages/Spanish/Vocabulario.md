@@ -6,3 +6,6 @@ Qué - what
 Que - that
 Para - for
 Bien - okay
+Yo - I
+Eso - 
+Esto - 
