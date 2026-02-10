@@ -18,3 +18,4 @@ Aquello - that (over there)
 Sí - yes
 Aquí - here
 Comer - to eat
+Todo - everything
