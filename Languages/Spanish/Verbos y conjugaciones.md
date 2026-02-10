@@ -31,3 +31,5 @@ Estar
 | nosotros            | estamos  | estuvimos   | estábamos  | estarámos   | estaremos |
 | vosotros            | estáis   | estuvisteis | estabais   | estaríais   | estaréis  |
 | ellos/ellas/ustedes | están    | estuvieron  | estaban    | estarían    | estarán   |
+
+Comer - to eat

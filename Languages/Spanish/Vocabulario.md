@@ -17,3 +17,4 @@ Aquello - that (over there)
 	Aquel/aquella
 Sí - yes
 Aquí - here
+Comer - to eat
