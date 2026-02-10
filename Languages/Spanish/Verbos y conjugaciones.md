@@ -11,6 +11,6 @@ Estar
 
 Estar
 
-|     | Presente | Pretqwertyuiopasdfghjklñ{zxcvbnm,.} |     |     |     |     |
-| --- | -------- | ----------------------------------- | --- | --- | --- | --- |
-| yo  | estoy    |                                     |     |     |     |     |
+|     | Presente | ´   |     |     |     |     |
+| --- | -------- | --- | --- | --- | --- | --- |
+| yo  | estoy    |     |     |     |     |     |
