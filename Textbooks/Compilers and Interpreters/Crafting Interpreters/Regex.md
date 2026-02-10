@@ -3,3 +3,4 @@
 . can match any single character ever
 \. is just a period
 [ ] is used to match anything within
+[^ ] is used to exclude anything within
