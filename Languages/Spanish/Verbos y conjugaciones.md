@@ -9,4 +9,8 @@ Estar
 
 
 
-Esta
+Estar
+
+|     | Presente | Pretqwertyuiopasdfghjklñ{zxcvbnm,.} |     |     |     |     |
+| --- | -------- | ----------------------------------- | --- | --- | --- | --- |
+| yo  | estoy    |                                     |     |     |     |     |
