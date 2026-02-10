@@ -11,3 +11,8 @@ a{2,3} matches a between 2-3 times
 a+ means at least 1 a but as many as you want
 a* means any number of a including none
 ab?c matches either "abc" or "ac", the b is optional
+ space
+ \t tab
+ \n new line
+ \r return
+ \s mtches any whitespaces
