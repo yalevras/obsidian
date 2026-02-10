@@ -18,4 +18,5 @@ ab?c matches either "abc" or "ac", the b is optional
  \s mtches any whitespaces
  ^success matches only a line that begins with the word success, not unsuccessful for example
  ^ and $ matches only what's between it
- () captures and extracts the information from the expressoin
+ () captures and extracts the information from the expression
+ (()) you can next captures
