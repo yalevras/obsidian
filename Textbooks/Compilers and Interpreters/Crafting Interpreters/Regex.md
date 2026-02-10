@@ -17,4 +17,4 @@ ab?c matches either "abc" or "ac", the b is optional
  \r return
  \s mtches any whitespaces
  ^success matches only a line that begins with the word success, not unsuccessful for example
- ^ and $ matches only the word
+ ^ and $ matches only what's between it
