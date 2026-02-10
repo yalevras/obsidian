@@ -4,8 +4,8 @@ Porque - because
 Por que - for which
 Qué - what
 Que - that
-Para - for
-Por - for
+Para - for (for purpose, destination, deadlines, or recipiens)
+Por - for (for reason, motive, duration, exachange, movement through/by a place)
 Bien - okay
 Yo - I
 Esto - this
