@@ -5,3 +5,4 @@
 [ ] is used to match anything within
 [^ ] is used to exclude anything within
 [a-z] represents the range of all lowercase letters a-z
+\w is equivalent to [A-Za-z0-9_]
