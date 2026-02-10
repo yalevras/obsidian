@@ -2,14 +2,14 @@ Two words for to be:
 Ser
 	- date, occupation, characteristic, time, origin, relation
 
-| Ser                 | Presente | Pretério | Imperfecto | Condicional | Futuro |
-| ------------------- | -------- | -------- | ---------- | ----------- | ------ |
-| yo                  |          |          |            |             |        |
-| tú                  |          |          |            |             |        |
-| él/ella/usted       |          |          |            |             |        |
-| nosotros            |          |          |            |             |        |
-| vosotros            |          |          |            |             |        |
-| ellos/ellas/ustedes |          |          |            |             |        |
+| Ser                 | Presente | Pretério | Imperfecto | Condicional | Futuro  |
+| ------------------- | -------- | -------- | ---------- | ----------- | ------- |
+| yo                  | soy      | fui      | era        | sería       | seré    |
+| tú                  | eres     | fuiste   | eras       | serías      | será    |
+| él/ella/usted       | es       | fue      | era        | sería       | será    |
+| nosotros            | somos    | fuimos   | éramos     | seríamos    | seremos |
+| vosotros            | sois     | fuisteis | erais      | seríais     | seréis  |
+| ellos/ellas/ustedes | son      | fueron   | eran       | serían      | serán   |
 
 Estar
 	- position, location, action, condition, emotion
