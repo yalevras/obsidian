@@ -1,3 +1,9 @@
+| Presente | Pretério | Imperfecto | Condicional | Futuro |
+| -------- | -------- | ---------- | ----------- | ------ |
+Pres
+
+
+
 Two words for to be:
 Ser
 	- date, occupation, characteristic, time, origin, relation
@@ -10,6 +16,7 @@ Ser
 | nosotros            | somos    | fuimos   | éramos     | seríamos    | seremos |
 | vosotros            | sois     | fuisteis | erais      | seríais     | seréis  |
 | ellos/ellas/ustedes | son      | fueron   | eran       | serían      | serán   |
+|                     |          |          |            |             |         |
 
 Estar
 	- position, location, action, condition, emotion
