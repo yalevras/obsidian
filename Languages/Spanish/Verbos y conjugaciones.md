@@ -3,6 +3,8 @@
 Presente - present tense
 Pretério - past tense
 Imperfecto - habitual past tense, what was going on
+Condicional - would
+Futuro - future
 
 Two words for to be:
 Ser
