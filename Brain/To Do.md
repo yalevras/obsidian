@@ -8,11 +8,15 @@ clean room
 
 Weekly Checklist
 Sunday Feb 8th - Saturday Feb 14th
+Expected:
 5 planks - 1, 
 3 gyms - 1,
 10 genki workbook pages - 45, 
 4 greek anki reviews - 
 1 instrument playing - 
-3 rust chapters - 
-find a project to do in rust - 
+3 rust chapters - still on 2
+find a project to do in rust - project found!
 3 reads before bed - 
+Extra:
+spanish anki reviews - 1
+3 compilers chapters - 2,
