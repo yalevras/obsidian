@@ -11,4 +11,4 @@ public class - a class accessible from any other class, even in different packag
 
 
 
-the System c
+the System class is the standard input, output and error output streams
