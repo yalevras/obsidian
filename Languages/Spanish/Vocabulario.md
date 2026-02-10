@@ -5,6 +5,7 @@ Por que - for which
 Qué - what
 Que - that
 Para - for
+Por - for
 Bien - okay
 Yo - I
 Esto - this
