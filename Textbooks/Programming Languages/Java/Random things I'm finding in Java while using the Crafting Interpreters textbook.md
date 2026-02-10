@@ -6,4 +6,4 @@ package com.craftinginterpreters.lox
 import is like import in C++
 
 
-public class - a class accessible from any other class, even in different pac k 
+public class - a class accessible from any other class, even in different packages
