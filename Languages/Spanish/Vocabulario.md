@@ -1,3 +1,5 @@
 Lo - 
 Que - 
-Por que
+Por qué - why
+Porque - because
+Por que - 
