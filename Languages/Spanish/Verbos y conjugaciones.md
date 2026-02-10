@@ -4,4 +4,9 @@ Ser
 Estar
 	- position, location, action, condition, emotion
 
-Ser - to be
+
+
+
+
+
+Esta
