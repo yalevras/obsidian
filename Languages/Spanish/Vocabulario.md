@@ -16,3 +16,4 @@ Eso - that
 Aquello - that (over there)
 	Aquel/aquella
 Sí - yes
+Aquí - here
