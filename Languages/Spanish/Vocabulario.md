@@ -30,5 +30,7 @@ Y - and
 No - no/don't
 Nada - nothing
 Saber - to know
-Cómo
+Cómo - how
+Como - like/as (in comparison)
+
 
