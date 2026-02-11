@@ -27,5 +27,5 @@ Algo - something
 Tener - to have
 Nos - us
 Y - and
-No ''
+No - no/don
 
