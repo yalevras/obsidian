@@ -22,3 +22,5 @@ Todo - everything
 Ir - to go
 Muy - very
 Ahora - now
+Algo - something
+
