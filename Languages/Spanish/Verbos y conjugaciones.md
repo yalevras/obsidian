@@ -36,3 +36,4 @@ Comer - to eat
 Ir - to go
 Tener - to have
 Saber - to know
+Querer - to want

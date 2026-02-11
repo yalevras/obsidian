@@ -32,5 +32,7 @@ Nada - nothing
 Saber - to know
 Cómo - how
 Como - like/as (in comparison)
+Querer - to want
+Más - more
 
 
