@@ -42,5 +42,7 @@ Gracias - thank you
 Poder - to be able to/can
 Hacer - to do
 Vez - time (like one time)
-Creer  to believe
-
+Creer - to believe
+Él - he
+Ella - she
+´
