@@ -18,7 +18,7 @@ Expected:
 find a project to do in rust - project found!
 3 reads before bed - 
 Extra:
-spanish anki reviews - 1
+spanish anki reviews - 1, 2
 3 compilers chapters - 2,
 learning lots about java
 completed regex
