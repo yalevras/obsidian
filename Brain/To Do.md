@@ -13,7 +13,7 @@ Expected:
 3 gyms - 1,
 10 genki workbook pages - 45, 
 4 greek anki reviews - 
-1 instrument playing - 
+1 instrument playing - some jazz piano chords
 3 rust chapters - still on 2
 find a project to do in rust - project found!
 3 reads before bed - 
