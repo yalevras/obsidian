@@ -40,4 +40,4 @@ Solo - alone (adjective)
 De - from
 Gracias - thank you
 Poder - to be able to/can
-
+Hacer - to do
