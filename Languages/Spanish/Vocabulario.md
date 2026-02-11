@@ -36,6 +36,6 @@ Querer - to want
 Más - more
 Sólo - only (adverb)
 Solo - alone (adjective)
-
-
+De - from
+Gracias - thank you
 
