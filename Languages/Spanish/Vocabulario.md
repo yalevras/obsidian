@@ -29,4 +29,6 @@ Nos - us
 Y - and
 No - no/don't
 Nada - nothing
+Saber - to know
+Cómo
 
