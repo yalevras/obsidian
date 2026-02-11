@@ -34,5 +34,8 @@ Cómo - how
 Como - like/as (in comparison)
 Querer - to want
 Más - more
+Sólo - only (adverb)
+Solo - alone (adjective)
+
 
 
