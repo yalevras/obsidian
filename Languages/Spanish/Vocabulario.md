@@ -38,4 +38,5 @@ Sólo - only (adverb)
 Solo - alone (adjective)
 De - from
 Gracias - thank you
+Poder - to be able to/can
 

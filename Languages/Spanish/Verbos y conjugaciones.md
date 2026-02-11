@@ -37,3 +37,4 @@ Ir - to go
 Tener - to have
 Saber - to know
 Querer - to want
+Poder - to be able to/can
