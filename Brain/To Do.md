@@ -21,3 +21,4 @@ Extra:
 spanish anki reviews - 1
 3 compilers chapters - 2,
 learning lots about java
+completed regex
