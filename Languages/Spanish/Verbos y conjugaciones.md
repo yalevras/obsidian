@@ -39,3 +39,4 @@ Saber - to know
 Querer - to want
 Poder - to be able to/can
 Hacer - to do
+Creer- to believe
