@@ -34,3 +34,4 @@ Estar
 
 Comer - to eat
 Ir - to go
+Tener - to have

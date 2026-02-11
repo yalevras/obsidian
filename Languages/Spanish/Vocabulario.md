@@ -23,4 +23,7 @@ Ir - to go
 Muy - very
 Ahora - now
 Algo - something
+Tener - to have
+Nos - us
+
 
