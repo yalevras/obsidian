@@ -6,7 +6,8 @@ Qué - what
 Que - that
 Para - for (for purpose, destination, deadlines, or recipiens)
 Por - for (for reason, motive, duration, exachange, movement through/by a place)
-Bien - okay
+Bien - good (adverb)
+Bueno - good (adjective)
 Yo - I
 Tu - your
 Tú - you
