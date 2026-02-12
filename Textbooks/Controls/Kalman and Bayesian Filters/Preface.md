@@ -1,0 +1,1 @@
+Bayesian probability determins what is likely to be true based on past information
