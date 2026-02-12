@@ -58,12 +58,12 @@ Tener - to have
 
 | Estar               | Presente | Pretério  | Imperfecto | Condicional | Futuro      |
 | ------------------- | -------- | --------- | ---------- | ----------- | ----------- |
-| yo                  | tengo    | tuve      | t          | comería     | comeré      |
-| tú                  | tienes   | comiste   | comías     | comerías    | comerás     |
-| él/ella/usted       | tiene    | comió     | comía      | comería     | comerá      |
-| nosotros            | tenemos  | comimos   | comíamos   | comeríamos  | comereremos |
-| vosotros            | coméis   | comisteis | comíais    | comeríais   | comeréis    |
-| ellos/ellas/ustedes | comen    | comieron  | comían     | comerían    | comerán     |
+| yo                  | tengo    | tuve      | tenía      | tendría     | comeré      |
+| tú                  | tienes   | comiste   | tenías     | tendrías    | comerás     |
+| él/ella/usted       | tiene    | comió     | tenía      | tendría     | comerá      |
+| nosotros            | tenemos  | comimos   | teníamos   | tendríamos  | comereremos |
+| vosotros            | coméis   | comisteis | teníais    | tendríais   | comeréis    |
+| ellos/ellas/ustedes | comen    | comieron  | tenían     | tendrían    | comerán     |
 
 Saber - to know
 
