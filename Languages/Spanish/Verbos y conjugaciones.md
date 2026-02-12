@@ -45,25 +45,25 @@ Comer - to eat
 
 Ir - to go
 
-| Estar               | Presente | Pretério    | Imperfecto | Condicional | Futuro    |
-| ------------------- | -------- | ----------- | ---------- | ----------- | --------- |
-| yo                  | voy      | fui         | iba        | iría        | iré       |
-| tú                  | vas      | fuiste      | ibas       | irías       | irás      |
-| él/ella/usted       | va       | fue         | iba        | iría        | irá       |
-| nosotros            | vamos    | fuimos      | estábamos  | estarámos   | estaremos |
-| vosotros            | estáis   | estuvisteis | estabais   | estaríais   | estaréis  |
-| ellos/ellas/ustedes | están    | estuvieron  | estaban    | estarían    | estarán   |
+| Estar               | Presente | Pretério | Imperfecto | Condicional | Futuro |
+| ------------------- | -------- | -------- | ---------- | ----------- | ------ |
+| yo                  | voy      | fui      | iba        | iría        | iré    |
+| tú                  | vas      | fuiste   | ibas       | irías       | irás   |
+| él/ella/usted       | va       | fue      | iba        | iría        | irá    |
+| nosotros            | vamos    | fuimos   | íbamos     | iríamos     | iremos |
+| vosotros            | vais     | fuisteis | ibais      | iríais      | iréis  |
+| ellos/ellas/ustedes | van      | fueron   | iban       | irían       | irán   |
 
 Tener - to have
 
-| Estar               | Presente | Pretério    | Imperfecto | Condicional | Futuro    |
-| ------------------- | -------- | ----------- | ---------- | ----------- | --------- |
-| yo                  | estoy    | estuve      | estaba     | estaría     | estaré    |
-| tú                  | estás    | estuviste   | estabas    | estarías    | estarás   |
-| él/ella/usted       | está     | estuvo      | estaba     | estaría     | estará    |
-| nosotros            | estamos  | estuvimos   | estábamos  | estarámos   | estaremos |
-| vosotros            | estáis   | estuvisteis | estabais   | estaríais   | estaréis  |
-| ellos/ellas/ustedes | están    | estuvieron  | estaban    | estarían    | estarán   |
+| Estar               | Presente | Pretério  | Imperfecto | Condicional | Futuro      |
+| ------------------- | -------- | --------- | ---------- | ----------- | ----------- |
+| yo                  | tengo    | tuve      | t          | comería     | comeré      |
+| tú                  | tienes   | comiste   | comías     | comerías    | comerás     |
+| él/ella/usted       | tiene    | comió     | comía      | comería     | comerá      |
+| nosotros            | tenemos  | comimos   | comíamos   | comeríamos  | comereremos |
+| vosotros            | coméis   | comisteis | comíais    | comeríais   | comeréis    |
+| ellos/ellas/ustedes | comen    | comieron  | comían     | comerían    | comerán     |
 
 Saber - to know
 
