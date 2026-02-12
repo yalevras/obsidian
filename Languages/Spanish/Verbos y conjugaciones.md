@@ -34,14 +34,14 @@ Estar
 
 Comer - to eat
 
-| Estar               | Presente | Pretério  | Imperfecto | Condicional | Futuro      |
-| ------------------- | -------- | --------- | ---------- | ----------- | ----------- |
-| yo                  | como     | comí      | comía      | comería     | comeré      |
-| tú                  | comes    | comiste   | comías     | comerías    | comerás     |
-| él/ella/usted       | come     | comió     | comía      | comería     | comerá      |
-| nosotros            | comemos  | comimos   | comíamos   | comeríamos  | comereremos |
-| vosotros            | coméis   | comisteis | comíais    | comeríais   | comeréis    |
-| ellos/ellas/ustedes | comen    | comieron  | comían     | comerían    | comerán     |
+| Estar               | Presente | Pretério  | Imperfecto | Condicional | Futuro    |
+| ------------------- | -------- | --------- | ---------- | ----------- | --------- |
+| yo                  | como     | comí      | comía      | comería     | comeré    |
+| tú                  | comes    | comiste   | comías     | comerías    | comerás   |
+| él/ella/usted       | come     | comió     | comía      | comería     | comerá    |
+| nosotros            | comemos  | comimos   | comíamos   | comeríamos  | comeremos |
+| vosotros            | coméis   | comisteis | comíais    | comeríais   | comeréis  |
+| ellos/ellas/ustedes | comen    | comieron  | comían     | comerían    | comerán   |
 
 Ir - to go
 
@@ -56,14 +56,14 @@ Ir - to go
 
 Tener - to have
 
-| Estar               | Presente | Pretério  | Imperfecto | Condicional | Futuro      |
-| ------------------- | -------- | --------- | ---------- | ----------- | ----------- |
-| yo                  | tengo    | tuve      | tenía      | tendría     | comeré      |
-| tú                  | tienes   | comiste   | tenías     | tendrías    | comerás     |
-| él/ella/usted       | tiene    | comió     | tenía      | tendría     | comerá      |
-| nosotros            | tenemos  | comimos   | teníamos   | tendríamos  | comereremos |
-| vosotros            | coméis   | comisteis | teníais    | tendríais   | comeréis    |
-| ellos/ellas/ustedes | comen    | comieron  | tenían     | tendrían    | comerán     |
+| Estar               | Presente | Pretério  | Imperfecto | Condicional | Futuro    |
+| ------------------- | -------- | --------- | ---------- | ----------- | --------- |
+| yo                  | tengo    | tuve      | tenía      | tendría     | tendré    |
+| tú                  | tienes   | comiste   | tenías     | tendrías    | tendrás   |
+| él/ella/usted       | tiene    | comió     | tenía      | tendría     | tendrá    |
+| nosotros            | tenemos  | comimos   | teníamos   | tendríamos  | tendremos |
+| vosotros            | coméis   | comisteis | teníais    | tendríais   | tendréis  |
+| ellos/ellas/ustedes | comen    | comieron  | tenían     | tendrían    | tendrán   |
 
 Saber - to know
 
