@@ -89,14 +89,14 @@ Querer - to want
 
 Poder - to be able to/can
 
-| Estar               | Presente | Pretério    | Imperfecto | Condicional | Futuro    |
-| ------------------- | -------- | ----------- | ---------- | ----------- | --------- |
-| yo                  | puedo    | pude        | podía      | podría      | podré     |
-| tú                  |          | estuviste   | estabas    | estarías    | estarás   |
-| él/ella/usted       | está     | estuvo      | estaba     | estaría     | estará    |
-| nosotros            | estamos  | estuvimos   | estábamos  | estarámos   | estaremos |
-| vosotros            | estáis   | estuvisteis | estabais   | estaríais   | estaréis  |
-| ellos/ellas/ustedes | están    | estuvieron  | estaban    | estarían    | estarán   |
+| Estar               | Presente | Pretério   | Imperfecto | Condicional | Futuro   |
+| ------------------- | -------- | ---------- | ---------- | ----------- | -------- |
+| yo                  | puedo    | pude       | podía      | podría      | podré    |
+| tú                  | puedes   | pudiste    | podías     | podrías     | podrás   |
+| él/ella/usted       | puede    | pudo       | podía      | podría      | podrá    |
+| nosotros            | podemos  | pudimos    | podíamos   | podríamos   | podremos |
+| vosotros            | podéis   | pudisteis  | estabais   | estaríais   | estaréis |
+| ellos/ellas/ustedes | están    | estuvieron | estaban    | estarían    | estarán  |
 
 Hacer - to do
 
