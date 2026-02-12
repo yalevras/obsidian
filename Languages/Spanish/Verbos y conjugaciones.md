@@ -91,8 +91,8 @@ Poder - to be able to/can
 
 | Estar               | Presente | Pretério    | Imperfecto | Condicional | Futuro    |
 | ------------------- | -------- | ----------- | ---------- | ----------- | --------- |
-| yo                  | estoy    | estuve      | estaba     | estaría     | estaré    |
-| tú                  | estás    | estuviste   | estabas    | estarías    | estarás   |
+| yo                  | puedo    | pude        | podía      | podría      | podré     |
+| tú                  |          | estuviste   | estabas    | estarías    | estarás   |
 | él/ella/usted       | está     | estuvo      | estaba     | estaría     | estará    |
 | nosotros            | estamos  | estuvimos   | estábamos  | estarámos   | estaremos |
 | vosotros            | estáis   | estuvisteis | estabais   | estaríais   | estaréis  |
