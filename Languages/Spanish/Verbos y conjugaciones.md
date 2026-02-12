@@ -67,21 +67,21 @@ Tener - to have
 
 Saber - to know
 
-| Estar               | Presente | Pretério    | Imperfecto | Condicional | Futuro   |
-| ------------------- | -------- | ----------- | ---------- | ----------- | -------- |
-| yo                  | sé       | supe        | sabía      | sabría      | sabré    |
-| tú                  | sabes    | supiste     | sabías     | sabrías     | sabrás   |
-| él/ella/usted       | sabe     | supo        | sabía      | sabría      | sabrá    |
-| nosotros            | sabemos  | supimos     | sabíamos   | sabríamos   | sabremos |
-| vosotros            | estáis   | estuvisteis | estabais   | estaríais   | estaréis |
-| ellos/ellas/ustedes | están    | estuvieron  | estaban    | estarían    | estarán  |
+| Estar               | Presente | Pretério  | Imperfecto | Condicional | Futuro   |
+| ------------------- | -------- | --------- | ---------- | ----------- | -------- |
+| yo                  | sé       | supe      | sabía      | sabría      | sabré    |
+| tú                  | sabes    | supiste   | sabías     | sabrías     | sabrás   |
+| él/ella/usted       | sabe     | supo      | sabía      | sabría      | sabrá    |
+| nosotros            | sabemos  | supimos   | sabíamos   | sabríamos   | sabremos |
+| vosotros            | sabéis   | supisteis | sabíais    | sabríais    | sabréis  |
+| ellos/ellas/ustedes | saben    | supieron  | sabían     | sabrían     | sabrán   |
 
 Querer - to want
 
 | Estar               | Presente | Pretério    | Imperfecto | Condicional | Futuro    |
 | ------------------- | -------- | ----------- | ---------- | ----------- | --------- |
-| yo                  | estoy    | estuve      | estaba     | estaría     | estaré    |
-| tú                  | estás    | estuviste   | estabas    | estarías    | estarás   |
+| yo                  | quiero   | quise       | quería     | querría     | querré    |
+| tú                  | quieres  | quisiste    | querías    | querrías    | querrás   |
 | él/ella/usted       | está     | estuvo      | estaba     | estaría     | estará    |
 | nosotros            | estamos  | estuvimos   | estábamos  | estarámos   | estaremos |
 | vosotros            | estáis   | estuvisteis | estabais   | estaríais   | estaréis  |
