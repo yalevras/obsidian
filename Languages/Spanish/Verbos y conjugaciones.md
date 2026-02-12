@@ -34,14 +34,14 @@ Estar
 
 Comer - to eat
 
-| Estar               | Presente | Pretério   | Imperfecto | Condicional | Futuro      |
-| ------------------- | -------- | ---------- | ---------- | ----------- | ----------- |
-| yo                  | como     | comí       | comía      | comería     | comeré      |
-| tú                  | comes    | comiste    | comías     | comerías    | comerás     |
-| él/ella/usted       | come     | comió      | comía      | comería     | comerá      |
-| nosotros            | comemos  | comimos    | comíamos   | comeríamos  | comereremos |
-| vosotros            | coméis   | comisteis  | estabais   | estaríais   | estaréis    |
-| ellos/ellas/ustedes | están    | estuvieron | estaban    | estarían    | estarán     |
+| Estar               | Presente | Pretério  | Imperfecto | Condicional | Futuro      |
+| ------------------- | -------- | --------- | ---------- | ----------- | ----------- |
+| yo                  | como     | comí      | comía      | comería     | comeré      |
+| tú                  | comes    | comiste   | comías     | comerías    | comerás     |
+| él/ella/usted       | come     | comió     | comía      | comería     | comerá      |
+| nosotros            | comemos  | comimos   | comíamos   | comeríamos  | comereremos |
+| vosotros            | coméis   | comisteis | comíais    | comeríais   | comeréis    |
+| ellos/ellas/ustedes | comen    | comieron  | comían     |             | estarán     |
 
 Ir - to go
 
