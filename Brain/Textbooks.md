@@ -2,6 +2,7 @@ D:\Textbook
 
 
 MIT OpenCourseWare
+Principles of Automatic Control - 16.06
 Cognitive Robotics - 16.412J Graduate - https://ocw.mit.edu/courses/16-412j-cognitive-robotics-spring-2016/
 
 
