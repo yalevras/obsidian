@@ -42,7 +42,8 @@ Random Website - [Beginner Linear Algebra](https://immersivemath.com/ila/index.h
 Larson/Edwards - Elementary Linear Algebra Second Edition (physical) 
 	Progress: [[Elementary Linear Algebra]]
 
-
+Random:
+Morse Code - https://www.perry.qa/morse
 
 
 
