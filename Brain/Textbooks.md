@@ -3,6 +3,7 @@ D:\Textbook
 
 MIT OpenCourseWare
 Systems and Controls 2.04 Undergraduate https://ocw.mit.edu/courses/2-04a-systems-and-controls-spring-2013/
+Identification, Estimation, and Learning 2.160 
 Dynamic Systems and Control 6.241J Graduate https://ocw.mit.edu/courses/6-4210-robotic-manipulation-fall-2022/
 Robotic Manipulation 6.4210 Undergraduate, Graduate https://ocw.mit.edu/courses/6-4210-robotic-manipulation-fall-2022/
 Stochastic Processes, Detection, and Estimation 6.432 Graduate https://ocw.mit.edu/courses/6-432-stochastic-processes-detection-and-estimation-spring-2004/
