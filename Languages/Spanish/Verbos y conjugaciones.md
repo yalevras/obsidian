@@ -120,13 +120,13 @@ Creer- to believe
 | vosotros            | estáis   | estuvisteis | estabais   | estaríais   | estaréis  |
 | ellos/ellas/ustedes | están    | estuvieron  | estaban    | estarían    | estarán   |
 
-Decir - to say
+Decir - to say/to tell
 
-| Estar               | Presente | Pretério    | Imperfecto | Condicional | Futuro    |
-| ------------------- | -------- | ----------- | ---------- | ----------- | --------- |
-| yo                  | estoy    | estuve      | estaba     | estaría     | estaré    |
-| tú                  | estás    | estuviste   | estabas    | estarías    | estarás   |
-| él/ella/usted       | está     | estuvo      | estaba     | estaría     | estará    |
-| nosotros            | estamos  | estuvimos   | estábamos  | estarámos   | estaremos |
-| vosotros            | estáis   | estuvisteis | estabais   | estaríais   | estaréis  |
-| ellos/ellas/ustedes | están    | estuvieron  | estaban    | estarían    | estarán   |
+| Estar               | Presente | Pretério    | Imperfecto | Condicional | Futuro   |
+| ------------------- | -------- | ----------- | ---------- | ----------- | -------- |
+| yo                  | digo     | dije        | decía      | diría       | diré     |
+| tú                  | dices    | dijiste     | decías     | dirías      | dirás    |
+| él/ella/usted       | dice     | dijo        | decía      | diría       | dirá     |
+| nosotros            | decimos  | dijimos     | decíamos   | diríamos    | diremos  |
+| vosotros            | estáis   | estuvisteis | estabais   | estaríais   | estaréis |
+| ellos/ellas/ustedes | están    | estuvieron  | estaban    | estarían    | estarán  |
