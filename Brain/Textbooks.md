@@ -3,6 +3,7 @@ D:\Textbook
 
 MIT OpenCourseWare
 Systems and Controls 2.04 Undergraduate https://ocw.mit.edu/courses/2-04a-systems-and-controls-spring-2013/
+Dynamic Systems and Control 6.241J Graduate https://ocw.mit.edu/courses/6-4210-robotic-manipulation-fall-2022/
 Robotic Manipulation 6.4210 Undergraduate, Graduate https://ocw.mit.edu/courses/6-4210-robotic-manipulation-fall-2022/
 Underactuated Robotics 6.832 Graduate https://ocw.mit.edu/courses/6-832-underactuated-robotics-spring-2009/pages/readings/ https://underactuated.mit.edu/Spring2022/resources.html
 Principles of Automatic Control 16.06 Undergraduate https://ocw.mit.edu/courses/16-06-principles-of-automatic-control-fall-2012/
