@@ -78,14 +78,14 @@ Saber - to know
 
 Querer - to want
 
-| Estar               | Presente | Pretério    | Imperfecto | Condicional | Futuro    |
-| ------------------- | -------- | ----------- | ---------- | ----------- | --------- |
-| yo                  | quiero   | quise       | quería     | querría     | querré    |
-| tú                  | quieres  | quisiste    | querías    | querrías    | querrás   |
-| él/ella/usted       | está     | estuvo      | estaba     | estaría     | estará    |
-| nosotros            | estamos  | estuvimos   | estábamos  | estarámos   | estaremos |
-| vosotros            | estáis   | estuvisteis | estabais   | estaríais   | estaréis  |
-| ellos/ellas/ustedes | están    | estuvieron  | estaban    | estarían    | estarán   |
+| Estar               | Presente | Pretério   | Imperfecto | Condicional | Futuro    |
+| ------------------- | -------- | ---------- | ---------- | ----------- | --------- |
+| yo                  | quiero   | quise      | quería     | querría     | querré    |
+| tú                  | quieres  | quisiste   | querías    | querrías    | querrás   |
+| él/ella/usted       | quiere   | quiso      | quería     | querría     | querrá    |
+| nosotros            | queremos | quisimos   | queríamos  | querríamos  | querremos |
+| vosotros            | queréis  | quisisteis | queríais   | querríais   | querréis  |
+| ellos/ellas/ustedes | quieren  | quisieron  | querían    | querrían    | querrán   |
 
 Poder - to be able to/can
 
