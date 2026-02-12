@@ -33,10 +33,89 @@ Estar
 | ellos/ellas/ustedes | están    | estuvieron  | estaban    | estarían    | estarán   |
 
 Comer - to eat
+
+| Estar               | Presente | Pretério    | Imperfecto | Condicional | Futuro    |
+| ------------------- | -------- | ----------- | ---------- | ----------- | --------- |
+| yo                  | como     | comí        | comía      | com         | estaré    |
+| tú                  | estás    | estuviste   | estabas    | estarías    | estarás   |
+| él/ella/usted       | está     | estuvo      | estaba     | estaría     | estará    |
+| nosotros            | estamos  | estuvimos   | estábamos  | estarámos   | estaremos |
+| vosotros            | estáis   | estuvisteis | estabais   | estaríais   | estaréis  |
+| ellos/ellas/ustedes | están    | estuvieron  | estaban    | estarían    | estarán   |
+
 Ir - to go
+
+| Estar               | Presente | Pretério    | Imperfecto | Condicional | Futuro    |
+| ------------------- | -------- | ----------- | ---------- | ----------- | --------- |
+| yo                  | estoy    | estuve      | estaba     | estaría     | estaré    |
+| tú                  | estás    | estuviste   | estabas    | estarías    | estarás   |
+| él/ella/usted       | está     | estuvo      | estaba     | estaría     | estará    |
+| nosotros            | estamos  | estuvimos   | estábamos  | estarámos   | estaremos |
+| vosotros            | estáis   | estuvisteis | estabais   | estaríais   | estaréis  |
+| ellos/ellas/ustedes | están    | estuvieron  | estaban    | estarían    | estarán   |
+
 Tener - to have
+
+| Estar               | Presente | Pretério    | Imperfecto | Condicional | Futuro    |
+| ------------------- | -------- | ----------- | ---------- | ----------- | --------- |
+| yo                  | estoy    | estuve      | estaba     | estaría     | estaré    |
+| tú                  | estás    | estuviste   | estabas    | estarías    | estarás   |
+| él/ella/usted       | está     | estuvo      | estaba     | estaría     | estará    |
+| nosotros            | estamos  | estuvimos   | estábamos  | estarámos   | estaremos |
+| vosotros            | estáis   | estuvisteis | estabais   | estaríais   | estaréis  |
+| ellos/ellas/ustedes | están    | estuvieron  | estaban    | estarían    | estarán   |
+
 Saber - to know
+
+| Estar               | Presente | Pretério    | Imperfecto | Condicional | Futuro    |
+| ------------------- | -------- | ----------- | ---------- | ----------- | --------- |
+| yo                  | estoy    | estuve      | estaba     | estaría     | estaré    |
+| tú                  | estás    | estuviste   | estabas    | estarías    | estarás   |
+| él/ella/usted       | está     | estuvo      | estaba     | estaría     | estará    |
+| nosotros            | estamos  | estuvimos   | estábamos  | estarámos   | estaremos |
+| vosotros            | estáis   | estuvisteis | estabais   | estaríais   | estaréis  |
+| ellos/ellas/ustedes | están    | estuvieron  | estaban    | estarían    | estarán   |
+
 Querer - to want
+
+| Estar               | Presente | Pretério    | Imperfecto | Condicional | Futuro    |
+| ------------------- | -------- | ----------- | ---------- | ----------- | --------- |
+| yo                  | estoy    | estuve      | estaba     | estaría     | estaré    |
+| tú                  | estás    | estuviste   | estabas    | estarías    | estarás   |
+| él/ella/usted       | está     | estuvo      | estaba     | estaría     | estará    |
+| nosotros            | estamos  | estuvimos   | estábamos  | estarámos   | estaremos |
+| vosotros            | estáis   | estuvisteis | estabais   | estaríais   | estaréis  |
+| ellos/ellas/ustedes | están    | estuvieron  | estaban    | estarían    | estarán   |
+
 Poder - to be able to/can
+
+| Estar               | Presente | Pretério    | Imperfecto | Condicional | Futuro    |
+| ------------------- | -------- | ----------- | ---------- | ----------- | --------- |
+| yo                  | estoy    | estuve      | estaba     | estaría     | estaré    |
+| tú                  | estás    | estuviste   | estabas    | estarías    | estarás   |
+| él/ella/usted       | está     | estuvo      | estaba     | estaría     | estará    |
+| nosotros            | estamos  | estuvimos   | estábamos  | estarámos   | estaremos |
+| vosotros            | estáis   | estuvisteis | estabais   | estaríais   | estaréis  |
+| ellos/ellas/ustedes | están    | estuvieron  | estaban    | estarían    | estarán   |
+
 Hacer - to do
+
+| Estar               | Presente | Pretério    | Imperfecto | Condicional | Futuro    |
+| ------------------- | -------- | ----------- | ---------- | ----------- | --------- |
+| yo                  | estoy    | estuve      | estaba     | estaría     | estaré    |
+| tú                  | estás    | estuviste   | estabas    | estarías    | estarás   |
+| él/ella/usted       | está     | estuvo      | estaba     | estaría     | estará    |
+| nosotros            | estamos  | estuvimos   | estábamos  | estarámos   | estaremos |
+| vosotros            | estáis   | estuvisteis | estabais   | estaríais   | estaréis  |
+| ellos/ellas/ustedes | están    | estuvieron  | estaban    | estarían    | estarán   |
+
 Creer- to believe
+
+| Estar               | Presente | Pretério    | Imperfecto | Condicional | Futuro    |
+| ------------------- | -------- | ----------- | ---------- | ----------- | --------- |
+| yo                  | estoy    | estuve      | estaba     | estaría     | estaré    |
+| tú                  | estás    | estuviste   | estabas    | estarías    | estarás   |
+| él/ella/usted       | está     | estuvo      | estaba     | estaría     | estará    |
+| nosotros            | estamos  | estuvimos   | estábamos  | estarámos   | estaremos |
+| vosotros            | estáis   | estuvisteis | estabais   | estaríais   | estaréis  |
+| ellos/ellas/ustedes | están    | estuvieron  | estaban    | estarían    | estarán   |
