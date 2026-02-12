@@ -102,7 +102,7 @@ Hacer - to do
 
 | Estar               | Presente | Pretério    | Imperfecto | Condicional | Futuro    |
 | ------------------- | -------- | ----------- | ---------- | ----------- | --------- |
-| yo                  | estoy    | estuve      | estaba     | estaría     | estaré    |
+| yo                  | hago     | hice        |            | estaría     | estaré    |
 | tú                  | estás    | estuviste   | estabas    | estarías    | estarás   |
 | él/ella/usted       | está     | estuvo      | estaba     | estaría     | estará    |
 | nosotros            | estamos  | estuvimos   | estábamos  | estarámos   | estaremos |
