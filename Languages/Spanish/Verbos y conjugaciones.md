@@ -122,11 +122,11 @@ Creer- to believe
 
 Decir - to say/to tell
 
-| Estar               | Presente | Pretério    | Imperfecto | Condicional | Futuro   |
-| ------------------- | -------- | ----------- | ---------- | ----------- | -------- |
-| yo                  | digo     | dije        | decía      | diría       | diré     |
-| tú                  | dices    | dijiste     | decías     | dirías      | dirás    |
-| él/ella/usted       | dice     | dijo        | decía      | diría       | dirá     |
-| nosotros            | decimos  | dijimos     | decíamos   | diríamos    | diremos  |
-| vosotros            | estáis   | estuvisteis | estabais   | estaríais   | estaréis |
-| ellos/ellas/ustedes | están    | estuvieron  | estaban    | estarían    | estarán  |
+| Estar               | Presente | Pretério  | Imperfecto | Condicional | Futuro  |
+| ------------------- | -------- | --------- | ---------- | ----------- | ------- |
+| yo                  | digo     | dije      | decía      | diría       | diré    |
+| tú                  | dices    | dijiste   | decías     | dirías      | dirás   |
+| él/ella/usted       | dice     | dijo      | decía      | diría       | dirá    |
+| nosotros            | decimos  | dijimos   | decíamos   | diríamos    | diremos |
+| vosotros            | decís    | dijisteis | decíais    | diríais     | diréis  |
+| ellos/ellas/ustedes | dicen    | dijeron   | decían     | dirían      | dirán   |
