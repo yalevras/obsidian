@@ -129,4 +129,4 @@ Decir - to say/to tell
 | él/ella/usted       | dice     | dijo      | decía      | diría       | dirá    |
 | nosotros            | decimos  | dijimos   | decíamos   | diríamos    | diremos |
 | vosotros            | decís    | dijisteis | decíais    | diríais     | diréis  |
-| ellos/ellas/ustedes | dicen    | dijeron   | decían     | dirían      |         |
+| ellos/ellas/ustedes | dicen    | dijeron   | decían     | dirían      | dirán   |
