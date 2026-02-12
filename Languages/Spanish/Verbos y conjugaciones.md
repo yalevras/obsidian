@@ -59,11 +59,11 @@ Tener - to have
 | Estar               | Presente | Pretério  | Imperfecto | Condicional | Futuro    |
 | ------------------- | -------- | --------- | ---------- | ----------- | --------- |
 | yo                  | tengo    | tuve      | tenía      | tendría     | tendré    |
-| tú                  | tienes   | comiste   | tenías     | tendrías    | tendrás   |
-| él/ella/usted       | tiene    | comió     | tenía      | tendría     | tendrá    |
-| nosotros            | tenemos  | comimos   | teníamos   | tendríamos  | tendremos |
-| vosotros            | coméis   | comisteis | teníais    | tendríais   | tendréis  |
-| ellos/ellas/ustedes | comen    | comieron  | tenían     | tendrían    | tendrán   |
+| tú                  | tienes   | tuviste   | tenías     | tendrías    | tendrás   |
+| él/ella/usted       | tiene    | tuvo      | tenía      | tendría     | tendrá    |
+| nosotros            | tenemos  | tuvimos   | teníamos   | tendríamos  | tendremos |
+| vosotros            | tenéis   | tuvisteis | teníais    | tendríais   | tendréis  |
+| ellos/ellas/ustedes | tienen   | tuvieron  | tenían     | tendrían    | tendrán   |
 
 Saber - to know
 
