@@ -41,16 +41,16 @@ Comer - to eat
 | él/ella/usted       | come     | comió     | comía      | comería     | comerá      |
 | nosotros            | comemos  | comimos   | comíamos   | comeríamos  | comereremos |
 | vosotros            | coméis   | comisteis | comíais    | comeríais   | comeréis    |
-| ellos/ellas/ustedes | comen    | comieron  | comían     |             | estarán     |
+| ellos/ellas/ustedes | comen    | comieron  | comían     | comerían    | comerán     |
 
 Ir - to go
 
 | Estar               | Presente | Pretério    | Imperfecto | Condicional | Futuro    |
 | ------------------- | -------- | ----------- | ---------- | ----------- | --------- |
-| yo                  | estoy    | estuve      | estaba     | estaría     | estaré    |
-| tú                  | estás    | estuviste   | estabas    | estarías    | estarás   |
-| él/ella/usted       | está     | estuvo      | estaba     | estaría     | estará    |
-| nosotros            | estamos  | estuvimos   | estábamos  | estarámos   | estaremos |
+| yo                  | voy      | fui         | iba        | iría        | iré       |
+| tú                  | vas      | fuiste      | ibas       | irías       | irás      |
+| él/ella/usted       | va       | fue         | iba        | iría        | irá       |
+| nosotros            | vamos    | fuimos      | estábamos  | estarámos   | estaremos |
 | vosotros            | estáis   | estuvisteis | estabais   | estaríais   | estaréis  |
 | ellos/ellas/ustedes | están    | estuvieron  | estaban    | estarían    | estarán   |
 
