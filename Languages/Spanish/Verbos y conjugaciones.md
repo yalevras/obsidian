@@ -89,14 +89,14 @@ Querer - to want
 
 Poder - to be able to/can
 
-| Estar               | Presente | Pretério   | Imperfecto | Condicional | Futuro   |
-| ------------------- | -------- | ---------- | ---------- | ----------- | -------- |
-| yo                  | puedo    | pude       | podía      | podría      | podré    |
-| tú                  | puedes   | pudiste    | podías     | podrías     | podrás   |
-| él/ella/usted       | puede    | pudo       | podía      | podría      | podrá    |
-| nosotros            | podemos  | pudimos    | podíamos   | podríamos   | podremos |
-| vosotros            | podéis   | pudisteis  | estabais   | estaríais   | estaréis |
-| ellos/ellas/ustedes | están    | estuvieron | estaban    | estarían    | estarán  |
+| Estar               | Presente | Pretério  | Imperfecto | Condicional | Futuro   |
+| ------------------- | -------- | --------- | ---------- | ----------- | -------- |
+| yo                  | puedo    | pude      | podía      | podría      | podré    |
+| tú                  | puedes   | pudiste   | podías     | podrías     | podrás   |
+| él/ella/usted       | puede    | pudo      | podía      | podría      | podrá    |
+| nosotros            | podemos  | pudimos   | podíamos   | podríamos   | podremos |
+| vosotros            | podéis   | pudisteis | podíais    | podríais    | podréis  |
+| ellos/ellas/ustedes | pueden   | pudierom  | podían     | podrían     | podrán   |
 
 Hacer - to do
 
@@ -110,6 +110,17 @@ Hacer - to do
 | ellos/ellas/ustedes | están    | estuvieron  | estaban    | estarían    | estarán   |
 
 Creer- to believe
+
+| Estar               | Presente | Pretério    | Imperfecto | Condicional | Futuro    |
+| ------------------- | -------- | ----------- | ---------- | ----------- | --------- |
+| yo                  | estoy    | estuve      | estaba     | estaría     | estaré    |
+| tú                  | estás    | estuviste   | estabas    | estarías    | estarás   |
+| él/ella/usted       | está     | estuvo      | estaba     | estaría     | estará    |
+| nosotros            | estamos  | estuvimos   | estábamos  | estarámos   | estaremos |
+| vosotros            | estáis   | estuvisteis | estabais   | estaríais   | estaréis  |
+| ellos/ellas/ustedes | están    | estuvieron  | estaban    | estarían    | estarán   |
+
+Decir - to say
 
 | Estar               | Presente | Pretério    | Imperfecto | Condicional | Futuro    |
 | ------------------- | -------- | ----------- | ---------- | ----------- | --------- |
