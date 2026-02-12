@@ -16,6 +16,9 @@ Aho - [Dragon Book - Compilers](https://faculty.sist.shanghaitech.edu.cn/faculty
 Appel - Modern Compiler Implementation in ML 0/21
 Rust - [The Rust Programming Language](https://rust-book.cs.brown.edu/ch00-00-introduction.html)
 Rust - [Rust for C-Programmers](https://rust-for-c-programmers.com/ch2/chapter_2_basic_structure_of_a_rust_program.html)
+Java for C++ - https://horstmann.com/ccc/c_to_java.pdf
+Regex - https://regexone.com/
+
 
 Computer Graphics:
 https://math.hws.edu/graphicsbook/
