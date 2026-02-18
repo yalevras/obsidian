@@ -33,4 +33,4 @@ Sensor noise: random error in measurement, n(t), electrical noise, imperfect sen
 Disturbance: external force affecting the plant that controller didn't command, d(t), cold wind entering room, wind gust, external push
 
 
-High gain control loop reduced the sensitivity of the control system to variations in the plant
+High gain control loop reduced the sensitivity of the control system to variations in the plant. Loop gain is C(s) 
