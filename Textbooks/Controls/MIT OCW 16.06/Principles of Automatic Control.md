@@ -10,9 +10,11 @@ Closed-loop: Controllers (or feedback controllers) compute the control action ba
 **2. Block diagrams, the effect of feedback**
 Automatic control benefits:
 - reduces workload
-- performs tasks people cna't
+- performs tasks people can't
 - reduces the effects of disturbances
 - reduces the effects of plant variations
 - stabilizes an unstable system
 - improves the performance of a system (time response)
 - improve the linearity of the system
+
+Control System components:
