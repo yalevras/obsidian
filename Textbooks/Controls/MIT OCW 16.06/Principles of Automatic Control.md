@@ -26,3 +26,5 @@ Controller: e = r - m, pid controller, algorithm
 Control signal: u(t), signal sent from controller to actuator, voltage to motor, throttle position, instructions sent to system
 Actuator: physical device that converts control signal into physical action, motor, heater, hydraulic piston
 Plant: dynamic process, system, the physical system being controlled, robot arm, car, drone, room temperature, spacecraft
+Output: the actual result of the plant, y(t), actual temperature, actual speed, actual position
+Sensor: the device that measures the output, thermomete
