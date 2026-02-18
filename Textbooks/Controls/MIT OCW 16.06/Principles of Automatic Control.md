@@ -27,4 +27,5 @@ Control signal: u(t), signal sent from controller to actuator, voltage to motor,
 Actuator: physical device that converts control signal into physical action, motor, heater, hydraulic piston
 Plant: dynamic process, system, the physical system being controlled, robot arm, car, drone, room temperature, spacecraft
 Output: the actual result of the plant, y(t), actual temperature, actual speed, actual position
-Sensor: the device that measures the output, thermomete
+Sensor: the device that measures the output, thermometer, camera, encoder, accelerometer, gyroscope, observer
+Measurement: the signal produced by the sensor, ym(t), what the controller actually sees, measurement != true output  
