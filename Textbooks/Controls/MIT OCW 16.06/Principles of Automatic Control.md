@@ -12,7 +12,7 @@ Automatic control benefits:
 - reduces workload
 - performs tasks people cna't
 - reduces the effects of disturbances
-- reduces the ffects of plant variations
+- reduces the effects of plant variations
 - stabilizes an unstable system
 - improves the performance of a system (time response)
 - improve the linearity of the system
