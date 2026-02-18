@@ -1,4 +1,4 @@
-**1. Why automatic control? Categorization of**
+**1. Why automatic control? Categorization of control systems**
 Manual and automatic control. Focus on automatic control.
 Automatic can hold output steady signal.
 	Regulator: keep output at a steady, known value
@@ -6,3 +6,6 @@ Automatic can hold output steady signal.
 
 Open-loop:
 Closed-loop: Controllers (or feedback controllers) compute the control action based on the measured output of the system being controlled.
+
+**2. Block diagrams, the effect of feedback**
+Automatic control
