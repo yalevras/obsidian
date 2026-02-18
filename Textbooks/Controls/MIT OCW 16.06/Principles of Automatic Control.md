@@ -21,4 +21,5 @@ Control System components:
 
 ![[Pasted image 20260218152252.png]]
 
-Reference
+Reference: r(t), the desired value you want the system to reach, input
+Controller: e = r - m, pid controller, algorithm
