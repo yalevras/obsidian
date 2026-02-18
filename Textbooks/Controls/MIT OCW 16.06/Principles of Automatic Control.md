@@ -31,3 +31,6 @@ Sensor: the device that measures the output, thermometer, camera, encoder, accel
 Measurement: the signal produced by the sensor, ym(t), what the controller actually sees, measurement != true output
 Sensor noise: random error in measurement, n(t), electrical noise, imperfect sensor, vibration effects
 Disturbance: external force affecting the plant that controller didn't command, d(t), cold wind entering room, wind gust, external push
+
+
+High gain control loop reduced the sensitivity of the control system to variations in the plant
