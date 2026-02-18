@@ -15,3 +15,4 @@ Automatic control benefits:
 - reduces the ffects of plant variations
 - stabilizes an unstable system
 - improves the performance of a system (time response)
+- improve the linearity of the system
