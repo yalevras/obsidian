@@ -28,4 +28,6 @@ Actuator: physical device that converts control signal into physical action, mot
 Plant: dynamic process, system, the physical system being controlled, robot arm, car, drone, room temperature, spacecraft
 Output: the actual result of the plant, y(t), actual temperature, actual speed, actual position
 Sensor: the device that measures the output, thermometer, camera, encoder, accelerometer, gyroscope, observer
-Measurement: the signal produced by the sensor, ym(t), what the controller actually sees, measurement != true output  
+Measurement: the signal produced by the sensor, ym(t), what the controller actually sees, measurement != true output
+Sensor noise: random error in measurement, n(t), electrical noise, imperfect sensor, vibration effects
+Disturbance: external force affecting the plant that controller didn't command, d(t), cold wind entering room, wind gust, external push
