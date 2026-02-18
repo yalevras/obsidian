@@ -20,3 +20,5 @@ Automatic control benefits:
 Control System components:
 
 ![[Pasted image 20260218152252.png]]
+
+Reference
