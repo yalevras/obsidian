@@ -41,3 +41,5 @@ $$S = 1 / (1 + KG) = \%change in H/\%change in G$$
 High-gain feedback control greatly reduces the effect of disturbances on the output of a control system.
 $$y/d = 1 / (1 + KG)$$
 
+**3. Modeling principles**
+
