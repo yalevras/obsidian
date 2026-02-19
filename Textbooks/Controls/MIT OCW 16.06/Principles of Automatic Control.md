@@ -36,6 +36,8 @@ Disturbance: external force affecting the plant that controller didn't command, 
 High-gain control loop reduced the sensitivity of the control system to variations in the plant. Loop gain is C(s)G(s), controller gain and plant gain.
 
 H = KG / (1 + KG) = y/r
-S = 1 / (1 + KG) = %change in H/%change in 
+S = 1 / (1 + KG) = %change in H/%change in G
 
 High-gain feedback control greatly reduces the effect of disturbances on the output of a control system.
+
+y/d = 1 / (1 + KG)
