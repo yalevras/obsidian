@@ -3,3 +3,5 @@ https://montychoy.com/blog/the_ultimate_list_of_hardware_engineering_internship_
 
 
 https://github.com/moabukar/tech-vault
+
+https://falstad.com/circuit/
