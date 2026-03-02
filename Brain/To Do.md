@@ -6,6 +6,11 @@ siege and gaming
 some piano 
 clean room
 
+yard sales
+watch my movies
+5 books
+
+
 Weekly Checklist
 Sunday Feb 8th - Saturday Feb 14th
 Expected:

@@ -27,7 +27,8 @@ Appel - Modern Compiler Implementation in ML 0/21
 Rust - [The Rust Programming Language](https://rust-book.cs.brown.edu/ch00-00-introduction.html)
 Rust - [Rust for C-Programmers](https://rust-for-c-programmers.com/ch2/chapter_2_basic_structure_of_a_rust_program.html)
 Java for C++ - https://horstmann.com/ccc/c_to_java.pdf
-Regex - https://regexone.com/
+Regex - https://regexone.com/ 
+ROS 2 - https://docs.ros.org/en/foxy/Tutorials.html
 
 
 Computer Graphics:
