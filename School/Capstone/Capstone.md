@@ -9,3 +9,4 @@ channel is an independent signal path, this system can receive 4 separate signal
 
 Ionosphere
 ![[Pasted image 20260304003630 1.png]]
+
