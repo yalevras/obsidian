@@ -8,4 +8,4 @@ RF front end:
 	low noise
 	high linearity
 		https://en.wikipedia.org/wiki/Linear_amplifier
-			refers to the ability of the amplifier to produce signals that are accurate copies of the input, generally at increased power levels.
+			refers to the ability of the amplifier to produce signals that are accurate copies of the input, generally at increased power leve
