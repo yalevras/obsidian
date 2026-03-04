@@ -9,4 +9,4 @@ RF front end:
 	high linearity
 		https://en.wikipedia.org/wiki/Linear_amplifier
 			refers to the ability of the [[Amplifier]] to produce signals that are accurate copies of the input, generally at increased power levels
-		- a linear amplifier's output is proportional to its input, but can deliver more power into a load. the signal is replicated and amplified using [[transistors]] or vacuum tubes
+		- a linear amplifier's output is proportional to its input, but can deliver more power into a load. the signal is replicated and amplified using [[Transistor]]s or [[Vacuum Tube]]s
