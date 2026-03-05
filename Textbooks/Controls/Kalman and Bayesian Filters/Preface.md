@@ -2,4 +2,3 @@ Bayesian probability determines what is likely to be true based on past informat
 
 Difference between measurement and prediction is called the residual. Smaller residuals imply better performance.
 
-Still have to set up Anaconda.
