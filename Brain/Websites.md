@@ -23,6 +23,9 @@ Food
 https://www.findmeglutenfree.com/search?lat=43.653226&lng=-79.3831843&q=donuts&a=toronto
 https://www.happycow.net/
 
+Career Stuff
+https://montychoy.com/blog/the_ultimate_list_of_hardware_engineering_internship_interview_questions
+
 Portfolios
 https://diegociudadreal.com/#about
 https://stevengong.co/
