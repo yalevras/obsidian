@@ -49,6 +49,8 @@ Kochenderfer - [Algorithms for Decision Making](https://algorithmsbook.com/files
 Reddi - [Introduction to Machine Learning Systems](https://www.mlsysbook.ai/assets/downloads/Machine-Learning-Systems.pdf)
 Huyen - [AI Engineering](https://github.com/chiphuyen/aie-book/blob/main/resources.md)
 Price - [Understanding Deep Learning](https://udlbook.github.io/udlbook/) (in folder)
+https://d2l.ai/
+https://www.deeplearningbook.org/
 
 
 General:

@@ -8,6 +8,8 @@ https://tatoeba.org/en/sentences/index
 Cool Stuff
 [Drive and Listen - Walk and Listen, Fly and Listen, Drone and Listen, Float and Listen](https://drivenlisten.com/#)
 https://github.com/antialiasis/favorite-picker
+https://sketchfab.com/3d-models/categories/places-travel?date=week&sort_by=-likeCount&cursor=bz02JnA9Mw%3D%3D
+https://wi.mit.edu/research-area/nervous-system-development-and-function
 
 Games
 https://www.reddit.com/r/wiimmfi/comments/fugd8l/dns_gen_iv_v_events_list_inside/
