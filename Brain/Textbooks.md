@@ -15,6 +15,10 @@ D:\Textbook
 	Robotics:
 		Sciavicco - Robotics: Modelling, Planning and Control 0/12
 		https://gaoyichao.com/Xiaotu/resource/refs/PR.MIT.en.pdf
+		https://wiki.ros.org/ROS/Tutorials
+		file:///C:/Users/thatg/Downloads/Robotics%20Modelling,%20Planning%20and%20Control%20(%20etc.)%20(Z-Library).pdf
+		https://people.disim.univaq.it/~costanzo.manes/EDU_stuff/Robotics_Modelling,%20Planning%20and%20Control_Sciavicco_extract.pdf
+		https://hades.mech.northwestern.edu/images/7/7f/MR.pdf
 
 Computer Vision:
 Szeliski - Computer Vision: Algorithms and Applications 2nd Edition 0/14
