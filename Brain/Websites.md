@@ -12,6 +12,7 @@ https://github.com/antialiasis/favorite-picker
 https://sketchfab.com/3d-models/categories/places-travel?date=week&sort_by=-likeCount&cursor=bz02JnA9Mw%3D%3D
 https://wi.mit.edu/research-area/nervous-system-development-and-function
 https://urs.earthdata.nasa.gov/oauth/authorize?client_id=gDQnv1IO0j9O2xXdwS8KMQ&response_type=code&redirect_uri=https%3A%2F%2Fcddis.nasa.gov%2Fproxyauth&state=aHR0cDovL2NkZGlzLm5hc2EuZ292L2FyY2hpdmUvZ25zcy9kYXRhL2RhaWx5Lw
+https://docs.google.com/spreadsheets/d/18X0QzR904z94NZd7RXOaCuIa117fF0jnEmd7smmj7D0/edit?pli=1&gid=0#gid=0
 
 Games
 https://www.reddit.com/r/wiimmfi/comments/fugd8l/dns_gen_iv_v_events_list_inside/
@@ -23,6 +24,7 @@ https://kittypboxx.github.io/GBAXG/
 https://sekii.gitlab.io/pokemon-tracker/
 https://noclip.website/#pkmnsslvr/0;ShareData=ABAbp94vOK9ueo,T{iS^X1wRjRN+):UeyZ/UkgE(W-m6n9x?}{UMW&=9L^Q8XL
 https://3ds.hacks.guide/finalizing-setup.html
+
 
 Useful Software
 URL to MP3 Converter https://www.acethinker.ai/link-mp3
