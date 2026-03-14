@@ -1,6 +1,7 @@
 
 
-Languag
+Languages
+https://tatoeba.org/en/stats/sentences_by_language
 
 
 
