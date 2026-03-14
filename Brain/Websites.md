@@ -2,6 +2,9 @@
 GOATS OF WEBSITES
 https://fmhy.net/
 https://open-slum.org/
+https://www.cineby.gd/
+https://fmhy.net/video
+https://annas-archive.li/
 
 Languages
 https://tatoeba.org/en/stats/sentences_by_language
@@ -34,6 +37,10 @@ https://kittypboxx.github.io/GBAXG/
 https://sekii.gitlab.io/pokemon-tracker/
 https://noclip.website/#pkmnsslvr/0;ShareData=ABAbp94vOK9ueo,T{iS^X1wRjRN+):UeyZ/UkgE(W-m6n9x?}{UMW&=9L^Q8XL
 https://3ds.hacks.guide/finalizing-setup.html
+https://nandgame.com/
+https://bukkbeek.itch.io/genesis
+https://javalab.org/en/
+https://falstad.com/circuit/
 
 Obsidian
 https://github.com/Rainbell129/Obsidian-Homepage
