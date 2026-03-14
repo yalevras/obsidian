@@ -3,6 +3,7 @@
 Languages
 https://tatoeba.org/en/stats/sentences_by_language
 https://tatoeba.org/en/sentences/index
+https://www.reddit.com/r/GREEK/comments/10a9cys/anki_decks_with_sentences_to_practice_greek/
 
 
 Cool Stuff
@@ -20,6 +21,8 @@ https://archive.org/details/osakasimulator
 https://pokedextracker.com/u/thatguyyanni/tracking
 https://kittypboxx.github.io/GBAXG/
 https://sekii.gitlab.io/pokemon-tracker/
+https://noclip.website/#pkmnsslvr/0;ShareData=ABAbp94vOK9ueo,T{iS^X1wRjRN+):UeyZ/UkgE(W-m6n9x?}{UMW&=9L^Q8XL
+https://3ds.hacks.guide/finalizing-setup.html
 
 Useful Software
 URL to MP3 Converter https://www.acethinker.ai/link-mp3
