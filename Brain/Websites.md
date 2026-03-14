@@ -27,6 +27,10 @@ Food
 https://www.findmeglutenfree.com/search?lat=43.653226&lng=-79.3831843&q=donuts&a=toronto
 https://www.happycow.net/
 
+Travel
+https://www.secretflyer.com/
+https://www.travelpirates.com/
+
 Career Stuff
 https://montychoy.com/blog/the_ultimate_list_of_hardware_engineering_internship_interview_questions
 https://www.esa.int/Education/ESA_Academy/Apply_now_for_ESA_Academy_s_CubeSat_Concurrent_Engineering_Workshop_2024
@@ -38,3 +42,4 @@ https://henryyqi.weebly.com/software.html
 https://yannialevras.weebly.com/
 https://julian6alvarez.mystrikingly.com/
 https://jszhn.github.io/brain/
+https://zhangtemplar.github.io/
