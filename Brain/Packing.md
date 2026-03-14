@@ -3,6 +3,7 @@ Phone charger
 Borg bottle
 Sharpie
 Drinks
+Camera
 
 
 Shoppers:
