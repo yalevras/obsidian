@@ -62,6 +62,7 @@ Random Website - [Beginner Linear Algebra](https://immersivemath.com/ila/index.h
 https://tutorial.math.lamar.edu/
 Larson/Edwards - Elementary Linear Algebra Second Edition (physical) 
 	Progress: [[Elementary Linear Algebra]]
+file:///D:/Chrome%20Downloads/Probability,_Statistics,_and_Random_Processes_for_Eletrical_Engineerging,_3rd_Ed_-_Leon-Garcia.pdf
 
 Random:
 Morse Code - https://www.perry.qa/morse
@@ -72,7 +73,8 @@ Blogs:
 https://lisyarus.github.io/blog/ - articles about computer graphics, quaternions, physics simulations, etc
 
 
-
+Networks
+https://highered.mheducation.com/sites/007246352x/
 
 
 Electronics
