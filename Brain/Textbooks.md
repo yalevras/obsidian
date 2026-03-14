@@ -74,6 +74,7 @@ https://lisyarus.github.io/blog/ - articles about computer graphics, quaternions
 
 Electronics
 Optocoupler, an LED and a phototransistor, light based signal gets transferred over
+https://em8e.eecs.umich.edu/jsmodules/ulaby_modules.html
 
 Hackathons
 Ludum Dare
