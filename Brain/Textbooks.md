@@ -19,6 +19,7 @@ D:\Textbook
 		file:///C:/Users/thatg/Downloads/Robotics%20Modelling,%20Planning%20and%20Control%20(%20etc.)%20(Z-Library).pdf
 		https://people.disim.univaq.it/~costanzo.manes/EDU_stuff/Robotics_Modelling,%20Planning%20and%20Control_Sciavicco_extract.pdf
 		https://hades.mech.northwestern.edu/images/7/7f/MR.pdf
+		file:///C:/Users/thatg/Downloads/ilide.info-solution-manual-for-robotics-modelling-planning-and-control-pr_c6e76f16749142b6c5786e374e445566.pdf
 
 Biological Circuits
 http://be150.caltech.edu/2020/content/lessons/01_intro_to_circuit_design.html

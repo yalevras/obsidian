@@ -7,6 +7,8 @@ Languages
 https://tatoeba.org/en/stats/sentences_by_language
 https://tatoeba.org/en/sentences/index
 https://www.reddit.com/r/GREEK/comments/10a9cys/anki_decks_with_sentences_to_practice_greek/
+https://dmklinger.github.io/ukrainian/#search?q=%D0%BF%D0%BE%D0%B4%D1%80%D1%83%D0%B3%D0%B0?s=freq
+https://krok.miok.lviv.ua/wp-content/uploads/2015/07/LetslearnUkrainian1.pdf
 
 
 Cool Stuff
@@ -16,6 +18,7 @@ https://sketchfab.com/3d-models/categories/places-travel?date=week&sort_by=-like
 https://wi.mit.edu/research-area/nervous-system-development-and-function
 https://urs.earthdata.nasa.gov/oauth/authorize?client_id=gDQnv1IO0j9O2xXdwS8KMQ&response_type=code&redirect_uri=https%3A%2F%2Fcddis.nasa.gov%2Fproxyauth&state=aHR0cDovL2NkZGlzLm5hc2EuZ292L2FyY2hpdmUvZ25zcy9kYXRhL2RhaWx5Lw
 https://docs.google.com/spreadsheets/d/18X0QzR904z94NZd7RXOaCuIa117fF0jnEmd7smmj7D0/edit?pli=1&gid=0#gid=0
+https://www.worldtimezone.com/time-antarctica24.php
 
 Design
 https://reactbits.dev/
