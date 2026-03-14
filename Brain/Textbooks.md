@@ -20,6 +20,9 @@ D:\Textbook
 		https://people.disim.univaq.it/~costanzo.manes/EDU_stuff/Robotics_Modelling,%20Planning%20and%20Control_Sciavicco_extract.pdf
 		https://hades.mech.northwestern.edu/images/7/7f/MR.pdf
 
+Biological Circuits
+http://be150.caltech.edu/2020/content/lessons/01_intro_to_circuit_design.html
+
 Computer Vision:
 Szeliski - Computer Vision: Algorithms and Applications 2nd Edition 0/14
 	[[Szeliski Chapter 3 - Image Processing]]
