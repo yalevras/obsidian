@@ -2,7 +2,7 @@
 
 Languages
 https://tatoeba.org/en/stats/sentences_by_language
-
+https://tatoeba.org/en/sentences/index
 
 
 
