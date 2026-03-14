@@ -1,3 +1,10 @@
 Phone
 Phone charger
-Borg
+Borg bottle
+Sharpie
+Drinks
+
+
+Shoppers:
+koolaid
+sprite
