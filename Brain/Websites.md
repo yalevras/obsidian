@@ -15,6 +15,8 @@ https://docs.google.com/spreadsheets/d/1RKoXtYvgHPv57o_HuEvpXZwUhh6C0w4tm7qOLXsS
 https://www.reddit.com/r/azudaioh/comments/ec2ntp/want_to_play_osaka_simulator_again/
 https://archive.org/details/osakasimulator
 https://pokedextracker.com/u/thatguyyanni/tracking
+https://kittypboxx.github.io/GBAXG/
+https://sekii.gitlab.io/pokemon-tracker/
 
 Useful Software
 URL to MP3 Converter https://www.acethinker.ai/link-mp3
