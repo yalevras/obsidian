@@ -1,4 +1,7 @@
 
+GOATS OF WEBSITES
+https://fmhy.net/
+https://open-slum.org/
 
 Languages
 https://tatoeba.org/en/stats/sentences_by_language
@@ -13,6 +16,9 @@ https://sketchfab.com/3d-models/categories/places-travel?date=week&sort_by=-like
 https://wi.mit.edu/research-area/nervous-system-development-and-function
 https://urs.earthdata.nasa.gov/oauth/authorize?client_id=gDQnv1IO0j9O2xXdwS8KMQ&response_type=code&redirect_uri=https%3A%2F%2Fcddis.nasa.gov%2Fproxyauth&state=aHR0cDovL2NkZGlzLm5hc2EuZ292L2FyY2hpdmUvZ25zcy9kYXRhL2RhaWx5Lw
 https://docs.google.com/spreadsheets/d/18X0QzR904z94NZd7RXOaCuIa117fF0jnEmd7smmj7D0/edit?pli=1&gid=0#gid=0
+
+Design
+https://reactbits.dev/
 
 Games
 https://www.reddit.com/r/wiimmfi/comments/fugd8l/dns_gen_iv_v_events_list_inside/
@@ -32,6 +38,7 @@ URL to MP3 Converter https://www.acethinker.ai/link-mp3
 Food
 https://www.findmeglutenfree.com/search?lat=43.653226&lng=-79.3831843&q=donuts&a=toronto
 https://www.happycow.net/
+https://godairyfree.org/dining-out/in-n-out-burger-dairy-free
 
 Travel
 https://www.secretflyer.com/

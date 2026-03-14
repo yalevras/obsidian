@@ -54,6 +54,7 @@ Huyen - [AI Engineering](https://github.com/chiphuyen/aie-book/blob/main/resourc
 Price - [Understanding Deep Learning](https://udlbook.github.io/udlbook/) (in folder)
 https://d2l.ai/
 https://www.deeplearningbook.org/
+https://github.com/chiphuyen/aie-book/blob/main/resources.md#ml-theory-fundamentals
 
 
 General:
