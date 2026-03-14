@@ -30,6 +30,9 @@ Szeliski - Computer Vision: Algorithms and Applications 2nd Edition 0/14
 https://www.reddit.com/r/computervision/comments/1kqdoe6/computer_vision_roadmap_guidance/
 https://www.reddit.com/r/computervision/comments/129e3gc/suggestions_for_some_best_books_on_computer_vision/
 
+OpenGL
+https://learnopengl.com/Getting-started/Hello-Window
+
 Software:
 Progit - [Pro Git](https://git-scm.com/book/en/v2)
 Nystrom - [Crafting Interpreters](https://craftinginterpreters.com/contents.html)
