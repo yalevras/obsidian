@@ -14,6 +14,7 @@ D:\Textbook
 	Kalman and Bayesian Filters - https://nbviewer.org/github/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/00-Preface.ipynb
 	Robotics:
 		Sciavicco - Robotics: Modelling, Planning and Control 0/12
+		https://gaoyichao.com/Xiaotu/resource/refs/PR.MIT.en.pdf
 
 Computer Vision:
 Szeliski - Computer Vision: Algorithms and Applications 2nd Edition 0/14
