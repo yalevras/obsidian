@@ -6,4 +6,4 @@ Harness
 - test loopback on board
 - test samv71
 ASP
-- wait for super to be maee
+- wait for super to be made
