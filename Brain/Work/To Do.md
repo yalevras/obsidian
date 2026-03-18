@@ -1,8 +1,7 @@
 
-Wednesday March 18th
+Current Tasks
 
-
-Thursday March 19th
-
-
-Friday March 20th
+Harness
+- wait for niketa to finish soldering
+- test loopback on board
+- test samv71
