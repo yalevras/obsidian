@@ -27,6 +27,7 @@ https://wikicity.app/
 
 Design
 https://reactbits.dev/
+https://pixelpoint.io/
 
 Games
 https://www.reddit.com/r/wiimmfi/comments/fugd8l/dns_gen_iv_v_events_list_inside/
@@ -70,6 +71,8 @@ https://yannialevras.weebly.com/
 https://julian6alvarez.mystrikingly.com/
 https://jszhn.github.io/brain/
 https://zhangtemplar.github.io/
+https://jesse-michael-han.github.io/research/
 
 Design Portfolios
 https://www.bguillaume.info/
+https://garri.design/
