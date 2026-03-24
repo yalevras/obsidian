@@ -28,6 +28,7 @@ https://wikicity.app/
 Design
 https://reactbits.dev/
 https://pixelpoint.io/
+https://saaspo.com/
 
 Games
 https://www.reddit.com/r/wiimmfi/comments/fugd8l/dns_gen_iv_v_events_list_inside/
@@ -63,7 +64,8 @@ Career Stuff
 https://montychoy.com/blog/the_ultimate_list_of_hardware_engineering_internship_interview_questions
 https://www.esa.int/Education/ESA_Academy/Apply_now_for_ESA_Academy_s_CubeSat_Concurrent_Engineering_Workshop_2024
 
-Software 
+Software Stuff
+https://www.augmentcode.com/
 
 Portfolios
 https://diegociudadreal.com/#about
@@ -79,3 +81,4 @@ Design Portfolios
 https://www.bguillaume.info/
 https://garri.design/
 https://www.evebouffard.com/
+https://www.veopia.net/
