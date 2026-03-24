@@ -82,3 +82,5 @@ https://www.bguillaume.info/
 https://garri.design/
 https://www.evebouffard.com/
 https://www.veopia.net/
+https://lelezhang.design/
+https://www.josephines.world/
