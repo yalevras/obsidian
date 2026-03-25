@@ -9,6 +9,7 @@ If you want to connect it to wifi, you need to change the password and use an ss
 
 connected to the wifi link tp link right now
 ip is 192.168.8.32
+ssh
 
 username: debian
 pasword: ya\*\*\*spassword
