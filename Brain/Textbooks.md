@@ -49,6 +49,7 @@ Math:
 Random Website - [Beginner Linear Algebra](https://immersivemath.com/ila/index.html)
 Larson/Edwards - Elementary Linear Algebra Second Edition (physical) 
 	Progress: [[Elementary Linear Algebra]]
+Conformal M
 
 Random:
 Morse Code - https://www.perry.qa/morse
