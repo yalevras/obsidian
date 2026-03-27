@@ -70,6 +70,7 @@ https://tutorial.math.lamar.edu/
 Larson/Edwards - Elementary Linear Algebra Second Edition (physical) 
 	Progress: [[Elementary Linear Algebra]]
 file:///D:/Chrome%20Downloads/Probability,_Statistics,_and_Random_Processes_for_Eletrical_Engineerging,_3rd_Ed_-_Leon-Garcia.pdf
+Conformal Mapping - https://mathworld.wolfram.com/ConformalMapping.html
 
 Random:
 Morse Code - https://www.perry.qa/morse
