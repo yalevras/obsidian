@@ -24,6 +24,7 @@ https://docs.google.com/spreadsheets/d/18X0QzR904z94NZd7RXOaCuIa117fF0jnEmd7smmj
 https://www.worldtimezone.com/time-antarctica24.php
 https://www.nature.com/immersive/d41586-025-03897-6/index.html
 https://wikicity.app/
+https://project-backbone-fai.vercel.app/
 
 Design
 https://reactbits.dev/

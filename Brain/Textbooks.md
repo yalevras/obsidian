@@ -72,8 +72,6 @@ Larson/Edwards - Elementary Linear Algebra Second Edition (physical)
 file:///D:/Chrome%20Downloads/Probability,_Statistics,_and_Random_Processes_for_Eletrical_Engineerging,_3rd_Ed_-_Leon-Garcia.pdf
 Conformal Mapping - https://mathworld.wolfram.com/ConformalMapping.html
 
-https://project-backbone-fai.vercel.app/
-
 Random:
 Morse Code - https://www.perry.qa/morse
 
