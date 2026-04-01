@@ -8,4 +8,13 @@
 - [ ] computer board
 - [ ] mouse
 - [ ] mouse pad
-- [ ] mouse conne
+- [ ] mouse connector
+- [ ] phone charger
+- [ ] car phone charger black fast one
+- [ ] car phone charger brick
+
+Last items:
+
+- [ ] phone
+- [ ] wallet
+- [ ] keys
