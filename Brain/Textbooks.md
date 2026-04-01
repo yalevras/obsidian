@@ -77,6 +77,7 @@ Morse Code - https://www.perry.qa/morse
 
 RF
 https://www.eecg.utoronto.ca/~liscidin/publications/07130765.pdf
+https://s3vi.ndc.nasa.gov/ssri-kb/static/resources/Lee_Ji_Eun_(Christine)_201911_MAS_thesis.pdf
 
 Blogs:
 https://lisyarus.github.io/blog/ - articles about computer graphics, quaternions, physics simulations, etc
