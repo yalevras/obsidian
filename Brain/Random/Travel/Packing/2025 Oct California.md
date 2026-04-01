@@ -9,7 +9,7 @@ PACK
 - [ ] Boarding pass
 - [ ] Flight info gathered on phone
 - [ ] Photos downloaded
-- [ ] Flight outfit
+- [x] Flight outfit
 
 Clothes
 - [x] Grey shorts
