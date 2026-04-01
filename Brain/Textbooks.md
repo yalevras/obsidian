@@ -75,7 +75,8 @@ Conformal Mapping - https://mathworld.wolfram.com/ConformalMapping.html
 Random:
 Morse Code - https://www.perry.qa/morse
 
-
+RF
+https://www.eecg.utoronto.ca/~liscidin/publications/07130765.pdf
 
 Blogs:
 https://lisyarus.github.io/blog/ - articles about computer graphics, quaternions, physics simulations, etc
