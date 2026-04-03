@@ -12,9 +12,14 @@
 - [ ] phone charger
 - [ ] car phone charger black fast one
 - [ ] car phone charger brick
+- [ ] camera
+- [ ] camera charger
 
 Last items:
 
 - [ ] phone
 - [ ] wallet
 - [ ] keys
+
+Toiletries:
+- [ ] 
