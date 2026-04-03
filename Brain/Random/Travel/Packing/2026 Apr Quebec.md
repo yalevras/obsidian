@@ -22,4 +22,13 @@ Last items:
 - [ ] keys
 
 Toiletries:
+- [ ] jeans
+- [ ] sweater
+- [ ] track pants
+- [ ] underwear
+- [ ] socks
+- [ ] shirt
+- [ ] bathing suit
+- [ ] flip flops
+- [ ] jacket
 - [ ] 
