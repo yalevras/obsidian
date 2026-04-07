@@ -256,4 +256,9 @@ python multidimensional arrays
 
 Asp testing
 
+- isinstance(obj, type) - in addition to a regular type, it supports a tuple of types for the type parameter, just like Python.
+- super() - creates a super object for calling a method in a parent class.
+    - Like in Python, you can pass two arguments to the super function to create an arbitrary super object, but the object has to be of the class type.
+    - There is no support for "unbound" super objects.
+
 
