@@ -21,3 +21,4 @@ in /mnt/data/binaries
 ./pcdu_toggle_channel -b 0 -12 -e 1
 ./pcdu_toggle_channel -b 1 -11 -e 1
 ./pcdu_toggle_channel -b 1 -12 -e 1
+./pcdu_toggle_channel -b 1 -3 -e 1
