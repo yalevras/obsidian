@@ -41,6 +41,8 @@ to make sure we can communicate with the camera
 1970-1-1 0:7:12 ERROR > UART_INT_Handler[/home/debian/data/odesa/fw_odesa_common/platform/samv71/apps/common/source/usart_ctrl.c:183] :serial frame error
 1970-1-1 0:7:12 ERROR > UART_INT_Handler[/home/debian/data/odesa/fw_odesa_common/platform/samv71/apps/common/source/usart_ctrl.c:175] :serial overrun error
 
+could do csp then nsp then csp and still talk to camera, need to check dmesg still
 
+could not do nsp then csp then nsp again
 
 
