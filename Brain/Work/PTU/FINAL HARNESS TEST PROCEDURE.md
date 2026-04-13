@@ -21,5 +21,5 @@ in /mnt/data/binaries
 ./pcdu_toggle_channel -b 0 -c 12 -e 1
 ./pcdu_toggle_channel -b 1 -c 11 -e 1
 ./pcdu_toggle_channel -b 1 -c 12 -e 1
-./pcdu_toggle_channel -b 1  3 -e 1
+./pcdu_toggle_channel -b 1 -c 3 -e 1
 ./pcdu_tlm -b 1 -c 3 -t v
