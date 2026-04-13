@@ -1,5 +1,6 @@
 192.168.8.32 beaglebone
 
+NSP Testing:
 Open 3 terminals
 Terminal 1: 
 In ~/data/odesa/nsp-tool
@@ -11,6 +12,8 @@ python3 nspcon.py 1234
 - ni.ping(nsp=1)
 Terminal 3:
 minicom -D /dev/ttyUSB1 -b 460800
+
+CSP Testing:
 
 
 192.168.8.61
@@ -25,3 +28,4 @@ in /mnt/data/binaries
 ./pcdu_tlm -b 1 -c 3 -t v
 ./nisa_ident -a 19 -d /dev/HazCam
 to make sure we can communicate with the camera
+
