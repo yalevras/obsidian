@@ -8,4 +8,9 @@ python3 nspcon.py 1234
 - ni=start(1234)
 - ni.ping(nsp=1)
 Terminal 3:
-minicom -D /dev/ttyUSB1
+minicom -D /dev/ttyUSB1 -b 460800
+
+
+192.168.8.61
+
+csp-tool
