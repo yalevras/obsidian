@@ -2,8 +2,10 @@
 
 Open 3 terminals
 Terminal 1: 
+In ~/data/odesa/nsp-tool
 python3 s2ser.py /dev/ttyUSB0 1234
 Terminal 2:
+In ~/data/odesa/nsp-tool
 python3 nspcon.py 1234  
 - ni=start(1234)
 - ni.ping(nsp=1)
