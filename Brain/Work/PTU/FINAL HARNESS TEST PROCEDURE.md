@@ -32,7 +32,7 @@ to make sure we can communicate with the camera
 
 
 1970-1-1 0:5:19 ERROR > UART_INT_Handler[/home/debian/data/odesa/fw_odesa_commor
-1970-1-1 0:5:19 ERROR > UART_INT_Handler[/home/debian/data/odesa/fw_odesa_commorv
+1970-1-1 0:5:19 ERROR > UART_INT_Handler[/home/debian/data/odesa/fw_odesa_commorv/
 
 1970-1-1 0:6:52 ERROR > UART_INT_Handler[/home/debian/data/odesa/fw_odesa_common/platform/samv71/apps/common/source/usar
 1970-1-1 0:6:52 ERROR > UART_INT_Handler[/home/debian/data/odesa/fw_odesa_common/platform/samv71/apps/common/source/usar
