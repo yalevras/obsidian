@@ -14,7 +14,7 @@ Terminal 3:
 minicom -D /dev/ttyUSB1 -b 460800
 
 CSP Testing:
-
+in ~/data/ptu/sw_nisa-cam_utils
 
 192.168.8.61
 
