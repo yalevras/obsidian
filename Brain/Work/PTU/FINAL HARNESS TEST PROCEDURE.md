@@ -23,4 +23,4 @@ in /mnt/data/binaries
 ./pcdu_toggle_channel -b 1 -c 12 -e 1
 ./pcdu_toggle_channel -b 1 -c 3 -e 1
 ./pcdu_tlm -b 1 -c 3 -t v
-./nisa_ident -a 19 /dev/tty
+./nisa_ident -a 19 -d /dev/HazCam
