@@ -17,8 +17,9 @@ minicom -D /dev/ttyUSB1 -b 460800
 
 in /mnt/data/binaries
 ./pcdu_init
-./pcdu_toggle_channel -b 0 -11 -e 1
-./pcdu_toggle_channel -b 0 -12 -e 1
-./pcdu_toggle_channel -b 1 -11 -e 1
-./pcdu_toggle_channel -b 1 -12 -e 1
-./pcdu_toggle_channel -b 1 -3 -e 1
+./pcdu_toggle_channel -b 0 -c 11 -e 1
+./pcdu_toggle_channel -b 0 -c 12 -e 1
+./pcdu_toggle_channel -b 1 -c 11 -e 1
+./pcdu_toggle_channel -b 1 -c 12 -e 1
+./pcdu_toggle_channel -b 1  3 -e 1
+./pcdu_tlm -b 1 -c 3 -t v
