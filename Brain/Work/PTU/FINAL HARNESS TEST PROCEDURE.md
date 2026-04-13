@@ -15,4 +15,6 @@ minicom -D /dev/ttyUSB1 -b 460800
 
 192.168.8.61
 
-csp-tool
+in /mnt/data/binaries
+./pcdu_init
+./pcdu_toggle_channel 
