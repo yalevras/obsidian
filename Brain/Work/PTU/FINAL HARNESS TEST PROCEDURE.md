@@ -15,6 +15,7 @@ minicom -D /dev/ttyUSB1 -b 460800
 
 CSP Testing:
 in ~/data/ptu/sw_nisa-cam_utils
+./nisa_ident -a 19 -d /dev/ttyUSB0
 
 192.168.8.61
 
