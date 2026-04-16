@@ -13,3 +13,6 @@ Key points:
 
 The state of the system is the current configuration or values of that system that is of interest to us. We are interested only in the weight reading. If I put a 100 kg weight on the scale, the state is 100kg. We define the state based on what is relevant to us.
 
+The measurement is a measured value of the system. Measurements can be inaccurate, so it may not have the same value as the state.
+
+The state estimate is our filter's estimate of the state. For example, for the 100 kg weight our estimate might be 99.327 kg due to sensor errors. This is commonly abbreviated to estimate, and I have done that in this chapter.
