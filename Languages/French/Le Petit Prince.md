@@ -18,4 +18,5 @@ lorsque - when/once
 vierge - virgin
 vécue - lived/past
 histoire vécue - true story
-avaler
+avaler - to swallow/gulp
+oryctérope - aardvark
