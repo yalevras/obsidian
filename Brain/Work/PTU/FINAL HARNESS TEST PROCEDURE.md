@@ -1,3 +1,9 @@
+Take images of set up
+
+
+
+
+
 192.168.8.32 beaglebone
 
 NSP Testing:
