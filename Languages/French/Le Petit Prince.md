@@ -20,4 +20,8 @@ vécue - lived/past
 histoire vécue - true story
 avaler - to swallow/gulp
 oryctérope - aardvark
-la proie - prey/quarry
+la proie - prey
+mâcher - to chew
+ensuite - next
+bouger - to move
+ils ne peuvent plus - they can no longer
