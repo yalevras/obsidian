@@ -15,4 +15,7 @@ dedicace - dedication
 
 Chapitre 1
 lorsque - when/once
-vierge - 
+vierge - virgin
+vécue - lived/past
+histoire vécue - true story
+avaler
