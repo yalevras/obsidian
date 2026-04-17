@@ -20,3 +20,7 @@ The state estimate is our filter's estimate of the state. For example, for the 1
 The state is the actual value of the system, which is usually hidden to us. If you step on a scale you have a measurement, measurements are observable. You can never directly observe your weight, you can only measure it.
 
 Any estimation problem consists of forming an estimate of a hidden state via observable measurements.
+
+The predict step is known as the system propagation or evolution.
+
+The update step is known as the measurement update, one iteration is known as an epoch.
