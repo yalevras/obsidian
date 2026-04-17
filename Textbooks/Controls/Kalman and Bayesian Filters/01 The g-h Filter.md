@@ -17,4 +17,6 @@ The measurement is a measured value of the system. Measurements can be inaccurat
 
 The state estimate is our filter's estimate of the state. For example, for the 100 kg weight our estimate might be 99.327 kg due to sensor errors. This is commonly abbreviated to estimate, and I have done that in this chapter.
 
-The state is the actual value of the system, which is usually hidden to us. If you step on a scale you have a measurement, measurements are observable. You can never directly observe your weight, you 
+The state is the actual value of the system, which is usually hidden to us. If you step on a scale you have a measurement, measurements are observable. You can never directly observe your weight, you can only measure it.
+
+Any estimation problem consists of forming an estimate of a hidden state via observable measurements.
