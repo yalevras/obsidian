@@ -7,3 +7,5 @@ There is EXIF metadata on this files
 
 First target
 Unpack a jpg file and identify if it is grayscale YCbCr -> RGB
+
+https://github.com/winlibs/libjpeg
