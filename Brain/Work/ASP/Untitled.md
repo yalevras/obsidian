@@ -26,3 +26,9 @@ sudo make install
 aspc to test that it worked
 
 now in asp-lib-linalg
+cd build
+rm -r ./*
+cmake ..
+ccmake .
+make
+make test
