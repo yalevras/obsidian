@@ -97,3 +97,5 @@ Now only 20 cosine functions affect the image, many high frequency components ha
 A form of lossless data compression that:
 - Arranges the quantized DCT coefficients in a zigzag order
 - Employs run-length and applies Huffman coding
+![[Pasted image 20260421171037.png]]
+![[Pasted image 20260421171049.png]]
