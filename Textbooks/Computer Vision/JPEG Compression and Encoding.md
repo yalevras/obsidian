@@ -35,5 +35,6 @@ Where the color information in an image's Cb and Cr channels is sampled at a low
 J:a:b, where J is the horizontal sampling reference, usually four pixels, a is the number of chrominance samples (Cr, Cb) in the first row of J pixels, and b is the change between the first and second row of chrominance pixels, either 0 or a
 ![JPEG subsampling ratios.](https://res.cloudinary.com/thewebmaster/image/upload/images/blog/jpeg-images-definitive-guide/chroma-subsampling-ratio-examples.svg)
 ![[Pasted image 20260421135741.png]]
-This downsampling is lossy, but provides file size savings. Adding JPEG compression a
+This downsampling is lossy, but provides file size savings. Adding JPEG compression and the size reduces much more.
 ![[Pasted image 20260421140605.png]]
+![[Pasted image 20260421140853.png]]
