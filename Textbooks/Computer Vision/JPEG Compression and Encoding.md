@@ -75,4 +75,5 @@ Calculate the 2D DCT coefficients using
 Resulting in this
 ![Discrete Cosine Transform Recenter on Zero.](https://res.cloudinary.com/thewebmaster/image/upload/images/blog/jpeg-images-definitive-guide/calculate-DCT.svg)
 There are two types of DCT coefficients:
-- DC coefficient - the top left-hand corner DCT coefficient, aka th
+- DC coefficient - the top left-hand corner DCT coefficient, aka the constant component, defining the basic hue for the entire block
+- AC coefficients - the remaining 63 DCT coefficients, otherwise known as the alternating components
