@@ -65,3 +65,5 @@ Division into MCUs may cause visual discontinuities if compressed at very low qu
 Each 8x8 MCU for each channel (Y, Cb, Cr) is converted from a spatial domain representation to a frequency domain representation using a two-dimensional type-II discrete cosine transform.
 
 We apply a series of DCTs:
+![JPEG standard Cosine Values.](https://res.cloudinary.com/thewebmaster/image/upload/images/blog/jpeg-images-definitive-guide/consine-transforms-jpeg.svg)
+We first convert to a frequency-domain representation by assigning a number to each pixel in a matri
