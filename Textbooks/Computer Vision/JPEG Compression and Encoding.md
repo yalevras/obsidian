@@ -21,3 +21,5 @@ A color model is a mathematical formula used to calculate those colors, such as 
 ![RBG and CMYK Colorspace Example.](https://res.cloudinary.com/thewebmaster/image/upload/images/blog/jpeg-images-definitive-guide/rgb-cmyk-colorspace-example.svg)
 ![RBG and CMYK Colorspace Example.](https://res.cloudinary.com/thewebmaster/image/upload/images/blog/jpeg-images-definitive-guide/rgb-cmyk-example.svg)
 You can convert color models to another very easily, JPEG converts RGB to the YCbCr color model
+![Contrast sensitivity of the eye.](https://res.cloudinary.com/thewebmaster/image/upload/images/blog/jpeg-images-definitive-guide/contrast_sensitivity_of_the_eye.svg)
+
