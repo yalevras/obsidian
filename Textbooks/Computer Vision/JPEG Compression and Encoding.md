@@ -91,4 +91,5 @@ Q = the quantization matrix
 ![[Pasted image 20260421170327.png]]
 Result:
 ![Quantized DCT Coefficients.](https://res.cloudinary.com/thewebmaster/image/upload/images/blog/jpeg-images-definitive-guide/quantized-DCT-coefficients.svg)
-Now only 20 cosine functions
+Now only 20 cosine functions affect the image, many high frequency components have been rounded to zero. This reduces the JPEG file size. This quantization is also lossy.
+![[Pasted image 20260421170444.png]]
