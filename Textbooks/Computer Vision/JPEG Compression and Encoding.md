@@ -8,4 +8,4 @@ Lossy compression - some data is lost when saved
 
 Progressive JPEGs also exist and they load faster in progressive waves.
 
-JPEG 
+JPEG is the compression specification, the file format is a JPEG File Interchange Format (JFIF). This wrapper holds the data created by JPEG compression.
