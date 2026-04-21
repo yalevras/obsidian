@@ -77,3 +77,10 @@ Resulting in this
 There are two types of DCT coefficients:
 - DC coefficient - the top left-hand corner DCT coefficient, aka the constant component, defining the basic hue for the entire block
 - AC coefficients - the remaining 63 DCT coefficients, otherwise known as the alternating components
+
+These values are then divided by quantization matrices for Luminance and Chrominance channels depending on quality (only for Luminance)
+
+![Luminance Quantization Matrix - 50% quality.](https://res.cloudinary.com/thewebmaster/image/upload/images/blog/jpeg-images-definitive-guide/quantization-matrix-50-percent-quality.svg)
+![Chroma Quantization Matrix - 50% quality.](https://res.cloudinary.com/thewebmaster/image/upload/images/blog/jpeg-images-definitive-guide/quantization-matrix-chroma-channels.svg)
+
+To then quantize t
