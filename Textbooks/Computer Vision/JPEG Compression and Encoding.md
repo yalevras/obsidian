@@ -16,3 +16,5 @@ EXIF defines: camera settings (make, model, orientation (rotation), aperture, sh
 
 ![JFIF file holds JPEG Compressed Data.](https://res.cloudinary.com/thewebmaster/image/upload/images/blog/jpeg-images-definitive-guide/jpeg-encoding.svg)
 **Colour Transformation**
+A colourspace represents a specific organization of colours that can be represented by a colour model.
+
