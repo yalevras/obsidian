@@ -58,4 +58,5 @@ Image dimensions must be multiples of an MCU. If not, we can extend the image to
 ![[Pasted image 20260421160516.png]]
 
 **Blocking Artifacts**
+Division into MCUs may cause visual discontinuitie
 ![[Pasted image 20260421162443.png]]
