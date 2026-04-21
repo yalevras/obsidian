@@ -54,6 +54,6 @@ MCU size for subsampling ratios:
 - 4:2:2 - 16x8 pixels
 - 4:2:0 - 16x16 pixels
 
-Image dimensions must be multiples of an MCU. If not, we can extend the image to make the correct size.
+Image dimensions must be multiples of an MCU. If not, we can extend the image to make the correct size. The JPEG encoding process is then gone through and the additional pixels are removed.
 ![[Pasted image 20260421160516.png]]
 
