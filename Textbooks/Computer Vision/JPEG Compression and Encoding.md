@@ -25,3 +25,5 @@ You can convert color models to another very easily, JPEG converts RGB to the YC
 
 ![[Pasted image 20260421133406.png]]
 This subtraction can be mathematically extracted instead of encoded.
+
+**Chroma Subsampling**
