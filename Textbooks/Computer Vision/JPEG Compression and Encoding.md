@@ -62,3 +62,4 @@ Division into MCUs may cause visual discontinuities if compressed at very low qu
 ![[Pasted image 20260421162443.png]]
 
 **JPEG Encoding: Discrete Cosine Transform (DCT)**
+Each 8x8 MCU for each channel (Y, Cb, Cr) is converted from a spatial domain representation to a frequency domain representation using a two-dimensional type-II discrete cosine transform.
