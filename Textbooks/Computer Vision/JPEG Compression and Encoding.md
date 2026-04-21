@@ -1,0 +1,1 @@
+https://pomodo.io/tech-archive/jpeg-definitive-guide/
