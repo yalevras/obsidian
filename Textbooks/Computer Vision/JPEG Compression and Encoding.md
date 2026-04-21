@@ -23,7 +23,7 @@ A color model is a mathematical formula used to calculate those colors, such as 
 You can convert color models to another very easily, JPEG converts RGB to the YCbCr color model
 ![Contrast sensitivity of the eye.|300](https://res.cloudinary.com/thewebmaster/image/upload/images/blog/jpeg-images-definitive-guide/contrast_sensitivity_of_the_eye.svg)
 
-![[Pasted image 20260421133406.png]]
+
 This subtraction can be mathematically extracted instead of encoded.
 
 **Chroma Subsampling**
