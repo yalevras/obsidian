@@ -66,4 +66,9 @@ Each 8x8 MCU for each channel (Y, Cb, Cr) is converted from a spatial domain rep
 
 We apply a series of DCTs:
 ![JPEG standard Cosine Values.](https://res.cloudinary.com/thewebmaster/image/upload/images/blog/jpeg-images-definitive-guide/consine-transforms-jpeg.svg)
-We first convert to a frequency-domain representation by assigning a number to each pixel in a matri
+We first convert to a frequency-domain representation by assigning a number to each pixel in a matrix, falling between 0 and 255 where darker pixels are lower and lighter pixels are higher.
+![JPEG Frequency-domain Representation.](https://res.cloudinary.com/thewebmaster/image/upload/images/blog/jpeg-images-definitive-guide/frequency-domain-representation.svg)
+Subtract 128 from each number to center around 0.
+![Discrete Cosine Transform Recenter on Zero.](https://res.cloudinary.com/thewebmaster/image/upload/images/blog/jpeg-images-definitive-guide/DCT-recenter-on-zero.svg)
+Calculate the 2D DCT coefficients using
+![Discrete Cosine Transform Formula.](https://res.cloudinary.com/thewebmaster/image/upload/images/blog/jpeg-images-definitive-guide/discrete-cosine-transform-formula.svg)
