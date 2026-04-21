@@ -104,4 +104,5 @@ A form of lossless data compression that:
 (15, 0); is when the number of zeros exceeds 15 before reaching another non-zero AC coefficient
 
 **Apply Differential Pulse Code Modulation on DC Coefficients**
-The DC coefficient is omitted when applying Entropy encoding because it is dealt using Differential Pulse Code Modulation, or DPCM
+The DC coefficient is omitted when applying Entropy encoding because it is dealt using Differential Pulse Code Modulation, or DPCM. Instead of storing the full value of the DC coefficient for each block, the difference between the current and previous block is stored.
+![Entropy coding on DC Coefficients using Differential Pulse Code Modulation. Image shows example showing differences.](https://res.cloudinary.com/thewebmaster/image/upload/images/blog/jpeg-images-definitive-guide/DC-coefficients-DPCM.svg)
