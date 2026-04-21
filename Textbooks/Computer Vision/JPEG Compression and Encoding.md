@@ -38,3 +38,5 @@ J:a:b, where J is the horizontal sampling reference, usually four pixels, a is t
 This downsampling is lossy, but provides file size savings. Adding JPEG compression and the size reduces much more.
 ![[Pasted image 20260421140605.png]]
 ![[Pasted image 20260421140853.png]]
+**Chroma Subsampling Artifacts**
+![Resampling artifacts.](https://res.cloudinary.com/thewebmaster/image/upload/images/blog/jpeg-images-definitive-guide/image-artifacts-resampling.svg)
