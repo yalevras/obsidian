@@ -12,4 +12,4 @@ JPEG is the compression specification, the file format is a JPEG File Interchang
 
 Outside of the JPEG spec,
 JFIF defines: component sample registration, resolution and aspect ratio, and colour space.
-EXIF defines: camera settings (make, model, orientation (rotation), aperture, shutter speed, focal length, metering mode, and ISO speed information), image metrics (pixel d)
+EXIF defines: camera settings (make, model, orientation (rotation), aperture, shutter speed, focal length, metering mode, and ISO speed information), image metrics (pixel dimensions, resolution, colourspace, and file size), date and time, location, thumbnail, description, copyright information
