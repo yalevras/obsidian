@@ -39,4 +39,5 @@ This downsampling is lossy, but provides file size savings. Adding JPEG compress
 ![[Pasted image 20260421140605.png]]
 ![[Pasted image 20260421140853.png]]
 **Chroma Subsampling Artifacts**
+These are most visible where there is a bold transition between colors
 ![Resampling artifacts.](https://res.cloudinary.com/thewebmaster/image/upload/images/blog/jpeg-images-definitive-guide/image-artifacts-resampling.svg)
