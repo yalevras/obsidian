@@ -5,3 +5,5 @@ JPEG - Joint Photographic Experts Group
 Lossy compression - some data is lost when saved
 
 ![[Pasted image 20260421114613.png]]
+
+Progressive JPEGs also exist and they load faster in progressive waves
