@@ -57,3 +57,5 @@ MCU size for subsampling ratios:
 Image dimensions must be multiples of an MCU. If not, we can extend the image to make the correct size. The JPEG encoding process is then gone through and the additional pixels are removed.
 ![[Pasted image 20260421160516.png]]
 
+**Blocking Artifacts**
+![[Pasted image 20260421162443.png]]
