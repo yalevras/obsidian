@@ -95,6 +95,7 @@ https://em8e.eecs.umich.edu/jsmodules/ulaby_modules.html
 Hackathons
 Ludum Dare
 
+https://pomodo.io/tech-archive/jpeg-definitive-guide/
 
 
 
