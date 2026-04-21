@@ -46,3 +46,4 @@ Chroma subsampling should be avoided where there are abrupt color changes, ad wh
 ![[Pasted image 20260421142322.png]]
 ![[Pasted image 20260421142442.png]]
 
+**JPEG Encoding: Block Splitting**
