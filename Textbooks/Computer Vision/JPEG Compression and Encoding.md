@@ -83,4 +83,12 @@ These values are then divided by quantization matrices for Luminance and Chromin
 ![Luminance Quantization Matrix - 50% quality.](https://res.cloudinary.com/thewebmaster/image/upload/images/blog/jpeg-images-definitive-guide/quantization-matrix-50-percent-quality.svg)
 ![Chroma Quantization Matrix - 50% quality.](https://res.cloudinary.com/thewebmaster/image/upload/images/blog/jpeg-images-definitive-guide/quantization-matrix-chroma-channels.svg)
 
-To then quantize t
+To then quantize the DCT coefficients:
+![[Pasted image 20260421170243.png]]
+B = the quantized DCT coefficient
+G = the DCT coefficient
+Q = the quantization matrix
+![[Pasted image 20260421170327.png]]
+Result:
+![Quantized DCT Coefficients.](https://res.cloudinary.com/thewebmaster/image/upload/images/blog/jpeg-images-definitive-guide/quantized-DCT-coefficients.svg)
+Now only 20 cosine functions
