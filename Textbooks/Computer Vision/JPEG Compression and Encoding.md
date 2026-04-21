@@ -94,3 +94,6 @@ Result:
 Now only 20 cosine functions affect the image, many high frequency components have been rounded to zero. This reduces the JPEG file size. This quantization is also lossy.
 ![[Pasted image 20260421170444.png]]
 **JPEG Encoding: Entropy Coding**
+A form of lossless data compression that:
+- Arranges the quantized DCT coefficients in a zigzag order
+- Employs run-length and applies Huffman coding
