@@ -96,7 +96,7 @@ Hackathons
 Ludum Dare
 
 https://pomodo.io/tech-archive/jpeg-definitive-guide/
-
+https://drive.uqu.edu.sa/_/mskhayat/files/MySubjects/20178FS%20Multimedia%20Systems/Fundamentals_of_multimedia_2e.pdf
 
 
 https://www.frontendmentor.io/
