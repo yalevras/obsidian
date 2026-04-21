@@ -99,3 +99,4 @@ A form of lossless data compression that:
 - Employs run-length and applies Huffman coding
 ![[Pasted image 20260421171037.png]]
 ![[Pasted image 20260421171049.png]]
+![[Pasted image 20260421172012.png]]
