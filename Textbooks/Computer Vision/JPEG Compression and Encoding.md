@@ -53,3 +53,5 @@ MCU size for subsampling ratios:
 - 4:4:4 - 8x8 pixels
 - 4:2:2 - 16x8 pixels
 - 4:2:0 - 16x16 pixels
+
+Image dimensions must be multiples of an MCU
