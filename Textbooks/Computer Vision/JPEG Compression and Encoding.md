@@ -101,4 +101,7 @@ A form of lossless data compression that:
 ![[Pasted image 20260421171049.png]]
 ![[Pasted image 20260421172012.png]]
 (0, 0); marks the end of block where the remaining coefficients are zero
-(15, 0); is when the number of zeros exceeds 15 before reaching another non-zero AC coefficiee
+(15, 0); is when the number of zeros exceeds 15 before reaching another non-zero AC coefficient
+
+**Apply Differential Pulse Code Modulation on DC Coefficients**
+The DC coefficient is omitted when applying Entropy encoding because it is dealt using Differential Pulse Code Modulation, or DPCM
