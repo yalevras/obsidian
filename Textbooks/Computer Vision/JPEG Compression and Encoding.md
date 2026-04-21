@@ -29,4 +29,6 @@ This subtraction can be mathematically extracted instead of encoded.
 **Chroma Subsampling**
 Where the color information in an image's Cb and Cr channels is sampled at a lower resolution than the original. Common subsampling ratios for JPEGs:
 - 4:4:4 - no sub sampling
-- 4:2:2 - reduction by half in the horizontal direction (50% area reduction
+- 4:2:2 - reduction by half in the horizontal direction (50% area reduction)
+- 4:2:0 - reduction by half in both the horizontal and vertical directions (75% area reduction)
+- 4:1:1 - reduction by a quarter in the horizontal direction (75% area reduction)
