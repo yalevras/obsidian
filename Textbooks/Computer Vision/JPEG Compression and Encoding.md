@@ -11,10 +11,11 @@ Progressive JPEGs also exist and they load faster in progressive waves.
 JPEG is the compression specification, the file format is a JPEG File Interchange Format (JFIF). This wrapper holds the data created by JPEG compression. EXIF is used more commonly for photography, but also uses the .jpeg extension, it just includes information about the photo in its metadata.
 
 Outside of the JPEG spec,
-JFIF defines: component sample registration, resolution and aspect ratio, and colour space.
-EXIF defines: camera settings (make, model, orientation (rotation), aperture, shutter speed, focal length, metering mode, and ISO speed information), image metrics (pixel dimensions, resolution, colourspace, and file size), date and time, location, thumbnail, description, copyright information.
+JFIF defines: component sample registration, resolution and aspect ratio, and color space.
+EXIF defines: camera settings (make, model, orientation (rotation), aperture, shutter speed, focal length, metering mode, and ISO speed information), image metrics (pixel dimensions, resolution, colorspace, and file size), date and time, location, thumbnail, description, copyright information.
 
 ![JFIF file holds JPEG Compressed Data.](https://res.cloudinary.com/thewebmaster/image/upload/images/blog/jpeg-images-definitive-guide/jpeg-encoding.svg)
-**Colour Transformation**
-A colourspace represents a specific organization of colours that can be represented by a colour model.
+**color Transformation**
+A colorspace represents a specific organization of colors that can be represented by a color model.
+A color model is a mathematical formula 
 
