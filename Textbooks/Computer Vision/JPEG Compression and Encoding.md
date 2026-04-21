@@ -47,3 +47,4 @@ Chroma subsampling should be avoided where there are abrupt color changes, ad wh
 ![[Pasted image 20260421142442.png]]
 
 **JPEG Encoding: Block Splitting**
+Process of splitting each channel in a source image into pixel blocks called Minimum Coded Units (MCU). These MCUs can be different-sized depending on whether that channel was subsampled.
