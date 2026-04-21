@@ -17,5 +17,7 @@ EXIF defines: camera settings (make, model, orientation (rotation), aperture, sh
 ![JFIF file holds JPEG Compressed Data.](https://res.cloudinary.com/thewebmaster/image/upload/images/blog/jpeg-images-definitive-guide/jpeg-encoding.svg)
 **color Transformation**
 A colorspace represents a specific organization of colors that can be represented by a color model.
-A color model is a mathematical formula used to calculate those colors.
-
+A color model is a mathematical formula used to calculate those colors, such as RGB and CMYK.
+![RBG and CMYK Colorspace Example.](https://res.cloudinary.com/thewebmaster/image/upload/images/blog/jpeg-images-definitive-guide/rgb-cmyk-colorspace-example.svg)
+![RBG and CMYK Colorspace Example.](https://res.cloudinary.com/thewebmaster/image/upload/images/blog/jpeg-images-definitive-guide/rgb-cmyk-example.svg)
+You can convert color models to another very easily,
