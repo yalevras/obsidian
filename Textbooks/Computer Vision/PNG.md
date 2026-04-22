@@ -20,5 +20,5 @@ To choose the best filter, brute force is too much, so some rules of thumb were 
 **Compression (DEFLATE)**
 The results of filtering then goes through an algorithm called DEFLATE combining LZ77 coding along side Huffman encoding.
 
-Deflate limits match legnths between 3 and 258 symbols putting the max conceivable compression ratio around 1032:1.
+Deflate limits match lengths between 3 and 258 symbols putting the max conceivable compression ratio around 1032:1.
 If the match is less than 3 symbols, then you incur some overhead to represent the symbol.
