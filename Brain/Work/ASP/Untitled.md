@@ -32,3 +32,8 @@ cmake ..
 ccmake .        build_shared_libs ON, build_test_targets ON
 make
 make test
+
+
+
+
+Need to support recognizing IHDR IDAT and IEND
