@@ -113,3 +113,7 @@ Reverse these steps.
 **Progressive JPEGs**
 Loads the image in waves of quality. Slightly smaller file size typically. Progressive JPEG decoding costs roughly three times more resources than its baseline counterpart.
 ![[Pasted image 20260422112134.png]]
+These markers can determine whether the JPEG image is baseline or progressive. For example:
+
+- `0xFF, 0xC0` This marker represents the Start of Frame for a baseline image
+- `0xFF, 0xC2` This marker represents the Start of Frame for a progressive image
