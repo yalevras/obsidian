@@ -22,3 +22,4 @@ The results of filtering then goes through an algorithm called DEFLATE combining
 
 Deflate limits match lengths between 3 and 258 symbols putting the max conceivable compression ratio around 1032:1.
 If the match is less than 3 symbols, then you incur some overhead to represent the symbol.
+
