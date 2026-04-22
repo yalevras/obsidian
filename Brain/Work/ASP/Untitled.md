@@ -29,6 +29,6 @@ now in asp-lib-linalg
 cd build
 rm -r ./*
 cmake ..
-ccmake .
+ccmake .        build_shared_libs ON, build_share
 make
 make test
