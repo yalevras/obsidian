@@ -13,4 +13,4 @@ PNG does this relating to the pixel to the left above and above left
 - Difference between X and (A+B)/2
 - Paeth predictor (linear function of A,B,C) https://www.w3.org/TR/PNG-Filters.html
 ![[Pasted image 20260422115659.png]]
-These filters are done 
+These filters are done per channel, such as all the red values of a pixel for a scanline. Every row will use the same filter though and this can change.
