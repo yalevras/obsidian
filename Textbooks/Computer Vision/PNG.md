@@ -24,4 +24,4 @@ Deflate limits match lengths between 3 and 258 symbols putting the max conceivab
 If the match is less than 3 symbols, then you incur some overhead to represent the symbol.
 
 **PNG Format**
-Includes a PNG Header chunk containing width, height, bit depth & color-type. The Image data  chunk contains the image information itself.
+Includes a PNG Header chunk containing width, height, bit depth & color-type. The Image data chunk contains the image information itself. Color palette chunk. End-of-file chunk, and many more.
