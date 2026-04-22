@@ -25,3 +25,14 @@ If the match is less than 3 symbols, then you incur some overhead to represent t
 
 **PNG Format**
 Includes a PNG Header chunk containing width, height, bit depth & color-type. The Image data chunk contains the image information itself. Color palette chunk. End-of-file chunk, and many more.
+
+Pixel formats supported
+Indexed = 1 channel, can be 1,2,4,8 bpc
+
+Grayscale = 1 channel, can be 1,2,4,8,16 bpc
+
+Gray+Alpha = 2 channel, can be 8 or 16 bpc
+
+Truecolor(RGB) = 3 channel, can be 8 or 16 bpc
+
+RGBA = 4 channel, can be 8 or 16 bpc
