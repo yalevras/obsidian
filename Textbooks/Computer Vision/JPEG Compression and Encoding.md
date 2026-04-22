@@ -109,3 +109,5 @@ The DC coefficient is omitted when applying Entropy encoding because it is dealt
 ![Entropy coding on DC Coefficients using Differential Pulse Code Modulation. Image shows example showing differences.](https://res.cloudinary.com/thewebmaster/image/upload/images/blog/jpeg-images-definitive-guide/DC-coefficients-DPCM.svg)
 **JPEG Decoding**
 Reverse these steps.
+
+**Progressive JPEGs**
