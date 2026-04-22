@@ -7,3 +7,8 @@ Delta encoding, where each value is a difference from the previous value.
 PNG does this relating to the pixel to the left above and above left
 
 ![[Pasted image 20260422115129.png]]The filter takes ABC and predicts X. There are 5 PNG modes to be chosen.
+- No filtering
+- Difference between X and A
+- Difference between X and B
+- Difference between X and (A+B)/2
+- Paeth predictor
