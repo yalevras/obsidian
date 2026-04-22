@@ -1,3 +1,6 @@
+https://medium.com/@duhroach/how-png-works-f1174e3cc7b7
+https://iter.ca/post/png/ , decoding a PNG
+
 Portable Network Graphics, entirely lossless
 
 **Filtering (prediction)**
