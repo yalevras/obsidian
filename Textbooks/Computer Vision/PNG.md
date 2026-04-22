@@ -14,3 +14,5 @@ PNG does this relating to the pixel to the left above and above left
 - Paeth predictor (linear function of A,B,C) https://www.w3.org/TR/PNG-Filters.html
 ![[Pasted image 20260422115659.png]]
 These filters are done per channel, such as all the red values of a pixel for a scanline. Every row will use the same filter though and this can change.
+
+To choose the best filter, brute force is too much, so some rules of thumb were established. For palette images and sub-8 bit grayscale images, None filters are best. For other images, hoosing the filter that minimizes the sum of absolute differences
