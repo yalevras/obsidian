@@ -111,4 +111,4 @@ The DC coefficient is omitted when applying Entropy encoding because it is dealt
 Reverse these steps.
 
 **Progressive JPEGs**
-Loads the image in waves of quality. Slightly smaller file size typically. Progressive JPEG decoding costs roughly thre
+Loads the image in waves of quality. Slightly smaller file size typically. Progressive JPEG decoding costs roughly three times more resources than its baseline counterpart.
