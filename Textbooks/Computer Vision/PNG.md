@@ -18,3 +18,4 @@ These filters are done per channel, such as all the red values of a pixel for a 
 To choose the best filter, brute force is too much, so some rules of thumb were established. For palette images and sub-8 bit grayscale images, None filters are best. For other images, choosing the filter that minimizes the sum of absolute differences. Choose the filter that gives the smallest sum.
 
 **Compression (DEFLATE)**
+The results of filtering then goes through an algorithm called DEFLATE combining LZ77 coding along side Huffman encoding
