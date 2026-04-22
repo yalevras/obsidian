@@ -1,5 +1,5 @@
 https://pomodo.io/tech-archive/jpeg-definitive-guide/
-https://pomodo.io/tech-archive/progressive-jpegs/ -> not gone through yet
+https://pomodo.io/tech-archive/progressive-jpegs/
 
 JPEG - Joint Photographic Experts Group
 
