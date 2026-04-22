@@ -41,7 +41,7 @@ Appel - Modern Compiler Implementation in ML 0/21
 Rust - [The Rust Programming Language](https://rust-book.cs.brown.edu/ch00-00-introduction.html)
 Rust - [Rust for C-Programmers](https://rust-for-c-programmers.com/ch2/chapter_2_basic_structure_of_a_rust_program.html)
 Java for C++ - https://horstmann.com/ccc/c_to_java.pdf
-Regex - https://regexone.com/ 
+Regex - https://regexone.com/  ✅
 ROS 2 - https://docs.ros.org/en/foxy/Tutorials.html
 https://en.cppreference.com/w/
 https://zhangtemplar.github.io/dimension/
@@ -95,8 +95,8 @@ https://em8e.eecs.umich.edu/jsmodules/ulaby_modules.html
 Hackathons
 Ludum Dare
 
-https://pomodo.io/tech-archive/jpeg-definitive-guide/
-https://pomodo.io/tech-archive/progressive-jpegs/
+https://pomodo.io/tech-archive/jpeg-definitive-guide/ ✅
+https://pomodo.io/tech-archive/progressive-jpegs/ ✅
 
 Singular value decomposition
 https://drive.uqu.edu.sa/_/mskhayat/files/MySubjects/20178FS%20Multimedia%20Systems/Fundamentals_of_multimedia_2e.pdf
