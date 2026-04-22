@@ -112,3 +112,4 @@ Reverse these steps.
 
 **Progressive JPEGs**
 Loads the image in waves of quality. Slightly smaller file size typically. Progressive JPEG decoding costs roughly three times more resources than its baseline counterpart.
+![[Pasted image 20260422112134.png]]
