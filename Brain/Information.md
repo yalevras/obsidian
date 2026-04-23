@@ -1,7 +1,7 @@
 aD:\Textbook
 
 **Controls:**
-	MIT OpenCourseWare
+	**MIT OpenCourseWare**
 		Systems and Controls 2.04 Undergraduate https://ocw.mit.edu/courses/2-04a-systems-and-controls-spring-2013/
 		Identification, Estimation, and Learning 2.160 Graduate https://ocw.mit.edu/courses/2-160-identification-estimation-and-learning-spring-2006/
 		Dynamic Systems and Control 6.241J Graduate https://ocw.mit.edu/courses/6-4210-robotic-manipulation-fall-2022/
@@ -11,8 +11,9 @@ aD:\Textbook
 		Principles of Automatic Control 16.06 Undergraduate https://ocw.mit.edu/courses/16-06-principles-of-automatic-control-fall-2012/
 		Stochastic Estimation and Control 16.322 Graduate https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/
 		Cognitive Robotics 16.412J Graduate https://ocw.mit.edu/courses/16-412j-cognitive-robotics-spring-2016/
-	Kalman and Bayesian Filters - https://nbviewer.org/github/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/00-Preface.ipynb
-	Robotics:
+	**Filtering:**
+		Kalman and Bayesian Filters - https://nbviewer.org/github/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/00-Preface.ipynb
+	**Robotics:**
 		Sciavicco - Robotics: Modelling, Planning and Control 0/12
 		https://gaoyichao.com/Xiaotu/resource/refs/PR.MIT.en.pdf
 		https://wiki.ros.org/ROS/Tutorials
@@ -21,8 +22,8 @@ aD:\Textbook
 		https://hades.mech.northwestern.edu/images/7/7f/MR.pdf
 		file:///C:/Users/thatg/Downloads/ilide.info-solution-manual-for-robotics-modelling-planning-and-control-pr_c6e76f16749142b6c5786e374e445566.pdf
 
-Biological Circuits
-http://be150.caltech.edu/2020/content/lessons/01_intro_to_circuit_design.html
+**BME**
+	Biological Circuits - http://be150.caltech.edu/2020/content/lessons/01_intro_to_circuit_design.html
 
 Computer Vision:
 Szeliski - Computer Vision: Algorithms and Applications 2nd Edition 0/14
