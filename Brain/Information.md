@@ -21,18 +21,13 @@ D:\Textbook
 		https://people.disim.univaq.it/~costanzo.manes/EDU_stuff/Robotics_Modelling,%20Planning%20and%20Control_Sciavicco_extract.pdf
 		https://hades.mech.northwestern.edu/images/7/7f/MR.pdf
 		file:///C:/Users/thatg/Downloads/ilide.info-solution-manual-for-robotics-modelling-planning-and-control-pr_c6e76f16749142b6c5786e374e445566.pdf
-
 **BME**
 	Biological Circuits - http://be150.caltech.edu/2020/content/lessons/01_intro_to_circuit_design.html
-
 **Computer Vision:**
 	Szeliski - Computer Vision: Algorithms and Applications 2nd Edition 0/14
 		[[Szeliski Chapter 3 - Image Processing]]
 	https://www.reddit.com/r/computervision/comments/1kqdoe6/computer_vision_roadmap_guidance/
 	https://www.reddit.com/r/computervision/comments/129e3gc/suggestions_for_some_best_books_on_computer_vision/
-
-
-
 **Software:**
 	Progit - [Pro Git](https://git-scm.com/book/en/v2)
 	Nystrom - [Crafting Interpreters](https://craftinginterpreters.com/contents.html)
@@ -45,15 +40,12 @@ D:\Textbook
 	ROS 2 - https://docs.ros.org/en/foxy/Tutorials.html
 	https://en.cppreference.com/w/
 	https://zhangtemplar.github.io/dimension/
-
 **Front End:**
 	https://www.frontendmentor.io/
-
 **Computer Graphics:**
 	https://math.hws.edu/graphicsbook/
 	https://www.youtube.com/playlist?list=PLplnkTzzqsZS3R5DjmCQsqupu43oS9CFN
 	OpenGL - https://learnopengl.com/Getting-started/Hello-Window
-
 **Machine Learning**:
 	Kochenderfer - [Algorithms for Decision Making](https://algorithmsbook.com/files/dm.pdf "https://algorithmsbook.com/files/dm.pdf")
 	Reddi - [Introduction to Machine Learning Systems](https://www.mlsysbook.ai/assets/downloads/Machine-Learning-Systems.pdf)
@@ -62,11 +54,8 @@ D:\Textbook
 	https://d2l.ai/
 	https://www.deeplearningbook.org/
 	https://github.com/chiphuyen/aie-book/blob/main/resources.md#ml-theory-fundamentals
-
-
 **Technical Books**:
 	Hamming - The Art of Doing Science and Engineering 0/30!pg.11
-
 **Math:**
 	Random Website - [Beginner Linear Algebra](https://immersivemath.com/ila/index.html)
 	https://tutorial.math.lamar.edu/
@@ -74,30 +63,21 @@ D:\Textbook
 		Progress: [[Elementary Linear Algebra]]
 	file:///D:/Chrome%20Downloads/Probability,_Statistics,_and_Random_Processes_for_Eletrical_Engineerging,_3rd_Ed_-_Leon-Garcia.pdf
 	Conformal Mapping - https://mathworld.wolfram.com/ConformalMapping.html
-
 **Random:**
 	Morse Code - https://www.perry.qa/morse
-
 **RF:**
 	https://www.eecg.utoronto.ca/~liscidin/publications/07130765.pdf
 	https://s3vi.ndc.nasa.gov/ssri-kb/static/resources/Lee_Ji_Eun_(Christine)_201911_MAS_thesis.pdf
 	DSP - Proakis in textbooks
-
 **Blogs:**
 	https://lisyarus.github.io/blog/ - articles about computer graphics, quaternions, physics simulations, etc
-
-
 **Networks:**
 	https://highered.mheducation.com/sites/007246352x/
-
-
 **Electronics:**
 	Optocoupler, an LED and a phototransistor, light based signal gets transferred over
 	https://em8e.eecs.umich.edu/jsmodules/ulaby_modules.html
-
 **Hackathons:**
 	Ludum Dare
-
 **Multimedia Systems**:**
 	https://pomodo.io/tech-archive/jpeg-definitive-guide/ ✅
 	https://pomodo.io/tech-archive/progressive-jpegs/ ✅
@@ -107,5 +87,4 @@ D:\Textbook
 	https://iter.ca/post/png/ 
 	Singular value decomposition https://en.wikipedia.org/wiki/Singular_value_decomposition
 	https://drive.uqu.edu.sa/_/mskhayat/files/MySubjects/20178FS%20Multimedia%20Systems/Fundamentals_of_multimedia_2e.pdf
-
 
