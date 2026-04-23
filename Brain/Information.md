@@ -78,6 +78,7 @@ D:\Textbook
 **Electronics:**
 	Optocoupler, an LED and a phototransistor, light based signal gets transferred over
 	https://em8e.eecs.umich.edu/jsmodules/ulaby_modules.html
+	https://withdiode.com/
 **Hackathons:**
 	Ludum Dare
 **Multimedia Systems**:**
