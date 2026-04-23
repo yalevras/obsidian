@@ -3,6 +3,7 @@ Big Todo's:
 2. swiss chalet money and security clearance money
 3. magellan
 4. look at capstones and projects from other people and universities for inspo
+GCKEY
 
 Upcoming Dates:
 Tuesday Jan 27th Drom with coworkers
