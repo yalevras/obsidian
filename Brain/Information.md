@@ -96,17 +96,16 @@ D:\Textbook
 **Hackathons:**
 	Ludum Dare
 
+**Multimedia Systems**:**
+	https://pomodo.io/tech-archive/jpeg-definitive-guide/ ✅
+	https://pomodo.io/tech-archive/progressive-jpegs/ ✅
+	https://www.comm.utoronto.ca/~dimitris/ece462/lecture12-2026.pdf
+	https://www.comm.utoronto.ca/~dimitris/ece462/Lectures.html
+	https://medium.com/@duhroach/how-png-works-f1174e3cc7b7
+	https://iter.ca/post/png/ 
 
-https://pomodo.io/tech-archive/jpeg-definitive-guide/ ✅
-https://pomodo.io/tech-archive/progressive-jpegs/ ✅
-https://www.comm.utoronto.ca/~dimitris/ece462/lecture12-2026.pdf
-https://www.comm.utoronto.ca/~dimitris/ece462/Lectures.html
-
-https://medium.com/@duhroach/how-png-works-f1174e3cc7b7
-https://iter.ca/post/png/ 
-
-Singular value decomposition https://en.wikipedia.org/wiki/Singular_value_decomposition
-https://drive.uqu.edu.sa/_/mskhayat/files/MySubjects/20178FS%20Multimedia%20Systems/Fundamentals_of_multimedia_2e.pdf
+	Singular value decomposition https://en.wikipedia.org/wiki/Singular_value_decomposition
+	https://drive.uqu.edu.sa/_/mskhayat/files/MySubjects/20178FS%20Multimedia%20Systems/Fundamentals_of_multimedia_2e.pdf
 
 
 https://www.frontendmentor.io/
