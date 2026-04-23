@@ -1,3 +1,16 @@
+**TO STUDY**
+**On Paper:**
+- calculus
+- linear algebra
+- controls
+**Through Code:**
+- compilers
+- multimedia systems
+- 
+
+
+
+
 Big Todo's:
 1. get into toggl track
 2. swiss chalet money and security clearance money
