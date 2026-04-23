@@ -1,4 +1,4 @@
-aD:\Textbook
+D:\Textbook
 
 **Controls:**
 	**MIT OpenCourseWare**
@@ -25,11 +25,11 @@ aD:\Textbook
 **BME**
 	Biological Circuits - http://be150.caltech.edu/2020/content/lessons/01_intro_to_circuit_design.html
 
-Computer Vision:
-Szeliski - Computer Vision: Algorithms and Applications 2nd Edition 0/14
-	[[Szeliski Chapter 3 - Image Processing]]
-https://www.reddit.com/r/computervision/comments/1kqdoe6/computer_vision_roadmap_guidance/
-https://www.reddit.com/r/computervision/comments/129e3gc/suggestions_for_some_best_books_on_computer_vision/
+**Computer Vision:**
+	Szeliski - Computer Vision: Algorithms and Applications 2nd Edition 0/14
+		[[Szeliski Chapter 3 - Image Processing]]
+	https://www.reddit.com/r/computervision/comments/1kqdoe6/computer_vision_roadmap_guidance/
+	https://www.reddit.com/r/computervision/comments/129e3gc/suggestions_for_some_best_books_on_computer_vision/
 
 
 
@@ -53,36 +53,36 @@ https://www.reddit.com/r/computervision/comments/129e3gc/suggestions_for_some_be
 	OpenGL - https://learnopengl.com/Getting-started/Hello-Window
 
 **Machine Learning**:
-Kochenderfer - [Algorithms for Decision Making](https://algorithmsbook.com/files/dm.pdf "https://algorithmsbook.com/files/dm.pdf")
-Reddi - [Introduction to Machine Learning Systems](https://www.mlsysbook.ai/assets/downloads/Machine-Learning-Systems.pdf)
-Huyen - [AI Engineering](https://github.com/chiphuyen/aie-book/blob/main/resources.md)
-Price - [Understanding Deep Learning](https://udlbook.github.io/udlbook/) (in folder)
-https://d2l.ai/
-https://www.deeplearningbook.org/
-https://github.com/chiphuyen/aie-book/blob/main/resources.md#ml-theory-fundamentals
+	Kochenderfer - [Algorithms for Decision Making](https://algorithmsbook.com/files/dm.pdf "https://algorithmsbook.com/files/dm.pdf")
+	Reddi - [Introduction to Machine Learning Systems](https://www.mlsysbook.ai/assets/downloads/Machine-Learning-Systems.pdf)
+	Huyen - [AI Engineering](https://github.com/chiphuyen/aie-book/blob/main/resources.md)
+	Price - [Understanding Deep Learning](https://udlbook.github.io/udlbook/) (in folder)
+	https://d2l.ai/
+	https://www.deeplearningbook.org/
+	https://github.com/chiphuyen/aie-book/blob/main/resources.md#ml-theory-fundamentals
 
 
 **Technical Books**:
 	Hamming - The Art of Doing Science and Engineering 0/30!pg.11
 
-Math:
-Random Website - [Beginner Linear Algebra](https://immersivemath.com/ila/index.html)
-https://tutorial.math.lamar.edu/
-Larson/Edwards - Elementary Linear Algebra Second Edition (physical) 
-	Progress: [[Elementary Linear Algebra]]
-file:///D:/Chrome%20Downloads/Probability,_Statistics,_and_Random_Processes_for_Eletrical_Engineerging,_3rd_Ed_-_Leon-Garcia.pdf
-Conformal Mapping - https://mathworld.wolfram.com/ConformalMapping.html
+**Math:**
+	Random Website - [Beginner Linear Algebra](https://immersivemath.com/ila/index.html)
+	https://tutorial.math.lamar.edu/
+	Larson/Edwards - Elementary Linear Algebra Second Edition (physical) 
+		Progress: [[Elementary Linear Algebra]]
+	file:///D:/Chrome%20Downloads/Probability,_Statistics,_and_Random_Processes_for_Eletrical_Engineerging,_3rd_Ed_-_Leon-Garcia.pdf
+	Conformal Mapping - https://mathworld.wolfram.com/ConformalMapping.html
 
-Random:
-Morse Code - https://www.perry.qa/morse
+**Random:**
+	Morse Code - https://www.perry.qa/morse
 
-RF
-https://www.eecg.utoronto.ca/~liscidin/publications/07130765.pdf
-https://s3vi.ndc.nasa.gov/ssri-kb/static/resources/Lee_Ji_Eun_(Christine)_201911_MAS_thesis.pdf
-DSP - Proakis in textbooks
+**RF:**
+	https://www.eecg.utoronto.ca/~liscidin/publications/07130765.pdf
+	https://s3vi.ndc.nasa.gov/ssri-kb/static/resources/Lee_Ji_Eun_(Christine)_201911_MAS_thesis.pdf
+	DSP - Proakis in textbooks
 
-Blogs:
-https://lisyarus.github.io/blog/ - articles about computer graphics, quaternions, physics simulations, etc
+**Blogs:**
+	https://lisyarus.github.io/blog/ - articles about computer graphics, quaternions, physics simulations, etc
 
 
 Networks
