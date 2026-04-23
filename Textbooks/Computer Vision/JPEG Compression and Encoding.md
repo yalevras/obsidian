@@ -1,5 +1,7 @@
 https://pomodo.io/tech-archive/jpeg-definitive-guide/
 https://pomodo.io/tech-archive/progressive-jpegs/
+https://www.comm.utoronto.ca/~dimitris/ece462/lecture12-2026.pdf
+https://www.comm.utoronto.ca/~dimitris/ece462/Lectures.html
 
 JPEG - Joint Photographic Experts Group
 
