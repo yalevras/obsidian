@@ -52,7 +52,7 @@ https://www.reddit.com/r/computervision/comments/129e3gc/suggestions_for_some_be
 	https://www.youtube.com/playlist?list=PLplnkTzzqsZS3R5DjmCQsqupu43oS9CFN
 	OpenGL - https://learnopengl.com/Getting-started/Hello-Window
 
-AI:
+**Machine Learning**:
 Kochenderfer - [Algorithms for Decision Making](https://algorithmsbook.com/files/dm.pdf "https://algorithmsbook.com/files/dm.pdf")
 Reddi - [Introduction to Machine Learning Systems](https://www.mlsysbook.ai/assets/downloads/Machine-Learning-Systems.pdf)
 Huyen - [AI Engineering](https://github.com/chiphuyen/aie-book/blob/main/resources.md)
@@ -62,8 +62,8 @@ https://www.deeplearningbook.org/
 https://github.com/chiphuyen/aie-book/blob/main/resources.md#ml-theory-fundamentals
 
 
-General:
-Hamming - The Art of Doing Science and Engineering 0/30!pg.11
+**Technical Books**:
+	Hamming - The Art of Doing Science and Engineering 0/30!pg.11
 
 Math:
 Random Website - [Beginner Linear Algebra](https://immersivemath.com/ila/index.html)
