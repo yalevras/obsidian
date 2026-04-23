@@ -39,7 +39,6 @@ D:\Textbook
 	Regex - https://regexone.com/  ✅
 	ROS 2 - https://docs.ros.org/en/foxy/Tutorials.html
 	C++ Reference - https://en.cppreference.com/w/
-	https://zhangtemplar.github.io/dimension/
 	CMake - https://cmake.org/cmake/help/latest/guide/tutorial/index.html
 **Front End:**
 	https://www.frontendmentor.io/
@@ -72,6 +71,7 @@ D:\Textbook
 	DSP - Proakis in textbooks
 **Blogs:**
 	https://lisyarus.github.io/blog/ - articles about computer graphics, quaternions, physics simulations, etc
+	https://zhangtemplar.github.io/dimension/
 **Networks:**
 	https://highered.mheducation.com/sites/007246352x/
 **Electronics:**
