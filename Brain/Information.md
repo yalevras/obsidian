@@ -46,6 +46,8 @@ D:\Textbook
 	https://en.cppreference.com/w/
 	https://zhangtemplar.github.io/dimension/
 
+**Front End:**
+	https://www.frontendmentor.io/
 
 **Computer Graphics:**
 	https://math.hws.edu/graphicsbook/
@@ -103,9 +105,7 @@ D:\Textbook
 	https://www.comm.utoronto.ca/~dimitris/ece462/Lectures.html
 	https://medium.com/@duhroach/how-png-works-f1174e3cc7b7
 	https://iter.ca/post/png/ 
-
 	Singular value decomposition https://en.wikipedia.org/wiki/Singular_value_decomposition
 	https://drive.uqu.edu.sa/_/mskhayat/files/MySubjects/20178FS%20Multimedia%20Systems/Fundamentals_of_multimedia_2e.pdf
 
 
-https://www.frontendmentor.io/
