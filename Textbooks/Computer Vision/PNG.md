@@ -1,0 +1,41 @@
+https://medium.com/@duhroach/how-png-works-f1174e3cc7b7
+https://iter.ca/post/png/ , decoding a PNG
+
+Portable Network Graphics, entirely lossless
+
+**Filtering (prediction)**
+Delta encoding, where each value is a difference from the previous value.
+[2,3,4,5,6,7,8] becomes [2,1,1,1,1,1,1]
+
+PNG does this relating to the pixel to the left above and above left
+
+![[Pasted image 20260422115129.png]]The filter takes ABC and predicts X. There are 5 PNG modes to be chosen.
+- No filtering
+- Difference between X and A
+- Difference between X and B
+- Difference between X and (A+B)/2
+- Paeth predictor (linear function of A,B,C) https://www.w3.org/TR/PNG-Filters.html
+![[Pasted image 20260422115659.png]]
+These filters are done per channel, such as all the red values of a pixel for a scanline. Every row will use the same filter though and this can change.
+
+To choose the best filter, brute force is too much, so some rules of thumb were established. For palette images and sub-8 bit grayscale images, None filters are best. For other images, choosing the filter that minimizes the sum of absolute differences. Choose the filter that gives the smallest sum.
+
+**Compression (DEFLATE)**
+The results of filtering then goes through an algorithm called DEFLATE combining LZ77 coding along side Huffman encoding.
+
+Deflate limits match lengths between 3 and 258 symbols putting the max conceivable compression ratio around 1032:1.
+If the match is less than 3 symbols, then you incur some overhead to represent the symbol.
+
+**PNG Format**
+Includes a PNG Header chunk containing width, height, bit depth & color-type. The Image data chunk contains the image information itself. Color palette chunk. End-of-file chunk, and many more.
+
+Pixel formats supported
+Indexed = 1 channel, can be 1,2,4,8 bpc
+
+Grayscale = 1 channel, can be 1,2,4,8,16 bpc
+
+Gray+Alpha = 2 channel, can be 8 or 16 bpc
+
+Truecolor(RGB) = 3 channel, can be 8 or 16 bpc
+
+RGBA = 4 channel, can be 8 or 16 bpc

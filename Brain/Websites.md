@@ -48,6 +48,7 @@ https://falstad.com/circuit/
 
 Obsidian
 https://github.com/Rainbell129/Obsidian-Homepage
+https://riddle.press/a-marriage-between-handwritten-notes-and-obsidian/
 
 Useful Software
 URL to MP3 Converter https://www.acethinker.ai/link-mp3
