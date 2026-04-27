@@ -8,6 +8,11 @@
 - multimedia systems
 
 PREP FOR UNI:
+- find apartment
+	- table
+- new backpack
+- clothing
+- pc
 - 
 
 
