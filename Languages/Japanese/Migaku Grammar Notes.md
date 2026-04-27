@@ -16,3 +16,6 @@ Uses of が
 	2. Used with questions words like 誰 or 何. が marks the subject unknown to the listener.
 		誰が先生だ？
 	3. If you respond to the above question using が, it is being used to specify who the teacher is and, at the same time, that the other people are not teachers and only this teacher is relevant to the conversation.
+
+Lesson 3.4
+で indicates a location where an action takes place
