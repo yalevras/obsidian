@@ -23,8 +23,19 @@ Activities:
 - biking
 - hiking
 - camping
+- roller blading
+- paintball
 
-Hobbies
+Hobbies:
+- book
+- piano
+- bass
+
+Projects:
+
+Other:
+- dates
+- clubbing
 
 Languages:
 - french
