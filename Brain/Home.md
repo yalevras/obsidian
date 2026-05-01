@@ -17,8 +17,8 @@ PREP FOR UNI:
 
 Releases
 
-Billlie
-NMIXX
+Billlie - May 6th
+NMIXX - May 11th
 aespa
 LESSERAFIM
 tripleS - June 1st
