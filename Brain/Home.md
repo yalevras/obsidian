@@ -5,7 +5,7 @@
 - controls
 **Through Code:**
 - compilers
-- multimedia systems
+- multimedia systems / cv
 
 
 Administrative Things
@@ -15,6 +15,23 @@ Administrative Things
 - vaccines
 - face
 - therapy
+
+Activities:
+- cottage
+- climbing
+- tennis
+- biking
+- hiking
+- camping
+
+Hobbies
+
+Languages:
+- french
+- japanese
+- chinese
+- greek
+- german
 
 
 PREP FOR UNI:
