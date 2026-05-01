@@ -7,6 +7,17 @@
 - compilers
 - multimedia systems
 
+
+Administrative Things
+- apartment
+- get credit card
+- invest
+- vaccines
+- face
+- therapy
+- 
+
+
 PREP FOR UNI:
 - find apartment
 	- table
