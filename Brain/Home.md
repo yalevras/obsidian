@@ -25,6 +25,7 @@ Activities:
 - camping
 - roller blading
 - paintball
+- gym
 
 Hobbies:
 - book
