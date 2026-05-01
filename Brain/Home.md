@@ -15,6 +15,14 @@ PREP FOR UNI:
 - pc
 - 
 
+Releases
+
+Billlie
+NMIXX
+aespa
+LESSERAFIM
+tripleS - June 1st
+ARTMS - ??
 
 
 Big Todo's:
