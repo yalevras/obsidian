@@ -15,7 +15,6 @@ Administrative Things
 - vaccines
 - face
 - therapy
-- 
 
 
 PREP FOR UNI:
