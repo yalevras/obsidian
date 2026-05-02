@@ -59,7 +59,7 @@ Week 18
 		- go to store in underground mall OR go to a & c games
 		- Minski is talked to
 	**Study:**
-	2	Block diagrams, the effect of feedback	
+	2	Block diagrams, the effect of feedback	DONE
 	3	Modeling principles	
 	4	Block diagram manipulations, Mason’ rule	
 	5	Dynamic response of closed-loop systems	
@@ -89,7 +89,7 @@ Week 17
 	18	Bode plots (cont.)	
 	19	Complex poles and zeros, unstable poles, and non-minimum phase zeros	
 	Language: Japanese
-	Monday May 11, 2026  
+	Monday May 11, 2026  - Lehn call
 	Tuesday May 12, 2026  
 	Wednesday May 13, 2026  
 	Thursday May 14, 2026  
