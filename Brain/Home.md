@@ -54,6 +54,9 @@ PREP FOR UNI:
 - pc
 
 Week 18
+	**DO:**
+	Plan Matthew's gift, pick out plushie
+	**Study:**
 	2	Block diagrams, the effect of feedback	
 	3	Modeling principles	
 	4	Block diagram manipulations, Mason’ rule	
@@ -63,14 +66,14 @@ Week 18
 	8	The Routh criterion	
 	9	Effect of noise, steady-state errors	
 	10	PID control	
-	Language: Japanese, listening, flashcards 
-	Saturday May 2, 2026  
-	Sunday May 3, 2026  
-	Monday May 4, 2026  
-	Tuesday May 5, 2026  
-	Wednesday May 6, 2026  
-	Thursday May 7, 2026  
-	Friday May 8, 2026
+	**Language:** Japanese, listening, flashcards 
+	Saturday May 2, 2026  - Devil Wears Prada
+	Sunday May 3, 2026  - Wonderland
+	Monday May 4, 2026  - Gym
+	Tuesday May 5, 2026  - Aunty Lori
+	Wednesday May 6, 2026  - Gym
+	Thursday May 7, 2026  - Hanging out with Robor
+	Friday May 8, 2026 - Gym
 	Saturday May 9, 2026
 	Sunday May 10, 2026
 Week 17
