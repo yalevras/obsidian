@@ -3,6 +3,41 @@
 - calculus
 - linear algebra
 - controls
+	- LEC #	TOPICS	LECTURE NOTES
+2	Block diagrams, the effect of feedback	
+3	Modeling principles	
+4	Block diagram manipulations, Mason’ rule	
+5	Dynamic response of closed-loop systems	
+6	Time-domain specifications	
+7	Effect of zeros	
+8	The Routh criterion	
+9	Effect of noise, steady-state errors	
+10	PID control	
+11	The root locus method	
+12	Root locus rules	
+13	Root locus rules, lead compensation	
+14	Lag compensation	
+15	Zero degree root locus	
+16	Frequency response design	
+17	Bode plot problems	
+18	Bode plots (cont.)	
+19	Complex poles and zeros, unstable poles, and non-minimum phase zeros	
+20	The Nyquist stability criterion	
+21	The Nyquist stability criterion (cont.)	
+22	Nyquist with poles on imaginary axis
+23	Stability margins, Bode gain-phase theorem	
+24	Bode compensation	
+25	Lead compensation	
+26	Lag compensation (cont.)	
+27	NMP systems	
+28	The Nichols chart
+29	Digital control, the z-transform	
+30	The z‐transform, design by emulation, the Tustin transform	
+31	Compensator design examples, time delay of ZOH	
+32	Discrete design	
+33	The w-transform	
+34	Design examples, pre‐warping, direct design	
+35	Higher harmonic control	
 **Through Code:**
 - compilers
 - multimedia systems / cv
