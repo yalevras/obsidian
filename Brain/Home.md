@@ -7,6 +7,51 @@
 - compilers
 - multimedia systems / cv
 
+Administrative Things
+- apartment
+- get credit card
+- invest
+- vaccines
+- face
+- therapy
+
+Activities:
+- cottage
+- climbing
+- tennis
+- biking
+- hiking
+- camping
+- roller blading
+- paintball
+- gym
+
+Hobbies:
+- book
+- piano
+- bass
+
+Projects:
+
+Other:
+- dates
+- clubbing
+
+Languages:
+- french
+- japanese
+- chinese
+- greek
+- german
+
+
+PREP FOR UNI:
+- find apartment
+	- table
+- new backpack
+- clothing
+- pc
+
 Week 18
 	Saturday May 2, 2026  
 	Sunday May 3, 2026  
@@ -154,52 +199,6 @@ Week 1
 	Saturday September 5, 2026  
 	Sunday September 6, 2026  
 	Monday September 7, 2026
-
-Administrative Things
-- apartment
-- get credit card
-- invest
-- vaccines
-- face
-- therapy
-
-Activities:
-- cottage
-- climbing
-- tennis
-- biking
-- hiking
-- camping
-- roller blading
-- paintball
-- gym
-
-Hobbies:
-- book
-- piano
-- bass
-
-Projects:
-
-Other:
-- dates
-- clubbing
-
-Languages:
-- french
-- japanese
-- chinese
-- greek
-- german
-
-
-PREP FOR UNI:
-- find apartment
-	- table
-- new backpack
-- clothing
-- pc
-- 
 
 Releases
 
