@@ -56,6 +56,7 @@ PREP FOR UNI:
 Week 18
 	**DO:**
 	Plan Matthew's gift, pick out plushie
+		- go to store in underground mall OR go to a & c games
 	**Study:**
 	2	Block diagrams, the effect of feedback	
 	3	Modeling principles	
