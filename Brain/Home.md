@@ -14,6 +14,7 @@ Administrative Things
 	- vaccines
 	- face
 	- therapy
+	- student loan -> looked into
 Activities:
 	- cottage
 	- climbing
@@ -23,7 +24,6 @@ Activities:
 	- camping
 	- roller blading
 	- paintball
-	- gym
 Hobbies:
 	- book
 	- piano
