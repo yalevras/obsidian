@@ -48,8 +48,7 @@ PREP FOR UNI:
 - pc
 
 Week 18
-	Language: Japanese, listening, flashcards
-	
+	Language: Japanese, listening, flashcards 
 	Saturday May 2, 2026  
 	Sunday May 3, 2026  
 	Monday May 4, 2026  
