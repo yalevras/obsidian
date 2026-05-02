@@ -46,6 +46,9 @@ https://bukkbeek.itch.io/genesis
 https://javalab.org/en/
 https://falstad.com/circuit/
 
+Pokemon ROM Hacks
+https://eeveeexpo.com/threads/9048/
+
 Obsidian
 https://github.com/Rainbell129/Obsidian-Homepage
 https://riddle.press/a-marriage-between-handwritten-notes-and-obsidian/
