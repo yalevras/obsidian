@@ -8,41 +8,36 @@
 - multimedia systems / cv
 
 Administrative Things
-- apartment
-- get credit card
-- invest
-- vaccines
-- face
-- therapy
-
+	- apartment
+	- get credit card
+	- invest
+	- vaccines
+	- face
+	- therapy
 Activities:
-- cottage
-- climbing
-- tennis
-- biking
-- hiking
-- camping
-- roller blading
-- paintball
-- gym
-
+	- cottage
+	- climbing
+	- tennis
+	- biking
+	- hiking
+	- camping
+	- roller blading
+	- paintball
+	- gym
 Hobbies:
-- book
-- piano
-- bass
-
+	- book
+	- piano
+	- bass
 Projects:
-
 Other:
-- dates
-- clubbing
-
+	- dates
+	- clubbing
 Languages:
-- french
-- japanese
-- chinese
-- greek
-- german
+	- french 4 weeks
+	- japanese 6 weeks
+	- chinese 8 weeks
+	- greek
+	- german
 
 
 PREP FOR UNI:
@@ -53,6 +48,8 @@ PREP FOR UNI:
 - pc
 
 Week 18
+	Language: Japanese, listening, flashcards
+	
 	Saturday May 2, 2026  
 	Sunday May 3, 2026  
 	Monday May 4, 2026  
@@ -63,6 +60,7 @@ Week 18
 	Saturday May 9, 2026
 	Sunday May 10, 2026
 Week 17
+	Language: Japanese
 	Monday May 11, 2026  
 	Tuesday May 12, 2026  
 	Wednesday May 13, 2026  
@@ -71,6 +69,7 @@ Week 17
 	Saturday May 16, 2026  
 	Sunday May 17, 2026  
 Week 16
+	Language: Chinese
 	Monday May 18, 2026  
 	Tuesday May 19, 2026  
 	Wednesday May 20, 2026  
@@ -79,6 +78,7 @@ Week 16
 	Saturday May 23, 2026  
 	Sunday May 24, 2026  
 Week 15
+	Language: Chinese
 	Monday May 25, 2026  
 	Tuesday May 26, 2026  
 	Wednesday May 27, 2026  
@@ -87,6 +87,7 @@ Week 15
 	Saturday May 30, 2026  
 	Sunday May 31, 2026  
 Week 14
+	Language: French
 	Monday June 1, 2026  
 	Tuesday June 2, 2026  
 	Wednesday June 3, 2026  
@@ -95,6 +96,7 @@ Week 14
 	Saturday June 6, 2026  
 	Sunday June 7, 2026  
 Week 13
+	Language: French
 	Monday June 8, 2026  
 	Tuesday June 9, 2026  
 	Wednesday June 10, 2026  
@@ -103,6 +105,7 @@ Week 13
 	Saturday June 13, 2026  
 	Sunday June 14, 2026  
 Week 12
+	Language: Japanese
 	Monday June 15, 2026  
 	Tuesday June 16, 2026  
 	Wednesday June 17, 2026  
@@ -111,6 +114,7 @@ Week 12
 	Saturday June 20, 2026  
 	Sunday June 21, 2026  
 Week 11
+	Language: Japanese
 	Monday June 22, 2026  
 	Tuesday June 23, 2026  
 	Wednesday June 24, 2026  
@@ -119,6 +123,7 @@ Week 11
 	Saturday June 27, 2026  
 	Sunday June 28, 2026  
 Week 10
+	Language: Chinese
 	Monday June 29, 2026  
 	Tuesday June 30, 2026  
 	Wednesday July 1, 2026  
@@ -127,6 +132,7 @@ Week 10
 	Saturday July 4, 2026  
 	Sunday July 5, 2026  
 Week 9
+	Language: Chinese
 	Monday July 6, 2026  
 	Tuesday July 7, 2026  
 	Wednesday July 8, 2026  
@@ -135,6 +141,7 @@ Week 9
 	Saturday July 11, 2026  
 	Sunday July 12, 2026  
 Week 8
+	Language: French
 	Monday July 13, 2026  
 	Tuesday July 14, 2026  
 	Wednesday July 15, 2026  
@@ -143,6 +150,7 @@ Week 8
 	Saturday July 18, 2026  
 	Sunday July 19, 2026  
 Week 7
+	Language: French
 	Monday July 20, 2026  
 	Tuesday July 21, 2026  
 	Wednesday July 22, 2026  
@@ -151,6 +159,7 @@ Week 7
 	Saturday July 25, 2026  
 	Sunday July 26, 2026  
 Week 6
+	Language: Japanese
 	Monday July 27, 2026  
 	Tuesday July 28, 2026  
 	Wednesday July 29, 2026  
@@ -159,6 +168,7 @@ Week 6
 	Saturday August 1, 2026  
 	Sunday August 2, 2026  
 Week 5
+	Language: Japanese
 	Monday August 3, 2026  
 	Tuesday August 4, 2026  
 	Wednesday August 5, 2026  
@@ -167,6 +177,7 @@ Week 5
 	Saturday August 8, 2026  
 	Sunday August 9, 2026  
 Week 4
+	Language: Chinese
 	Monday August 10, 2026  
 	Tuesday August 11, 2026  
 	Wednesday August 12, 2026  
@@ -175,6 +186,7 @@ Week 4
 	Saturday August 15, 2026  
 	Sunday August 16, 2026  
 Week 3
+	Language: Chinese
 	Monday August 17, 2026  
 	Tuesday August 18, 2026  
 	Wednesday August 19, 2026  
@@ -183,6 +195,7 @@ Week 3
 	Saturday August 22, 2026  
 	Sunday August 23, 2026  
 Week 2
+	Language: Chinese
 	Monday August 24, 2026  
 	Tuesday August 25, 2026  
 	Wednesday August 26, 2026  
@@ -191,6 +204,7 @@ Week 2
 	Saturday August 29, 2026  
 	Sunday August 30, 2026  
 Week 1
+	Language: Chinese
 	Monday August 31, 2026  
 	Tuesday September 1, 2026  
 	Wednesday September 2, 2026  
@@ -212,7 +226,6 @@ ARTMS - ??
 
 Big Todo's:
 1. get into toggl track
-2. swiss chalet money and security clearance money
 GCKEY
 
 Side Todo's:
