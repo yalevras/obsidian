@@ -8,6 +8,7 @@
 - multimedia systems / cv
 
 
+
 Administrative Things
 - apartment
 - get credit card
