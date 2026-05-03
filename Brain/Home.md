@@ -62,7 +62,7 @@ Week 18
 	**Study:**
 	2	Block diagrams, the effect of feedback	DONE
 	3	Modeling principles	DONE
-	4	Block diagram manipulations, Mason’ rule	
+	4	Block diagram manipulations, Mason’ rule	 DONE
 	5	Dynamic response of closed-loop systems	
 	6	Time-domain specifications	
 	7	Effect of zeros	
