@@ -30,6 +30,7 @@ Activities:
 	- camping
 	- roller blading
 	- paintball
+	- tree top trekking
 Hobbies:
 	- book
 	- piano
