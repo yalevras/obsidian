@@ -1,9 +1,5 @@
 D:\Textbook
 
-Controls and Electronics and lots of stuff
-	- tree top trekking
-
-
 **Controls:**
 	**MIT OpenCourseWare**
 		Systems and Controls 2.04 Undergraduate https://ocw.mit.edu/courses/2-04a-systems-and-controls-spring-2013/
@@ -83,6 +79,7 @@ Controls and Electronics and lots of stuff
 	Optocoupler, an LED and a phototransistor, light based signal gets transferred over
 	https://em8e.eecs.umich.edu/jsmodules/ulaby_modules.html
 	https://withdiode.com/
+	https://www.circuitbread.com/tutorials/series/control-systems
 **Hackathons:**
 	Ludum Dare
 **Multimedia Systems**:**
