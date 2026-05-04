@@ -70,9 +70,9 @@ Week 18
 	9	Effect of noise, steady-state errors	
 	10	PID control	
 	**Language:** Japanese, listening, flashcards 
-	Saturday May 2, 2026  - Devil Wears Prada
-	Sunday May 3, 2026  - Wonderland
-	Monday May 4, 2026  - Downtown with friends
+	Saturday May 2, 2026  - Devil Wears Prada, 3 lectures
+	Sunday May 3, 2026  - Wonderland, 100 flashcards
+	Monday May 4, 2026  - Downtown with friends, goal 1 lecture, 100 review
 	Tuesday May 5, 2026  - Aunty Lori
 	Wednesday May 6, 2026  - Gym
 	Thursday May 7, 2026  - Hanging out with Robor
