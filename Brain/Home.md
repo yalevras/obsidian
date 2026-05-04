@@ -9,38 +9,40 @@
 - python in general
 - c++ in general
 
-Administrative Things
-	- apartment
-	- get credit card
-	- invest
-	- vaccines
-	- face
-	- therapy
-	- student loan -> looked into
-Activities:
-	- cottage
-	- climbing
-	- tennis
-	- biking
-	- hiking
-	- camping
-	- roller blading
-	- paintball
-	- tree top trekking
-Hobbies:
-	- book
-	- piano
-	- bass
-Projects:
-Other:
-	- dates
-	- clubbing
-Languages:
-	- french 4 weeks
-	- japanese 6 weeks
-	- chinese 8 weeks
-	- greek
-	- german
+THINGS TO DO:
+	Administrative Things
+		- apartment
+		- get credit card
+		- invest
+		- vaccines
+		- face
+		- therapy
+		- student loan -> looked into
+	Activities:
+		- cottage
+		- climbing
+		- tennis
+		- biking
+		- hiking
+		- camping
+		- roller blading
+		- paintball
+		- tree top trekking
+	Hobbies:
+		- book
+		- piano
+		- bass
+	Projects:
+	Other:
+		- dates
+		- clubbing
+	Languages:
+		- french 4 weeks
+		- japanese 6 weeks
+		- chinese 8 weeks
+		- greek
+		- german
+		- korean
 
 
 PREP FOR UNI:
