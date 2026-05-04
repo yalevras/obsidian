@@ -72,7 +72,7 @@ Week 18
 	**Language:** Japanese, listening, flashcards 
 	Saturday May 2, 2026  - Devil Wears Prada, 3 lectures
 	Sunday May 3, 2026  - Wonderland, 100 flashcards
-	Monday May 4, 2026  - Downtown with friends, goal 1 lecture, 100 review
+	Monday May 4, 2026  - Downtown with friends, goal 1 lecture, 50/100 reviews
 	Tuesday May 5, 2026  - Aunty Lori
 	Wednesday May 6, 2026  - Gym
 	Thursday May 7, 2026  - Hanging out with Robor
