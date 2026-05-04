@@ -3,15 +3,11 @@
 - calculus
 - linear algebra
 - controls
-	- LEC #	TOPICS	LECTURE NOTES
-
-
-
-
-
 **Through Code:**
 - compilers
 - multimedia systems / cv
+- python in general
+- c++ in general
 
 Administrative Things
 	- apartment
