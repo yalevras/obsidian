@@ -8,7 +8,7 @@ D:\Textbook
 		Robotic Manipulation 6.4210 Undergraduate, Graduate https://ocw.mit.edu/courses/6-4210-robotic-manipulation-fall-2022/
 		Stochastic Processes, Detection, and Estimation 6.432 Graduate https://ocw.mit.edu/courses/6-432-stochastic-processes-detection-and-estimation-spring-2004/
 		Underactuated Robotics 6.832 Graduate https://ocw.mit.edu/courses/6-832-underactuated-robotics-spring-2009/pages/readings/ https://underactuated.mit.edu/Spring2022/resources.html
-		Principles of Automatic Control 16.06 Undergraduate https://ocw.mit.edu/courses/16-06-principles-of-automatic-control-fall-2012/
+		**Principles of Automatic Control 16.06 Undergraduate https://ocw.mit.edu/courses/16-06-principles-of-automatic-control-fall-2012/**
 		Stochastic Estimation and Control 16.322 Graduate https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/
 		Cognitive Robotics 16.412J Graduate https://ocw.mit.edu/courses/16-412j-cognitive-robotics-spring-2016/
 	**Filtering:**
@@ -36,7 +36,7 @@ D:\Textbook
 	Rust - [The Rust Programming Language](https://rust-book.cs.brown.edu/ch00-00-introduction.html)
 	Rust - [Rust for C-Programmers](https://rust-for-c-programmers.com/ch2/chapter_2_basic_structure_of_a_rust_program.html)
 	Java for C++ - https://horstmann.com/ccc/c_to_java.pdf
-	Regex - https://regexone.com/  ✅
+	*Regex - https://regexone.com/  ✅*
 	ROS 2 - https://docs.ros.org/en/foxy/Tutorials.html
 	C++ Reference - https://en.cppreference.com/w/
 	CMake - https://cmake.org/cmake/help/latest/guide/tutorial/index.html
