@@ -40,11 +40,11 @@ D:\Textbook
 		Rust - [Rust for C-Programmers](https://rust-for-c-programmers.com/ch2/chapter_2_basic_structure_of_a_rust_program.html)
 	**Java:**
 		Java for C++ - https://horstmann.com/ccc/c_to_java.pdf
-	**C++:**
+	**C/C++:**
+		C++ Reference - https://en.cppreference.com/w/
+		CMake - https://cmake.org/cmake/help/latest/guide/tutorial/index.html
 	*Regex - https://regexone.com/  ✅*
 	ROS 2 - https://docs.ros.org/en/foxy/Tutorials.html
-	C++ Reference - https://en.cppreference.com/w/
-	CMake - https://cmake.org/cmake/help/latest/guide/tutorial/index.html
 **Front End:**
 	https://www.frontendmentor.io/
 **Computer Graphics:**
