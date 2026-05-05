@@ -51,6 +51,7 @@ PREP FOR UNI:
 - new backpack
 - clothing
 - pc
+- water bottle
 
 Week 18
 	**DO:**
