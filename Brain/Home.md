@@ -68,6 +68,7 @@ ECE334 - Digital Electronics
 - stupid electronics
 ECE419 - Distributed Systems
 ECE462 - Multimedia Systems
+- some linalg stuff it seems
 CSC420 - Introduction to Image Understanding
 
 
