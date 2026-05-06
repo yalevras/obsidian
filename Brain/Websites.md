@@ -15,6 +15,7 @@ https://krok.miok.lviv.ua/wp-content/uploads/2015/07/LetslearnUkrainian1.pdf
 
 Tech Events
 https://www.techto.org/
+https://www.torontotechweek.com/
 https://www.techto.org/event/beyond-the-bubble-an-intimate-chat-with-will-hsu-and-alex-norman
 
 Cool Stuff
