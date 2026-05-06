@@ -63,7 +63,7 @@ ECE470 - Robot Modeling and Control
 ECE421 - Introduction to Machine Learning
 - seems like a lot of calculus type stuff
 ECE431 - Digital Signal Processing
-
+- lots of signals, zeroes and poles, ffts
 ECE334 - Digital Electronics
 ECE419 - Distributed Systems
 ECE462 - Multimedia Systems
