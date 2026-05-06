@@ -65,6 +65,7 @@ ECE421 - Introduction to Machine Learning
 ECE431 - Digital Signal Processing
 - lots of signals, zeroes and poles, ffts
 ECE334 - Digital Electronics
+- stupid electronics
 ECE419 - Distributed Systems
 ECE462 - Multimedia Systems
 CSC420 - Introduction to Image Understanding
