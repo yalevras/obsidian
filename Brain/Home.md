@@ -132,7 +132,7 @@ Week 15
 	Sunday May 31, 2026  
 Week 14
 	Language: French
-	Monday June 1, 2026  
+	Monday June 1, 2026 - finish trivia by, decide capstone prof by
 	Tuesday June 2, 2026  
 	Wednesday June 3, 2026  
 	Thursday June 4, 2026  
