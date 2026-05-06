@@ -1,8 +1,9 @@
 **TO STUDY**
-**On Paper:** (DO THESE BETWEEN SIEGE AND VALORANT ROUNDS, YOU'LL BE DONE IN NO TIME)
+**On Paper/MATHY:** (DO THESE BETWEEN SIEGE AND VALORANT ROUNDS, YOU'LL BE DONE IN NO TIME)
 - calculus
 - linear algebra
 - controls
+- dynamics
 **Through Code:**
 - compilers
 - multimedia systems / cv
