@@ -55,6 +55,19 @@ PREP FOR UNI:
 - pc
 - water bottle
 
+|                                           |                                              |
+| ----------------------------------------- | -------------------------------------------- |
+| First Sem                                 | Second Sem                                   |
+| ECE496 - Capstone                         | ECE496 - Capstone                            |
+| ECE467 - Compilers and Interpreters       | ECE334 - Digital Electronics                 |
+| ECE470 - Robot Modeling and Control       | ECE419 - Distributed Systems                 |
+| ECE421 - Introduction to Machine Learning | ECE462 - Multimedia Systems                  |
+|                                           | CSC420 - Introduction to Image Understanding |
+|                                           |                                              |
+| ECE431 - Digital Signal Processing        |                                              |
+
+ECE496 - Capstone
+
 Week 18
 	**DO:**
 	Plan Matthew's gift, pick out plushie
