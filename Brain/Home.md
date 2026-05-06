@@ -9,6 +9,7 @@
 - multimedia systems / cv
 - python in general
 - c++ in general
+- networks
 
 THINGS TO DO:
 	Administrative Things
