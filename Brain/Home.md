@@ -72,7 +72,7 @@ Week 18
 	Saturday May 2, 2026  - Devil Wears Prada, 3 lectures
 	Sunday May 3, 2026  - Wonderland, 100 flashcards
 	Monday May 4, 2026  - Downtown with friends, 100 reviews
-	Tuesday May 5, 2026  - Aunty Lori, done japanese reviews
+	Tuesday May 5, 2026  - Aunty Lori, done japanese reviews, read 3 N5 passages, 1 dune chapter
 	Wednesday May 6, 2026  - Gym
 	Thursday May 7, 2026  - Hanging out with Robor
 	Friday May 8, 2026 - Gym
