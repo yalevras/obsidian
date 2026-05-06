@@ -77,7 +77,7 @@ Week 18
 	Thursday May 7, 2026  - Hanging out with Robor
 	Friday May 8, 2026 - Gym
 	Saturday May 9, 2026
-	Sunday May 10, 2026
+	Sunday May 10, 2026 - Mother's Day
 Week 17
 	11	The root locus method	
 	12	Root locus rules	
@@ -160,7 +160,7 @@ Week 12
 Week 11
 	Language: Japanese
 	Monday June 22, 2026  
-	Tuesday June 23, 2026  
+	Tuesday June 23, 2026 - tentative Blue Jays hot dog with work  
 	Wednesday June 24, 2026  
 	Thursday June 25, 2026  
 	Friday June 26, 2026  
