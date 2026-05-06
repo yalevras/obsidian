@@ -58,7 +58,7 @@ PREP FOR UNI:
 ECE496 - Capstone
 ECE467 - Compilers and Interpreters
 ECE470 - Robot Modeling and Control
-- lagrangians, lots of dynamics
+- lagrangians, lots of dynamics, control systems
 ECE421 - Introduction to Machine Learning
 ECE431 - Digital Signal Processing
 ECE334 - Digital Electronics
