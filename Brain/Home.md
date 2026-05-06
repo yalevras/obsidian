@@ -57,9 +57,11 @@ PREP FOR UNI:
 
 ECE496 - Capstone
 ECE467 - Compilers and Interpreters
+- standard coding stuff
 ECE470 - Robot Modeling and Control
 - lagrangians, lots of dynamics, control systems
 ECE421 - Introduction to Machine Learning
+- seems like a lot of calculus type stuff
 ECE431 - Digital Signal Processing
 ECE334 - Digital Electronics
 ECE419 - Distributed Systems
