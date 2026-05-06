@@ -95,4 +95,7 @@ D:\Textbook
 	https://iter.ca/post/png/ 
 	Singular value decomposition https://en.wikipedia.org/wiki/Singular_value_decomposition
 	https://drive.uqu.edu.sa/_/mskhayat/files/MySubjects/20178FS%20Multimedia%20Systems/Fundamentals_of_multimedia_2e.pdf
+**Dynamics**
+https://edtech.engineering.utoronto.ca/project-catalog/overview-of-engineering-mechanics-dynamics/mie100-dynamics-youtube-video-playlist-complete/
+https://ocw.mit.edu/courses/16-07-dynamics-fall-2009/pages/lecture-notes/
 
