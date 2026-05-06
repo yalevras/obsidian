@@ -79,7 +79,6 @@ D:\Textbook
 	https://lisyarus.github.io/blog/ - articles about computer graphics, quaternions, physics simulations, etc
 	https://zhangtemplar.github.io/dimension/
 **Networks:**
-	https://highered.mheducation.com/sites/007246352x/
 **Electronics:**
 	Optocoupler, an LED and a phototransistor, light based signal gets transferred over
 	https://em8e.eecs.umich.edu/jsmodules/ulaby_modules.html
