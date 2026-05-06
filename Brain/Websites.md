@@ -13,6 +13,9 @@ https://www.reddit.com/r/GREEK/comments/10a9cys/anki_decks_with_sentences_to_pra
 https://dmklinger.github.io/ukrainian/#search?q=%D0%BF%D0%BE%D0%B4%D1%80%D1%83%D0%B3%D0%B0?s=freq
 https://krok.miok.lviv.ua/wp-content/uploads/2015/07/LetslearnUkrainian1.pdf
 
+Tech Events
+https://www.techto.org/
+https://www.techto.org/event/beyond-the-bubble-an-intimate-chat-with-will-hsu-and-alex-norman
 
 Cool Stuff
 [Drive and Listen - Walk and Listen, Fly and Listen, Drone and Listen, Float and Listen](https://drivenlisten.com/#)
