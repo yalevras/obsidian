@@ -112,7 +112,7 @@ Week 17
 	19	Complex poles and zeros, unstable poles, and non-minimum phase zeros	
 	Language: Japanese
 	Monday May 11, 2026  - Lehn call
-	Tuesday May 12, 2026  
+	Tuesday May 12, 2026  - unconfirmed date for climbing with Johnathan
 	Wednesday May 13, 2026  
 	Thursday May 14, 2026  
 	Friday May 15, 2026  
