@@ -96,7 +96,7 @@ Week 18
 	Monday May 4, 2026  - Downtown with friends, 100 reviews
 	Tuesday May 5, 2026  - Aunty Lori, done japanese reviews, read 3 N5 passages, 1 dune chapter
 	Wednesday May 6, 2026  - Gym, goal: reviews, piano, 2 lectures
-	Thursday May 7, 2026  - Hanging out with Robor
+	Thursday May 7, 2026  - Hanging out with Robor, 2 lectures of control, 2 lectures of dynamics, project something CODE AI?
 	Friday May 8, 2026 - Gym
 	Saturday May 9, 2026
 	Sunday May 10, 2026 - Mother's Day
