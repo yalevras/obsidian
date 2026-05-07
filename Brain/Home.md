@@ -1,4 +1,4 @@
-**TO STUDY**
+ **TO STUDY**
 **On Paper/MATHY:** (DO THESE BETWEEN SIEGE AND VALORANT ROUNDS, YOU'LL BE DONE IN NO TIME)
 - calculus
 - linear algebra
