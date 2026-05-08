@@ -1,6 +1,29 @@
  **TO STUDY**
 **On Paper/MATHY:** (DO THESE BETWEEN SIEGE AND VALORANT ROUNDS, YOU'LL BE DONE IN NO TIME)
 - calculus
+1 Review
+1.1 Functions
+1.2 Inverse Functions
+1.3 Trig Functions
+1.4 Solving Trig Equations
+1.5 Solving Trig Equations with Calculators, Part 1
+1.6 Solving Trig Equations with Calculators, Part 2
+1.7 Exponential Functions
+1.8 Logarithm Functions
+1.9 Exponential Functions
+1.10 Common Graphs
+2 Limits
+2.1 Tangent Lines and Rates of Change
+2.2 The Limit
+2.3 One-Sided Limits
+2.4 Limit Properties
+2.5 Computing Limits
+2.6 Infinite Limits
+2.7 Limits At Infinity, Part 1
+2.8 Limits At Infinity, Part 2
+2.9 Continuity
+2.10 The Definition of the Limit
+
 - linear algebra
 - controls
 - dynamics
