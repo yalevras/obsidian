@@ -90,12 +90,18 @@ Week 18
 	8	The Routh criterion	
 	9	Effect of noise, steady-state errors	
 	10	PID control	
+	1 Some Fundamental Definitions Units Particles Rigid Bodies, Vectors and Dimensional Consistency
+	2 Particle Position Velocity and Acceleration
+	3 Particle Velocity Acceleration
+	4 General Curvilinear Motion
+	5 Curvilinear motion Rectilinear Coordinates
+	6 Projectile Motion
 	**Language:** Japanese, listening, flashcards 
 	Saturday May 2, 2026  - Devil Wears Prada, 3 lectures
 	Sunday May 3, 2026  - Wonderland, 100 flashcards
 	Monday May 4, 2026  - Downtown with friends, 100 reviews
 	Tuesday May 5, 2026  - Aunty Lori, done japanese reviews, read 3 N5 passages, 1 dune chapter
-	Wednesday May 6, 2026  - Gym, goal: reviews, piano, 2 lectures
+	Wednesday May 6, 2026  - Gym, reviews, 1 lecture dynamics
 	Thursday May 7, 2026  - Hanging out with Robor, 2 lectures of control, 2 lectures of dynamics, project something CODE AI?
 	Friday May 8, 2026 - Gym
 	Saturday May 9, 2026
@@ -110,6 +116,12 @@ Week 17
 	17	Bode plot problems	
 	18	Bode plots (cont.)	
 	19	Complex poles and zeros, unstable poles, and non-minimum phase zeros	
+	7 Falling Projectile SMath and Mathcad
+	8 nt Coordinates
+	9 Curvilinear Motion - Cylindrical Coordinates
+	10 r-theta Example
+	11 Absolute Dependent Motion
+	12 Absolute Dependent Motion (Atwood Machine)
 	Language: Japanese
 	Monday May 11, 2026  - Lehn call
 	Tuesday May 12, 2026  - unconfirmed date for climbing with Johnathan
@@ -126,6 +138,12 @@ Week 16
 	24	Bode compensation	
 	25	Lead compensation	
 	26	Lag compensation (cont.)	
+	13 Relative Velocity of Particles
+	14 Relative Motion
+	15 Particle Kinematics Summary
+	16 Gravity Units Mass Weight
+	17 Particle Kinetics Introduction
+	18 Second Law and Units
 	Language: Chinese
 	Monday May 18, 2026  
 	Tuesday May 19, 2026  
@@ -144,6 +162,12 @@ Week 15
 	33	The w-transform	
 	34	Design examples, pre‐warping, direct design	
 	35	Higher harmonic control	
+	19 Friction Friction
+	20 Curvilinear Kinetics
+	21 n-t Coordinate Examples
+	22 Absolute Dependent Motion - Applied to Particle Kinetics
+	23 Central Force Motion
+	24 Overview of Particle Work-Energy
 	Language: Chinese
 	Monday May 25, 2026  
 	Tuesday May 26, 2026  
@@ -161,6 +185,12 @@ Week 14
 	Friday June 5, 2026  
 	Saturday June 6, 2026  
 	Sunday June 7, 2026  
+	25 Spring Gravity Work Energy Problems
+	26 Ski Jumper Problem
+	27 Spring Gravity Work Energy Problems (2)
+	28 Work-Energy Examples
+	29 Overview of Particle Momentum
+	30 Particle Angular Momentum
 Week 13
 	Language: French
 	Monday June 8, 2026  
@@ -170,6 +200,12 @@ Week 13
 	Friday June 12, 2026  
 	Saturday June 13, 2026  
 	Sunday June 14, 2026  
+	31 Particle Linear Momentum
+	32 Three Types of Motion You See in Rigid Bodies
+	33 Kinematics of Rigid Bodies
+	34 Instantaneous Centre of Zero Velocity
+	35 Velocity and Acceleration - Rigid Bodies
+	36 Graphical (Scalar) and Vector Velocity Analysis of Rigid Bodies
 Week 12
 	Language: Japanese
 	Monday June 15, 2026  
@@ -179,6 +215,9 @@ Week 12
 	Friday June 19, 2026  
 	Saturday June 20, 2026  
 	Sunday June 21, 2026  
+	37 Moment of Inertia
+	38 Overview of Rigid Body Kinetics
+	
 Week 11
 	Language: Japanese
 	Monday June 22, 2026  
