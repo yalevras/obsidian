@@ -357,7 +357,7 @@ Week 18
 	10	PID control	
 	1 Some Fundamental Definitions Units Particles Rigid Bodies, Vectors and Dimensional Consistency DONE
 	2 Particle Position Velocity and Acceleration DONE
-	4 General Curvilinear Motion
+	4 General Curvilinear Motion DONE
 	5 Curvilinear motion Rectilinear Coordinates
 	6 Projectile Motion
 	**Language:** Japanese, listening, flashcards 
