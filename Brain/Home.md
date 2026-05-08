@@ -90,7 +90,7 @@ Week 18
 	8	The Routh criterion	
 	9	Effect of noise, steady-state errors	
 	10	PID control	
-	1 Some Fundamental Definitions Units Particles Rigid Bodies, Vectors and Dimensional Consistency
+	1 Some Fundamental Definitions Units Particles Rigid Bodies, Vectors and Dimensional Consistency DONE
 	2 Particle Position Velocity and Acceleration
 	3 Particle Velocity Acceleration
 	4 General Curvilinear Motion
@@ -102,9 +102,9 @@ Week 18
 	Monday May 4, 2026  - Downtown with friends, 100 reviews
 	Tuesday May 5, 2026  - Aunty Lori, done japanese reviews, read 3 N5 passages, 1 dune chapter
 	Wednesday May 6, 2026  - Gym, reviews, 1 lecture dynamics
-	Thursday May 7, 2026  - Hanging out with Robor, 2 lectures of control, 2 lectures of dynamics, project something CODE AI?
-	Friday May 8, 2026 - Gym
-	Saturday May 9, 2026
+	Thursday May 7, 2026  - Piano, reviews, revived Arabesque, started reviving La Plus que Lente, 1.5 pages RH Passepied goal: 2 lectures of control, 2 lectures of dynamics, project something CODE AI?
+	Friday May 8, 2026 - Gym, board game night
+	Saturday May 9, 2026 - Yiayia, Piano
 	Sunday May 10, 2026 - Mother's Day
 Week 17
 	11	The root locus method	
@@ -217,7 +217,10 @@ Week 12
 	Sunday June 21, 2026  
 	37 Moment of Inertia
 	38 Overview of Rigid Body Kinetics
-	
+	39 Rolling With and Without Slip
+	40 Lawnmover Man and Computational Complexity
+	41 Threading the Spool
+	42 Rigid Body Kinematics and Kinetics
 Week 11
 	Language: Japanese
 	Monday June 22, 2026  
@@ -227,6 +230,12 @@ Week 11
 	Friday June 26, 2026  
 	Saturday June 27, 2026  
 	Sunday June 28, 2026  
+	43 Overview of Rigid Body Work - Energy
+	44 Kinetics - Rigid Bodies
+	45 Rigid Bodies Work Energy Examples 2
+	46 Rigid Bodies - Work Energy
+	47 Rigid Body Kinetics - Work and Energy
+	48 Rigid Body Momentum More Examples
 Week 10
 	Language: Chinese
 	Monday June 29, 2026  
@@ -236,6 +245,12 @@ Week 10
 	Friday July 3, 2026  
 	Saturday July 4, 2026  
 	Sunday July 5, 2026  
+	49 Rigid Body Momentum More Examples
+	50 Rigid Body Momentum Angular/Linear
+	51 Rolling Cylinder on Ramp Friction Direction and Calculation
+	52 Overview of Vibrations Chapter
+	53 Touched by an Angle
+	54 Springs - Parallel and Series
 Week 9
 	Language: Chinese
 	Monday July 6, 2026  
@@ -245,6 +260,10 @@ Week 9
 	Friday July 10, 2026  
 	Saturday July 11, 2026  
 	Sunday July 12, 2026  
+	55 Vibrations Introductory Problems
+	56 Absolute Dependent Motion - Vibration
+	57 Forced Vibration Problem (plus a damping problem)
+	58 Forced Damped Vibrations
 Week 8
 	Language: French
 	Monday July 13, 2026  
