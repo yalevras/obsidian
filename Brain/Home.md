@@ -91,8 +91,7 @@ Week 18
 	9	Effect of noise, steady-state errors	
 	10	PID control	
 	1 Some Fundamental Definitions Units Particles Rigid Bodies, Vectors and Dimensional Consistency DONE
-	2 Particle Position Velocity and Acceleration
-	3 Particle Velocity Acceleration
+	2 Particle Position Velocity and Acceleration DONE
 	4 General Curvilinear Motion
 	5 Curvilinear motion Rectilinear Coordinates
 	6 Projectile Motion
