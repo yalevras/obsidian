@@ -85,6 +85,79 @@ X.7 Types of Infinity
 X.8 Summation Notation  
 X.9 Constant of Integration
 
+7 Integration Techniques  
+7.1 Integration by Parts  
+7.2 Integrals Involving Trig Functions  
+7.3 Trig Substitutions  
+7.4 Partial Fractions  
+7.5 Integrals Involving Roots  
+7.6 Integrals Involving Quadratics  
+7.7 Integration Strategy  
+7.8 Improper Integrals  
+7.9 Comparison Test for Improper Integrals  
+7.10 Approximating Definite Integrals
+
+8 Applications of Integrals  
+8.1 Arc Length  
+8.2 Surface Area  
+8.3 Center of Mass  
+8.4 Hydrostatic Pressure and Force  
+8.5 Probability
+
+9 Parametric Equations and Polar Coordinates  
+9.1 Parametric Equations and Curves  
+9.2 Tangents with Parametric Equations  
+9.3 Area with Parametric Equations  
+9.4 Arc Length with Parametric Equations  
+9.5 Surface Area with Parametric Equations  
+9.6 Polar Coordinates  
+9.7 Tangents with Polar Coordinates  
+9.8 Area with Polar Coordinates  
+9.9 Arc Length with Polar Coordinates  
+9.10 Surface Area with Polar Coordinates  
+9.11 Arc Length and Surface Area Revisited
+
+10 Series and Sequences  
+10.1 Sequences  
+10.2 More on Sequences  
+10.3 Series – The Basics  
+10.4 Convergence/Divergence of Series  
+10.5 Special Series  
+10.6 Integral Test  
+10.7 Comparison Test/Limit Comparison Test  
+10.8 Alternating Series Test  
+10.9 Absolute Convergence  
+10.10 Ratio Test  
+10.11 Root Test  
+10.12 Strategy for Series  
+10.13 Estimating the Value of a Series  
+10.14 Power Series  
+10.15 Power Series and Functions  
+10.16 Taylor Series  
+10.17 Applications of Series  
+10.18 Binomial Series
+
+11 Vectors  
+11.1 Basic Concepts  
+11.2 Vector Arithmetic  
+11.3 Dot Product  
+11.4 Cross Product
+
+12 3-Dimensional Space  
+12.1 The 3-D Coordinate System  
+12.2 Equations of Lines  
+12.3 Equations of Planes  
+12.4 Quadric Surfaces  
+12.5 Functions of Several Variables  
+12.6 Vector Functions  
+12.7 Calculus with Vector Functions  
+12.8 Tangent, Normal and Binormal Vectors  
+12.9 Arc Length with Vector Functions  
+12.10 Curvature  
+12.11 Velocity and Acceleration  
+12.12 Cylindrical Coordinates  
+12.13 Spherical Coordinates
+
 - linear algebra
 - controls
 - dynamics
