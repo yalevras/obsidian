@@ -1,163 +1,209 @@
  **TO STUDY**
 **On Paper/MATHY:** (DO THESE BETWEEN SIEGE AND VALORANT ROUNDS, YOU'LL BE DONE IN NO TIME)
 - calculus
-1 Review  
-1.1 Functions  
-1.2 Inverse Functions  
-1.3 Trig Functions  
-1.4 Solving Trig Equations  
-1.5 Solving Trig Equations with Calculators, Part I  
-1.6 Solving Trig Equations with Calculators, Part II  
-1.7 Exponential Functions  
-1.8 Logarithm Functions  
-1.9 Exponential and Logarithm Equations  
-1.10 Common Graphs
+Calculus
+	1 Review  
+		1.1 Functions  
+		1.2 Inverse Functions  
+		1.3 Trig Functions  
+		1.4 Solving Trig Equations  
+		1.5 Solving Trig Equations with Calculators, Part I  
+		1.6 Solving Trig Equations with Calculators, Part II  
+		1.7 Exponential Functions  
+		1.8 Logarithm Functions  
+		1.9 Exponential and Logarithm Equations  
+		1.10 Common Graphs
+	2 Limits  
+		2.1 Tangent Lines and Rates of Change  
+		2.2 The Limit  
+		2.3 One-Sided Limits  
+		2.4 Limit Properties  
+		2.5 Computing Limits  
+		2.6 Infinite Limits  
+		2.7 Limits At Infinity, Part I  
+		2.8 Limits At Infinity, Part II  
+		2.9 Continuity  
+		2.10 The Definition of the Limit
+	3 Derivatives  
+		3.1 The Definition of the Derivative  
+		3.2 Interpretation of the Derivative  
+		3.3 Differentiation Formulas  
+		3.4 Product and Quotient Rule  
+		3.5 Derivatives of Trig Functions  
+		3.6 Derivatives of Exponential and Logarithm Functions  
+		3.7 Derivatives of Inverse Trig Functions  
+		3.8 Derivatives of Hyperbolic Functions  
+		3.9 Chain Rule  
+		3.10 Implicit Differentiation  
+		3.11 Related Rates  
+		3.12 Higher Order Derivatives  
+		3.13 Logarithmic Differentiation
+	4 Applications of Derivatives  
+		4.1 Rates of Change  
+		4.2 Critical Points  
+		4.3 Minimum and Maximum Values  
+		4.4 Finding Absolute Extrema  
+		4.5 The Shape of a Graph, Part I  
+		4.6 The Shape of a Graph, Part II  
+		4.7 The Mean Value Theorem  
+		4.8 Optimization Problems  
+		4.9 More Optimization Problems  
+		4.10 L’Hospital’s Rule and Indeterminate Forms  
+		4.11 Linear Approximations  
+		4.12 Differentials  
+		4.13 Newton’s Method  
+		4.14 Business Applications
+	5 Integrals  
+		5.1 Indefinite Integrals  
+		5.2 Computing Indefinite Integrals  
+		5.3 Substitution Rule for Indefinite Integrals  
+		5.4 More Substitution Rule  
+		5.5 Area Problem  
+		5.6 Definition of the Definite Integral  
+		5.7 Computing Definite Integrals  
+		5.8 Substitution Rule for Definite Integrals
+	6 Applications of Integrals  
+		6.1 Average Function Value  
+		6.2 Area Between Curves  
+		6.3 Volumes of Solids of Revolution / Method of Rings  
+		6.4 Volumes of Solids of Revolution / Method of Cylinders  
+		6.5 More Volume Problems  
+		6.6 Work
+	X Extras  
+		X.1 Proof of Various Limit Properties  
+		X.2 Proof of Various Derivative Facts/Formulas/Properties  
+		X.3 Proof of Trig Limits  
+		X.4 Proofs of Derivative Applications Facts/Formulas  
+		X.5 Proof of Various Integral Facts/Formulas/Properties  
+		X.6 Area and Volume Formulas  
+		X.7 Types of Infinity  
+		X.8 Summation Notation  
+		X.9 Constant of Integration
+	7 Integration Techniques  
+		7.1 Integration by Parts  
+		7.2 Integrals Involving Trig Functions  
+		7.3 Trig Substitutions  
+		7.4 Partial Fractions  
+		7.5 Integrals Involving Roots  
+		7.6 Integrals Involving Quadratics  
+		7.7 Integration Strategy  
+		7.8 Improper Integrals  
+		7.9 Comparison Test for Improper Integrals  
+		7.10 Approximating Definite Integrals
+	8 Applications of Integrals  
+		8.1 Arc Length  
+		8.2 Surface Area  
+		8.3 Center of Mass  
+		8.4 Hydrostatic Pressure and Force  
+		8.5 Probability
+	9 Parametric Equations and Polar Coordinates  
+		9.1 Parametric Equations and Curves  
+		9.2 Tangents with Parametric Equations  
+		9.3 Area with Parametric Equations  
+		9.4 Arc Length with Parametric Equations  
+		9.5 Surface Area with Parametric Equations  
+		9.6 Polar Coordinates  
+		9.7 Tangents with Polar Coordinates  
+		9.8 Area with Polar Coordinates  
+		9.9 Arc Length with Polar Coordinates  
+		9.10 Surface Area with Polar Coordinates  
+		9.11 Arc Length and Surface Area Revisited
+	10 Series and Sequences  
+		10.1 Sequences  
+		10.2 More on Sequences  
+		10.3 Series – The Basics  
+		10.4 Convergence/Divergence of Series  
+		10.5 Special Series  
+		10.6 Integral Test  
+		10.7 Comparison Test/Limit Comparison Test  
+		10.8 Alternating Series Test  
+		10.9 Absolute Convergence  
+		10.10 Ratio Test  
+		10.11 Root Test  
+		10.12 Strategy for Series  
+		10.13 Estimating the Value of a Series  
+		10.14 Power Series  
+		10.15 Power Series and Functions  
+		10.16 Taylor Series  
+		10.17 Applications of Series  
+		10.18 Binomial Series
+	11 Vectors  
+		11.1 Basic Concepts  
+		11.2 Vector Arithmetic  
+		11.3 Dot Product  
+		11.4 Cross Product
+	12 3-Dimensional Space  
+		12.1 The 3-D Coordinate System  
+		12.2 Equations of Lines  
+		12.3 Equations of Planes  
+		12.4 Quadric Surfaces  
+		12.5 Functions of Several Variables  
+		12.6 Vector Functions  
+		12.7 Calculus with Vector Functions  
+		12.8 Tangent, Normal and Binormal Vectors  
+		12.9 Arc Length with Vector Functions  
+		12.10 Curvature  
+		12.11 Velocity and Acceleration  
+		12.12 Cylindrical Coordinates  
+		12.13 Spherical Coordinates
+	13 Partial Derivatives  
+		13.1 Limits  
+		13.2 Partial Derivatives  
+		13.3 Interpretations of Partial Derivatives  
+		13.4 Higher Order Partial Derivatives  
+		13.5 Differentials  
+		13.6 Chain Rule  
+		13.7 Directional Derivatives
+	14 Applications of Partial Derivatives  
+		14.1 Tangent Planes and Linear Approximations  
+		14.2 Gradient Vector, Tangent Planes and Normal Lines  
+		14.3 Relative Minimums and Maximums  
+		14.4 Absolute Minimums and Maximums  
+		14.5 Lagrange Multipliers
+	15 Multiple Integrals  
+		15.1 Double Integrals  
+		15.2 Iterated Integrals  
+		15.3 Double Integrals over General Regions  
+		15.4 Double Integrals in Polar Coordinates  
+		15.5 Triple Integrals  
+		15.6 Triple Integrals in Cylindrical Coordinates  
+		15.7 Triple Integrals in Spherical Coordinates  
+		15.8 Change of Variables  
+		15.9 Surface Area  
+		15.10 Area and Volume Revisited
+	16 Line Integrals  
+		16.1 Vector Fields  
+		16.2 Line Integrals – Part I  
+		16.3 Line Integrals – Part II  
+		16.4 Line Integrals of Vector Fields  
+		16.5 Fundamental Theorem for Line Integrals  
+		16.6 Conservative Vector Fields  
+		16.7 Green’s Theorem
+	17 Surface Integrals  
+		17.1 Curl and Divergence  
+		17.2 Parametric Surfaces  
+		17.3 Surface Integrals  
+		17.4 Surface Integrals of Vector Fields  
+		17.5 Stokes’ Theorem  
+		17.6 Divergence Theorem
+ODEs
+1 Basic Concepts  
+1.1 Definitions  
+1.2 Direction Fields  
+1.3 Final Thoughts
 
-2 Limits  
-2.1 Tangent Lines and Rates of Change  
-2.2 The Limit  
-2.3 One-Sided Limits  
-2.4 Limit Properties  
-2.5 Computing Limits  
-2.6 Infinite Limits  
-2.7 Limits At Infinity, Part I  
-2.8 Limits At Infinity, Part II  
-2.9 Continuity  
-2.10 The Definition of the Limit
+2 First Order Differential Equations  
+2.1 Linear Equations  
+2.2 Separable Equations  
+2.3 Exact Equations  
+2.4 Bernoulli Differential Equations  
+2.5 Substitutions  
+2.6 Intervals of Validity  
+2.7 Modeling with First Order Differential Equations  
+2.8 Equilibrium Solutions  
+2.9 Euler’s Method
 
-3 Derivatives  
-3.1 The Definition of the Derivative  
-3.2 Interpretation of the Derivative  
-3.3 Differentiation Formulas  
-3.4 Product and Quotient Rule  
-3.5 Derivatives of Trig Functions  
-3.6 Derivatives of Exponential and Logarithm Functions  
-3.7 Derivatives of Inverse Trig Functions  
-3.8 Derivatives of Hyperbolic Functions  
-3.9 Chain Rule  
-3.10 Implicit Differentiation  
-3.11 Related Rates  
-3.12 Higher Order Derivatives  
-3.13 Logarithmic Differentiation
-
-4 Applications of Derivatives  
-4.1 Rates of Change  
-4.2 Critical Points  
-4.3 Minimum and Maximum Values  
-4.4 Finding Absolute Extrema  
-4.5 The Shape of a Graph, Part I  
-4.6 The Shape of a Graph, Part II  
-4.7 The Mean Value Theorem  
-4.8 Optimization Problems  
-4.9 More Optimization Problems  
-4.10 L’Hospital’s Rule and Indeterminate Forms  
-4.11 Linear Approximations  
-4.12 Differentials  
-4.13 Newton’s Method  
-4.14 Business Applications
-
-5 Integrals  
-5.1 Indefinite Integrals  
-5.2 Computing Indefinite Integrals  
-5.3 Substitution Rule for Indefinite Integrals  
-5.4 More Substitution Rule  
-5.5 Area Problem  
-5.6 Definition of the Definite Integral  
-5.7 Computing Definite Integrals  
-5.8 Substitution Rule for Definite Integrals
-
-6 Applications of Integrals  
-6.1 Average Function Value  
-6.2 Area Between Curves  
-6.3 Volumes of Solids of Revolution / Method of Rings  
-6.4 Volumes of Solids of Revolution / Method of Cylinders  
-6.5 More Volume Problems  
-6.6 Work
-
-X Extras  
-X.1 Proof of Various Limit Properties  
-X.2 Proof of Various Derivative Facts/Formulas/Properties  
-X.3 Proof of Trig Limits  
-X.4 Proofs of Derivative Applications Facts/Formulas  
-X.5 Proof of Various Integral Facts/Formulas/Properties  
-X.6 Area and Volume Formulas  
-X.7 Types of Infinity  
-X.8 Summation Notation  
-X.9 Constant of Integration
-
-7 Integration Techniques  
-7.1 Integration by Parts  
-7.2 Integrals Involving Trig Functions  
-7.3 Trig Substitutions  
-7.4 Partial Fractions  
-7.5 Integrals Involving Roots  
-7.6 Integrals Involving Quadratics  
-7.7 Integration Strategy  
-7.8 Improper Integrals  
-7.9 Comparison Test for Improper Integrals  
-7.10 Approximating Definite Integrals
-
-8 Applications of Integrals  
-8.1 Arc Length  
-8.2 Surface Area  
-8.3 Center of Mass  
-8.4 Hydrostatic Pressure and Force  
-8.5 Probability
-
-9 Parametric Equations and Polar Coordinates  
-9.1 Parametric Equations and Curves  
-9.2 Tangents with Parametric Equations  
-9.3 Area with Parametric Equations  
-9.4 Arc Length with Parametric Equations  
-9.5 Surface Area with Parametric Equations  
-9.6 Polar Coordinates  
-9.7 Tangents with Polar Coordinates  
-9.8 Area with Polar Coordinates  
-9.9 Arc Length with Polar Coordinates  
-9.10 Surface Area with Polar Coordinates  
-9.11 Arc Length and Surface Area Revisited
-
-10 Series and Sequences  
-10.1 Sequences  
-10.2 More on Sequences  
-10.3 Series – The Basics  
-10.4 Convergence/Divergence of Series  
-10.5 Special Series  
-10.6 Integral Test  
-10.7 Comparison Test/Limit Comparison Test  
-10.8 Alternating Series Test  
-10.9 Absolute Convergence  
-10.10 Ratio Test  
-10.11 Root Test  
-10.12 Strategy for Series  
-10.13 Estimating the Value of a Series  
-10.14 Power Series  
-10.15 Power Series and Functions  
-10.16 Taylor Series  
-10.17 Applications of Series  
-10.18 Binomial Series
-
-11 Vectors  
-11.1 Basic Concepts  
-11.2 Vector Arithmetic  
-11.3 Dot Product  
-11.4 Cross Product
-
-12 3-Dimensional Space  
-12.1 The 3-D Coordinate System  
-12.2 Equations of Lines  
-12.3 Equations of Planes  
-12.4 Quadric Surfaces  
-12.5 Functions of Several Variables  
-12.6 Vector Functions  
-12.7 Calculus with Vector Functions  
-12.8 Tangent, Normal and Binormal Vectors  
-12.9 Arc Length with Vector Functions  
-12.10 Curvature  
-12.11 Velocity and Acceleration  
-12.12 Cylindrical Coordinates  
-12.13 Spherical Coordinates
-
+3 Second
 - linear algebra
 - controls
 - dynamics
