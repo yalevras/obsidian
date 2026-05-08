@@ -366,7 +366,7 @@ Week 18
 	Monday May 4, 2026  - Downtown with friends, 100 reviews
 	Tuesday May 5, 2026  - Aunty Lori, done japanese reviews, read 3 N5 passages, 1 dune chapter
 	Wednesday May 6, 2026  - Gym, reviews, 1 lecture dynamics
-	Thursday May 7, 2026  - Piano, reviews, revived Arabesque, started reviving La Plus que Lente, 1.5 pages RH Passepied goal: 2 lectures of control, 2 lectures of dynamics, project something CODE AI?
+	Thursday May 7, 2026  - Piano, reviews, revived Arabesque, started reviving La Plus que Lente, 1.5 pages RH Passepied goal: 2 lectures of control, 2 lectures of dynamics,
 	Friday May 8, 2026 - Gym, board game night
 	Saturday May 9, 2026 - Yiayia, Piano
 	Sunday May 10, 2026 - Mother's Day
