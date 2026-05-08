@@ -580,7 +580,7 @@ Week 3
 	Wednesday August 19, 2026  
 	Thursday August 20, 2026  
 	Friday August 21, 2026  
-	Saturday August 22, 2026  
+	Saturday August 22, 2026 - HLT4 Bootcamp 10-3
 	Sunday August 23, 2026  
 Week 2
 	Language: Chinese
