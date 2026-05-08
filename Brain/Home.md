@@ -3,8 +3,8 @@
 - calculus
 Calculus
 	1 Review  
-		1.1 Functions  
-		1.2 Inverse Functions  
+		1.1 Functions   ✅
+		1.2 Inverse Functions  ✅
 		1.3 Trig Functions  
 		1.4 Solving Trig Equations  
 		1.5 Solving Trig Equations with Calculators, Part I  
@@ -187,26 +187,88 @@ Calculus
 		17.5 Stokes’ Theorem  
 		17.6 Divergence Theorem
 ODEs
-1 Basic Concepts  
-1.1 Definitions  
-1.2 Direction Fields  
-1.3 Final Thoughts
+	1 Basic Concepts
+		1.1 Definitions
+		1.2 Direction Fields
+		1.3 Final Thoughts
+	2 First Order Differential Equations
+		2.1 Linear Equations
+		2.2 Separable Equations
+		2.3 Exact Equations
+		2.4 Bernoulli Differential Equations
+		2.5 Substitutions
+		2.6 Intervals of Validity
+		2.7 Modeling with First Order Differential Equations
+		2.8 Equilibrium Solutions
+		2.9 Euler's Method
+	3 Second Order Differential Equations
+		3.1 Basic Concepts
+		3.2 Real Roots
+		3.3 Complex Roots
+		3.4 Repeated Roots
+		3.5 Reduction of Order
+		3.6 Fundamental Sets of Solutions
+		3.7 More on the Wronskian
+		3.8 Nonhomogeneous Differential Equations
+		3.9 Undetermined Coefficients
+		3.10 Variation of Parameters
+		3.11 Mechanical Vibrations
+	4 Laplace Transforms
+		4.1 The Definition
+		4.2 Laplace Transforms
+		4.3 Inverse Laplace Transforms
+		4.4 Step Functions
+		4.5 Solving IVPs with Laplace Transforms
+		4.6 Nonconstant Coefficient IVPs
+		4.7 IVPs with Step Functions
+		4.8 Dirac Delta Function
+		4.9 Convolution Integral
+		4.10 Table of Laplace Transforms
+	5 Systems of Differential Equations
+		5.1 Review: Systems of Equations
+		5.2 Review: Matrices and Vectors
+		5.3 Review: Eigenvalues and Eigenvectors
+		5.4 Systems of Differential Equations
+		5.5 Solutions to Systems
+		5.6 Phase Plane
+		5.7 Real Eigenvalues
+		5.8 Complex Eigenvalues
+		5.9 Repeated Eigenvalues
+		5.10 Nonhomogeneous Systems
+		5.11 Laplace Transforms
+		5.12 Modeling
+	6 Series Solutions to Differential Equations
+		6.1 Review: Power Series
+		6.2 Review: Taylor Series
+		6.3 Series Solutions
+		6.4 Euler Equations
+	7 Higher Order Differential Equations
+		7.1 Basic Concepts for nth Order Linear Equations
+		7.2 Linear Homogeneous Differential Equations
+		7.3 Undetermined Coefficients
+		7.4 Variation of Parameters
+		7.5 Laplace Transforms
+		7.6 Systems of Differential Equations
+		7.7 Series Solutions
+	8 Boundary Value Problems & Fourier Series
+		8.1 Boundary Value Problems
+		8.2 Eigenvalues and Eigenfunctions
+		8.3 Periodic Functions and Orthogonal Functions
+		8.4 Fourier Sine Series
+		8.5 Fourier Cosine Series
+		8.6 Fourier Series
+		8.7 Convergence of Fourier Series
+	9 Partial Differential Equations
+		9.1 The Heat Equation
+		9.2 The Wave Equation
+		9.3 Terminology
+		9.4 Separation of Variables
+		9.5 Solving the Heat Equation
+		9.6 Heat Equation with Non-Zero Temperature Boundaries
+		9.7 Laplace's Equation
+		9.8 Vibrating String
+		9.9 Summary of Separation of Variables
 
-2 First Order Differential Equations  
-2.1 Linear Equations  
-2.2 Separable Equations  
-2.3 Exact Equations  
-2.4 Bernoulli Differential Equations  
-2.5 Substitutions  
-2.6 Intervals of Validity  
-2.7 Modeling with First Order Differential Equations  
-2.8 Equilibrium Solutions  
-2.9 Euler’s Method
-
-3 Second
-- linear algebra
-- controls
-- dynamics
 **Through Code:**
 - compilers
 - multimedia systems / cv
