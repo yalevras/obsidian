@@ -412,7 +412,7 @@ Week 16
 	Monday May 18, 2026  
 	Tuesday May 19, 2026  
 	Wednesday May 20, 2026  
-	Thursday May 21, 2026  
+	Thursday May 21, 2026  - HLT1 6:30 pm
 	Friday May 22, 2026  
 	Saturday May 23, 2026  
 	Sunday May 24, 2026  
