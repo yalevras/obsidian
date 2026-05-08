@@ -412,7 +412,7 @@ Week 16
 	Monday May 18, 2026  
 	Tuesday May 19, 2026  
 	Wednesday May 20, 2026  
-	Thursday May 21, 2026  - HLT1 6:30 pm
+	Thursday May 21, 2026  - HLT1 6:30-8:30
 	Friday May 22, 2026  
 	Saturday May 23, 2026  
 	Sunday May 24, 2026  
@@ -462,7 +462,7 @@ Week 13
 	Wednesday June 10, 2026  
 	Thursday June 11, 2026  
 	Friday June 12, 2026  
-	Saturday June 13, 2026  
+	Saturday June 13, 2026  - HLT2 12-2
 	Sunday June 14, 2026  
 	31 Particle Linear Momentum
 	32 Three Types of Motion You See in Rigid Bodies
@@ -490,7 +490,7 @@ Week 11
 	Monday June 22, 2026  
 	Tuesday June 23, 2026 - tentative Blue Jays hot dog with work  
 	Wednesday June 24, 2026  
-	Thursday June 25, 2026  
+	Thursday June 25, 2026 
 	Friday June 26, 2026  
 	Saturday June 27, 2026  
 	Sunday June 28, 2026  
@@ -544,7 +544,7 @@ Week 7
 	Wednesday July 22, 2026  
 	Thursday July 23, 2026  
 	Friday July 24, 2026  
-	Saturday July 25, 2026  
+	Saturday July 25, 2026  - HLT3 12-2
 	Sunday July 26, 2026  
 Week 6
 	Language: Japanese
