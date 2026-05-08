@@ -1,28 +1,89 @@
  **TO STUDY**
 **On Paper/MATHY:** (DO THESE BETWEEN SIEGE AND VALORANT ROUNDS, YOU'LL BE DONE IN NO TIME)
 - calculus
-1 Review
-1.1 Functions
-1.2 Inverse Functions
-1.3 Trig Functions
-1.4 Solving Trig Equations
-1.5 Solving Trig Equations with Calculators, Part 1
-1.6 Solving Trig Equations with Calculators, Part 2
-1.7 Exponential Functions
-1.8 Logarithm Functions
-1.9 Exponential Functions
+1 Review  
+1.1 Functions  
+1.2 Inverse Functions  
+1.3 Trig Functions  
+1.4 Solving Trig Equations  
+1.5 Solving Trig Equations with Calculators, Part I  
+1.6 Solving Trig Equations with Calculators, Part II  
+1.7 Exponential Functions  
+1.8 Logarithm Functions  
+1.9 Exponential and Logarithm Equations  
 1.10 Common Graphs
-2 Limits
-2.1 Tangent Lines and Rates of Change
-2.2 The Limit
-2.3 One-Sided Limits
-2.4 Limit Properties
-2.5 Computing Limits
-2.6 Infinite Limits
-2.7 Limits At Infinity, Part 1
-2.8 Limits At Infinity, Part 2
-2.9 Continuity
+
+2 Limits  
+2.1 Tangent Lines and Rates of Change  
+2.2 The Limit  
+2.3 One-Sided Limits  
+2.4 Limit Properties  
+2.5 Computing Limits  
+2.6 Infinite Limits  
+2.7 Limits At Infinity, Part I  
+2.8 Limits At Infinity, Part II  
+2.9 Continuity  
 2.10 The Definition of the Limit
+
+3 Derivatives  
+3.1 The Definition of the Derivative  
+3.2 Interpretation of the Derivative  
+3.3 Differentiation Formulas  
+3.4 Product and Quotient Rule  
+3.5 Derivatives of Trig Functions  
+3.6 Derivatives of Exponential and Logarithm Functions  
+3.7 Derivatives of Inverse Trig Functions  
+3.8 Derivatives of Hyperbolic Functions  
+3.9 Chain Rule  
+3.10 Implicit Differentiation  
+3.11 Related Rates  
+3.12 Higher Order Derivatives  
+3.13 Logarithmic Differentiation
+
+4 Applications of Derivatives  
+4.1 Rates of Change  
+4.2 Critical Points  
+4.3 Minimum and Maximum Values  
+4.4 Finding Absolute Extrema  
+4.5 The Shape of a Graph, Part I  
+4.6 The Shape of a Graph, Part II  
+4.7 The Mean Value Theorem  
+4.8 Optimization Problems  
+4.9 More Optimization Problems  
+4.10 L’Hospital’s Rule and Indeterminate Forms  
+4.11 Linear Approximations  
+4.12 Differentials  
+4.13 Newton’s Method  
+4.14 Business Applications
+
+5 Integrals  
+5.1 Indefinite Integrals  
+5.2 Computing Indefinite Integrals  
+5.3 Substitution Rule for Indefinite Integrals  
+5.4 More Substitution Rule  
+5.5 Area Problem  
+5.6 Definition of the Definite Integral  
+5.7 Computing Definite Integrals  
+5.8 Substitution Rule for Definite Integrals
+
+6 Applications of Integrals  
+6.1 Average Function Value  
+6.2 Area Between Curves  
+6.3 Volumes of Solids of Revolution / Method of Rings  
+6.4 Volumes of Solids of Revolution / Method of Cylinders  
+6.5 More Volume Problems  
+6.6 Work
+
+X Extras  
+X.1 Proof of Various Limit Properties  
+X.2 Proof of Various Derivative Facts/Formulas/Properties  
+X.3 Proof of Trig Limits  
+X.4 Proofs of Derivative Applications Facts/Formulas  
+X.5 Proof of Various Integral Facts/Formulas/Properties  
+X.6 Area and Volume Formulas  
+X.7 Types of Infinity  
+X.8 Summation Notation  
+X.9 Constant of Integration
 
 - linear algebra
 - controls
