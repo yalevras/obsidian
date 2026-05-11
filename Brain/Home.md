@@ -349,12 +349,6 @@ Week 18
 	2	Block diagrams, the effect of feedback	DONE
 	3	Modeling principles	DONE
 	4	Block diagram manipulations, Mason’ rule	 DONE
-	5	Dynamic response of closed-loop systems	
-	6	Time-domain specifications	
-	7	Effect of zeros	
-	8	The Routh criterion	
-	9	Effect of noise, steady-state errors	
-	10	PID control	
 	1 Some Fundamental Definitions Units Particles Rigid Bodies, Vectors and Dimensional Consistency DONE
 	2 Particle Position Velocity and Acceleration DONE
 	4 General Curvilinear Motion DONE
@@ -371,15 +365,6 @@ Week 18
 	Saturday May 9, 2026 - Yiayia, reviews
 	Sunday May 10, 2026 - Mother's Day, reviews
 Week 17
-	11	The root locus method	
-	12	Root locus rules	
-	13	Root locus rules, lead compensation	
-	14	Lag compensation	
-	15	Zero degree root locus	
-	16	Frequency response design	
-	17	Bode plot problems	
-	18	Bode plots (cont.)	
-	19	Complex poles and zeros, unstable poles, and non-minimum phase zeros	
 	7 Falling Projectile SMath and Mathcad
 	8 nt Coordinates
 	9 Curvilinear Motion - Cylindrical Coordinates
@@ -395,10 +380,12 @@ Week 17
 	Saturday May 16, 2026  
 	Sunday May 17, 2026  
 Week 16
-	20	The Nyquist stability criterion	
-	21	The Nyquist stability criterion (cont.)	
-	22	Nyquist with poles on imaginary axis
-	23	Stability margins, Bode gain-phase theorem	
+	5	Dynamic response of closed-loop systems	
+	6	Time-domain specifications	
+	7	Effect of zeros	
+	8	The Routh criterion	
+	9	Effect of noise, steady-state errors	
+	10	PID control	
 	24	Bode compensation	
 	25	Lead compensation	
 	26	Lag compensation (cont.)	
@@ -417,6 +404,11 @@ Week 16
 	Saturday May 23, 2026  
 	Sunday May 24, 2026  
 Week 15
+	11	The root locus method	
+	12	Root locus rules	
+	13	Root locus rules, lead compensation	
+	14	Lag compensation	
+	15	Zero degree root locus	
 	27	NMP systems	
 	28	The Nichols chart
 	29	Digital control, the z-transform	
@@ -441,6 +433,10 @@ Week 15
 	Saturday May 30, 2026  
 	Sunday May 31, 2026  
 Week 14
+	16	Frequency response design	
+	17	Bode plot problems	
+	18	Bode plots (cont.)	
+	19	Complex poles and zeros, unstable poles, and non-minimum phase zeros	
 	Language: French
 	Monday June 1, 2026 - finish trivia by, decide capstone prof by
 	Tuesday June 2, 2026  
