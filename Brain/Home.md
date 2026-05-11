@@ -397,7 +397,7 @@ Week 16
 	Tuesday May 19, 2026  
 	Wednesday May 20, 2026  
 	Thursday May 21, 2026  - HLT1 6:30-8:30
-	Friday May 22, 2026  
+	Friday May 22, 2026  - RNB Club Naomi
 	Saturday May 23, 2026  
 	Sunday May 24, 2026  
 Week 15
