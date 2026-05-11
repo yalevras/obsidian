@@ -16,5 +16,7 @@ there is a currrent 5 month long mrb for the camera the space lab test one
 2 mono 2 colour, cameras in a box to monitor how plants grow, artemis 4
 connector on the side for data and power on the nisa camera, it is not a perfect seal and lets light in
 
+after every test, we turn the camera on and see that its working, we ned to document between each testing stage.
+
 
 Custom
