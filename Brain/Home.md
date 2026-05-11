@@ -365,13 +365,14 @@ Week 18
 	Saturday May 9, 2026 - Yiayia, reviews
 	Sunday May 10, 2026 - Mother's Day, reviews
 Week 17
+	Try to see matthew this weekend
+	START THE FABRICS ONCE THE PLUSH ARRIVES
 			7 Falling Projectile SMath and Mathcad
 			8 nt Coordinates
 			9 Curvilinear Motion - Cylindrical Coordinates
 			10 r-theta Example
 			11 Absolute Dependent Motion
 			12 Absolute Dependent Motion (Atwood Machine)
-	Try to see matthew this weekend
 	Language: Japanese
 	Monday May 11, 2026 - gym
 	Tuesday May 12, 2026  - climbing with Johnathan, play with matthew
