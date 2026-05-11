@@ -1,4 +1,6 @@
 
+GN&C:
+- nothing yet
 Adam:
 - waiting on more work for Chrono
 - minecraft chunk loading?
@@ -8,3 +10,4 @@ Frank:
 - waiting for meeting(s) with Luke Jake Jordan Daniel Anne?
 - research the testing process
 Yanni:
+- image processing asp libraary
