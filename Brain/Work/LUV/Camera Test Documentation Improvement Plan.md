@@ -65,3 +65,5 @@ we do a comparison for the customer of, as designed, and as built. maybe the nex
 
 Optics,
 sensors are very very sensitive to small changes that we cannot tell with out eyes
+
+we are trying to make srue the analog from the hole in the camera does not mess up the stuff. the analog is not predictible and responds in different ways and is more difficult than digital to deal with
