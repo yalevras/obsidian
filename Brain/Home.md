@@ -354,7 +354,7 @@ Week 18
 	4 General Curvilinear Motion DONE
 	5 Curvilinear motion Rectilinear Coordinates
 	6 Projectile Motion
-	**Language:** Japanese, listening, flashcards 
+	**Language:** Japanese, listening, flashcards 77 cards, 
 	Saturday May 2, 2026  - Devil Wears Prada, 3 lectures
 	Sunday May 3, 2026  - Wonderland, 100 flashcards
 	Monday May 4, 2026  - Downtown with friends, 100 reviews
