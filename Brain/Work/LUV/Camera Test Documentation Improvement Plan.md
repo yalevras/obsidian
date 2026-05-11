@@ -38,7 +38,7 @@ ours:
 
 Custom
 
-is there someway where we can use automatino tools, to have a complete set of templates to build a camera end to end. does not have to be ai. maybe python said, insert value turn the cmera 
+is there someway where we can use automatino tools, to have a complete set of templates to build a camera end to end. does not have to be ai. maybe python said, insert value turn the camera, did you put in ___ blank volts. where we can populate data.
 
 
 
