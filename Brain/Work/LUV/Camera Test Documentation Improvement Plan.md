@@ -46,6 +46,10 @@ end goal is to minimize time
 
 we get paid when [HWSW] + [Documentation] = $
 
+in the camera
+2 boards, mounting thehboards together
+programming the board
+
 
 Custom
 
@@ -55,3 +59,8 @@ is there someway where we can use automatino tools, to have a complete set of te
 
 when we need to change something like a hole or something
 we do a comparison for the customer of, as designed, and as built. maybe the next hole will let light in. maybe it will matter structurly.
+
+
+
+
+Optics,
