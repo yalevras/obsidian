@@ -8,8 +8,9 @@ Product
 - test procedures
 - a test plan overarches a test procedure
 do these AI&T
-
-
+doing documentation the whole way along
+hold a TRR (test readyness review)
+MRB + NCR (if something)
 
 
 Custom
