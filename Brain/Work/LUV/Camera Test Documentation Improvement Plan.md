@@ -64,3 +64,4 @@ we do a comparison for the customer of, as designed, and as built. maybe the nex
 
 
 Optics,
+sensors are very very sensitive to small changes that we cannot tell with out eyes
