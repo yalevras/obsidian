@@ -368,6 +368,7 @@ Week 17
 	Try to see matthew this weekend
 	START THE FABRICS ONCE THE PLUSH ARRIVES
 	Book a date
+	Work on sticker
 			7 Falling Projectile SMath and Mathcad
 			8 nt Coordinates
 			9 Curvilinear Motion - Cylindrical Coordinates
@@ -420,8 +421,8 @@ Week 15
 	Tuesday May 26, 2026  
 	Wednesday May 27, 2026  
 	Thursday May 28, 2026  
-	Friday May 29, 2026  
-	Saturday May 30, 2026  
+	Friday May 29, 2026  - backrooms for matthew's bday?
+	Saturday May 30, 2026  - matthew bday
 	Sunday May 31, 2026  
 Week 14
 			16	Frequency response design	
