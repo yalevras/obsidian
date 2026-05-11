@@ -517,10 +517,10 @@ Week 10
 	Saturday July 4, 2026  
 	Sunday July 5, 2026  
 Week 9
-	55 Vibrations Introductory Problems
-	56 Absolute Dependent Motion - Vibration
-	57 Forced Vibration Problem (plus a damping problem)
-	58 Forced Damped Vibrations
+			55 Vibrations Introductory Problems
+			56 Absolute Dependent Motion - Vibration
+			57 Forced Vibration Problem (plus a damping problem)
+			58 Forced Damped Vibrations
 	Language: Chinese
 	Monday July 6, 2026  
 	Tuesday July 7, 2026  
