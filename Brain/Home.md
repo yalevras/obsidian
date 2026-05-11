@@ -422,16 +422,16 @@ Week 15
 	Saturday May 30, 2026  
 	Sunday May 31, 2026  
 Week 14
-	16	Frequency response design	
-	17	Bode plot problems	
-	18	Bode plots (cont.)	
-	19	Complex poles and zeros, unstable poles, and non-minimum phase zeros	
-		25 Spring Gravity Work Energy Problems
-	26 Ski Jumper Problem
-	27 Spring Gravity Work Energy Problems (2)
-	28 Work-Energy Examples
-	29 Overview of Particle Momentum
-	30 Particle Angular Momentum
+			16	Frequency response design	
+			17	Bode plot problems	
+			18	Bode plots (cont.)	
+			19	Complex poles and zeros, unstable poles, and non-minimum phase zeros	
+			25 Spring Gravity Work Energy Problems
+			26 Ski Jumper Problem
+			27 Spring Gravity Work Energy Problems (2)
+			28 Work-Energy Examples
+			29 Overview of Particle Momentum
+			30 Particle Angular Momentum
 	Language: French
 	Monday June 1, 2026 - finish trivia by, decide capstone prof by
 	Tuesday June 2, 2026  
@@ -441,10 +441,16 @@ Week 14
 	Saturday June 6, 2026  
 	Sunday June 7, 2026  
 Week 13
-	20	The Nyquist stability criterion	
-	21	The Nyquist stability criterion (cont.)	
-	22	Nyquist with poles on imaginary axis
-	23	Stability margins, Bode gain-phase theorem	
+			20	The Nyquist stability criterion	
+			21	The Nyquist stability criterion (cont.)	
+			22	Nyquist with poles on imaginary axis
+			23	Stability margins, Bode gain-phase theorem	
+			31 Particle Linear Momentum
+			32 Three Types of Motion You See in Rigid Bodies
+			33 Kinematics of Rigid Bodies
+			34 Instantaneous Centre of Zero Velocity
+			35 Velocity and Acceleration - Rigid Bodies
+			36 Graphical (Scalar) and Vector Velocity Analysis of Rigid Bodies
 	Language: French
 	Monday June 8, 2026  
 	Tuesday June 9, 2026  
@@ -453,17 +459,17 @@ Week 13
 	Friday June 12, 2026  
 	Saturday June 13, 2026  - HLT2 12-2
 	Sunday June 14, 2026  
-	31 Particle Linear Momentum
-	32 Three Types of Motion You See in Rigid Bodies
-	33 Kinematics of Rigid Bodies
-	34 Instantaneous Centre of Zero Velocity
-	35 Velocity and Acceleration - Rigid Bodies
-	36 Graphical (Scalar) and Vector Velocity Analysis of Rigid Bodies
 Week 12
-	24	Bode compensation	
-	25	Lead compensation	
-	26	Lag compensation (cont.)	
-	27	NMP systems	
+			24	Bode compensation	
+			25	Lead compensation	
+			26	Lag compensation (cont.)	
+			27	NMP systems	
+			37 Moment of Inertia
+			38 Overview of Rigid Body Kinetics
+			39 Rolling With and Without Slip
+			40 Lawnmover Man and Computational Complexity
+			41 Threading the Spool
+			42 Rigid Body Kinematics and Kinetics
 	Language: Japanese
 	Monday June 15, 2026  
 	Tuesday June 16, 2026  
@@ -472,17 +478,17 @@ Week 12
 	Friday June 19, 2026  
 	Saturday June 20, 2026  
 	Sunday June 21, 2026  
-	37 Moment of Inertia
-	38 Overview of Rigid Body Kinetics
-	39 Rolling With and Without Slip
-	40 Lawnmover Man and Computational Complexity
-	41 Threading the Spool
-	42 Rigid Body Kinematics and Kinetics
 Week 11
-	28	The Nichols chart
-	29	Digital control, the z-transform	
-	30	The z‐transform, design by emulation, the Tustin transform	
-	31	Compensator design examples, time delay of ZOH	
+			28	The Nichols chart
+			29	Digital control, the z-transform	
+			30	The z‐transform, design by emulation, the Tustin transform	
+			31	Compensator design examples, time delay of ZOH	
+			43 Overview of Rigid Body Work - Energy
+			44 Kinetics - Rigid Bodies
+			45 Rigid Bodies Work Energy Examples 2
+			46 Rigid Bodies - Work Energy
+			47 Rigid Body Kinetics - Work and Energy
+			48 Rigid Body Momentum More Examples
 	Language: Japanese
 	Monday June 22, 2026  
 	Tuesday June 23, 2026 - tentative Blue Jays hot dog with work  
@@ -491,17 +497,17 @@ Week 11
 	Friday June 26, 2026  
 	Saturday June 27, 2026  
 	Sunday June 28, 2026  
-	43 Overview of Rigid Body Work - Energy
-	44 Kinetics - Rigid Bodies
-	45 Rigid Bodies Work Energy Examples 2
-	46 Rigid Bodies - Work Energy
-	47 Rigid Body Kinetics - Work and Energy
-	48 Rigid Body Momentum More Examples
 Week 10
-	32	Discrete design	
-	33	The w-transform	
-	34	Design examples, pre‐warping, direct design	
-	35	Higher harmonic control	
+			32	Discrete design	
+			33	The w-transform	
+			34	Design examples, pre‐warping, direct design	
+			35	Higher harmonic control	
+			49 Rigid Body Momentum More Examples
+			50 Rigid Body Momentum Angular/Linear
+			51 Rolling Cylinder on Ramp Friction Direction and Calculation
+			52 Overview of Vibrations Chapter
+			53 Touched by an Angle
+			54 Springs - Parallel and Series
 	Language: Chinese
 	Monday June 29, 2026  
 	Tuesday June 30, 2026  
@@ -510,13 +516,11 @@ Week 10
 	Friday July 3, 2026  
 	Saturday July 4, 2026  
 	Sunday July 5, 2026  
-	49 Rigid Body Momentum More Examples
-	50 Rigid Body Momentum Angular/Linear
-	51 Rolling Cylinder on Ramp Friction Direction and Calculation
-	52 Overview of Vibrations Chapter
-	53 Touched by an Angle
-	54 Springs - Parallel and Series
 Week 9
+	55 Vibrations Introductory Problems
+	56 Absolute Dependent Motion - Vibration
+	57 Forced Vibration Problem (plus a damping problem)
+	58 Forced Damped Vibrations
 	Language: Chinese
 	Monday July 6, 2026  
 	Tuesday July 7, 2026  
@@ -525,10 +529,6 @@ Week 9
 	Friday July 10, 2026  
 	Saturday July 11, 2026  
 	Sunday July 12, 2026  
-	55 Vibrations Introductory Problems
-	56 Absolute Dependent Motion - Vibration
-	57 Forced Vibration Problem (plus a damping problem)
-	58 Forced Damped Vibrations
 Week 8
 	Language: French
 	Monday July 13, 2026  
