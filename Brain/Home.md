@@ -365,12 +365,12 @@ Week 18
 	Saturday May 9, 2026 - Yiayia, reviews
 	Sunday May 10, 2026 - Mother's Day, reviews
 Week 17
-	7 Falling Projectile SMath and Mathcad
-	8 nt Coordinates
-	9 Curvilinear Motion - Cylindrical Coordinates
-	10 r-theta Example
-	11 Absolute Dependent Motion
-	12 Absolute Dependent Motion (Atwood Machine)
+			7 Falling Projectile SMath and Mathcad
+			8 nt Coordinates
+			9 Curvilinear Motion - Cylindrical Coordinates
+			10 r-theta Example
+			11 Absolute Dependent Motion
+			12 Absolute Dependent Motion (Atwood Machine)
 	Try to see matthew this weekend
 	Language: Japanese
 	Monday May 11, 2026 - gym
@@ -381,18 +381,18 @@ Week 17
 	Saturday May 16, 2026  
 	Sunday May 17, 2026  - morning movie
 Week 16
-	5	Dynamic response of closed-loop systems	
-	6	Time-domain specifications	
-	7	Effect of zeros	
-	8	The Routh criterion	
-	9	Effect of noise, steady-state errors	
-	10	PID control	
-	13 Relative Velocity of Particles
-	14 Relative Motion
-	15 Particle Kinematics Summary
-	16 Gravity Units Mass Weight
-	17 Particle Kinetics Introduction
-	18 Second Law and Units
+			5	Dynamic response of closed-loop systems	
+			6	Time-domain specifications	
+			7	Effect of zeros	
+			8	The Routh criterion	
+			9	Effect of noise, steady-state errors	
+			10	PID control	
+			13 Relative Velocity of Particles
+			14 Relative Motion
+			15 Particle Kinematics Summary
+			16 Gravity Units Mass Weight
+			17 Particle Kinetics Introduction
+			18 Second Law and Units
 	Language: Chinese
 	Monday May 18, 2026  
 	Tuesday May 19, 2026  
@@ -402,17 +402,17 @@ Week 16
 	Saturday May 23, 2026  
 	Sunday May 24, 2026  
 Week 15
-	11	The root locus method	
-	12	Root locus rules	
-	13	Root locus rules, lead compensation	
-	14	Lag compensation	
-	15	Zero degree root locus	
-	19 Friction Friction
-	20 Curvilinear Kinetics
-	21 n-t Coordinate Examples
-	22 Absolute Dependent Motion - Applied to Particle Kinetics
-	23 Central Force Motion
-	24 Overview of Particle Work-Energy
+			11	The root locus method	
+			12	Root locus rules	
+			13	Root locus rules, lead compensation	
+			14	Lag compensation	
+			15	Zero degree root locus	
+			19 Friction Friction
+			20 Curvilinear Kinetics
+			21 n-t Coordinate Examples
+			22 Absolute Dependent Motion - Applied to Particle Kinetics
+			23 Central Force Motion
+			24 Overview of Particle Work-Energy
 	Language: Chinese
 	Monday May 25, 2026  
 	Tuesday May 26, 2026  
@@ -426,6 +426,12 @@ Week 14
 	17	Bode plot problems	
 	18	Bode plots (cont.)	
 	19	Complex poles and zeros, unstable poles, and non-minimum phase zeros	
+		25 Spring Gravity Work Energy Problems
+	26 Ski Jumper Problem
+	27 Spring Gravity Work Energy Problems (2)
+	28 Work-Energy Examples
+	29 Overview of Particle Momentum
+	30 Particle Angular Momentum
 	Language: French
 	Monday June 1, 2026 - finish trivia by, decide capstone prof by
 	Tuesday June 2, 2026  
@@ -434,12 +440,6 @@ Week 14
 	Friday June 5, 2026  
 	Saturday June 6, 2026  
 	Sunday June 7, 2026  
-	25 Spring Gravity Work Energy Problems
-	26 Ski Jumper Problem
-	27 Spring Gravity Work Energy Problems (2)
-	28 Work-Energy Examples
-	29 Overview of Particle Momentum
-	30 Particle Angular Momentum
 Week 13
 	20	The Nyquist stability criterion	
 	21	The Nyquist stability criterion (cont.)	
