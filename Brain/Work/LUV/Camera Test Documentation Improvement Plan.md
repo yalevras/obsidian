@@ -20,6 +20,8 @@ after every test, we turn the camera on and see that its working, we ned to docu
 
 we're taking 4-6 months to get a camera to a custome
 
+2 EMS and 4 FMS
+
 at the end of the thing (EIDP (end item data package)), where they say that a thing was inspected
 ours:
 - information about serial number of unit
@@ -31,7 +33,7 @@ ours:
 - material records
 	- type of mateirals used, aluminum 77, what lot (who did you buy it from)
 	- fastener
-- AD-AB comparison (as-)
+- AD-AB comparison (as designed, as built)
 
 
 Custom
