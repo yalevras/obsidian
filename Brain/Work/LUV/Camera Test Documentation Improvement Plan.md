@@ -37,6 +37,10 @@ ours:
 
 jake jordan luke daniel anne
 
+research automation for this type of test that already exists
+
+e
+
 
 Custom
 
