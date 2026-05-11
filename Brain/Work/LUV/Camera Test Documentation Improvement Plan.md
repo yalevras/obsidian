@@ -10,7 +10,8 @@ Product
 do these AI&T
 doing documentation the whole way along
 hold a TRR (test readyness review)
-MRB (material review board) a+ NCR (if something is wrong, missing a part, a hole is not where a hole should be, threads are wrong)
+MRB (material review board) + NCR (if something is wrong, missing a part, a hole is not where a hole should be, threads are wrong)
+there is a currrent 5 month long mrb for the camera the space lab test one
 
 
 Custom
