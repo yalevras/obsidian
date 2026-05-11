@@ -34,3 +34,10 @@ ours:
 
 
 Custom
+
+
+
+
+
+when we need to change something like a hole or something
+we do a comparison for the customer of, as designed, and as built. 
