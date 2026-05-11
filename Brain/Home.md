@@ -386,9 +386,6 @@ Week 16
 	8	The Routh criterion	
 	9	Effect of noise, steady-state errors	
 	10	PID control	
-	24	Bode compensation	
-	25	Lead compensation	
-	26	Lag compensation (cont.)	
 	13 Relative Velocity of Particles
 	14 Relative Motion
 	15 Particle Kinematics Summary
@@ -409,15 +406,6 @@ Week 15
 	13	Root locus rules, lead compensation	
 	14	Lag compensation	
 	15	Zero degree root locus	
-	27	NMP systems	
-	28	The Nichols chart
-	29	Digital control, the z-transform	
-	30	The z‐transform, design by emulation, the Tustin transform	
-	31	Compensator design examples, time delay of ZOH	
-	32	Discrete design	
-	33	The w-transform	
-	34	Design examples, pre‐warping, direct design	
-	35	Higher harmonic control	
 	19 Friction Friction
 	20 Curvilinear Kinetics
 	21 n-t Coordinate Examples
@@ -452,6 +440,10 @@ Week 14
 	29 Overview of Particle Momentum
 	30 Particle Angular Momentum
 Week 13
+	20	The Nyquist stability criterion	
+	21	The Nyquist stability criterion (cont.)	
+	22	Nyquist with poles on imaginary axis
+	23	Stability margins, Bode gain-phase theorem	
 	Language: French
 	Monday June 8, 2026  
 	Tuesday June 9, 2026  
@@ -467,6 +459,10 @@ Week 13
 	35 Velocity and Acceleration - Rigid Bodies
 	36 Graphical (Scalar) and Vector Velocity Analysis of Rigid Bodies
 Week 12
+	24	Bode compensation	
+	25	Lead compensation	
+	26	Lag compensation (cont.)	
+	27	NMP systems	
 	Language: Japanese
 	Monday June 15, 2026  
 	Tuesday June 16, 2026  
@@ -482,6 +478,10 @@ Week 12
 	41 Threading the Spool
 	42 Rigid Body Kinematics and Kinetics
 Week 11
+	28	The Nichols chart
+	29	Digital control, the z-transform	
+	30	The z‐transform, design by emulation, the Tustin transform	
+	31	Compensator design examples, time delay of ZOH	
 	Language: Japanese
 	Monday June 22, 2026  
 	Tuesday June 23, 2026 - tentative Blue Jays hot dog with work  
@@ -497,6 +497,10 @@ Week 11
 	47 Rigid Body Kinetics - Work and Energy
 	48 Rigid Body Momentum More Examples
 Week 10
+32	Discrete design	
+	33	The w-transform	
+	34	Design examples, pre‐warping, direct design	
+	35	Higher harmonic control	
 	Language: Chinese
 	Monday June 29, 2026  
 	Tuesday June 30, 2026  
