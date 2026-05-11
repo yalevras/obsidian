@@ -29,7 +29,8 @@ ours:
 - graphs etc showing vibe levels and temperature profiles
 - the customer is paying for all of this, this is all of what we give to them
 - material records
-	- type of mateirals used, aluminum 77, what lot (who did you buy it fr)
+	- type of mateirals used, aluminum 77, what lot (who did you buy it from)
+	- fasteners
 
 
 Custom
