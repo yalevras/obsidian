@@ -497,7 +497,7 @@ Week 11
 	47 Rigid Body Kinetics - Work and Energy
 	48 Rigid Body Momentum More Examples
 Week 10
-32	Discrete design	
+	32	Discrete design	
 	33	The w-transform	
 	34	Design examples, pre‐warping, direct design	
 	35	Higher harmonic control	
