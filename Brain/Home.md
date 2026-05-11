@@ -367,6 +367,7 @@ Week 18
 Week 17
 	Try to see matthew this weekend
 	START THE FABRICS ONCE THE PLUSH ARRIVES
+	Book a date
 			7 Falling Projectile SMath and Mathcad
 			8 nt Coordinates
 			9 Curvilinear Motion - Cylindrical Coordinates
@@ -374,7 +375,7 @@ Week 17
 			11 Absolute Dependent Motion
 			12 Absolute Dependent Motion (Atwood Machine)
 	Language: Japanese
-	Monday May 11, 2026 - gym
+	Monday May 11, 2026 - gym, goal: play piano, walk 30 minutes,
 	Tuesday May 12, 2026  - climbing with Johnathan, play with matthew
 	Wednesday May 13, 2026  
 	Thursday May 14, 2026  
