@@ -30,7 +30,8 @@ ours:
 - the customer is paying for all of this, this is all of what we give to them
 - material records
 	- type of mateirals used, aluminum 77, what lot (who did you buy it from)
-	- fasteners
+	- fastener
+- AD-AB comparison (as-)
 
 
 Custom
@@ -40,4 +41,4 @@ Custom
 
 
 when we need to change something like a hole or something
-we do a comparison for the customer of, as designed, and as built. 
+we do a comparison for the customer of, as designed, and as built. maybe the next hole will let light in. maybe it will matter structurly.
