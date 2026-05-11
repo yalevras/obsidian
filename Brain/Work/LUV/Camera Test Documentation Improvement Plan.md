@@ -18,5 +18,11 @@ connector on the side for data and power on the nisa camera, it is not a perfect
 
 after every test, we turn the camera on and see that its working, we ned to document between each testing stage.
 
+we're taking 4-6 months to get a camera to a custome
+
+at the end of the thing (EIDP (end item data package)), where they say that a thing was inspected
+ours:
+- 
+
 
 Custom
