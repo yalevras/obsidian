@@ -39,7 +39,12 @@ jake jordan luke daniel anne
 
 research automation for this type of test that already exists
 
-e
+eidp will be 80% the same each time
+nrc and mrb will be different each time.
+
+end goal is to minimize time
+
+we get paid when [HWSW] + [Documentation] = $
 
 
 Custom
