@@ -371,14 +371,15 @@ Week 17
 	10 r-theta Example
 	11 Absolute Dependent Motion
 	12 Absolute Dependent Motion (Atwood Machine)
+	Try to see matthew this weekend
 	Language: Japanese
-	Monday May 11, 2026  - Lehn call
-	Tuesday May 12, 2026  - unconfirmed date for climbing with Johnathan
+	Monday May 11, 2026 - gym
+	Tuesday May 12, 2026  - climbing with Johnathan, play with matthew
 	Wednesday May 13, 2026  
 	Thursday May 14, 2026  
 	Friday May 15, 2026  
 	Saturday May 16, 2026  
-	Sunday May 17, 2026  
+	Sunday May 17, 2026  - morning movie
 Week 16
 	5	Dynamic response of closed-loop systems	
 	6	Time-domain specifications	
