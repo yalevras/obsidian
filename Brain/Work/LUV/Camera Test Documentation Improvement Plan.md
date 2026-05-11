@@ -7,6 +7,8 @@ Product
 - MRS (manufacturing how to assembly something)
 - test procedures
 - a test plan overarches a test procedure
+do these AI&T
+
 
 
 
