@@ -22,7 +22,12 @@ we're taking 4-6 months to get a camera to a custome
 
 at the end of the thing (EIDP (end item data package)), where they say that a thing was inspected
 ours:
-- 
+- information about serial number of unit
+- what tests happened
+- sometimes will give copy of test recards
+- sometimes will give data summary
+- graphs etc showing vibe levels and temperature profiles
+- the customer is paying for all of this, this is all of what we give to them
 
 
 Custom
