@@ -14,7 +14,7 @@ Calculus
 		1.9 Exponential and Logarithm Equations  
 		1.10 Common Graphs
 	2 Limits  
-		2.1 Tangent Lines and Rates of Change  
+		2.1 Tangent Lines and Rates of Change  ✅
 		2.2 The Limit  
 		2.3 One-Sided Limits  
 		2.4 Limit Properties  
@@ -376,7 +376,7 @@ Week 17
 			11 Absolute Dependent Motion
 			12 Absolute Dependent Motion (Atwood Machine)
 	Language: Japanese, goal 60 cards, 12 lessons
-	Monday May 11, 2026 - gym, goal: play piano, walk 30 minutes, get through limits
+	Monday May 11, 2026 - gym, play piano, walk 10 minutes, get through limits
 	Tuesday May 12, 2026  - climbing with Johnathan, play with matthew
 	Wednesday May 13, 2026  
 	Thursday May 14, 2026  
