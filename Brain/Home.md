@@ -610,6 +610,7 @@ Releases
 
 Billlie - May 6th
 NMIXX - May 11th
+IOI - May 19th
 LESSERAFIM - May 22nd
 aespa - May 29th
 tripleS - June 1st
