@@ -382,7 +382,7 @@ Week 17
 	Thursday May 14, 2026  
 	Friday May 15, 2026  
 	Saturday May 16, 2026  
-	Sunday May 17, 2026  - morning movie
+	Sunday May 17, 2026
 Week 16
 			5	Dynamic response of closed-loop systems	
 			6	Time-domain specifications	
@@ -399,11 +399,11 @@ Week 16
 	Language: Chinese
 	Monday May 18, 2026  
 	Tuesday May 19, 2026  
-	Wednesday May 20, 2026  
+	Wednesday May 20, 2026 - marlies game
 	Thursday May 21, 2026  - HLT1 6:30-8:30
 	Friday May 22, 2026  - RNB Club Naomi
 	Saturday May 23, 2026  
-	Sunday May 24, 2026  
+	Sunday May 24, 2026  - morning movie
 Week 15
 			11	The root locus method	
 			12	Root locus rules	
