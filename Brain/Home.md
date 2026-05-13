@@ -369,6 +369,14 @@ Week 17
 	START THE FABRICS ONCE THE PLUSH ARRIVES
 	Book a date
 	Work on sticker
+	DOWNLOAD MORE POKEMON MUSIC TO PHONE
+	Games:
+		- FRLG
+		- SM
+		- USUM
+		- XY
+		- ORAS
+		- SWSH (Not that there will be much)
 			7 Falling Projectile SMath and Mathcad
 			8 nt Coordinates
 			9 Curvilinear Motion - Cylindrical Coordinates
