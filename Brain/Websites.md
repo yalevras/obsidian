@@ -80,6 +80,9 @@ Career Stuff
 https://montychoy.com/blog/the_ultimate_list_of_hardware_engineering_internship_interview_questions
 https://www.esa.int/Education/ESA_Academy/Apply_now_for_ESA_Academy_s_CubeSat_Concurrent_Engineering_Workshop_2024
 
+Cool Papers
+	Human Time-Frequency Acuity Beats the Fourier Uncertainty Principle https://arxiv.org/abs/1208.4611
+
 Software Stuff
 https://www.augmentcode.com/
 
