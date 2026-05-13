@@ -56,6 +56,7 @@ D:\Textbook
 	https://pdos.csail.mit.edu/6.828/2025/xv6/book-riscv-rev5.pdf
 **Computer Arch:**
 	GPUs https://brrrviz.com/
+	FPGA https://nandland.com/fpga-101/
 **Machine Learning**:
 	Kochenderfer - [Algorithms for Decision Making](https://algorithmsbook.com/files/dm.pdf "https://algorithmsbook.com/files/dm.pdf")
 	Reddi - [Introduction to Machine Learning Systems](https://www.mlsysbook.ai/assets/downloads/Machine-Learning-Systems.pdf)
