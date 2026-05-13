@@ -23,6 +23,7 @@ D:\Textbook
 		file:///C:/Users/thatg/Downloads/ilide.info-solution-manual-for-robotics-modelling-planning-and-control-pr_c6e76f16749142b6c5786e374e445566.pdf
 **BME**
 	Biological Circuits - http://be150.caltech.edu/2020/content/lessons/01_intro_to_circuit_design.html
+	Chroma
 **Computer Vision:**
 	Szeliski - Computer Vision: Algorithms and Applications 2nd Edition 0/14
 		[[Szeliski Chapter 3 - Image Processing]]
