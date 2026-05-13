@@ -51,6 +51,8 @@ D:\Textbook
 	https://math.hws.edu/graphicsbook/
 	https://www.youtube.com/playlist?list=PLplnkTzzqsZS3R5DjmCQsqupu43oS9CFN
 	OpenGL - https://learnopengl.com/Getting-started/Hello-Window
+**OS:**
+	https://pdos.csail.mit.edu/6.828/2025/xv6/book-riscv-rev5.pdf
 **Machine Learning**:
 	Kochenderfer - [Algorithms for Decision Making](https://algorithmsbook.com/files/dm.pdf "https://algorithmsbook.com/files/dm.pdf")
 	Reddi - [Introduction to Machine Learning Systems](https://www.mlsysbook.ai/assets/downloads/Machine-Learning-Systems.pdf)
