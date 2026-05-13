@@ -73,6 +73,9 @@ Travel
 https://www.secretflyer.com/
 https://www.travelpirates.com/
 
+Space
+	lunar soil properties https://www.lpi.usra.edu/science/kring/lunar_exploration/briefings/lunar_soil_physical_properties.pdf
+
 Career Stuff
 https://montychoy.com/blog/the_ultimate_list_of_hardware_engineering_internship_interview_questions
 https://www.esa.int/Education/ESA_Academy/Apply_now_for_ESA_Academy_s_CubeSat_Concurrent_Engineering_Workshop_2024
