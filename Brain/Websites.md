@@ -6,6 +6,9 @@ https://www.cineby.gd/
 https://fmhy.net/video
 https://annas-archive.li/
 
+Music
+video game soundtracks - https://downloads.khinsider.com/
+
 Languages
 https://tatoeba.org/en/stats/sentences_by_language
 https://tatoeba.org/en/sentences/index
