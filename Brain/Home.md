@@ -377,8 +377,8 @@ Week 17
 			12 Absolute Dependent Motion (Atwood Machine)
 	Language: Japanese, goal 60 cards, 12 lessons
 	Monday May 11, 2026 - gym, play piano, walk 10 minutes, get through limits
-	Tuesday May 12, 2026  - climbing with Johnathan, play with matthew
-	Wednesday May 13, 2026  
+	Tuesday May 12, 2026 - climbing with Johnathan
+	Wednesday May 13, 2026 - play with Matthew
 	Thursday May 14, 2026  
 	Friday May 15, 2026  
 	Saturday May 16, 2026  
