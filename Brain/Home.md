@@ -376,7 +376,11 @@ Week 17
 		- USUM
 		- XY
 		- ORAS
-		- SWSH (Not that there will be much)
+		- SWSH (Not that there will be much I don't think)
+		- SV
+		- BDSP
+		- Arceus?
+		- ZA?
 			7 Falling Projectile SMath and Mathcad
 			8 nt Coordinates
 			9 Curvilinear Motion - Cylindrical Coordinates
