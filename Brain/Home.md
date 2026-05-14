@@ -367,6 +367,7 @@ Week 18
 Week 17
 	Try to see matthew this weekend
 	START THE FABRICS ONCE THE PLUSH ARRIVES
+		- new plan, 
 	Book a date
 	Work on sticker
 	DOWNLOAD MORE POKEMON MUSIC TO PHONE
