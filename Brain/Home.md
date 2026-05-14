@@ -367,7 +367,7 @@ Week 18
 Week 17
 	Try to see matthew this weekend
 	START THE FABRICS ONCE THE PLUSH ARRIVES
-		- new plan, 
+		- new plan, go to banana games and hobby tonight
 	Book a date
 	Work on sticker
 	DOWNLOAD MORE POKEMON MUSIC TO PHONE
