@@ -121,8 +121,7 @@ For EIDP for Thermal, 2 graphs and a table summary are required (no values, only
 
 <mark style="background: #FFF3A3A6;">[AD12] CSYS-NISA-PCS-320771 Rev A NISA Burn-In Procedure</mark>
 
-<mark style="background: #FF5582A6;">[AD5]    CSYS-NISA-PCS-320771 Rev B NISA Burn-in Procedure
-</mark>
+<mark style="background: #FFB86CA6;">[AD5]    CSYS-NISA-PCS-320771 Rev B NISA Burn-in Procedure</mark>
 
 <mark style="background: #BBFABBA6;">[AD13] CSYS-NISA-RE-323116 Burn-in Record for SN 14305</mark>
 
