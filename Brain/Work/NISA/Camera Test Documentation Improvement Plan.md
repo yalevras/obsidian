@@ -109,11 +109,12 @@ For EIDP for Thermal, 2 graphs and a table summary are required (no values, only
 
 <mark style="background: #FFF3A3A6;">[AD18] CSYS-NISA-TP-320666 Rev B NISA Short Form Functional Test</mark>
 
-[AD8]    CSYS-NISA-PCS-320839 Rev B Edge Response Focusing Process
+<mark style="background: #FFF3A3A6;">[AD8]    CSYS-NISA-PCS-320839 Rev B Edge Response Focusing Process
+</mark>
 
 [AD9]    CSYS-NISA-AI-320665 Rev A Image Circle Verification and Adjustment Procedure
 
-[AD10] CSYS-NISA-TP-320461 Rev A Colour Calibration
+<mark style="background: #FFF3A3A6;">[AD10] CSYS-NISA-TP-320461 Rev A Colour Calibration</mark>
 
 <mark style="background: #FFF3A3A6;">[AD11] CSYS-NISA-TP-320710 Rev D NISA Camera Operational Checkout</mark>
 
