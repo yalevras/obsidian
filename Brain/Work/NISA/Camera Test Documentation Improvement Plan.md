@@ -89,6 +89,7 @@ EIDP (End Item Data Package)
 
 <mark style="background: #FFF3A3A6;">[AD4]    CSYS-IM3-TP-321839 REV B Ambient Pressure Thermal Test Procedure, IM3</mark>
 - includes python scripting for .csv creation and plot making (Section 5.7)
+	- what is ThermalLogPlotterCsv.py used for? not seen in documents r thermal test record
 
 <mark style="background: #BBFABBA6;">[AD17] CSYS-NISA-RE-323133 Thermal Test Record for SN 14305 – 14308</mark>
 - template - https://www.dropbox.com/scl/fi/qhuypifm5eaguqykjmteh/CSYS-NISA-FO-322384_REV_A_Thermal_Test_Record_Form.xlsx?rlkey=bhjaqc2we1h47zudkudeolif7&st=unl13t2r&dl=0
