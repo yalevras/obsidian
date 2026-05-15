@@ -100,6 +100,7 @@ For EIDP for Thermal, 2 graphs and a table summary are required (no values, only
 [AD5]    CSYS-NISA-PCS-320771 Rev B NISA Burn-in Procedure
 
 <mark style="background: #FFF3A3A6;">[AD6]    CSYS-NISA-TP-321185 Rev C NISA Electrical Testing Procedure</mark>
+- list of tests for different voltages of telemetry, has to be within certain ranges, can probably be autofilled in a table
 
 <mark style="background: #BBFABBA6;">[AD18] CSYS-NISA-TP-320666 Rev B NISA Short Form Functional Test</mark>
 
