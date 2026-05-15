@@ -97,7 +97,6 @@ EIDP (End Item Data Package)
 
 For EIDP for Thermal, 2 graphs and a table summary are required (no values, only Nominal status)
 
-[AD5]    CSYS-NISA-PCS-320771 Rev B NISA Burn-in Procedure
 
 <mark style="background: #FFF3A3A6;">[AD6]    CSYS-NISA-TP-321185 Rev C NISA Electrical Testing Procedure</mark>
 - list of tests for different voltages of telemetry, has to be within certain ranges, can probably be autofilled in a table
@@ -110,8 +109,6 @@ For EIDP for Thermal, 2 graphs and a table summary are required (no values, only
 
 <mark style="background: #BBFABBA6;">[AD18] CSYS-NISA-TP-320666 Rev B NISA Short Form Functional Test</mark>
 
-
-
 [AD8]    CSYS-NISA-PCS-320839 Rev B Edge Response Focusing Process
 
 [AD9]    CSYS-NISA-AI-320665 Rev A Image Circle Verification and Adjustment Procedure
@@ -121,6 +118,8 @@ For EIDP for Thermal, 2 graphs and a table summary are required (no values, only
 [AD11] CSYS-NISA-TP-320710 Rev D NISA Camera Operational Checkout
 
 [AD12] CSYS-NISA-PCS-320771 Rev A NISA Burn-In Procedure
+
+[AD5]    CSYS-NISA-PCS-320771 Rev B NISA Burn-in Procedure
 
 [AD13] CSYS-NISA-RE-323116 Burn-in Record for SN 14305
 
