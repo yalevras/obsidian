@@ -90,6 +90,9 @@ EIDP (End Item Data Package)
 [AD4]    CSYS-IM3-TP-321839 REV B Ambient Pressure Thermal Test Procedure, IM3
 - includes python scripting for .csv creation and plot making (Section 5.7)
 
+<mark style="background: #BBFABBA6;">[AD17] CSYS-NISA-RE-323133 Thermal Test Record for SN 14305 – 14308</mark>
+- https://www.dropbox.com/scl/fi/qhuypifm5eaguqykjmteh/CSYS-NISA-FO-322384_REV_A_Thermal_Test_Record_Form.xlsx?rlkey=bhjaqc2we1h47zudkudeolif7&st=unl13t2r&dl=0
+
 [AD5]    CSYS-NISA-PCS-320771 Rev B NISA Burn-in Procedure
 
 [AD6]    CSYS-NISA-TP-321185 Rev C NISA Electrical Testing Procedure
@@ -114,7 +117,7 @@ EIDP (End Item Data Package)
 
 [AD16] CSYS-NISA-RE-323125 Vibe Test Record for SN 14305 – 14308
 
-[AD17] CSYS-NISA-RE-323133 Thermal Test Record for SN 14305 – 14308
+
 
 [AD18] CSYS-NISA-TP-320666 Rev B NISA Short Form Functional Test
 
