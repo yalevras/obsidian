@@ -93,6 +93,7 @@ EIDP (End Item Data Package)
 
 <mark style="background: #BBFABBA6;">[AD17] CSYS-NISA-RE-323133 Thermal Test Record for SN 14305 – 14308</mark>
 - template - https://www.dropbox.com/scl/fi/qhuypifm5eaguqykjmteh/CSYS-NISA-FO-322384_REV_A_Thermal_Test_Record_Form.xlsx?rlkey=bhjaqc2we1h47zudkudeolif7&st=unl13t2r&dl=0
+- on excel main sheet, test software version specified, not sure if this can be autopopulated
 
 [AD5]    CSYS-NISA-PCS-320771 Rev B NISA Burn-in Procedure
 
