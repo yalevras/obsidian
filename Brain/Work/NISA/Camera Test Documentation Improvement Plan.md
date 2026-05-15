@@ -95,6 +95,8 @@ EIDP (End Item Data Package)
 - template - https://www.dropbox.com/scl/fi/qhuypifm5eaguqykjmteh/CSYS-NISA-FO-322384_REV_A_Thermal_Test_Record_Form.xlsx?rlkey=bhjaqc2we1h47zudkudeolif7&st=unl13t2r&dl=0
 - on excel main sheet, test software version specified, not sure if this can be autopopulated
 
+For EIDP for Thermal, 2 graphs and a table summary are required
+
 [AD5]    CSYS-NISA-PCS-320771 Rev B NISA Burn-in Procedure
 
 <mark style="background: #FFF3A3A6;">[AD6]    CSYS-NISA-TP-321185 Rev C NISA Electrical Testing Procedure</mark>
