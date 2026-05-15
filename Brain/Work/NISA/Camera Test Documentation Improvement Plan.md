@@ -102,9 +102,15 @@ For EIDP for Thermal, 2 graphs and a table summary are required (no values, only
 <mark style="background: #FFF3A3A6;">[AD6]    CSYS-NISA-TP-321185 Rev C NISA Electrical Testing Procedure</mark>
 - list of tests for different voltages of telemetry, has to be within certain ranges, can probably be autofilled in a table
 
-<mark style="background: #BBFABBA6;">[AD18] CSYS-NISA-TP-320666 Rev B NISA Short Form Functional Test</mark>
+[AD14] CSYS-NISA-RE-323126 Unit 14305 Post-Vibe Electrical Function Test Record
+
+[AD15] CSYS-NISA-RE-323117 Unit 14305 Pre-Vibe Electrical Function Test Record
 
 [AD7]    CSYS-NISA-RE-323134 Unit 14305 Electrical Function Test Record
+
+<mark style="background: #BBFABBA6;">[AD18] CSYS-NISA-TP-320666 Rev B NISA Short Form Functional Test</mark>
+
+
 
 [AD8]    CSYS-NISA-PCS-320839 Rev B Edge Response Focusing Process
 
@@ -118,9 +124,6 @@ For EIDP for Thermal, 2 graphs and a table summary are required (no values, only
 
 [AD13] CSYS-NISA-RE-323116 Burn-in Record for SN 14305
 
-[AD14] CSYS-NISA-RE-323126 Unit 14305 Post-Vibe Electrical Function Test Record
-
-[AD15] CSYS-NISA-RE-323117 Unit 14305 Pre-Vibe Electrical Function Test Record
 
 [AD16] CSYS-NISA-RE-323125 Vibe Test Record for SN 14305 – 14308 
 
