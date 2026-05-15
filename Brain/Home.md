@@ -392,7 +392,7 @@ Week 17
 	Monday May 11, 2026 - gym, play piano, walk 10 minutes, get through limits, rievews
 	Tuesday May 12, 2026 - climbing with Johnathan, reivews
 	Wednesday May 13, 2026 - play with Matthew
-	Thursday May 14, 2026  
+	Thursday May 14, 2026 - downtown with Grace and Liam, reviews, started Chinese
 	Friday May 15, 2026  
 	Saturday May 16, 2026  
 	Sunday May 17, 2026
