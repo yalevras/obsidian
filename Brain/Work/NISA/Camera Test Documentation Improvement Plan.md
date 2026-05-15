@@ -117,11 +117,7 @@ EIDP (End Item Data Package)
 
 [AD15] CSYS-NISA-RE-323117 Unit 14305 Pre-Vibe Electrical Function Test Record
 
-[AD16] CSYS-NISA-RE-323125 Vibe Test Record for SN 14305 – 14308
-
-
-
-[AD18] CSYS-NISA-TP-320666 Rev B NISA Short Form Functional Test
+[AD16] CSYS-NISA-RE-323125 Vibe Test Record for SN 14305 – 14308 
 
 
 
