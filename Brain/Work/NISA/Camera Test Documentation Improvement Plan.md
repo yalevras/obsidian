@@ -107,7 +107,7 @@ For EIDP for Thermal, 2 graphs and a table summary are required (no values, only
 
 [AD7]    CSYS-NISA-RE-323134 Unit 14305 Electrical Function Test Record
 
-<mark style="background: #BBFABBA6;">[AD18] CSYS-NISA-TP-320666 Rev B NISA Short Form Functional Test</mark>
+<mark style="background: #FFF3A3A6;">[AD18] CSYS-NISA-TP-320666 Rev B NISA Short Form Functional Test</mark>
 
 [AD8]    CSYS-NISA-PCS-320839 Rev B Edge Response Focusing Process
 
@@ -117,11 +117,12 @@ For EIDP for Thermal, 2 graphs and a table summary are required (no values, only
 
 [AD11] CSYS-NISA-TP-320710 Rev D NISA Camera Operational Checkout
 
-[AD12] CSYS-NISA-PCS-320771 Rev A NISA Burn-In Procedure
+<mark style="background: #FFF3A3A6;">[AD12] CSYS-NISA-PCS-320771 Rev A NISA Burn-In Procedure</mark>
 
-[AD5]    CSYS-NISA-PCS-320771 Rev B NISA Burn-in Procedure
+<mark style="background: #FF5582A6;">[AD5]    CSYS-NISA-PCS-320771 Rev B NISA Burn-in Procedure
+</mark>
 
-[AD13] CSYS-NISA-RE-323116 Burn-in Record for SN 14305
+<mark style="background: #BBFABBA6;">[AD13] CSYS-NISA-RE-323116 Burn-in Record for SN 14305</mark>
 
 
 <mark style="background: #FF5582A6;">[MISSING] CSYS-IM3-TP-321838 Vibration Test Procedure</mark>
