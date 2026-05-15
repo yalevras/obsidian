@@ -81,6 +81,42 @@ List of Documents
 EIDP (End Item Data Package)
 
 
+[AD1]     CSYS-NISA-MRS-322894 Manufacturing Record Sheet for CSYS-NISA-PN-322890 Serial Number 14305
+
+[AD2]    CSYS-IM3-TP-321838 REV A Vibration Test Procedure, IM3
+
+[AD3]    CANW2000.0 Vibration Testing #14305, 14306, 14307, 14308 NISA Cameras
+
+[AD4]    CSYS-IM3-TP-321839 REV B Ambient Pressure Thermal Test Procedure, IM3
+
+[AD5]    CSYS-NISA-PCS-320771 Rev B NISA Burn-in Procedure
+
+[AD6]    CSYS-NISA-TP-321185 Rev C NISA Electrical Testing Procedure
+
+[AD7]    CSYS-NISA-RE-323134 Unit 14305 Electrical Function Test Record
+
+[AD8]    CSYS-NISA-PCS-320839 Rev B Edge Response Focusing Process
+
+[AD9]    CSYS-NISA-AI-320665 Rev A Image Circle Verification and Adjustment Procedure
+
+[AD10] CSYS-NISA-TP-320461 Rev A Colour Calibration
+
+[AD11] CSYS-NISA-TP-320710 Rev D NISA Camera Operational Checkout
+
+[AD12] CSYS-NISA-PCS-320771 Rev A NISA Burn-In Procedure
+
+[AD13] CSYS-NISA-RE-323116 Burn-in Record for SN 14305
+
+[AD14] CSYS-NISA-RE-323126 Unit 14305 Post-Vibe Electrical Function Test Record
+
+[AD15] CSYS-NISA-RE-323117 Unit 14305 Pre-Vibe Electrical Function Test Record
+
+[AD16] CSYS-NISA-RE-323125 Vibe Test Record for SN 14305 – 14308
+
+[AD17] CSYS-NISA-RE-323133 Thermal Test Record for SN 14305 – 14308
+
+[AD18] CSYS-NISA-TP-320666 Rev B NISA Short Form Functional Test
+
 
 
 
