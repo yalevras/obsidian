@@ -88,7 +88,7 @@ EIDP (End Item Data Package)
 [AD3]    CANW2000.0 Vibration Testing #14305, 14306, 14307, 14308 NISA Cameras
 
 [AD4]    CSYS-IM3-TP-321839 REV B Ambient Pressure Thermal Test Procedure, IM3
-- 
+- includes python scripting for .csv creation and plot making (Section 5.7)
 
 [AD5]    CSYS-NISA-PCS-320771 Rev B NISA Burn-in Procedure
 
