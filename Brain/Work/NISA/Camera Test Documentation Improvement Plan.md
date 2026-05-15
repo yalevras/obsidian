@@ -115,7 +115,9 @@ For EIDP for Thermal, 2 graphs and a table summary are required (no values, only
 
 [AD10] CSYS-NISA-TP-320461 Rev A Colour Calibration
 
-[AD11] CSYS-NISA-TP-320710 Rev D NISA Camera Operational Checkout
+<mark style="background: #FFF3A3A6;">[AD11] CSYS-NISA-TP-320710 Rev D NISA Camera Operational Checkout</mark>
+
+<mark style="background: #FF5582A6;">[MISSING] OPS TEST REPORT 14305</mark>
 
 <mark style="background: #FFF3A3A6;">[AD12] CSYS-NISA-PCS-320771 Rev A NISA Burn-In Procedure</mark>
 
