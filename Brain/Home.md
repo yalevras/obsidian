@@ -454,7 +454,7 @@ Week 14
 	Wednesday June 3, 2026  
 	Thursday June 4, 2026  
 	Friday June 5, 2026  
-	Saturday June 6, 2026  
+	Saturday June 6, 2026  - olivia and katyz
 	Sunday June 7, 2026  
 Week 13
 			20	The Nyquist stability criterion	
