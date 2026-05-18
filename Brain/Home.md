@@ -365,7 +365,7 @@ Week 18
 	Saturday May 9, 2026 - Yiayia, reviews
 	Sunday May 10, 2026 - Mother's Day, reviews
 Week 17
-	Try to see matthew this weekend
+	Try to see matthew this weekend DONE
 	START THE FABRICS ONCE THE PLUSH ARRIVES
 		- new plan, go to banana games and hobby tonight
 	Book a date
@@ -393,7 +393,7 @@ Week 17
 	Tuesday May 12, 2026 - climbing with Johnathan, reivews
 	Wednesday May 13, 2026 - play with Matthew
 	Thursday May 14, 2026 - downtown with Grace and Liam, reviews, started Chinese
-	Friday May 15, 2026  
+	Friday May 15, 2026  - played games with Ma
 	Saturday May 16, 2026  
 	Sunday May 17, 2026
 Week 16
