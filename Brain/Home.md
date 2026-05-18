@@ -401,6 +401,8 @@ pokemon songs
 do the drawings
 fabricland
 leetcode
+german resources
+boating license
 			5	Dynamic response of closed-loop systems	
 			6	Time-domain specifications	
 			7	Effect of zeros	
