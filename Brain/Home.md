@@ -411,11 +411,11 @@ Week 16
 			18 Second Law and Units
 	Language: Chinese
 	Monday May 18, 2026  - see Yiayia
-	Tuesday May 19, 2026  
+	Tuesday May 19, 2026  - tennis racket
 	Wednesday May 20, 2026 - marlies game
 	Thursday May 21, 2026  - HLT1 6:30-8:30
 	Friday May 22, 2026  - RNB Club Naomi
-	Saturday May 23, 2026  
+	Saturday May 23, 2026  - CN tower
 	Sunday May 24, 2026  - morning movie
 Week 15
 			11	The root locus method	
