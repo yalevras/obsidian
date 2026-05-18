@@ -410,7 +410,7 @@ Week 16
 			17 Particle Kinetics Introduction
 			18 Second Law and Units
 	Language: Chinese
-	Monday May 18, 2026  
+	Monday May 18, 2026  - see Yiayia
 	Tuesday May 19, 2026  
 	Wednesday May 20, 2026 - marlies game
 	Thursday May 21, 2026  - HLT1 6:30-8:30
