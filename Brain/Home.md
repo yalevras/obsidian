@@ -397,6 +397,10 @@ Week 17
 	Saturday May 16, 2026  - Matthew's house
 	Sunday May 17, 2026  - hike with Matthew
 Week 16
+pokemon songs
+do the drawings
+fabricland
+leetcode
 			5	Dynamic response of closed-loop systems	
 			6	Time-domain specifications	
 			7	Effect of zeros	
