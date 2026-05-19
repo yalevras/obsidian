@@ -79,12 +79,12 @@ Week 18
 		- go to store in underground mall OR go to a & c games
 		- Minski is talked to
 	**Study:**
-	2	Block diagrams, the effect of feedback	DONE
-	3	Modeling principles	DONE
-	4	Block diagram manipulations, Mason’ rule	 DONE
-	1 Some Fundamental Definitions Units Particles Rigid Bodies, Vectors and Dimensional Consistency DONE
-	2 Particle Position Velocity and Acceleration DONE
-	4 General Curvilinear Motion DONE
+	2	Block diagrams, the effect of feedback	DONE✅
+	3	Modeling principles	DONE✅
+	4	Block diagram manipulations, Mason’ rule	 DONE✅
+	1 Some Fundamental Definitions Units Particles Rigid Bodies, Vectors and Dimensional Consistency DONE✅
+	2 Particle Position Velocity and Acceleration DONE✅
+	4 General Curvilinear Motion DONE✅
 	5 Curvilinear motion Rectilinear Coordinates
 	6 Projectile Motion
 	**Language:** Japanese, listening, flashcards 77 cards, 16 lessons
@@ -98,9 +98,9 @@ Week 18
 	Saturday May 9, 2026 - Yiayia, reviews
 	Sunday May 10, 2026 - Mother's Day, reviews
 Week 17
-	Try to see matthew this weekend DONE
+	Try to see matthew this weekend DONE✅
 	START THE FABRICS ONCE THE PLUSH ARRIVES
-		- new plan, go to banana games and hobby tonight
+		- new plan, go to banana games and hobby tonight DONE✅
 	Book a date
 	Work on sticker
 	DOWNLOAD MORE POKEMON MUSIC TO PHONE
@@ -108,7 +108,7 @@ Week 17
 		- FRLG
 		- SM
 		- USUM
-		- XY
+		- XY✅
 		- ORAS
 		- SWSH (Not that there will be much I don't think)
 		- SV
@@ -130,12 +130,12 @@ Week 17
 	Saturday May 16, 2026  - Matthew's house
 	Sunday May 17, 2026  - hike with Matthew
 Week 16
-pokemon songs
+pokemon songs✅
 do the drawings
 fabricland
 leetcode
 german resources
-boating license
+boating license✅
 computer case
 backpack
 			5	Dynamic response of closed-loop systems	
