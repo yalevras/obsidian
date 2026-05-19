@@ -130,9 +130,6 @@ For EIDP for Thermal, 2 graphs and a table summary are required (no values, only
 
 <mark style="background: #BBFABBA6;">[AD13] CSYS-NISA-RE-323116 Burn-in Record for SN 14305</mark>
 
-
-<mark style="background: #FF5582A6;">[MISSING] CSYS-IM3-TP-321838 Vibration Test Procedure</mark>
-
 <mark style="background: #BBFABBA6;">[AD16] CSYS-NISA-RE-323125 Vibe Test Record for SN 14305 – 14308 </mark>
 
 
