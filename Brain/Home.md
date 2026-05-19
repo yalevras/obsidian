@@ -155,7 +155,7 @@ backpack
 	Tuesday May 19, 2026  - tennis
 	Wednesday May 20, 2026 - marlies game
 	Thursday May 21, 2026  - HLT1 6:30-8:30
-	Friday May 22, 2026  - RNB Club Naomi
+	Friday May 22, 2026  - RNB Club Naomi, 9 AM MEETING, WEAR NICE CLOTHES FOR ASTRONAUT
 	Saturday May 23, 2026  - CN tower
 	Sunday May 24, 2026  - morning movie
 Week 15
