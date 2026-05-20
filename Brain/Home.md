@@ -94,9 +94,9 @@ CSC420 - Introduction to Image Understanding
 
 Week 18
 	**DO:**
-	Plan Matthew's gift, pick out plushie
-		- go to store in underground mall OR go to a & c games
-		- Minski is talked to
+	Plan Matthew's gift, pick out plushie✅
+		- go to store in underground mall OR go to a & c games✅
+		- Minski is talked to✅
 	**Study:**
 	2	Block diagrams, the effect of feedback	DONE✅
 	3	Modeling principles	DONE✅
@@ -122,7 +122,6 @@ Week 17
 		- new plan, go to banana games and hobby tonight DONE✅
 	Book a date
 	Work on sticker
-	DO
 			7 Falling Projectile SMath and Mathcad
 			8 nt Coordinates
 			9 Curvilinear Motion - Cylindrical Coordinates
