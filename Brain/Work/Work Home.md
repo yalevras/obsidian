@@ -4,6 +4,7 @@ GN&C:
 Adam:
 - ~~implemented 4 wheels (branch feature/more_fmu_inputs)~~
 - 4 vs 1 wheel toggle
+	- i broke it, remake by copying over changes. unfortunate but it should help
 - get distances from wheels
 - chunk loading
 ~~Allen:~~
