@@ -46,8 +46,9 @@ THINGS TO DO:
 
 TO DO BEFORE SCHOOL
 1. find apartment
-2. buy backpack
-3. buy computer case
+2. HSS and CS courses (GGR? LIN?)
+3. buy backpack
+4. buy computer case
 
 
 PREP FOR UNI:
