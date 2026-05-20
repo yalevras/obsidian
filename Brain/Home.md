@@ -20,34 +20,31 @@ THINGS TO DO:
 		- student loan -> looked into
 	Activities:
 		- cottage
-		- climbing
+		- climbing ✅
 		- tennis
-		- biking
-		- hiking
+		- biking ✅✅
+		- hiking ✅
 		- camping
 		- roller blading
 		- paintball
 		- tree top trekking
 	Hobbies:
 		- book
-		- piano
+		- piano ✅✅
 		- bass
 	Projects:
 	Other:
-		- dates
-		- clubbing
+		- dates ✅
+		- clubbing ✅
 	Languages:
 		- french 4 weeks
-		- japanese 6 weeks
+		- japanese 6 weeks ✅✅✅
 		- chinese 8 weeks
 		- greek
 		- german
 		- korean
 
 
-DO BEFORE UNI:
-1. Find apartment
-2. 
 
 
 PREP FOR UNI:
