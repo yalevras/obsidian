@@ -52,6 +52,16 @@ TO DO BEFORE SCHOOL
 2. HSS and CS courses (GGR? LIN?)
 3. buy backpack
 4. buy computer case
+5. pokemon music
+	1. FRLG
+	2. SM
+	3. USUM
+	4. ORAS
+	5. SWSH
+	6. SV
+	7. BSDP
+	8. Arceus
+	9. ZA
 
 
 PREP FOR UNI:
@@ -112,18 +122,7 @@ Week 17
 		- new plan, go to banana games and hobby tonight DONE✅
 	Book a date
 	Work on sticker
-	DOWNLOAD MORE POKEMON MUSIC TO PHONE
-	Games:
-		- FRLG
-		- SM
-		- USUM
-		- XY✅
-		- ORAS
-		- SWSH (Not that there will be much I don't think)
-		- SV
-		- BDSP
-		- Arceus?
-		- ZA?
+	DO
 			7 Falling Projectile SMath and Mathcad
 			8 nt Coordinates
 			9 Curvilinear Motion - Cylindrical Coordinates
