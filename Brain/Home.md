@@ -43,6 +43,9 @@ THINGS TO DO:
 		- greek
 		- german
 		- korean
+	Games:
+		- minecraft server
+		- pokemon
 
 TO DO BEFORE SCHOOL
 1. find apartment
