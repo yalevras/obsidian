@@ -44,7 +44,10 @@ THINGS TO DO:
 		- german
 		- korean
 
-
+TO DO BEFORE SCHOOL
+1. find apartment
+2. buy backpack
+3. buy computer case
 
 
 PREP FOR UNI:
