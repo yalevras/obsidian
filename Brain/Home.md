@@ -49,10 +49,14 @@ THINGS TO DO:
 
 TO DO BEFORE SCHOOL
 1. find apartment
+	1. furniture
+		1. table
 2. HSS and CS courses (GGR? LIN?)
 3. buy backpack
 4. buy computer case
-5. pokemon music
+5. buy water bottle
+6. new pc figure out
+7. pokemon music
 	1. FRLG
 	2. SM
 	3. USUM
@@ -63,14 +67,6 @@ TO DO BEFORE SCHOOL
 	8. Arceus
 	9. ZA
 
-
-PREP FOR UNI:
-- find apartment
-	- table
-- new backpack
-- clothing
-- pc
-- water bottle
 
 ECE496 - Capstone
 ECE467 - Compilers and Interpreters
