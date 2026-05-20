@@ -1,13 +1,4 @@
- **TO STUDY**
-**On Paper/MATHY:** (DO THESE BETWEEN SIEGE AND VALORANT ROUNDS, YOU'LL BE DONE IN NO TIME)
-- calculus
 
-**Through Code:**
-- compilers
-- multimedia systems / cv
-- python in general
-- c++ in general
-- networks
 
 THINGS TO DO:
 	Administrative Things
@@ -390,39 +381,17 @@ Fun Todo's:
 - get into music production
 - build some lego
 
-
-
-clean out phone 
-spotify images and sort jazz 
-some greek 
-some japanese 
-siege and gaming 
-some piano 
-clean room
-
-yard sales
-watch my movies
-5 books
-
-
-Weekly Checklist
-Sunday Feb 8th - Saturday Feb 14th
-Expected:
-5 planks - 1, 
-3 gyms - 1,
-10 genki workbook pages - 45, 
-4 greek anki reviews - 
-1 instrument playing - some jazz piano chords
-3 rust chapters - still on 2
-find a project to do in rust - project found!
-3 reads before bed - 
-Extra:
-spanish anki reviews - 1, 2
-3 compilers chapters - 2,
-learning lots about java
-completed regex
-
-
+ **TO STUDY**
+**Through Code:**
+- compilers
+- multimedia systems / cv
+- python in general
+- c++ in general
+- networks
+- kalman filters
+- leetcode 150
+**On Paper/MATHY:** (DO THESE BETWEEN SIEGE AND VALORANT ROUNDS, YOU'LL BE DONE IN NO TIME)
+- controls
 Calculus
 	1 Review  
 		1.1 Functions   ✅
