@@ -57,6 +57,13 @@ TO DO BEFORE SCHOOL
 	7. BSDP
 	8. Arceus
 	9. ZA
+8. organize spotify
+
+clean out phone 
+yard sales
+watch my movies
+5 books
+
 
 
 ECE496 - Capstone
