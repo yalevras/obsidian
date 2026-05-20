@@ -135,11 +135,10 @@ Week 16
 pokemon songs✅
 do the drawings
 fabricland
+get instagram archive, make yanni matthew wrapped one year
 leetcode
 german resources
 boating license✅
-computer case
-backpack
 			5	Dynamic response of closed-loop systems	
 			6	Time-domain specifications	
 			7	Effect of zeros	
