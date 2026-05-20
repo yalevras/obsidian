@@ -2,7 +2,7 @@
 GN&C:
 - nothing yet
 Adam:
-- waiting on more work for Chrono
+- implemented 4 wheels ()
 - minecraft chunk loading?
 ~~Allen:~~
 - ~~tests are ready, waiting for Allen to push fix and I will add a test for it, child did not have base init if parents did not have init DONE, added case~~
