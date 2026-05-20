@@ -47,7 +47,7 @@ THINGS TO DO:
 
 DO BEFORE UNI:
 1. Find apartment
-	1. should be by Bay and Yonge
+2. 
 
 
 PREP FOR UNI:
