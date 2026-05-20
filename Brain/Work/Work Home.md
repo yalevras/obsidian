@@ -3,7 +3,9 @@ GN&C:
 - nothing yet
 Adam:
 - ~~implemented 4 wheels (branch feature/more_fmu_inputs)~~
-- minecraft chunk loading?
+- 4 vs 1 wheel toggle
+- get distances from wheels
+- chunk loading
 ~~Allen:~~
 - ~~tests are ready, waiting for Allen to push fix and I will add a test for it, child did not have base init if parents did not have init DONE, added case~~
 Frank:
