@@ -45,6 +45,11 @@ THINGS TO DO:
 		- korean
 
 
+DO BEFORE UNI:
+1. Find apartment
+	1. should be by Bay and Yonge
+
+
 PREP FOR UNI:
 - find apartment
 	- table
