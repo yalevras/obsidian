@@ -154,7 +154,7 @@ boating license✅
 	Monday May 18, 2026  - see Yiayia
 	Tuesday May 19, 2026  - tennis
 	Wednesday May 20, 2026 - marlies game GO TO WORK EARLY MAKE UP TIME
-	Thursday May 21, 2026  - HLT1 6:30-8:30 MEETING WITH PROF
+	Thursday May 21, 2026  - HLT1 6:30-8:30 MEETING WITH PROF  
 	Friday May 22, 2026  - RNB Club Naomi, THERMOMETER, THEREMOMETER, THERMOMETER, 9 AM MEETING, WEAR NICE CLOTHES FOR ASTRONAUT
 	Saturday May 23, 2026  - CN tower
 	Sunday May 24, 2026  - morning movie
