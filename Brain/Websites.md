@@ -98,7 +98,8 @@ https://jesse-michael-han.github.io/research/
 
 https://walzr.com/
 
-Anki 
+Anki Decks
+Anking V11 - https://drive.google.com/file/d/1TB8Gy-qSmiVFclc8XXv1i7I2BokXltth/view
 
 Design Portfolios
 https://www.bguillaume.info/
