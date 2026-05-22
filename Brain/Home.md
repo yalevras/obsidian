@@ -157,7 +157,7 @@ recycle bin
 	Wednesday May 20, 2026 - marlies game GO TO WORK EARLY MAKE UP TIME
 	Thursday May 21, 2026  - HLT1 6:30-8:30 MEETING WITH PROF  
 	Friday May 22, 2026  - RNB Club Naomi, THERMOMETER, THEREMOMETER, THERMOMETER, 9 AM MEETING, WEAR NICE CLOTHES FOR ASTRONAUT
-	Saturday May 23, 2026 - spend this day going to: fabricland, making garchomp gift, drawing gift, gym?, return uniqlo shi
+	Saturday May 23, 2026 - spend this day going to: fabricland, making garchomp gift, drawing gift, gym?, return uniqlo shirt
 	Sunday May 24, 2026  - morning movie
 Week 15
 			11	The root locus method	
