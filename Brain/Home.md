@@ -234,9 +234,9 @@ Week 12
 	Tuesday June 16, 2026  
 	Wednesday June 17, 2026  
 	Thursday June 18, 2026 - matthew cottage 
-	Friday June 19, 2026 - matthew cottage
+	Friday June 19, 2026 - matthew cottage (take day off)
 	Saturday June 20, 2026 - matthew cottage
-	Sunday June 21, 2026  
+	Sunday June 21, 2026 - matthew cottage
 Week 11
 			28	The Nichols chart
 			29	Digital control, the z-transform	
