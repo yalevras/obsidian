@@ -81,6 +81,7 @@ D:\Textbook
 	https://www.eecg.utoronto.ca/~liscidin/publications/07130765.pdf
 	https://s3vi.ndc.nasa.gov/ssri-kb/static/resources/Lee_Ji_Eun_(Christine)_201911_MAS_thesis.pdf
 	DSP - Proakis in textbooks
+	radartutorial.eu - https://www.radartutorial.eu/04.history/hi04.en.html
 **Blogs:**
 	https://lisyarus.github.io/blog/ - articles about computer graphics, quaternions, physics simulations, etc
 	https://zhangtemplar.github.io/dimension/

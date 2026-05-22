@@ -86,6 +86,9 @@ Cool Papers
 Software Stuff
 https://www.augmentcode.com/
 
+Elec Stuff
+https://www.rohde-schwarz.com/ca/solutions/aerospace-and-defense/land/emso-testing/radar-and-electronic-warfare-pocket-guide_255695.html?cid=010_com_dsp_123_rt_22-10_int__radar-pocketguide_ros_banner____
+
 Portfolios
 https://diegociudadreal.com/#about
 https://stevengong.co/
