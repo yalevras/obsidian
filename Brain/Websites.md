@@ -104,6 +104,7 @@ https://walzr.com/
 Anki Decks
 Anking V11 - https://drive.google.com/file/d/1TB8Gy-qSmiVFclc8XXv1i7I2BokXltth/view
 MCAT - https://www.reddit.com/r/Mcat/comments/cckw41/my_anki_deck/
+https://www.reddit.com/r/Mcat/comments/9j8zma/repost_of_rebopbebops_mcat_guide_and_anki_cards/
 Van Does Chemistry
 
 Design Portfolios
