@@ -64,6 +64,7 @@ yard sales
 watch my movies
 5 books
 
+apply to skoll scholarship and pretend i thought it was for business certificate
 
 
 ECE496 - Capstone
@@ -232,9 +233,9 @@ Week 12
 	Monday June 15, 2026  
 	Tuesday June 16, 2026  
 	Wednesday June 17, 2026  
-	Thursday June 18, 2026  
-	Friday June 19, 2026  
-	Saturday June 20, 2026  
+	Thursday June 18, 2026 - matthew cottage 
+	Friday June 19, 2026 - matthew cottage
+	Saturday June 20, 2026 - matthew cottage
 	Sunday June 21, 2026  
 Week 11
 			28	The Nichols chart
