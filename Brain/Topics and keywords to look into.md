@@ -1,3 +1,0 @@
-
-Softbody Dynamics
-L-systems
