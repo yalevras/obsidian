@@ -26,7 +26,6 @@ matilda
 stephen
 annie
 gurpreet
-ignacio
 peter
 kaxie
 mariia
