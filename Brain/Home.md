@@ -177,8 +177,8 @@ Week 15
 	Tuesday May 26, 2026  
 	Wednesday May 27, 2026  
 	Thursday May 28, 2026  
-	Friday May 29, 2026  - backrooms for matthew's bday?
-	Saturday May 30, 2026  - matthew bday
+	Friday May 29, 2026  - tennis?
+	Saturday May 30, 2026  - matthew bday backrooms?
 	Sunday May 31, 2026  
 Week 14
 			16	Frequency response design	
