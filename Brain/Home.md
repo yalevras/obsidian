@@ -138,9 +138,9 @@ Week 15
 - fix medal audio
 	Language: Chinese
 	Monday May 25, 2026 - gym, fabricland new thread? fabric scissors 7am-1:30pm
-	Tuesday May 26, 2026  - 1pm-5pm
-	Wednesday May 27, 2026  - 3pm-7pm
-	Thursday May 28, 2026  - 4pm-10pm 11pm-3am 6am-12
+	Tuesday May 26, 2026  - 1pm-5pm tennis tuesdays
+	Wednesday May 27, 2026  - 3pm-7pm gym
+	Thursday May 28, 2026  - 4pm-10pm 11pm-3am 6am-12 gym, pick up phm, staples
 	Friday May 29, 2026  - tennis? 
 	Saturday May 30, 2026  - matthew bday backrooms?
 	Sunday May 31, 2026 - overnight working
