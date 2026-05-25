@@ -19,18 +19,3 @@ https://walzr.com/
 
 
 music tracking website where you can explore music like on spotify and albums and it connects to your spotify data, and you can import spotify data. on an album you can see listens for each song under the song, and a blank spot for your rating.
-
-ronak
-ahmed
-matilda
-stephen
-annie
-gurpreet
-peter
-kaxie
-mariia
-andreas
-ishan
-sam
-mathew
-spiro
