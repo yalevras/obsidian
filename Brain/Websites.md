@@ -98,6 +98,7 @@ https://julian6alvarez.mystrikingly.com/
 https://jszhn.github.io/brain/
 https://zhangtemplar.github.io/
 https://jesse-michael-han.github.io/research/
+https://maggieappleton.com/
 
 https://walzr.com/
 
