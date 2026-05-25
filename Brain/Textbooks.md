@@ -106,4 +106,6 @@ D:\Textbook
 **Dynamics**
 https://edtech.engineering.utoronto.ca/project-catalog/overview-of-engineering-mechanics-dynamics/mie100-dynamics-youtube-video-playlist-complete/
 https://ocw.mit.edu/courses/16-07-dynamics-fall-2009/pages/lecture-notes/
+**Graphings**:
+2d graphs https://cytoscape.org/
 
