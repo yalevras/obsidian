@@ -120,12 +120,12 @@ Week 17
 Week 16
 pokemon songs✅
 do the drawings
-fabricland
+fabricland✅
 get instagram archive, make yanni matthew wrapped one year
 leetcode
 german resources
 boating license✅
-recycle bin
+recycle bin✅
 	Language: Chinese
 	Monday May 18, 2026  - see Yiayia
 	Tuesday May 19, 2026  - tennis
@@ -135,6 +135,7 @@ recycle bin
 	Saturday May 23, 2026 - spend this day going to: fabricland, making garchomp gift, drawing gift, gym?, return uniqlo shirt
 	Sunday May 24, 2026  - morning movie
 Week 15
+- fix medal audio
 	Language: Chinese
 	Monday May 25, 2026 - gym, fabricland new thread? fabric scissors 7am-1:30pm
 	Tuesday May 26, 2026  - 1pm-5pm
