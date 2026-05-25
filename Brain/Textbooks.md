@@ -65,6 +65,7 @@ D:\Textbook
 	https://d2l.ai/
 	https://www.deeplearningbook.org/
 	https://github.com/chiphuyen/aie-book/blob/main/resources.md#ml-theory-fundamentals
+	Datasets - https://www.kaggle.com/competitions
 **Technical Books**:
 	Hamming - The Art of Doing Science and Engineering 0/30!pg.11
 **Math:**
