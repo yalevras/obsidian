@@ -173,7 +173,7 @@ Week 15
 			23 Central Force Motion
 			24 Overview of Particle Work-Energy
 	Language: Chinese
-	Monday May 25, 2026  
+	Monday May 25, 2026 - gym, fabricland new thread?
 	Tuesday May 26, 2026  
 	Wednesday May 27, 2026  
 	Thursday May 28, 2026  
