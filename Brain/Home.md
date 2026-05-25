@@ -92,15 +92,6 @@ Week 18
 	Plan Matthew's gift, pick out plushie✅
 		- go to store in underground mall OR go to a & c games✅
 		- Minski is talked to✅
-	**Study:**
-	2	Block diagrams, the effect of feedback	DONE✅
-	3	Modeling principles	DONE✅
-	4	Block diagram manipulations, Mason’ rule	 DONE✅
-	1 Some Fundamental Definitions Units Particles Rigid Bodies, Vectors and Dimensional Consistency DONE✅
-	2 Particle Position Velocity and Acceleration DONE✅
-	4 General Curvilinear Motion DONE✅
-	5 Curvilinear motion Rectilinear Coordinates
-	6 Projectile Motion
 	**Language:** Japanese, listening, flashcards 77 cards, 16 lessons
 	Saturday May 2, 2026  - Devil Wears Prada, 3 lectures
 	Sunday May 3, 2026  - Wonderland, 100 flashcards
@@ -117,12 +108,7 @@ Week 17
 		- new plan, go to banana games and hobby tonight DONE✅
 	Book a date
 	Work on sticker
-			7 Falling Projectile SMath and Mathcad
-			8 nt Coordinates
-			9 Curvilinear Motion - Cylindrical Coordinates
-			10 r-theta Example
-			11 Absolute Dependent Motion
-			12 Absolute Dependent Motion (Atwood Machine)
+
 	Language: Japanese, goal 60 cards, 12 lessons
 	Monday May 11, 2026 - gym, play piano, walk 10 minutes, get through limits, rievews
 	Tuesday May 12, 2026 - climbing with Johnathan, reivews
@@ -140,18 +126,6 @@ leetcode
 german resources
 boating license✅
 recycle bin
-			5	Dynamic response of closed-loop systems	
-			6	Time-domain specifications	
-			7	Effect of zeros	
-			8	The Routh criterion	
-			9	Effect of noise, steady-state errors	
-			10	PID control	
-			13 Relative Velocity of Particles
-			14 Relative Motion
-			15 Particle Kinematics Summary
-			16 Gravity Units Mass Weight
-			17 Particle Kinetics Introduction
-			18 Second Law and Units
 	Language: Chinese
 	Monday May 18, 2026  - see Yiayia
 	Tuesday May 19, 2026  - tennis
@@ -161,17 +135,6 @@ recycle bin
 	Saturday May 23, 2026 - spend this day going to: fabricland, making garchomp gift, drawing gift, gym?, return uniqlo shirt
 	Sunday May 24, 2026  - morning movie
 Week 15
-			11	The root locus method	
-			12	Root locus rules	
-			13	Root locus rules, lead compensation	
-			14	Lag compensation	
-			15	Zero degree root locus	
-			19 Friction Friction
-			20 Curvilinear Kinetics
-			21 n-t Coordinate Examples
-			22 Absolute Dependent Motion - Applied to Particle Kinetics
-			23 Central Force Motion
-			24 Overview of Particle Work-Energy
 	Language: Chinese
 	Monday May 25, 2026 - gym, fabricland new thread? fabric scissors
 	Tuesday May 26, 2026  
@@ -181,16 +144,6 @@ Week 15
 	Saturday May 30, 2026  - matthew bday backrooms?
 	Sunday May 31, 2026  
 Week 14
-			16	Frequency response design	
-			17	Bode plot problems	
-			18	Bode plots (cont.)	
-			19	Complex poles and zeros, unstable poles, and non-minimum phase zeros	
-			25 Spring Gravity Work Energy Problems
-			26 Ski Jumper Problem
-			27 Spring Gravity Work Energy Problems (2)
-			28 Work-Energy Examples
-			29 Overview of Particle Momentum
-			30 Particle Angular Momentum
 	Language: French
 	Monday June 1, 2026 - finish trivia by, decide capstone prof by
 	Tuesday June 2, 2026  
@@ -200,16 +153,6 @@ Week 14
 	Saturday June 6, 2026  - olivia and katya party, 2012 theme, 45 charles st e 2012, 8:30 pm
 	Sunday June 7, 2026  
 Week 13
-			20	The Nyquist stability criterion	
-			21	The Nyquist stability criterion (cont.)	
-			22	Nyquist with poles on imaginary axis
-			23	Stability margins, Bode gain-phase theorem	
-			31 Particle Linear Momentum
-			32 Three Types of Motion You See in Rigid Bodies
-			33 Kinematics of Rigid Bodies
-			34 Instantaneous Centre of Zero Velocity
-			35 Velocity and Acceleration - Rigid Bodies
-			36 Graphical (Scalar) and Vector Velocity Analysis of Rigid Bodies
 	Language: French
 	Monday June 8, 2026  
 	Tuesday June 9, 2026  
@@ -219,16 +162,6 @@ Week 13
 	Saturday June 13, 2026  - HLT2 12-2
 	Sunday June 14, 2026  
 Week 12
-			24	Bode compensation	
-			25	Lead compensation	
-			26	Lag compensation (cont.)	
-			27	NMP systems	
-			37 Moment of Inertia
-			38 Overview of Rigid Body Kinetics
-			39 Rolling With and Without Slip
-			40 Lawnmover Man and Computational Complexity
-			41 Threading the Spool
-			42 Rigid Body Kinematics and Kinetics
 	Language: Japanese
 	Monday June 15, 2026  
 	Tuesday June 16, 2026  
@@ -238,16 +171,6 @@ Week 12
 	Saturday June 20, 2026 - matthew cottage
 	Sunday June 21, 2026 - matthew cottage
 Week 11
-			28	The Nichols chart
-			29	Digital control, the z-transform	
-			30	The z‐transform, design by emulation, the Tustin transform	
-			31	Compensator design examples, time delay of ZOH	
-			43 Overview of Rigid Body Work - Energy
-			44 Kinetics - Rigid Bodies
-			45 Rigid Bodies Work Energy Examples 2
-			46 Rigid Bodies - Work Energy
-			47 Rigid Body Kinetics - Work and Energy
-			48 Rigid Body Momentum More Examples
 	Language: Japanese
 	Monday June 22, 2026  
 	Tuesday June 23, 2026 - tentative Blue Jays hot dog with work  
@@ -257,16 +180,6 @@ Week 11
 	Saturday June 27, 2026  
 	Sunday June 28, 2026  
 Week 10
-			32	Discrete design	
-			33	The w-transform	
-			34	Design examples, pre‐warping, direct design	
-			35	Higher harmonic control	
-			49 Rigid Body Momentum More Examples
-			50 Rigid Body Momentum Angular/Linear
-			51 Rolling Cylinder on Ramp Friction Direction and Calculation
-			52 Overview of Vibrations Chapter
-			53 Touched by an Angle
-			54 Springs - Parallel and Series
 	Language: Chinese
 	Monday June 29, 2026  
 	Tuesday June 30, 2026  
@@ -276,10 +189,6 @@ Week 10
 	Saturday July 4, 2026  
 	Sunday July 5, 2026  
 Week 9
-			55 Vibrations Introductory Problems
-			56 Absolute Dependent Motion - Vibration
-			57 Forced Vibration Problem (plus a damping problem)
-			58 Forced Damped Vibrations
 	Language: Chinese
 	Monday July 6, 2026  
 	Tuesday July 7, 2026  
@@ -401,6 +310,99 @@ Fun Todo's:
 - leetcode 150
 **On Paper/MATHY:** (DO THESE BETWEEN SIEGE AND VALORANT ROUNDS, YOU'LL BE DONE IN NO TIME)
 - controls
+Controls:
+	2	Block diagrams, the effect of feedback	DONE✅
+	3	Modeling principles	DONE✅
+	4	Block diagram manipulations, Mason’ rule	 DONE✅
+	5	Dynamic response of closed-loop systems	
+	6	Time-domain specifications	
+	7	Effect of zeros	
+	8	The Routh criterion	
+	9	Effect of noise, steady-state errors	
+	10	PID control	
+	11	The root locus method	
+	12	Root locus rules	
+	13	Root locus rules, lead compensation	
+	14	Lag compensation	
+	15	Zero degree root locus	
+	16	Frequency response design	
+	17	Bode plot problems	
+	18	Bode plots (cont.)	
+	19	Complex poles and zeros, unstable poles, and non-minimum phase zeros	
+	20	The Nyquist stability criterion	
+	21	The Nyquist stability criterion (cont.)	
+	22	Nyquist with poles on imaginary axis
+	23	Stability margins, Bode gain-phase theorem	
+	24	Bode compensation	
+	25	Lead compensation	
+	26	Lag compensation (cont.)	
+	27	NMP systems	
+	28	The Nichols chart
+	29	Digital control, the z-transform	
+	30	The z‐transform, design by emulation, the Tustin transform	
+	31	Compensator design examples, time delay of ZOH	
+	32	Discrete design	
+	33	The w-transform	
+	34	Design examples, pre‐warping, direct design	
+	35	Higher harmonic control	
+Dynamics:
+	1 Some Fundamental Definitions Units Particles Rigid Bodies, Vectors and Dimensional Consistency DONE✅
+	2 Particle Position Velocity and Acceleration DONE✅
+	4 General Curvilinear Motion DONE✅
+	5 Curvilinear motion Rectilinear Coordinates
+	6 Projectile Motion
+	7 Falling Projectile SMath and Mathcad
+	8 nt Coordinates
+	9 Curvilinear Motion - Cylindrical Coordinates
+	10 r-theta Example
+	11 Absolute Dependent Motion
+	12 Absolute Dependent Motion (Atwood Machine)
+	13 Relative Velocity of Particles
+	14 Relative Motion
+	15 Particle Kinematics Summary
+	16 Gravity Units Mass Weight
+	17 Particle Kinetics Introduction
+	18 Second Law and Units
+	19 Friction Friction
+	20 Curvilinear Kinetics
+	21 n-t Coordinate Examples
+	22 Absolute Dependent Motion - Applied to Particle Kinetics
+	23 Central Force Motion
+	24 Overview of Particle Work-Energy
+	25 Spring Gravity Work Energy Problems
+	26 Ski Jumper Problem
+	27 Spring Gravity Work Energy Problems (2)
+	28 Work-Energy Examples
+	29 Overview of Particle Momentum
+	30 Particle Angular Momentum
+	31 Particle Linear Momentum
+	32 Three Types of Motion You See in Rigid Bodies
+	33 Kinematics of Rigid Bodies
+	34 Instantaneous Centre of Zero Velocity
+	35 Velocity and Acceleration - Rigid Bodies
+	36 Graphical (Scalar) and Vector Velocity Analysis of Rigid Bodies
+	37 Moment of Inertia
+	38 Overview of Rigid Body Kinetics
+	39 Rolling With and Without Slip
+	40 Lawnmover Man and Computational Complexity
+	41 Threading the Spool
+	42 Rigid Body Kinematics and Kinetics
+	43 Overview of Rigid Body Work - Energy
+	44 Kinetics - Rigid Bodies
+	45 Rigid Bodies Work Energy Examples 2
+	46 Rigid Bodies - Work Energy
+	47 Rigid Body Kinetics - Work and Energy
+	48 Rigid Body Momentum More Examples
+	49 Rigid Body Momentum More Examples
+	50 Rigid Body Momentum Angular/Linear
+	51 Rolling Cylinder on Ramp Friction Direction and Calculation
+	52 Overview of Vibrations Chapter
+	53 Touched by an Angle
+	54 Springs - Parallel and Series
+	55 Vibrations Introductory Problems
+	56 Absolute Dependent Motion - Vibration
+	57 Forced Vibration Problem (plus a damping problem)
+	58 Forced Damped Vibrations
 Calculus
 	1 Review  
 		1.1 Functions   ✅

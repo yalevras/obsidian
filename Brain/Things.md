@@ -15,9 +15,6 @@ Divisi
 OpenGL
 Clean Room,
 
-
-
-
 Piano
 - rude buster
 - rude buster but kapustin
