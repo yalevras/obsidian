@@ -20,4 +20,6 @@ Frank:
 
 
 
-attach bce particles to a body, infinitely stiff,
+attach bce particles to a body, infinitely stiff, look at how the wheel is setup.
+
+pattern 
