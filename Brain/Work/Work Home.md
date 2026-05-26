@@ -18,7 +18,8 @@ Frank:
 
 
 
-
+make branch for rocks
+L-systems?
 
 attach bce particles to a body, infinitely stiff, look at how the wheel is setup.
 
