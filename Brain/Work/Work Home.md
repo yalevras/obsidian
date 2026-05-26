@@ -15,3 +15,9 @@ Frank:
 - research the testing process
 ~~Yanni:~~
 - ~~image processing asp library~~
+
+
+
+
+
+attach bce particles to a body, infinitely stiff,
