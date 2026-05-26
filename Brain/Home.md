@@ -157,14 +157,14 @@ Week 13
 	Language: French
 	Monday June 8, 2026  
 	Tuesday June 9, 2026  
-	Wednesday June 10, 2026  
+	Wednesday June 10, 2026 - thea graduation
 	Thursday June 11, 2026  
 	Friday June 12, 2026  
 	Saturday June 13, 2026  - HLT2 12-2
-	Sunday June 14, 2026  
+	Sunday June 14, 2026 - potential pierogi day
 Week 12
 	Language: Japanese
-	Monday June 15, 2026  
+	Monday June 15, 2026 - innis graduation
 	Tuesday June 16, 2026  
 	Wednesday June 17, 2026  
 	Thursday June 18, 2026 - matthew cottage 
