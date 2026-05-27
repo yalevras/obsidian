@@ -61,6 +61,7 @@ TO DO BEFORE SCHOOL
 
 clean out phone 
 yard sales
+- guelph https://www.guelphtoday.com/classifieds/buy-sell-and-services/garage-and-yard-sales
 watch my movies
 5 books
 
