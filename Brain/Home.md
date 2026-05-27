@@ -66,7 +66,9 @@ yard sales
 - milton https://www.facebook.com/groups/507925445955586/ 2 sat 30
 - etobicoke 3 sat 30 https://gsalr.ca/garage-sales-etobicoke-on.html
 	- multi family tented - 36 esmond cres, etobicoke, may 30 8-5, may 31 8-4
-	- 3 apt bldg lawn sale - 1515 wilson 
+	- 3 apt bldg lawn sale - 1515 wilson ave, north york, may 30 8-2
+	- rain delayed yard sale - 66 woodside ave, toronto, may 30 8-12
+	- giant junction jumble sale
 watch my movies
 5 books
 
