@@ -63,7 +63,9 @@ clean out phone
 yard sales
 - guelph https://www.guelphtoday.com/classifieds/buy-sell-and-services/garage-and-yard-sales 4 sat 30
 	- https://www.facebook.com/groups/951988501566641/discussion/preview
-	- yard sale - 52 old colony trail, guelph
+	- yard sale - 52 old colony trail, guelph, may 30  9-1
+	- yard sale - 432 cole rd
+	- garage sale - 36 sherwood drive, guelph, may 30 8-1
 - milton https://www.facebook.com/groups/507925445955586/ 2 sat 30
 	- multifamily sale - maple ave, milton 8:30
 	- yard sale - 1192 turner drive, milton 7-12
