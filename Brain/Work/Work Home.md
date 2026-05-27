@@ -24,3 +24,14 @@ L-systems?
 attach bce particles to a body, infinitely stiff, look at how the wheel is setup.
 
 pattern 
+
+
+
+
+model bumps that are same consistency as the ground, how does it deal with compliant terrain that is undulent
+
+vs fully rigid blocks floating in the dust soup, vs an anchored rigid block
+square triangle circle
+
+
+driving sideways on a slope to see the wheel deforms to the same angle as the slope
