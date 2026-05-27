@@ -63,9 +63,10 @@ clean out phone
 yard sales
 - guelph https://www.guelphtoday.com/classifieds/buy-sell-and-services/garage-and-yard-sales 4 sat 30
 	- https://www.facebook.com/groups/951988501566641/discussion/preview
+	- yard sale - 52 old colony trail, guelph
 - milton https://www.facebook.com/groups/507925445955586/ 2 sat 30
 	- multifamily sale - maple ave, milton 8:30
-	- yard sale - 
+	- yard sale - 1192 turner drive, milton 7-12
 - etobicoke 3 sat 30 https://gsalr.ca/garage-sales-etobicoke-on.html
 	- multi family tented - 36 esmond cres, etobicoke, may 30 8-5, may 31 8-4
 	- 3 apt bldg lawn sale - 1515 wilson ave, north york, may 30 8-2
