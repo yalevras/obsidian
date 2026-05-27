@@ -65,6 +65,8 @@ yard sales
 	- https://www.facebook.com/groups/951988501566641/discussion/preview
 - milton https://www.facebook.com/groups/507925445955586/ 2 sat 30
 - etobicoke 3 sat 30 https://gsalr.ca/garage-sales-etobicoke-on.html
+	- multi family tented - 36 esmond cres, etobicoke, may 30 8-5, may 31 8-4
+	- 3 apt bldg lawn sale - 1515 wilson 
 watch my movies
 5 books
 
