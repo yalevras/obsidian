@@ -159,7 +159,7 @@ Week 15
 	Thursday May 28, 2026  - 4pm-10pm 11pm-3am 6am-12 gym, pick up phm, staples (getting moved to next week)
 	Friday May 29, 2026  - tennis at rosedale
 	Saturday May 30, 2026  - garage sales, matthew bday climbing!!!!!, game night downtown?
-	Sunday May 31, 2026 - overnight working, 
+	Sunday May 31, 2026 - overnight working, capstone meeting at 2pm
 Week 14
 	Language: French
 	Monday June 1, 2026 - finish trivia by, decide capstone prof by
