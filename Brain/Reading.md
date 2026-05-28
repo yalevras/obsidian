@@ -13,4 +13,7 @@ Project Hail Mary
 Articles and studies
 https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pdf
 
+
+Publishers
 https://press.stripe.com/
+https://dom-publishers.com/
