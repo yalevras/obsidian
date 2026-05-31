@@ -100,7 +100,8 @@ ECE462 - Multimedia Systems
 - some linalg stuff it seems
 CSC420 - Introduction to Image Understanding
 
-
+more into wifi
+read paper on DoRF and MORIC
 
 
 Week 18
