@@ -12,7 +12,7 @@ THINGS TO DO:
 	Activities:
 		- cottage
 		- climbing ✅
-		- tennis
+		- tennis ✅✅
 		- biking ✅✅
 		- hiking ✅
 		- camping
@@ -44,7 +44,7 @@ TO DO BEFORE SCHOOL
 		1. table
 2. HSS and CS courses (GGR? LIN?)
 3. buy backpack
-4. buy computer case
+4. buy computer case ✅
 5. buy water bottle
 6. new pc figure out
 7. pokemon music
