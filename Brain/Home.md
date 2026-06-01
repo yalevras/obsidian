@@ -59,6 +59,9 @@ TO DO BEFORE SCHOOL
 	9. ZA
 8. organize spotify
 
+
+hello
+
 clean out phone 
 yard sales
 - guelph https://www.guelphtoday.com/classifieds/buy-sell-and-services/garage-and-yard-sales 4 sat 30
