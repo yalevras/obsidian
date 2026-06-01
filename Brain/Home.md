@@ -37,6 +37,11 @@ THINGS TO DO:
 	Games:
 		- minecraft server
 		- pokemon
+	- Buy
+		- backpack
+		- computer case ✅
+		- water bottle
+		- pc
 
 TO DO BEFORE SCHOOL
 1. find apartment
@@ -49,14 +54,15 @@ TO DO BEFORE SCHOOL
 6. new pc figure out
 7. pokemon music
 	1. FRLG
-	2. SM
-	3. USUM
-	4. ORAS
-	5. SWSH
-	6. SV
-	7. BSDP
-	8. Arceus
-	9. ZA
+	2. XY ✅
+	3. SM
+	4. USUM
+	5. ORAS
+	6. SWSH
+	7. SV
+	8. BSDP
+	9. Arceus
+	10. ZA
 8. organize spotify
 
 
@@ -166,7 +172,9 @@ Week 15
 	Saturday May 30, 2026  - garage sales, matthew bday climbing!!!!!, game night downtown?
 	Sunday May 31, 2026 - overnight working, capstone meeting at 2pm
 Week 14
-- 
+- controls
+- music tracker projects or something else?
+- learn all about wifi
 	Language: French
 	Monday June 1, 2026 - gym
 	Tuesday June 2, 2026 - tennis, play with matthew
