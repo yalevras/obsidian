@@ -168,9 +168,9 @@ Week 15
 Week 14
 - 
 	Language: French
-	Monday June 1, 2026
-	Tuesday June 2, 2026  
-	Wednesday June 3, 2026  
+	Monday June 1, 2026 - gym
+	Tuesday June 2, 2026 - tennis, play with matthew
+	Wednesday June 3, 2026 - gym, yiayia?
 	Thursday June 4, 2026  
 	Friday June 5, 2026  
 	Saturday June 6, 2026  - olivia and katya party, 2012 theme, 45 charles st e 2012, 8:30 pm
