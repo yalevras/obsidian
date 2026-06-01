@@ -167,7 +167,7 @@ Week 15
 	Sunday May 31, 2026 - overnight working, capstone meeting at 2pm
 Week 14
 	Language: French
-	Monday June 1, 2026 - finish trivia by, decide capstone prof by
+	Monday June 1, 2026
 	Tuesday June 2, 2026  
 	Wednesday June 3, 2026  
 	Thursday June 4, 2026  
@@ -185,7 +185,7 @@ Week 13
 	Sunday June 14, 2026 - potential pierogi day
 Week 12
 	Language: Japanese
-	Monday June 15, 2026 - innis graduation
+	Monday June 15, 2026 - innis graduation. finish trivia by, decide capstone prof by
 	Tuesday June 16, 2026  
 	Wednesday June 17, 2026  
 	Thursday June 18, 2026 - matthew cottage 
