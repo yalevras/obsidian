@@ -22,4 +22,5 @@ https://dom-publishers.com/products/mass-housing-in-ukraine-hardcover
 https://dom-publishers.com/blogs/dom-blog/we-must-understand-architecture-as-politicszhttps://dom-publishers.com/blogs/dom-blog/we-must-understand-architecture-as-politics
 
 Vision Science: Photons to Phenomenology
-Light and Color in the Outfoors
+Light and Color in the Outd
+oors
