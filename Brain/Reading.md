@@ -22,5 +22,4 @@ https://dom-publishers.com/products/mass-housing-in-ukraine-hardcover
 https://dom-publishers.com/blogs/dom-blog/we-must-understand-architecture-as-politicszhttps://dom-publishers.com/blogs/dom-blog/we-must-understand-architecture-as-politics
 
 Vision Science: Photons to Phenomenology
-Light and Color in the Outd
-oors
+Light and Color in the Outdoors https://librarysearch.library.utoronto.ca/nde/fulldisplay?query=light%20and%20color%20in%20the%20outdoors&tab=Everything&search_scope=UTL_AND_CI&searchInFulltext=false&vid=01UTORONTO_INST:UTORONTO_NDE&lang=en&docid=alma991106697260606196&adaptor=Local%20Search%20Engine&context=L&isFrbr=false&isHighlightedRecord=false&state=
