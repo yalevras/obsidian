@@ -6,4 +6,4 @@ $P =$ intensity of ray passing by a location $(X,Y,Z)$, in a direction given by 
 
 The observer only has access to a small slice of the plenoptic function.
 
-For an observer, most light rays are occluded. Occlusion is an example of how hard vision can get. We know a person is not floating because the legs are occluded behind a table. There are more occluded surfaces than visible surfaces for any given observer.
+For an observer, most light rays are occluded. Occlusion is an example of how hard vision can get. We know a person is not floating because the legs are occluded behind a table. There are more occluded surfaces than visible surfaces for any given observer. The goal of vision is NOT recovering the entire function though.
