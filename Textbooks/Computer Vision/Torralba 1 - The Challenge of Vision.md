@@ -19,4 +19,4 @@ What we see is different than the light that reaches our eyes, as visual illusio
 
 **1.3 Theories of Vision**
 **1.3.1 The Origins of the Science of Perception**
-
+Intromission theories believed that object
