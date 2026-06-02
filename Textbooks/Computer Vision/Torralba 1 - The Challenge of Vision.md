@@ -10,4 +10,4 @@ For an observer, most light rays are occluded. Occlusion is an example of how ha
 
 **Our visual experience is greatly influenced by what we know, what we are doing, and what we expect to see.**
 
-This task
+Vision is hard because our understanding about what is relevant for the observer is incomplete.
