@@ -18,5 +18,5 @@ Vision is hard because our understanding about what is relevant for the observer
 What we see is different than the light that reaches our eyes, as visual illusions prove to us.
 
 **1.3 Theories of Vision**
+**1.3.1 The Origins of the Science of Perception**
 
-**1.3.1**
