@@ -195,7 +195,7 @@ Week 13
 Week 12
 	Cottage Itinerary:
 	- hss/cs course planning
-	- japan planning
+	- japan planning 
 	- BOAT
 	- JETSKI?
 	- ATV
