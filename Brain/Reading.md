@@ -13,6 +13,9 @@ Project Hail Mary
 Articles and studies
 https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pdf
 
+Classics
+compare translations https://bibliothekai.ktema.org/
+MIT
 
 Publishers
 https://press.stripe.com/
