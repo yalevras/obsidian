@@ -110,6 +110,7 @@ https://edtech.engineering.utoronto.ca/project-catalog/overview-of-engineering-m
 https://ocw.mit.edu/courses/16-07-dynamics-fall-2009/pages/lecture-notes/
 **Graphings**:
 2d graphs https://cytoscape.org/
-
+**Philosophy:**
+Encyclopedia of Philosophy https://plato.stanford.edu/published.html
 
 
