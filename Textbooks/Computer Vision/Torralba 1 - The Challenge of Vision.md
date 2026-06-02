@@ -21,4 +21,4 @@ What we see is different than the light that reaches our eyes, as visual illusio
 **1.3.1 The Origins of the Science of Perception**
 Intromission theories believed that objects emitted copies of themselves (eidola or simulacra) that entered the eyes. Defended by Demokritos, Epicurus, and Lucretius.
 
-Extramission theory
+Extramission theory, started with Empedocles (in his poem "On Natureand followed by Plato and Euclid, 
