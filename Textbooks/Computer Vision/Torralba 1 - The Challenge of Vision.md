@@ -1,5 +1,8 @@
 https://visionbook.mit.edu/taxonomy.html
 
+
+**1.2 Vision**
+
 The pattern of light filling a space can be described by the plenoptic function:
 $$P(\theta,\phi,\lambda,t,X,Y,Z)$$
 $P =$ intensity of ray passing by a location $(X,Y,Z)$, in a direction given by angle $(\theta, \phi)$, with a wavelength $\lambda$ at an instant in time $t$.
@@ -13,3 +16,7 @@ For an observer, most light rays are occluded. Occlusion is an example of how ha
 Vision is hard because our understanding about what is relevant for the observer is incomplete.
 
 What we see is different than the light that reaches our eyes, as visual illusions prove to us.
+
+**1.3 Theories of Vision**
+
+**1.3.1**
