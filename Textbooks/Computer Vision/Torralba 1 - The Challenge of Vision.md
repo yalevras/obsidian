@@ -5,3 +5,5 @@ $$P(\theta,\phi,\lambda,t,X,Y,Z)$$
 $P =$ intensity of ray passing by a location $(X,Y,Z)$, in a direction given by angle $(\theta, \phi)$, with a wavelength $\lambda$ at an instant in time $t$.
 
 The observer only has access to a small slice of the plenoptic function.
+
+For an observer, most
