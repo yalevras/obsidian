@@ -37,6 +37,11 @@ THINGS TO DO:
 	Games:
 		- minecraft server
 		- pokemon
+	- Buy
+		- backpack
+		- computer case ✅
+		- water bottle
+		- pc
 
 TO DO BEFORE SCHOOL
 1. find apartment
@@ -49,15 +54,20 @@ TO DO BEFORE SCHOOL
 6. new pc figure out
 7. pokemon music
 	1. FRLG
-	2. SM
-	3. USUM
-	4. ORAS
-	5. SWSH
-	6. SV
-	7. BSDP
-	8. Arceus
-	9. ZA
+	2. XY ✅
+	3. SM
+	4. USUM
+	5. ORAS
+	6. SWSH
+	7. SV
+	8. BSDP
+	9. Arceus
+	10. ZA
 8. organize spotify
+
+
+hello
+A
 
 clean out phone 
 yard sales
@@ -162,10 +172,13 @@ Week 15
 	Saturday May 30, 2026  - garage sales, matthew bday climbing!!!!!, game night downtown?
 	Sunday May 31, 2026 - overnight working, capstone meeting at 2pm
 Week 14
+- controls
+- music tracker projects or something else?
+- learn all about wifi
 	Language: French
-	Monday June 1, 2026 - finish trivia by, decide capstone prof by
-	Tuesday June 2, 2026  
-	Wednesday June 3, 2026  
+	Monday June 1, 2026 - gym
+	Tuesday June 2, 2026 - tennis, play with matthew
+	Wednesday June 3, 2026 - gym, yiayia?
 	Thursday June 4, 2026  
 	Friday June 5, 2026  
 	Saturday June 6, 2026  - olivia and katya party, 2012 theme, 45 charles st e 2012, 8:30 pm
@@ -180,8 +193,15 @@ Week 13
 	Saturday June 13, 2026  - HLT2 12-2
 	Sunday June 14, 2026 - potential pierogi day
 Week 12
+	Cottage Itinerary:
+	- hss/cs course planning
+	- japan planning
+	- BOAT
+	- JETSKI?
+	- ATV
+	- Con
 	Language: Japanese
-	Monday June 15, 2026 - innis graduation
+	Monday June 15, 2026 - innis graduation. finish trivia by, decide capstone prof by
 	Tuesday June 16, 2026  
 	Wednesday June 17, 2026  
 	Thursday June 18, 2026 - matthew cottage 
