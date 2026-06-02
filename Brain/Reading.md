@@ -15,7 +15,7 @@ https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_M
 
 Classics
 compare translations https://bibliothekai.ktema.org/
-MIT
+MIT all classics https://classics.mit.edu/index.html
 
 Publishers
 https://press.stripe.com/
