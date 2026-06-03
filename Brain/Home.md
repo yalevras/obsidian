@@ -119,7 +119,6 @@ Week 17
 		- new plan, go to banana games and hobby tonight DONE✅
 	Book a date
 	Work on sticker
-
 	Language: Japanese, goal 60 cards, 12 lessons
 	Monday May 11, 2026 - gym, play piano, walk 10 minutes, get through limits, rievews
 	Tuesday May 12, 2026 - climbing with Johnathan, reivews
