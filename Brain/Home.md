@@ -63,8 +63,7 @@ TO DO BEFORE SCHOOL
 	8. BSDP
 	9. Arceus
 	10. ZA
-8. organize spotify
-
+8. organize spotify✅
 
 hello
 A
