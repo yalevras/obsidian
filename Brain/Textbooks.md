@@ -32,6 +32,8 @@ D:\Textbook
 	Nice web textbook - https://visionbook.mit.edu/nerf.html
 		https://visionbook.mit.edu/
 **Software:**
+	**General Practices:**
+		NASA the power of ten - https://spinroot.com/gerard/pdf/P10.pdf
 	**Version Contrl:**
 		Progit - [Pro Git](https://git-scm.com/book/en/v2)
 	**Compilers and Interpreters:**
