@@ -19,7 +19,7 @@ What we see is different than the light that reaches our eyes, as visual illusio
 
 **1.3 Theories of Vision**
 **1.3.1 The Origins of the Science of Perception**
-Intromission theories believed that objects emitted copies of themselves (eidola or simulacra) that entered the eyes. Defended by [[Demokritos]], Epicurus, and Lucretius.
+Intromission theories believed that objects emitted copies of themselves (eidola or simulacra) that entered the eyes. Defended by [[Demokritos]], [[Epicurus]], and [[Lucretius]].
 
-Extramission theory, started with Empedocles (in his poem "On Nature") and followed by Plato and Euclid, said that the eye contained the four elements (fire, earth, air, and water) and that fire was responsible for creating rays that emanated from the eyes, like fingers that sensed the world.
+Extramission theory, started with [[Empedocles]] (in his poem "On Nature") and followed by Plato and Euclid, said that the eye contained the four elements (fire, earth, air, and water) and that fire was responsible for creating rays that emanated from the eyes, like fingers that sensed the world.
 
