@@ -29,7 +29,7 @@ THINGS TO DO:
 		- clubbing ✅
 	Languages:
 		- french 4 weeks
-		- japanese 6 weeks ✅✅✅
+		- japanese 6 weeks ✅✅✅✅
 		- chinese 8 weeks
 		- greek
 		- german
