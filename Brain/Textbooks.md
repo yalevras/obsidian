@@ -57,6 +57,8 @@ D:\Textbook
 	https://math.hws.edu/graphicsbook/
 	https://www.youtube.com/playlist?list=PLplnkTzzqsZS3R5DjmCQsqupu43oS9CFN
 	OpenGL - https://learnopengl.com/Getting-started/Hello-Window
+	**Procedural Generation:**
+		procedural generation of taihu stones: https://papers.cumincad.org/data/works/att/caadria2025_502.pdf
 **OS:**
 	https://pdos.csail.mit.edu/6.828/2025/xv6/book-riscv-rev5.pdf
 **Computer Arch:**
