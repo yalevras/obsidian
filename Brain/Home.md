@@ -96,6 +96,8 @@ more into wifi
 read paper on DoRF and MORIC
 
 
+must push code once per day
+
 Week 18
 	**DO:**
 	Plan Matthew's gift, pick out plushie✅
