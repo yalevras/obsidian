@@ -46,6 +46,7 @@ D:\Textbook
 	**C/C++:**
 		C++ Reference - https://en.cppreference.com/w/
 		CMake - https://cmake.org/cmake/help/latest/guide/tutorial/index.html
+		Static Source Code Analysis Tools for C
 	*Regex - https://regexone.com/  ✅*
 	ROS 2 - https://docs.ros.org/en/foxy/Tutorials.html
 **Front End:**
