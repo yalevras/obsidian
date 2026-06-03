@@ -98,6 +98,11 @@ read paper on DoRF and MORIC
 
 must push code once per day
 
+minecraft modpack
+- pixelmon or cobblemon
+- original minecraft music
+- older minecraft texture pack
+
 Week 18
 	**DO:**
 	Plan Matthew's gift, pick out plushie✅
