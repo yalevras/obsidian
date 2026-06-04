@@ -32,3 +32,4 @@ ConfigureSystems(sim,soil,prop)
 			- mu_fric_s - static friction coefficient
 			- mu_fric_2 - dynamic friction coefficient
 			- average_diam - average grain size, affects the inertial number calculation
+			- cohesion_coeff - how much the soil 
