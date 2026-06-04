@@ -56,3 +56,5 @@ ConfigureSystems(sim,soil,prop)
 		- mbs set collision system type
 		- cuda error checking is on
 		- tire deformation solver
+
+createsoilvox
