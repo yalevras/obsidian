@@ -58,4 +58,5 @@ ConfigureSystems(sim,soil,prop)
 		- tire deformation solver
 
 createsoilbox
-	a
+
+define bce frame, position, angle?
