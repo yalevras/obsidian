@@ -10,4 +10,5 @@ namespace chrono fsi,fea,fsi sph
 cudaSetDevice(0) - sets which gpu the current cpu thread should use, told to the cuda runtime
 
 make particle and frames directories
-	- what does particle directory dp
+	- what does particle directory do
+
