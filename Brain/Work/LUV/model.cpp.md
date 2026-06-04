@@ -49,4 +49,4 @@ ConfigureSystems(sim,soil,prop)
 			- num_proximity_search_steps - how often the neighbor list is rebuilt, 1 = every step
 			- use_variable_time_step - enables CFL-based adaptive timestepping; the solver shrinks/grows the step automatically to stay stable
 		- setgravity for sph particles
-		- setgravity for mbs 
+		- setgravity for mbs for wheel rigid body
