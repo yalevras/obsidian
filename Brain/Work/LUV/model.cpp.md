@@ -14,7 +14,7 @@ make particle and frames directories
 
 set variable for wheel_radius and wheel_length
 
-define computational domain
+define computational domain, different than the active domain, computational domain 
 ChAABB - Axis-Aligned Bounding Box
 cMin and cMax are two corners of this box
 BC_NONE - boundary conditions
