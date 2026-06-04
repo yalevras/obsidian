@@ -34,4 +34,9 @@ ConfigureSystems(sim,soil,prop)
 			- average_diam - average grain size, affects the inertial number calculation
 			- cohesion_coeff - how much the soil sticks to things
 		- define sph properties
-			- 
+			- these control how the simulation is computed
+			- integration scheme
+			- distance between sph particles at init
+			- kernel smoothing
+			- kernel type blah
+			- artificial_viscosity - numerical damping to prevent particle interpenetration and stabilize shocks, lower than the demo's 
