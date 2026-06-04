@@ -47,4 +47,4 @@ ConfigureSystems(sim,soil,prop)
 				- settings for these
 			- free_surface_threshold - neighbour count below this flags a particle as a free surface, affecting force calculations
 			- num_proximity_search_steps - how often the neighbor list is rebuilt, 1 = every step
-			- use_variable_time_step 
+			- use_variable_time_step - enables CFL-based adaptive timestepping; the solver shrinks/grows the step automatically to stay stable
