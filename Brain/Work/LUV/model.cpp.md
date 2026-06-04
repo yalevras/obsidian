@@ -39,4 +39,5 @@ ConfigureSystems(sim,soil,prop)
 			- distance between sph particles at init
 			- kernel smoothing
 			- kernel type blah
-			- artificial_viscosity - numerical damping to prevent particle interpenetration and stabilize shocks, lower than the demo's 
+			- artificial_viscosity - numerical damping to prevent particle interpenetration and stabilize shock
+			- viscosity_method - ARTIFICIAL_BILATERAL, applies viscosity symmetrically between particle pairs
