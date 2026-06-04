@@ -25,4 +25,6 @@ ConfigureSystems(sim,soil,prop)
 			- zsim soil prop
 		- define material properties of soil
 			- density, mass per unit volume of soil particles
-			- youngs_modulus
+			- youngs_modulus, stiffness-resistance to elastic deformation
+			- poisson ratio - how much it bulges sideways when compressed
+			- rheology_model - uses mu i rheology model, a we
