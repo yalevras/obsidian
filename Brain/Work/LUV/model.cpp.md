@@ -15,3 +15,4 @@ make particle and frames directories
 set variable for wheel_radius and wheel_length
 
 define computational domain
+ChAABB - Axis-Aligned Bounding Box
