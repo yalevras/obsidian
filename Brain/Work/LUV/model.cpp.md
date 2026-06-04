@@ -21,4 +21,5 @@ BC_NONE - boundary conditions
 	- we use none, but there is also PERIODIC for wrap around behaviour, or INLET OUTLET where fluid can leave one side and reenter the other side
 
 ConfigureSystems(sim,soil,prop)
-- configure granular material properties
+	- configure granular material properties, SPH parameters, and other simulation parameters
+			- zsim soil prop
