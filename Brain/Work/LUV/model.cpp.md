@@ -50,3 +50,6 @@ ConfigureSystems(sim,soil,prop)
 			- use_variable_time_step - enables CFL-based adaptive timestepping; the solver shrinks/grows the step automatically to stay stable
 		- setgravity for sph particles
 		- setgravity for mbs for wheel rigid body
+		- sph set spacing
+		- sph set kernel
+		- fsi set step size cfd
