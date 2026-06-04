@@ -53,3 +53,4 @@ ConfigureSystems(sim,soil,prop)
 		- sph set spacing
 		- sph set kernel
 		- fsi set step size cfd
+		- mbs set collision system type
