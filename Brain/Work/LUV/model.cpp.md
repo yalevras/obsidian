@@ -28,4 +28,7 @@ ConfigureSystems(sim,soil,prop)
 			- youngs_modulus, stiffness-resistance to elastic deformation
 			- poisson ratio - how much it bulges sideways when compressed
 			- rheology_model - uses mu i rheology model, a well-established granular flow model where friction depends on how fast particles are shearing relative to pressure
-			- 
+			- mu_io - reference intertial number, controls the transition beween slow/fast flow regimes
+			- mu_fric_s - static friction coefficient
+			- mu_fric_2 - dynamic friction coefficient
+			- average_diam - average grain size, affects
