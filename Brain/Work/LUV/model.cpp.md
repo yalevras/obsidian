@@ -12,3 +12,6 @@ cudaSetDevice(0) - sets which gpu the current cpu thread should use, told to the
 make particle and frames directories
 	- what does particle directory do
 
+set variable for wheel_radius and wheel_length
+
+define computational domain
