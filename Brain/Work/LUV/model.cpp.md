@@ -27,4 +27,5 @@ ConfigureSystems(sim,soil,prop)
 			- density, mass per unit volume of soil particles
 			- youngs_modulus, stiffness-resistance to elastic deformation
 			- poisson ratio - how much it bulges sideways when compressed
-			- rheology_model - uses mu i rheology model, a we
+			- rheology_model - uses mu i rheology model, a well-established granular flow model where friction depends on how fast particles are shearing relative to pressure
+			- 
