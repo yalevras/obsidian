@@ -31,4 +31,4 @@ ConfigureSystems(sim,soil,prop)
 			- mu_io - reference intertial number, controls the transition beween slow/fast flow regimes
 			- mu_fric_s - static friction coefficient
 			- mu_fric_2 - dynamic friction coefficient
-			- average_diam - average grain size, affects
+			- average_diam - average grain size, affects the inertial number calculation
