@@ -7,4 +7,4 @@ namespace chrono fsi,fea,fsi sph
  fsi - fluid solid interaction
  sph - smoothed particle hydrodynamics
 
-cudaSetDevice(0) - 
+cudaSetDevice(0) - sets which gpu the current cpu thread should use, told to the cuda runtime
