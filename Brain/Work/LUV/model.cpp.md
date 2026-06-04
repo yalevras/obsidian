@@ -41,3 +41,7 @@ ConfigureSystems(sim,soil,prop)
 			- kernel type blah
 			- artificial_viscosity - numerical damping to prevent particle interpenetration and stabilize shock
 			- viscosity_method - ARTIFICIAL_BILATERAL, applies viscosity symmetrically between particle pairs
+			- boundary_method - HOLMES, how BCE boundary particles enforce the no-penetratoin condition
+			- particle shifting
+				- shifting_method - PPST_XSPH, combines two methods together
+				- 
