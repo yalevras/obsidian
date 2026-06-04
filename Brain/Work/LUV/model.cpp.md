@@ -54,3 +54,5 @@ ConfigureSystems(sim,soil,prop)
 		- sph set kernel
 		- fsi set step size cfd
 		- mbs set collision system type
+		- cuda error checking is on
+		- tire deformation solver
