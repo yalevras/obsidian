@@ -11,4 +11,4 @@ DoRF - Doppler Radience Field
 
 Wi-Fi sensing unlike cameras does not record identifiable visual information, leading to improved privacy.
 
-Wi-Fi based HAR estimates human motion by analyzing how it alters the wireless channel through CSI. 
+Wi-Fi based HAR estimates human motion by analyzing how it alters the wireless channel through CSI. CSI reflects signal modifications due to reflections and scattering.
