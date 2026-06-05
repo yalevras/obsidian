@@ -26,7 +26,7 @@ Each camera represents the net effect of multipaths modelled by a von Mises-Fish
 
 The random nature of environmental reflections causes the viewing angles of each Wi-FI access point (AP) to be limited and variable over time, hindering uniform coverage of the motion space making it challenging to synchronize observations across trials (we're going to need to estimate some of these APs potentially).
 
-This is analgous to viewing a 3D object through a few 2D image (something artificial we can put in the room that splits the signal into more paths).
+This is analogous to viewing a 3D object through a few 2D image (something artificial we can put in the room that splits the signal into more paths).
 
 DoRF heavily improves on this. 
 
