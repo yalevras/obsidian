@@ -61,3 +61,5 @@ createsoilbox
 
 define bce frame, position, angle?
 	chframe is a position and orientation in space
+
+initialize each wheel
