@@ -4,4 +4,6 @@ CSI - Channel State Information
 HAR - Human Activity Recognition
 NeRF - Neural Radiance Fields
 	- which learn a volumetric representation of a 3D scene from 2D images
-	- 
+
+DoRF - Doppler Radience Field
+- Proposal is to reconstruct a 3D latent motion representation from 1D Doppler velocity projections extracted from Wi-Fi CSI
