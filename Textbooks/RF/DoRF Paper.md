@@ -10,3 +10,5 @@ DoRF - Doppler Radience Field
 	- Issues, current advances, generalizability remains insufficient for practical deployment
 
 Wi-Fi sensing unlike cameras does not record identifiable visual information, leading to improved privacy.
+
+Wi-Fi based HAR estimates human motion by analyzing how it alters the wireless channel through CSI. 
