@@ -28,4 +28,7 @@ The random nature of environmental reflections causes the viewing angles of each
 
 This is analgous to viewing a 3D object through a few 2D image (something artificial we can put in the room that splits the signal into more paths).
 
-DoRF heavily improves on this.
+DoRF heavily improves on this. 
+
+**2. Delay-Doppler Decomposition of CSI**
+
