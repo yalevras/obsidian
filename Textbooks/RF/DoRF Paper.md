@@ -20,3 +20,12 @@ Alternative approaches extract Doppler velocity capturing frequency shifts from 
 MORIC, a new development extracts multiple Doppler projects interpreted as views from virtual cameras distributed on a sphere.
 
 Wait this is cool so the multipath angles are really just different camera viewpoints.
+
+Each camera represents the net effect of multipaths modelled by a von Mises-Fisher distribution, enabling a more structured view of motion and allowing for high-level activity features with raw CSI.
+![[Pasted image 20260604233004.png]]
+
+The random nature of environmental reflections causes the viewing angles of each Wi-FI access point (AP) to be limited and variable over time, hindering uniform coverage of the motion space making it challenging to synchronize observations across trials (we're going to need to estimate some of these APs potentially).
+
+This is analgous to viewing a 3D object through a few 2D image (something artificial we can put in the room that splits the signal into more paths).
+
+DoRF heavily improves on this.
