@@ -15,3 +15,6 @@ Wi-Fi based HAR estimates human motion by analyzing how it alters the wireless c
 	- Magnitude-based methods work best in static settings but are sensitive to environmental c hanges
 	- Phase-based methods suffer from phase wrapping and hardware noise.
 
+Alternative approaches extract Doppler velocity capturing frequency shifts from motion while suppressing static structures. Most methods estimate a single velocity by aggregating all multipath components.
+
+MORIC, a new development extracts multiple Doppler projects interpreted as views from virtual cameras distributed on a sphere.
