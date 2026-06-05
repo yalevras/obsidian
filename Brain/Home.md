@@ -169,7 +169,7 @@ Week 14
 	Wednesday June 3, 2026 - yiayia?
 	Thursday June 4, 2026  - doctors at 6:50, stomach issues, vaccines (future visits i can talk about eyes and face), DO RESEARCH FOR CAPSTONE BECAUSE I HAVE MEETING ON SUNDAY
 	Friday June 5, 2026 - gym, wonderland
-	Saturday June 6, 2026  - walk with matthew, movie with matthew, olivia and katya party, 2012 theme, 45 charles st e 2012, 8:30 pm
+	Saturday June 6, 2026  - return uniqlo shirt, get donuts, walk with matthew, movie with matthew, olivia and katya party, 2012 theme, 45 charles st e 2012, 8:30 pm
 	Sunday June 7, 2026  
 Week 13
 	Language: French
