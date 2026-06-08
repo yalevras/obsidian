@@ -337,7 +337,7 @@ Fun Todo's:
 - kalman filters
 - leetcode 150
 - ros review for rsx
-- 4 hour networks reivew
+- 4 hour http reivew
 **On Paper/MATHY:** (DO THESE BETWEEN SIEGE AND VALORANT ROUNDS, YOU'LL BE DONE IN NO TIME)
 - controls
 Controls:
