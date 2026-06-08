@@ -174,11 +174,11 @@ Week 14
 	Sunday June 7, 2026  
 Week 13
 	Language: French
-	Monday June 8, 2026  
-	Tuesday June 9, 2026  
+	Monday June 8, 2026 - bbq downtown
+	Tuesday June 9, 2026 - no matthew play
 	Wednesday June 10, 2026 - thea graduation
 	Thursday June 11, 2026 - jeremy hansen talk 7pm elgin theatre
-	Friday June 12, 2026  
+	Friday June 12, 2026 - matthew play or take a walk or wonderland
 	Saturday June 13, 2026  - HLT2 12-2
 	Sunday June 14, 2026 - potential pierogi day
 Week 12
