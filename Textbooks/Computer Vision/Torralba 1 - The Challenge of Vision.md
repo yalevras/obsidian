@@ -23,4 +23,4 @@ Intromission theories believed that objects emitted copies of themselves (eidola
 
 Extramission theory, started with [[Empedocles]] (in his poem "On Nature") and followed by [[Plato]] and [[Euclid]], said that the eye contained the four elements (fire, earth, air, and water) and that fire was responsible for creating rays that emanated from the eyes, like fingers that sensed the world.
 
-[[Plato]]'s theory was very influential, combining intromission and extramission. Flow produced by the internal fire in the eyes interacted with the external fire to produc 
+[[Plato]]'s theory was very influential, combining intromission and extramission. Flow produced by the internal fire in the eyes interacted with the external fire to produce sight.
