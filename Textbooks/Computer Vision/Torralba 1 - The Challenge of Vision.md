@@ -28,3 +28,7 @@ Extramission theory, started with [[Empedocles]] (in his poem "On Nature") and f
 Hero of Alexandria postulated an early version of the law of reflection.
 
 Ptolemy described how light refracts when changing medium.
+
+Ibn al-Haytham argued sight could be explained by the light rays emitted by objects.
+
+Kepler provided the first complete desc
