@@ -19,6 +19,7 @@ THINGS TO DO:
 		- roller blading
 		- paintball
 		- tree top trekking
+		- WATER PARK!!!!!
 	Hobbies:
 		- book
 		- piano ✅✅
