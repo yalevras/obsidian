@@ -15,6 +15,7 @@ THINGS TO DO:
 		- tennis ✅✅
 		- biking ✅✅
 		- hiking ✅
+		- exploring/ ✅
 		- camping
 		- roller blading
 		- paintball
