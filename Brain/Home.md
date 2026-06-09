@@ -343,7 +343,16 @@ Lin Alg
 Dynamics
 
 Ranked in terms of importance
-1. 
+1. Controls
+2. Dynamics
+3. .
+4. .
+5. .
+6. .
+7. .
+8. .
+9. ROS
+10.Netwo
 
 
 
