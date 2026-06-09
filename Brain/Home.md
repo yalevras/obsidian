@@ -328,6 +328,15 @@ Fun Todo's:
 - get into music production
 - build some lego
 
+
+Topics to study
+
+Copmilers
+Computer Vision
+
+
+
+
  **TO STUDY**
 **Through Code:**
 - compilers
