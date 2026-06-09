@@ -347,7 +347,7 @@ Ranked in terms of importance
 2. Dynamics
 3. Calculus
 4. Computer Vision
-5. Leetcode (C)
+5. Leetcode (C, C++, Python)
 6. Kalman Filters
 7. Compilers
 8. Lin Alg
