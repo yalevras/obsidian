@@ -26,6 +26,7 @@ THINGS TO DO:
 		- book
 		- piano ✅✅
 		- bass
+		- DRAW IT...
 	Projects:
 	Other:
 		- dates ✅
