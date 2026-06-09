@@ -18,6 +18,7 @@ THINGS TO DO:
 		- exploring/big walks ✅
 		- camping
 		- roller blading
+		- wonderland ✅✅
 		- paintball
 		- tree top trekking
 		- WATER PARK!!!!!
