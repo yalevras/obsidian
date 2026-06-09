@@ -331,8 +331,18 @@ Fun Todo's:
 
 Topics to study
 
-Copmilers
+Compilers
 Computer Vision
+Kalman Filters
+Controls
+Leetcode
+ROS
+Networks
+Calculus
+Lin Alg
+Dynamics
+
+Ranked in terms of importance
 
 
 
