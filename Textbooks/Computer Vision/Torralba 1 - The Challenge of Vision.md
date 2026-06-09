@@ -40,4 +40,7 @@ The mind makes perceptions out of sensations, finding representations of the obj
 
 When you press on the eye and see light, that is an unconscious conclusion about what is in the world, given the responses of your eye. This unconscious inference is the topic of computer vision.
 
-When we notice that we can get various images of a table in front of us simply by changing our position, by our movements we find out that it is the stationary form of the table in space 
+When we notice that we can get various images of a table in front of us simply by changing our position, by our movements we find out that it is the stationary form of the table in space which is the cause of the changing image in our eye.
+
+**1.3.3 Gestalt Psychology and Perceptual Organization**
+
