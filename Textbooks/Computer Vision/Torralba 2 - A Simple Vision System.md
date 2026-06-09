@@ -11,4 +11,4 @@ A simple form of projection is parallel/orthographic projection. This type of pr
 
 (b) can be described by parallel projection.
 
-To generate images described by parallel projection is to use camera zoom, increasing the distance between the camera and the object while zooming, keeps the same approximate image size of the object
+To generate images described by parallel projection is to use camera zoom, increasing the distance between the camera and the object while zooming, keeps the same approximate image size of the objects, but with reduced perspective effects.
