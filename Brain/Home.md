@@ -178,7 +178,7 @@ Week 14
 Week 13
 	Language: French
 	Monday June 8, 2026 - bbq downtown
-	Tuesday June 9, 2026 - no matthew play, POKEMON GAMES ON 3DS
+	Tuesday June 9, 2026 - no matthew play, POKEMON GAMES ON 3DS https://www.reddit.com/r/3dspiracy/comments/143tqdv/creating_the_ultimate_pok%C3%A9mon_machine_and_more_v20/
 	Wednesday June 10, 2026 - get bloodwork at clinic at 9:00 am. thea graduation
 	Thursday June 11, 2026 - ultrasound 8:20 AM bring requisition FAST 8 hours only water, jeremy hansen talk 7pm elgin theatre
 	Friday June 12, 2026 - matthew play or take a walk or wonderland
