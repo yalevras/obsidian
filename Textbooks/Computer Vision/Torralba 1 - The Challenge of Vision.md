@@ -35,3 +35,5 @@ Kepler provided the first complete description of how images are formed in the r
 
 **1.3.2 Helmholtz: Perception as Inference**
 Codeveloped the theory of trichromacy, that the eye has three classes of receptors, each sensitive to different wavelengths of light.
+
+The mind makes perceptions out of sensations, finding representations of the object most likely to explain the sensory input.
