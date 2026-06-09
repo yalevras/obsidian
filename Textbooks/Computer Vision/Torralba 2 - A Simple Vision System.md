@@ -17,4 +17,7 @@ Characterize how a point in world coordinates (X, Y, Z) projects into the image 
 
 ![[Pasted image 20260609174118.png]]
 
-In this projection model, the world point $(0,0,0)$ projects into $(0,0)$. The resolution or number of pixels also affects the transformation from world coordinates to image coordinates via a constant factor $\alpha$ and that this constant is $\alpha=1$ (for now we are assuming the pixels are square). After these assumptions the transformation between world coordinates and image coordinates 
+In this projection model, the world point $(0,0,0)$ projects into $(0,0)$. The resolution or number of pixels also affects the transformation from world coordinates to image coordinates via a constant factor $\alpha$ and that this constant is $\alpha=1$ (for now we are assuming the pixels are square). After these assumptions the transformation between world coordinates and image coordinates is:
+$$x=X$$
+$$y=cos(\theta)Y-sin(\theta)Z$$
+With this parameterization the world coordinates $Y$
