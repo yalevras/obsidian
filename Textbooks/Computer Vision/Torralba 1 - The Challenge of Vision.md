@@ -34,4 +34,4 @@ Ibn al-Haytham argued sight could be explained by the light rays emitted by obje
 Kepler provided the first complete description of how images are formed in the retina. Kepler understood lenses.
 
 **1.3.2 Helmholtz: Perception as Inference**
-Codeveloped the theory of trichromacy, that the eye has three classes of receptors, each sensitive to different wavelenghts of light.
+Codeveloped the theory of trichromacy, that the eye has three classes of receptors, each sensitive to different wavelengths of light.
