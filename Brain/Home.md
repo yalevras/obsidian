@@ -345,14 +345,14 @@ Dynamics
 Ranked in terms of importance
 1. Controls
 2. Dynamics
-3. .
-4. .
-5. .
-6. .
-7. .
-8. .
+3. Calculus
+4. Computer Vision
+5. Leetcode (C)
+6. Kalman Filters
+7. Compilers
+8. Lin Alg
 9. ROS
-10.Netwo
+10.Networks
 
 
 
