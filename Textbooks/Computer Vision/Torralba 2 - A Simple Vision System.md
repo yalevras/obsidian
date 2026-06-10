@@ -25,5 +25,4 @@ With this parameterization the world coordinates $Y$ and $Z$ are mixed after pro
 **2.4 A Simple Goal**
 We want to recover the world coordinates of all the pixels seen by a camera.
 
-
 **2.5 From Images to Edges and Useful Features**
