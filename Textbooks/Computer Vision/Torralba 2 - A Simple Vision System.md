@@ -27,5 +27,4 @@ We want to recover the world coordinates of all the pixels seen by a camera.
 
 **2.5 From Images to Edges and Useful Features**
 The below image is the function $l(x,y)\$
-$$\mathcal{A}$$
 
