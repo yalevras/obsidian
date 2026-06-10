@@ -21,3 +21,9 @@ In this projection model, the world point $(0,0,0)$ projects into $(0,0)$. The r
 $$x=X$$
 $$y=cos(\theta)Y-sin(\theta)Z$$
 With this parameterization the world coordinates $Y$ and $Z$ are mixed after projection. From the camera, a point moving parallel to the $Z$-axis will be indistinguishable from a point moving parallel to the $Y$-axis.
+
+**2.4 A Simple Goal**
+We want to recover the world coordinates of all the pixels seen by a camera.
+
+
+**2.5 From Images to Edges and Useful Features**
