@@ -224,7 +224,7 @@ Week 9
 	Language: Chinese
 	Monday July 6, 2026  
 	Tuesday July 7, 2026  
-	Wednesday July 8, 2026  
+	Wednesday July 8, 2026 - COURSE ENROLMENT DAY!!!!!
 	Thursday July 9, 2026  
 	Friday July 10, 2026  
 	Saturday July 11, 2026  
