@@ -55,6 +55,5 @@ $$\frac{\delta l}{\delta y}\simeq l(x,y) - l(x, y-1)$$
 A better approximation of the partial image derivative can be computed by combining the image pixels around $(x,y)$ with the weights:
 $$\frac{1}{4}\times\begin{bmatrix}-1&0&1\\-2&0&2\\-1&0&1\end{bmatrix}$$
 From the image gradient, we can extract:
-Edge strength$$e(x,y)=||\nabla l(x,y)||$$
-
-$$\theta(x,y)=\angle\nabla l = arctan\bigg(\frac{\delta l/\delta y}{\delta l/\delta x}\bigg)$$
+Edge strength -> $$e(x,y)=||\nabla l(x,y)||$$
+Edge orientation -> $$\theta(x,y)=\angle\nabla l = arctan\bigg(\frac{\delta l/\delta y}{\delta l/\delta x}\bigg)$$
