@@ -32,7 +32,9 @@ The below image is the function $l(x,y)$ that outputs the intensity at a locatio
 **2.5.1 A Catalog of Edges**
 Edges can have variations due to scene factors shown below.
 ![[Pasted image 20260611135339.png|431]]
-We want to classify image edges according to their most probable cause.
+We want to classify image edges according to their most probable cause. The following are image boundaries.
 	**Object boundaries:** indicate pixels that delineate the boundaries of any object, which usually correspond to changes in surface color, texture, and orientation.
 	**Surface orientation:** changes in this indicate locations where there are image variations, with a change in the image intensity which is a function of the angle between the surface and the incident light.
-	**Shadow edges:** this is typically harder
+	**Shadow edges:** this is typically harder, but here, shadows are soft with slow transitions
+The following are object boundaries.
+	**Contact edges:** a boundary be
