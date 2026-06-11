@@ -40,3 +40,5 @@ The following are object boundaries.
 	**Contact edges:** a boundary between two object that are touching, therefore no depth discontinuity
 	**Occlusion boundaries:** this happens when an object is partially in front of another, generally producing depth discontinuities. In the above image, objects don't occlude each other but they do occlude the background.
 
+**2.5.2 Extracting Edges from Imag**
+
