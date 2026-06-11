@@ -59,4 +59,5 @@ Edge strength (gradient magnitude) -> $$e(x,y)=||\nabla l(x,y)||$$
 Edge orientation (perpendicular to gradient direction) -> $$\theta(x,y)=\angle\nabla l = arctan\bigg(\frac{\delta l/\delta y}{\delta l/\delta x}\bigg)$$
 Unit norm vector perpendicular to an edge ->$$\mathbf{n}=\frac{\nabla l}{\||\nabla l||}$$
 
-
+![[Pasted image 20260611164040.png]]
+![[Pasted image 20260611164053.png]]
