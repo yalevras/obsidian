@@ -10,5 +10,6 @@ The more you look the more you notice in an image, vision is a dynamical system.
 Within an image there are tiny images within it.
 
 **3.4 The Eye of the Artist**
+Learning to paint is a great way of learning to see.
 
 **3.5 Tree Shadows and Image Formation**
