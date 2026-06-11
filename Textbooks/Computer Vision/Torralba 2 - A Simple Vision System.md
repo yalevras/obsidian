@@ -57,3 +57,5 @@ $$\frac{1}{4}\times\begin{bmatrix}-1&0&1\\-2&0&2\\-1&0&1\end{bmatrix}$$
 From the image gradient, we can extract:
 Edge strength (gradient magnitude) -> $$e(x,y)=||\nabla l(x,y)||$$
 Edge orientation (perpendicular to gradient direction) -> $$\theta(x,y)=\angle\nabla l = arctan\bigg(\frac{\delta l/\delta y}{\delta l/\delta x}\bigg)$$
+Unit norm vector perpendicular to an edge ->
+$$\mathbf{n}=\frac{$$
