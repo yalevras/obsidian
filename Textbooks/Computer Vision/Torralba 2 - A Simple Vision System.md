@@ -47,4 +47,6 @@ $$\nabla l = \bigg(\frac{\delta l}{\delta x}, \frac{\delta l}{\delta y}\bigg)$$
 ![[Pasted image 20260611160520.png|303]] 
 													Gradient of an image at one location.
 
+The direction indicates the direction in which the variation of intensities is larger. If we are on top of an edge, the direction of larger variation will be in the direction perpendicular to the edge.
+
 
