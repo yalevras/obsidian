@@ -6,3 +6,4 @@ How can we identify things at such low resolutions, when context is provided.
 
 **3.3 The More You Look, the More You See**
 The more you look the more you notice in an image, vision is a dynamical system.
+ a
