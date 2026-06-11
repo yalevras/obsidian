@@ -28,3 +28,5 @@ We want to recover the world coordinates of all the pixels seen by a camera.
 **2.5 From Images to Edges and Useful Features**
 The below image is the function $l(x,y)$ that outputs the intensity at a location $(x,y)$. The image is an array of intensity values (color values) indexed by location. The direction of each light ray in the world is well defined,
 ![[Pasted image 20260610162146.png]]
+
+**2.5.1 A Catalog of Edges**
