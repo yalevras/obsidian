@@ -42,6 +42,6 @@ The following are object boundaries.
 
 **2.5.2 Extracting Edges from Images**
 Using the gradient below, we can measure the degree of variation between two continuous variables.
-$$\nabla l = \bigg\BIGG(\frac{\delta l}{\delta x}, \frac{\delta l}{\delta y}\bigg)$$
+$$\nabla l = \bigg(\frac{\delta l}{\delta x}, \frac{\delta l}{\delta y}\bigg)$$
 
-
+![[Pasted image 20260611160520.png]] Gradient of an image at one location
