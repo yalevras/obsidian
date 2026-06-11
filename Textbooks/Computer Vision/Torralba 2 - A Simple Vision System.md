@@ -50,4 +50,5 @@ $$\nabla l = \bigg(\frac{\delta l}{\delta x}, \frac{\delta l}{\delta y}\bigg)$$
 The direction indicates the direction in which the variation of intensities is larger. If we are on top of an edge, the direction of larger variation will be in the direction perpendicular to the edge.
 
 Since the image is not a continuous function as we only know $x$ and $y$ in pixels, we will approximate the partial derivatives by:
-$$\frac{\delta l}{\delta}
+$$\frac{\delta l}{\delta x}\simeq l(x,y) - l(x-1, y)$$
+$$\frac{\delta l}{\delta y}\simeq l(x,y) - l(x, y-1)$$
