@@ -8,3 +8,5 @@ How can we identify things at such low resolutions, when context is provided.
 The more you look the more you notice in an image, vision is a dynamical system.
 
 Within an image there are tiny images within it.
+
+**3.4 The Eye of the Artist**
