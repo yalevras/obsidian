@@ -53,4 +53,5 @@ Since the image is not a continuous function as we only know $x$ and $y$ in pixe
 $$\frac{\delta l}{\delta x}\simeq l(x,y) - l(x-1, y)$$
 $$\frac{\delta l}{\delta y}\simeq l(x,y) - l(x, y-1)$$
 A better approximation of the partial image derivative can be computed by combining the image pixels around $(x,y)$ with the weights:
-$$frac{1}{4}\times\begin{matrix}-1&0$$
+$$\frac{1}{4}\times\begin{bmatrix}-1&0&1\\-2&0&2\\-1&0&1\end{bmatrix}$$
+From the image gradien
