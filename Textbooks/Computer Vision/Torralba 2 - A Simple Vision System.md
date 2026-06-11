@@ -7,7 +7,7 @@ A world composed of flat surfaces that can be horizontal or vertical that can be
 **2.3 A Simple Image Formation Model**
 A simple form of projection is parallel/orthographic projection. This type of projection produces images in which objects od not change size as they move closer or farther from the camera, and parallel lines in 3D remain parallel in the 2D image.
 
-![[Pasted image 20260609120346.png]]
+![[Pasted image 20260609120346.png|660]]
 
 (b) can be described by parallel projection.
 
@@ -15,7 +15,7 @@ To generate images described by parallel projection is to use camera zoom, incre
 
 Characterize how a point in world coordinates $(X, Y, Z)$ projects into the image plane. The camera center is at $X = 0$, the $X$-axis of the camera is parallel to the ground plane ($Y = 0$). The camera is tilted so the $Z$ and $X$ are perpendicular. Angle $\theta$ is the angle between the tilted camera and the $Z$-axis. The image is parameterized by coordinates $(x, y)$. $Z$ is equal to $Y$ besides a sign change and a scaling.
 
-![[Pasted image 20260609174118.png]]
+![[Pasted image 20260609174118.png|624]]
 
 In this projection model, the world point $(0,0,0)$ projects into $(0,0)$. The resolution or number of pixels also affects the transformation from world coordinates to image coordinates via a constant factor $\alpha$ and that this constant is $\alpha=1$ (for now we are assuming the pixels are square). After these assumptions the transformation between world coordinates and image coordinates is:
 $$x=X$$
@@ -27,8 +27,10 @@ We want to recover the world coordinates of all the pixels seen by a camera.
 
 **2.5 From Images to Edges and Useful Features**
 The below image is the function $l(x,y)$ that outputs the intensity at a location $(x,y)$. The image is an array of intensity values (color values) indexed by location. The direction of each light ray in the world is well defined,
-![[Pasted image 20260610162146.png]]
+![[Pasted image 20260610162146.png|626]]
 
 **2.5.1 A Catalog of Edges**
 Edges can have variations due to scene factors shown below.
-![[Pasted image 20260611135339.png]]
+![[Pasted image 20260611135339.png|431]]
+We want to classify image edges according to their most probable cause.
+	**Object boundaries:** indicate 
