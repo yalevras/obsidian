@@ -38,4 +38,5 @@ We want to classify image edges according to their most probable cause. The foll
 	**Shadow edges:** this is typically harder, but here, shadows are soft with slow transitions
 The following are object boundaries.
 	**Contact edges:** a boundary between two object that are touching, therefore no depth discontinuity
-	**Occlusion boundaries:** this happens when an object is partially in front of anothe
+	**Occlusion boundaries:** this happens when an object is partially in front of another, generally producing depth discontinuities. In the above image, objects don't occlude each other but they do occlude the background.
+
