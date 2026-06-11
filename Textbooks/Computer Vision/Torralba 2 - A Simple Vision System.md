@@ -54,4 +54,6 @@ $$\frac{\delta l}{\delta x}\simeq l(x,y) - l(x-1, y)$$
 $$\frac{\delta l}{\delta y}\simeq l(x,y) - l(x, y-1)$$
 A better approximation of the partial image derivative can be computed by combining the image pixels around $(x,y)$ with the weights:
 $$\frac{1}{4}\times\begin{bmatrix}-1&0&1\\-2&0&2\\-1&0&1\end{bmatrix}$$
-From the image gradien
+From the image gradient, we can extract:
+$$e(x,y)=||\nabla l(x,y)||$$
+$$\theta(x,y)=\angle\nabla l = arctan(frac)
