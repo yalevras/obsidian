@@ -41,5 +41,7 @@ The following are object boundaries.
 	**Occlusion boundaries:** this happens when an object is partially in front of another, generally producing depth discontinuities. In the above image, objects don't occlude each other but they do occlude the background.
 
 **2.5.2 Extracting Edges from Images**
-Using the gradient below, we can measure the deg
+Using the gradient below, we can measure the degree of variation between two continuous variables.
+$$\nabla l = (\del l/\delx , \del l/\del y)$$
+
 
