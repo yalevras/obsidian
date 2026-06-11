@@ -61,3 +61,5 @@ Unit norm vector perpendicular to an edge ->$$\mathbf{n}=\frac{\nabla l}{\||\nab
 
 ![[Pasted image 20260611164040.png]]
 ![[Pasted image 20260611164053.png]]
+
+**2.6 From Edges to Surfaces**
