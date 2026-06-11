@@ -52,4 +52,5 @@ The direction indicates the direction in which the variation of intensities is l
 Since the image is not a continuous function as we only know $x$ and $y$ in pixels, we will approximate the partial derivatives by:
 $$\frac{\delta l}{\delta x}\simeq l(x,y) - l(x-1, y)$$
 $$\frac{\delta l}{\delta y}\simeq l(x,y) - l(x, y-1)$$
-A better approximation of the partial image derivative can be computed 
+A better approximation of the partial image derivative can be computed by combining the image pixels around $(x,y)$ with the weights:
+$$frac{1}{4}
