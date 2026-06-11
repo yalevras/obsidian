@@ -30,3 +30,5 @@ The below image is the function $l(x,y)$ that outputs the intensity at a locatio
 ![[Pasted image 20260610162146.png]]
 
 **2.5.1 A Catalog of Edges**
+Edges can have variations due to scene factors shown below.
+![[Pasted image 20260611135339.png]]
