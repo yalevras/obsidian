@@ -37,4 +37,5 @@ We want to classify image edges according to their most probable cause. The foll
 	**Surface orientation:** changes in this indicate locations where there are image variations, with a change in the image intensity which is a function of the angle between the surface and the incident light.
 	**Shadow edges:** this is typically harder, but here, shadows are soft with slow transitions
 The following are object boundaries.
-	**Contact edges:** a boundary be
+	**Contact edges:** a boundary between two object that are touching, therefore no depth discontinuity
+	**Occlusion boundaries:** this happens when an object is partially in front of anothe
