@@ -56,4 +56,4 @@ A better approximation of the partial image derivative can be computed by combin
 $$\frac{1}{4}\times\begin{bmatrix}-1&0&1\\-2&0&2\\-1&0&1\end{bmatrix}$$
 From the image gradient, we can extract:
 $$e(x,y)=||\nabla l(x,y)||$$
-$$\theta(x,y)=\angle\nabla l = arctan(frac)
+$$\theta(x,y)=\angle\nabla l = arctan\bigg(\frac{\delta l/\delta y}{\delta l/\delta x}\bigg)$$
