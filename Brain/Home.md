@@ -197,7 +197,7 @@ Week 12
 	Language: Japanese
 	Monday June 15, 2026 - innis graduation. finish trivia by, decide capstone prof by
 	Tuesday June 16, 2026  
-	Wednesday June 17, 2026  
+	Wednesday June 17, 2026  - 3pm therapy Caroline Millen
 	Thursday June 18, 2026 - matthew cottage 
 	Friday June 19, 2026 - matthew cottage (take day off)
 	Saturday June 20, 2026 - matthew cottage
