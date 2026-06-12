@@ -8,7 +8,7 @@ D:\Textbook
 		Robotic Manipulation 6.4210 Undergraduate, Graduate https://ocw.mit.edu/courses/6-4210-robotic-manipulation-fall-2022/
 		Stochastic Processes, Detection, and Estimation 6.432 Graduate https://ocw.mit.edu/courses/6-432-stochastic-processes-detection-and-estimation-spring-2004/
 		Underactuated Robotics 6.832 Graduate https://ocw.mit.edu/courses/6-832-underactuated-robotics-spring-2009/pages/readings/ https://underactuated.mit.edu/Spring2022/resources.html
-		**Principles of Automatic Control 16.06 Undergraduate https://ocw.mit.edu/courses/16-06-principles-of-automatic-control-fall-2012/**
+		**Principles of Automatic Control 16.06 Undergraduate https://ocw.mit.edu/courses/16-06-principles-of-automatic-control-fall-2012/**     https://www.control.utoronto.ca/~broucke/ece311s/ECE311.html     
 		Stochastic Estimation and Control 16.322 Graduate https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/
 		Cognitive Robotics 16.412J Graduate https://ocw.mit.edu/courses/16-412j-cognitive-robotics-spring-2016/
 		**Good Website with PDFs:** https://fbswiki.org/wiki/index.php/Feedback_Systems:_An_Introduction_for_Scientists_and_Engineers
