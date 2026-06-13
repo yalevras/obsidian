@@ -183,7 +183,7 @@ Week 13
 		today: computer vision, pey report, pokemon ds and gba roms, horde encounters!!!!!, HL catch up, clean up a bit, play with matthew!!!!!
 	Thursday June 11, 2026 - ultrasound 8:20 AM bring requisition FAST 8 hours only water, jeremy hansen talk 7pm elgin theatre
 	Friday June 12, 2026 - matthew play or take a walk or wonderland
-	Saturday June 13, 2026  - HLT2 12-2
+	Saturday June 13, 2026  - HLT2 12-2, controls, capstone, rimworld, minecraft modpack
 	Sunday June 14, 2026 - potential pierogi day
 Week 12
 	Cottage Itinerary:
