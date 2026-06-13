@@ -195,7 +195,7 @@ Week 12
 	- Con
 	- Reels
 	Language: Japanese
-	Monday June 15, 2026 - innis graduation. finish trivia by, decide capstone prof by
+	Monday June 15, 2026 - 8:45 AM DR MCVEIGH EYE DOCTOR innis graduation. finish trivia by, decide capstone prof by
 	Tuesday June 16, 2026  
 	Wednesday June 17, 2026  - 3pm therapy Caroline Millen
 	Thursday June 18, 2026 - matthew cottage 
