@@ -21,7 +21,7 @@ MORIC, a new development extracts multiple Doppler projects interpreted as views
 
 Wait this is cool so the multipath angles are really just different camera viewpoints.
 
-Each camera represents the net effect of multipaths modelled by a von Mises-Fisher distribution, enabling a more structured view of motion and allowing for high-level activity features with raw CSI.![[Pasted image 20260604233004.png]]![[Pasted image 20260604233004.png]]
+Each camera represents the net effect of multipaths modelled by a von Mises-Fisher distribution, enabling a more structured view of motion and allowing for high-level activity features with raw CSI.
 ![[Pasted image 20260604233004.png]]
 
 The random nature of environmental reflections causes the viewing angles of each Wi-FI access point (AP) to be limited and variable over time, hindering uniform coverage of the motion space making it challenging to synchronize observations across trials (we're going to need to estimate some of these APs potentially).
