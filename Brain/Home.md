@@ -221,6 +221,7 @@ Week 10
 	Saturday July 4, 2026  
 	Sunday July 5, 2026  
 Week 9
+![[Pasted image 20260613134120.png]]
 	Language: Chinese
 	Monday July 6, 2026  
 	Tuesday July 7, 2026  
