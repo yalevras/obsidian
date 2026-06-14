@@ -35,4 +35,4 @@ DoRF heavily improves on this.
 
 Narrowband vs wideband refers to the range of frequencies. Narrowband concentrates power into a small slice of spectrum maximizing range and efficiency.
 
-A subcarrier
+A subcarrier is a secondary modulated signal frequency modulated into the main frequency (the carrier) to provide an additional channel of transmission, allowing for a single transmission to carry more than one separate signal.
