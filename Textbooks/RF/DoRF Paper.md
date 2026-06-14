@@ -33,3 +33,4 @@ DoRF heavily improves on this.
 
 **2. Delay-Doppler Decomposition of CSI**
 
+Narrowband vs wideband refers to the range of frequencies
