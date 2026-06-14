@@ -34,3 +34,5 @@ DoRF heavily improves on this.
 **2. Delay-Doppler Decomposition of CSI**
 
 Narrowband vs wideband refers to the range of frequencies. Narrowband concentrates power into a small slice of spectrum maximizing range and efficiency.
+
+A subcarrier
